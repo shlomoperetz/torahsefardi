@@ -191,7 +191,7 @@ async function loadPrevChapter(){
   scrollState.loadingPrev=false;
 }
 
-document.addEventListener('DOMContentLoaded',function(){
+function initTorahPage(){
   var fs=localStorage.getItem('fontSize');
   if(fs)document.documentElement.style.setProperty('--font',fs+'px');
   var dark=document.documentElement.classList.contains('dark-mode');
@@ -201,18 +201,20 @@ document.addEventListener('DOMContentLoaded',function(){
   var sv=localStorage.getItem('VS_torah');
   if(sv){try{VS=JSON.parse(sv);}catch(e){}}
   applyView();
-  var el=document.getElementById('torah-ctx');
-  if(el){try{window.TORAH_CTX=JSON.parse(el.textContent);}catch(e){}}
   var ctx=window.TORAH_CTX;
-  console.log('TORAH_CTX init:',ctx);
+  if(typeof ctx==='string'){try{ctx=JSON.parse(ctx);}catch(e){ctx=null;}}
   if(ctx&&ctx.book){
     scrollState.book=ctx.book;
     scrollState.bookEs=ctx.bookEs;
     scrollState.maxChapters=BOOK_CHAPTERS[ctx.book]||50;
-    scrollState.nextChapter=ctx.chapter+1;
-    scrollState.prevChapter=ctx.chapter-1;
-    console.log('scrollState init:',JSON.stringify(scrollState));
+    scrollState.nextChapter=parseInt(ctx.chapter,10)+1;
+    scrollState.prevChapter=parseInt(ctx.chapter,10)-1;
     initChapterObserver();
     initScroll();
   }
-});
+}
+if(document.readyState==='loading'){
+  document.addEventListener('DOMContentLoaded',initTorahPage);
+}else{
+  initTorahPage();
+}

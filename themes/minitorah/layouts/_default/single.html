@@ -40,5 +40,5 @@
   </div>
 </div>
 
-<script type="application/json" id="torah-ctx">{{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "nextUrl" $nextUrl | jsonify }}</script>
+<script>window.TORAH_CTX={{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es | jsonify }};</script>
 {{ end }}
