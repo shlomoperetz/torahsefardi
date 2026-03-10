@@ -128,16 +128,19 @@ function initChapterObserver() {
 }
 
 function initSentinelObservers() {
-  if (!('IntersectionObserver' in window)) return;
-  var sb = document.getElementById('scroll-sentinel');
-  if (sb) new IntersectionObserver(function(entries) {
-    if (entries[0].isIntersecting && !scrollState.loadingNext) loadNextChapter();
-  }, { rootMargin: '300px' }).observe(sb);
-
-  var st = document.getElementById('scroll-sentinel-top');
-  if (st) new IntersectionObserver(function(entries) {
-    if (entries[0].isIntersecting && !scrollState.loadingPrev) loadPrevChapter();
-  }, { rootMargin: '300px' }).observe(st);
+  window.addEventListener('scroll', function() {
+    var scrollY = window.scrollY || window.pageYOffset;
+    var docH = document.documentElement.scrollHeight;
+    var winH = window.innerHeight;
+    // Cerca del fondo: carga siguiente
+    if (scrollY + winH >= docH - 600 && !scrollState.loadingNext) {
+      loadNextChapter();
+    }
+    // Cerca del tope: carga anterior
+    if (scrollY <= 400 && !scrollState.loadingPrev) {
+      loadPrevChapter();
+    }
+  }, { passive: true });
 }
 
 function buildVerseHTML(verse) {
