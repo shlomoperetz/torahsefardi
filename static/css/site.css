@@ -83,8 +83,8 @@ header.topbar {
 }
 .brand-title {
   font-family: var(--ui-font);
-  font-size: 19px;
-  font-weight: 650;
+  font-size: 17px;
+  font-weight: 600;
   color: var(--accent);
 }
 .brand-byline {
