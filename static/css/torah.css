@@ -280,7 +280,7 @@ body.hide-es .verse-es { display: none; }
 }
 .landing-main-title {
   font-family: var(--ui-font);
-  font-size: 1.8em;
+  font-size: 1.35em;
   font-weight: 600;
   color: var(--fg);
   opacity: 0.8;

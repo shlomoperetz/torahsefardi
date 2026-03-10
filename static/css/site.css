@@ -83,8 +83,8 @@ header.topbar {
 }
 .brand-title {
   font-family: var(--ui-font);
-  font-size: 17px;
-  font-weight: 600;
+  font-size: 19px;
+  font-weight: 650;
   color: var(--accent);
 }
 .brand-byline {
@@ -210,11 +210,24 @@ nav.bottombar .bbtn {
 }
 nav.bottombar .bbtn:hover { opacity: 1; text-decoration: none; }
 nav.bottombar .bbtn.active {
-  color: var(--fg);
-  font-weight: 600;
+  color: var(--accent);
+  font-weight: 700;
   opacity: 1;
-  border-bottom: 2px solid var(--accent);
   border-radius: 0;
+}
+nav.bottombar .bbtn.active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 0 0 2px 2px;
+  opacity: .85;
+}
+nav.bottombar .bbtn {
+  position: relative;
 }
 
 /* ===== SEARCH ===== */
