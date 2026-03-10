@@ -6,13 +6,12 @@
 
 <div id="chapters-feed">
   <div id="scroll-sentinel-top" style="height:1px"></div>
-  <section class="chapter-section" data-book="{{ $book }}" data-chapter="{{ .Params.chapter }}" id="ch{{ .Params.chapter }}">
 
+  <section class="chapter-section" data-book="{{ $book }}" data-chapter="{{ .Params.chapter }}" id="ch{{ .Params.chapter }}">
     <div class="chapter-header">
       <div class="chapter-label">{{ .Params.book_es }} {{ .Params.chapter }}</div>
       {{ if $data }}<div class="chapter-he-title">{{ $data.title_he }}</div>{{ end }}
     </div>
-
     {{ if $data }}
     <div class="torah-verses">
       {{ range $data.verses }}
@@ -23,26 +22,23 @@
       {{ end }}
     </div>
     {{ end }}
-
     <nav class="torah-nav">
       {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}" class="nav-prev">← Cap. {{ .Params.chapter }}</a>
+      <a href="{{ .Permalink }}" class="nav-prev">&larr; Cap. {{ .Params.chapter }}</a>
       {{ else }}<span></span>{{ end }}
       <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
       {{ with .NextInSection }}
-      <a href="{{ .Permalink }}" class="nav-next">Cap. {{ .Params.chapter }} →</a>
+      <a href="{{ .Permalink }}" class="nav-next">Cap. {{ .Params.chapter }} &rarr;</a>
       {{ else }}<span></span>{{ end }}
     </nav>
-
   </section>
-</div>
 
-<div id="scroll-sentinel">
-  <div class="loading-dots" id="loadingDots" style="display:none">
-    <span></span><span></span><span></span>
+  <div id="scroll-sentinel">
+    <div class="loading-dots" id="loadingDots" style="display:none">
+      <span></span><span></span><span></span>
+    </div>
   </div>
 </div>
 
-<!-- Datos para infinite scroll — tipo application/json para evitar minificación -->
 <script type="application/json" id="torah-ctx">{{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "nextUrl" $nextUrl | jsonify }}</script>
 {{ end }}
