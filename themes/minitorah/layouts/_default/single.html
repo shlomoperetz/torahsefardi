@@ -4,9 +4,8 @@
 {{ $data := index (index .Site.Data.torah $book) $num }}
 {{ $nextUrl := "" }}{{ with .NextInSection }}{{ $nextUrl = .Permalink }}{{ end }}
 
-<!-- Sentinel superior: carga capítulos anteriores -->
-<div id="scroll-sentinel-top" style="height:1px;margin-bottom:8px"></div>
 <div id="chapters-feed">
+  <div id="scroll-sentinel-top" style="height:1px"></div>
   <section class="chapter-section" data-book="{{ $book }}" data-chapter="{{ .Params.chapter }}" id="ch{{ .Params.chapter }}">
 
     <div class="chapter-header">

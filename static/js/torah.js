@@ -215,7 +215,7 @@ async function loadPrevChapter() {
     section.id = 'ch' + scrollState.prevChapter;
     section.innerHTML = buildSectionHTML(data, scrollState.prevChapter);
     var prevHeight = feed.scrollHeight;
-    feed.insertBefore(section, sentinelTop.nextSibling);
+    sentinelTop.parentNode.insertBefore(section, sentinelTop.nextSibling);
     window.scrollBy(0, feed.scrollHeight - prevHeight);
     applyView();
     if (chapterObserver) chapterObserver.observe(section);
