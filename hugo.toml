@@ -1,0 +1,25 @@
+baseURL = "https://torahsefardi.com/"
+languageCode = "es"
+title = "Torah Sefardí"
+theme = "minitorah"
+enableRedirects = true
+
+[params]
+  description = "La Torá en hebreo con traducción al español sefardí. Para judíos hispanohablantes, baalei teshuvá y conversos al judaísmo."
+  keywords = "torah español, torá hebreo español, bereshit traduccion, torah sefardi, judaismo en español, baal teshuva, conversos judaismo, cinco libros moisés español, nusaj sefarad"
+  author = "Shlomo Peretz"
+  og_image = "/img/og-torah.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true

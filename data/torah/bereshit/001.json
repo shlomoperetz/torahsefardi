@@ -1,0 +1,164 @@
+{
+  "book": "bereshit",
+  "book_he": "בְּרֵאשִׁית",
+  "book_es": "Génesis",
+  "chapter": 1,
+  "title_he": "בְּרֵאשִׁית",
+  "verses": [
+    {
+      "num": 1,
+      "he": "<big>בְּ</big>רֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃",
+      "es": "En el principio creó Elohim los cielos y la tierra."
+    },
+    {
+      "num": 2,
+      "he": "וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם׃",
+      "es": "Y la tierra era caos y vacío, y oscuridad sobre la faz del abismo; y el espíritu de Elohim se cernía sobre la faz de las aguas."
+    },
+    {
+      "num": 3,
+      "he": "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃",
+      "es": "Y dijo Elohim: «Sea la luz.» Y fue la luz."
+    },
+    {
+      "num": 4,
+      "he": "וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃",
+      "es": "Y vio Elohim que la luz era buena; y separó Elohim entre la luz y entre la oscuridad."
+    },
+    {
+      "num": 5,
+      "he": "וַיִּקְרָ֨א אֱלֹהִ֤ים&thinsp;<small>׀</small>&thinsp;לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y llamó Elohim a la luz «día», y a la oscuridad llamó «noche». Y fue tarde y fue mañana: día uno."
+    },
+    {
+      "num": 6,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃",
+      "es": "Y dijo Elohim: «Sea un firmamento en medio de las aguas, y que separe entre aguas y aguas.»"
+    },
+    {
+      "num": 7,
+      "he": "וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִ֒יעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃",
+      "es": "E hizo Elohim el firmamento, y separó entre las aguas que están debajo del firmamento y entre las aguas que están sobre el firmamento. Y fue así."
+    },
+    {
+      "num": 8,
+      "he": "וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y llamó Elohim al firmamento «cielos». Y fue tarde y fue mañana: día segundo."
+    },
+    {
+      "num": 9,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃",
+      "es": "Y dijo Elohim: «Que se junten las aguas de debajo de los cielos en un solo lugar, y que aparezca lo seco.» Y fue así."
+    },
+    {
+      "num": 10,
+      "he": "וַיִּקְרָ֨א אֱלֹהִ֤ים&thinsp;<small>׀</small>&thinsp;לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "es": "Y llamó Elohim a lo seco «tierra», y a la congregación de las aguas llamó «mares». Y vio Elohim que era bueno."
+    },
+    {
+      "num": 11,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֙רֶץ֙ דֶּ֗שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+      "es": "Y dijo Elohim: «Que brote la tierra hierba: hierba que siembre semilla, árbol frutal que dé fruto según su especie, cuya semilla esté en él, sobre la tierra.» Y fue así."
+    },
+    {
+      "num": 12,
+      "he": "וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "es": "Y brotó la tierra hierba: hierba que siembra semilla según su especie, y árbol que da fruto cuya semilla está en él según su especie. Y vio Elohim que era bueno."
+    },
+    {
+      "num": 13,
+      "he": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y fue tarde y fue mañana: día tercero."
+    },
+    {
+      "num": 14,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃",
+      "es": "Y dijo Elohim: «Sean luminares en el firmamento de los cielos para separar entre el día y entre la noche; y serán por señales y por tiempos fijados, y por días y años."
+    },
+    {
+      "num": 15,
+      "he": "וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃",
+      "es": "Y serán por luminares en el firmamento de los cielos para alumbrar sobre la tierra.» Y fue así."
+    },
+    {
+      "num": 16,
+      "he": "וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃",
+      "es": "E hizo Elohim los dos grandes luminares: el luminar mayor para el dominio del día, y el luminar menor para el dominio de la noche, y las estrellas."
+    },
+    {
+      "num": 17,
+      "he": "וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃",
+      "es": "Y los puso Elohim en el firmamento de los cielos para alumbrar sobre la tierra,"
+    },
+    {
+      "num": 18,
+      "he": "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלְהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "es": "y para dominar en el día y en la noche, y para separar entre la luz y entre la oscuridad. Y vio Elohim que era bueno."
+    },
+    {
+      "num": 19,
+      "he": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y fue tarde y fue mañana: día cuarto."
+    },
+    {
+      "num": 20,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃",
+      "es": "Y dijo Elohim: «Que pululen las aguas con abundancia de seres vivientes, y que vuele el ave sobre la tierra, sobre la faz del firmamento de los cielos.»"
+    },
+    {
+      "num": 21,
+      "he": "וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כׇּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה&thinsp;<small>׀</small>&thinsp;הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כׇּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "es": "Y creó Elohim los grandes taninim, y todo ser viviente que se mueve, que pulularon las aguas según sus especies, y toda ave alada según su especie. Y vio Elohim que era bueno."
+    },
+    {
+      "num": 22,
+      "he": "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃",
+      "es": "Y los bendijo Elohim, diciendo: «Fructificad y multiplicaos, y llenad las aguas en los mares, y el ave se multiplique en la tierra.»"
+    },
+    {
+      "num": 23,
+      "he": "וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y fue tarde y fue mañana: día quinto."
+    },
+    {
+      "num": 24,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃",
+      "es": "Y dijo Elohim: «Que produzca la tierra seres vivientes según su especie: bestia, reptil y animal terrestre según su especie.» Y fue así."
+    },
+    {
+      "num": 25,
+      "he": "וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת־הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כׇּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃",
+      "es": "E hizo Elohim los animales de la tierra según su especie, y la bestia según su especie, y todo reptil del suelo según su especie. Y vio Elohim que era bueno."
+    },
+    {
+      "num": 26,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכׇל־הָאָ֔רֶץ וּבְכׇל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃",
+      "es": "Y dijo Elohim: «Hagamos al hombre a Nuestra imagen, conforme a Nuestra semejanza; y que domine sobre los peces del mar, y sobre el ave de los cielos, y sobre la bestia, y sobre toda la tierra, y sobre todo reptil que se arrastra sobre la tierra.»"
+    },
+    {
+      "num": 27,
+      "he": "וַיִּבְרָ֨א אֱלֹהִ֤ים&thinsp;<small>׀</small>&thinsp;אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃",
+      "es": "Y creó Elohim al hombre a Su imagen; a imagen de Elohim lo creó; varón y hembra los creó."
+    },
+    {
+      "num": 28,
+      "he": "וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכׇל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃",
+      "es": "Y los bendijo Elohim, y les dijo Elohim: «Fructificad y multiplicaos, y llenad la tierra y sojuzgadla; y dominad sobre los peces del mar, y sobre el ave de los cielos, y sobre todo ser viviente que se arrastra sobre la tierra.»"
+    },
+    {
+      "num": 29,
+      "he": "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כׇּל־עֵ֣שֶׂב&thinsp;<b>׀</b> זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כׇל־הָאָ֔רֶץ וְאֶת־כׇּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאׇכְלָֽה׃",
+      "es": "Y dijo Elohim: «He aquí que os he dado toda hierba que siembra semilla que está sobre la faz de toda la tierra, y todo árbol en el que hay fruto de árbol que siembra semilla; os será para alimento."
+    },
+    {
+      "num": 30,
+      "he": "וּֽלְכׇל־חַיַּ֣ת הָ֠אָ֠רֶץ וּלְכׇל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל&thinsp;<b>׀</b> רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כׇּל־יֶ֥רֶק עֵ֖שֶׂב לְאׇכְלָ֑ה וַֽיְהִי־כֵֽן׃",
+      "es": "Y a todo animal de la tierra, y a toda ave de los cielos, y a todo lo que se arrastra sobre la tierra en que hay vida, toda hierba verde les será para alimento.» Y fue así."
+    },
+    {
+      "num": 31,
+      "he": "וַיַּ֤רְא אֱלֹהִים֙ אֶת־כׇּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+      "es": "Y vio Elohim todo lo que había hecho, y he aquí que era muy bueno. Y fue tarde y fue mañana: día sexto."
+    }
+  ]
+}

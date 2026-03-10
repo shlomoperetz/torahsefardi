@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ if .Sections }}
+  {{/* Página raíz de sección: /torah/ → muestra libros */}}
+  <div class="card">
+    <h1 class="torah-root-title">הַתּוֹרָה</h1>
+    <div class="books-grid">
+      {{ range sort .Sections "Params.order" }}
+      <a href="{{ .Permalink }}" class="book-item">
+        <span class="book-he">{{ .Title }}</span>
+        <span class="book-es">{{ .Params.book_es }}</span>
+        <span class="book-chapters">{{ len .Pages }} capítulos</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+{{ else if .Pages }}
+  {{/* Página de libro: /torah/bereshit/ → muestra capítulos */}}
+  {{ $book := .Params.book }}
+  {{ $bookData := index .Site.Data.torah $book }}
+  <div class="card">
+    <div class="book-header">
+      <h1 class="book-title-he">{{ .Title }}</h1>
+      <p class="book-title-es">{{ .Params.book_es }}</p>
+    </div>
+    <div class="chapters-grid">
+      {{ range sort .Pages "Params.chapter" }}
+      {{ $num := printf "%03d" .Params.chapter }}
+      {{ $chData := index $bookData $num }}
+      <a href="{{ .Permalink }}" class="chapter-item">
+        <span class="chapter-num">{{ .Params.chapter }}</span>
+        {{ if $chData }}<span class="chapter-preview">{{ with index $chData.verses 0 }}{{ .he | safeHTML }}{{ end }}</span>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+{{ else }}
+  {{/* Fallback para taxonomías u otras páginas */}}
+  <div class="card">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+{{ end }}
+{{ end }}

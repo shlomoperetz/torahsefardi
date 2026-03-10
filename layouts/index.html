@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="landing">
+
+  <div class="landing-hero">
+    <h1 class="landing-title">תּוֹרָה סְפָרַדִי</h1>
+    <p class="landing-desc">La Torá en hebreo con traducción al español sefardí</p>
+  </div>
+
+  <div class="landing-tiles">
+    <a href="/torah/bereshit/001/" class="tile tile-start">
+      <div class="tile-icon">בְּרֵאשִׁית א</div>
+      <div class="tile-label">Empezar desde el principio</div>
+      <div class="tile-sub">Bereshit 1:1 — En el principio…</div>
+    </a>
+    <a href="/torah/" class="tile tile-all">
+      <div class="tile-icon">📖</div>
+      <div class="tile-label">Los cinco libros</div>
+      <div class="tile-sub">Bereshit · Shemot · Vayikrá · Bamidbar · Devarim</div>
+    </a>
+  </div>
+
+  <div class="landing-books">
+    {{ range site.Sections }}
+    {{ range sort .Sections "Params.order" }}
+    <a href="{{ .Permalink }}" class="book-card">
+      <span class="book-card-he">{{ .Title }}</span>
+      <span class="book-card-es">{{ .Params.book_es }}</span>
+    </a>
+    {{ end }}
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}
