@@ -6,7 +6,6 @@
   document.documentElement.classList.toggle('light-mode', !dark);
 })();
 
-// ===== DARK MODE =====
 function toggleDarkMode() {
   var r = document.documentElement;
   var d = r.classList.toggle('dark-mode');
@@ -18,7 +17,6 @@ function toggleDarkMode() {
   if (moon) moon.style.display = d ? 'none' : '';
 }
 
-// ===== FUENTE =====
 function adjustFont(n) {
   var r = document.documentElement;
   var c = parseInt(getComputedStyle(r).getPropertyValue('--font')) || 22;
@@ -37,7 +35,6 @@ document.addEventListener('click', function(e) {
   }
 });
 
-// ===== TOGGLE VISTAS he/es =====
 var VS = { he: true, es: true };
 function toggleView(k) {
   var active = Object.keys(VS).filter(function(x){ return VS[x]; });
@@ -59,7 +56,6 @@ function applyView() {
   if (be) be.classList.toggle('active', VS.es);
 }
 
-// ===== BÚSQUEDA =====
 var SI = null;
 function openSearch() {
   var o = document.getElementById('searchOverlay');
@@ -68,10 +64,7 @@ function openSearch() {
   if (p) p.style.display = '';
   setTimeout(function(){ var i = document.getElementById('searchInput'); if (i) i.focus(); }, 50);
   if (!SI) {
-    fetch('/index.json')
-      .then(function(r){ return r.json(); })
-      .then(function(d){ SI = d; })
-      .catch(function(){ SI = []; });
+    fetch('/index.json').then(function(r){ return r.json(); }).then(function(d){ SI = d; }).catch(function(){ SI = []; });
   }
 }
 function closeSearch() {
@@ -100,8 +93,7 @@ function doSearch(q) {
     ? hits.map(function(p) {
         return '<a class="search-result-item" href="' + p.url + '">' +
           '<span class="search-result-num">' + p.book_es + ' ' + p.chapter + '</span>' +
-          '<span class="search-result-title">' + (p.es_preview || '').slice(0, 55) + '</span>' +
-          '</a>';
+          '<span class="search-result-title">' + (p.es_preview || '').slice(0, 55) + '</span></a>';
       }).join('')
     : '<div style="padding:14px;opacity:0.5;font-family:var(--ui-font);font-size:0.9em">Sin resultados</div>';
 }
@@ -112,17 +104,7 @@ document.addEventListener('keydown', function(e) {
 
 // ===== INFINITE SCROLL BIDIRECCIONAL =====
 var BOOK_CHAPTERS = { bereshit: 50, shemot: 40, vayikra: 27, bamidbar: 36, devarim: 34 };
-
-var scrollState = {
-  book: null,
-  bookEs: null,
-  nextChapter: null,
-  prevChapter: null,
-  maxChapters: 0,
-  loadingNext: false,
-  loadingPrev: false
-};
-
+var scrollState = { book: null, bookEs: null, nextChapter: null, prevChapter: null, maxChapters: 0, loadingNext: false, loadingPrev: false };
 var chapterObserver = null;
 
 function initChapterObserver() {
@@ -138,42 +120,30 @@ function initChapterObserver() {
       var newUrl = '/torah/' + book + '/' + String(ch).padStart(3, '0') + '/';
       if (location.pathname !== newUrl) {
         history.replaceState(null, '', newUrl);
-        document.title = (scrollState.bookEs || book) + ' ' + ch + ' | Torah Sefardí';
+        document.title = (scrollState.bookEs || book) + ' ' + ch + ' | Torah Sefardi';
       }
     }
   }, { threshold: 0.15, rootMargin: '-80px 0px -40% 0px' });
-
-  document.querySelectorAll('.chapter-section').forEach(function(sec) {
-    chapterObserver.observe(sec);
-  });
+  document.querySelectorAll('.chapter-section').forEach(function(sec) { chapterObserver.observe(sec); });
 }
 
 function initSentinelObservers() {
   if (!('IntersectionObserver' in window)) return;
+  var sb = document.getElementById('scroll-sentinel');
+  if (sb) new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting && !scrollState.loadingNext) loadNextChapter();
+  }, { rootMargin: '300px' }).observe(sb);
 
-  // Sentinel inferior → carga siguiente
-  var sentinelBottom = document.getElementById('scroll-sentinel');
-  if (sentinelBottom && scrollState.book) {
-    new IntersectionObserver(function(entries) {
-      if (entries[0].isIntersecting && !scrollState.loadingNext) loadNextChapter();
-    }, { rootMargin: '300px' }).observe(sentinelBottom);
-  }
-
-  // Sentinel superior → carga anterior
-  var sentinelTop = document.getElementById('scroll-sentinel-top');
-  if (sentinelTop && scrollState.book) {
-    new IntersectionObserver(function(entries) {
-      if (entries[0].isIntersecting && !scrollState.loadingPrev) loadPrevChapter();
-    }, { rootMargin: '300px' }).observe(sentinelTop);
-  }
+  var st = document.getElementById('scroll-sentinel-top');
+  if (st) new IntersectionObserver(function(entries) {
+    if (entries[0].isIntersecting && !scrollState.loadingPrev) loadPrevChapter();
+  }, { rootMargin: '300px' }).observe(st);
 }
 
 function buildVerseHTML(verse) {
   var html = '<div class="verse" id="v' + verse.num + '">';
   html += '<div class="verse-he"><sup class="verse-num">' + verse.num + '</sup>' + verse.he + '</div>';
-  if (verse.es) {
-    html += '<div class="verse-es"><sup class="verse-num-es">' + verse.num + '</sup>' + verse.es + '</div>';
-  }
+  if (verse.es) html += '<div class="verse-es"><sup class="verse-num-es">' + verse.num + '</sup>' + verse.es + '</div>';
   html += '</div>';
   return html;
 }
@@ -182,39 +152,29 @@ function buildSectionHTML(data, chNum) {
   var bookEs = data.book_es || scrollState.bookEs || '';
   var prevCh = chNum > 1 ? chNum - 1 : null;
   var nextCh = chNum < scrollState.maxChapters ? chNum + 1 : null;
-
-  return '<div class="chapter-header">' +
-      '<div class="chapter-label">' + bookEs + ' ' + chNum + '</div>' +
-      '<div class="chapter-he-title">' + (data.title_he || '') + '</div>' +
-    '</div>' +
-    '<div class="torah-verses">' +
-      data.verses.map(buildVerseHTML).join('') +
-    '</div>' +
+  return '<div class="chapter-header"><div class="chapter-label">' + bookEs + ' ' + chNum + '</div>' +
+    '<div class="chapter-he-title">' + (data.title_he || '') + '</div></div>' +
+    '<div class="torah-verses">' + data.verses.map(buildVerseHTML).join('') + '</div>' +
     '<nav class="torah-nav">' +
-      (prevCh ? '<a href="/torah/' + scrollState.book + '/' + String(prevCh).padStart(3,'0') + '/">← Cap. ' + prevCh + '</a>' : '<span></span>') +
-      '<a href="/torah/' + scrollState.book + '/" class="nav-list">' + bookEs + '</a>' +
-      (nextCh ? '<a href="/torah/' + scrollState.book + '/' + String(nextCh).padStart(3,'0') + '/">Cap. ' + nextCh + ' →</a>' : '<span></span>') +
+    (prevCh ? '<a href="/torah/' + scrollState.book + '/' + String(prevCh).padStart(3,'0') + '/">← Cap. ' + prevCh + '</a>' : '<span></span>') +
+    '<a href="/torah/' + scrollState.book + '/" class="nav-list">' + bookEs + '</a>' +
+    (nextCh ? '<a href="/torah/' + scrollState.book + '/' + String(nextCh).padStart(3,'0') + '/">Cap. ' + nextCh + ' →</a>' : '<span></span>') +
     '</nav>';
 }
 
 async function loadNextChapter() {
-  if (scrollState.loadingNext) return;
-  if (!scrollState.nextChapter || scrollState.nextChapter > scrollState.maxChapters) {
-    var s = document.getElementById('scroll-sentinel');
-    if (s) s.style.display = 'none';
-    return;
+  if (scrollState.loadingNext || !scrollState.nextChapter || scrollState.nextChapter > scrollState.maxChapters) {
+    var s = document.getElementById('scroll-sentinel'); if (s) s.style.display = 'none'; return;
   }
   scrollState.loadingNext = true;
   var dots = document.getElementById('loadingDots');
   if (dots) dots.style.display = 'flex';
-
-  var chStr = String(scrollState.nextChapter).padStart(3, '0');
   try {
+    var chStr = String(scrollState.nextChapter).padStart(3, '0');
     var res = await fetch('/torah/' + scrollState.book + '/' + chStr + '/index.json');
     if (!res.ok) throw new Error('HTTP ' + res.status);
     var data = await res.json();
     if (!data || !data.verses || !data.verses.length) throw new Error('empty');
-
     var feed = document.getElementById('chapters-feed');
     var sentinel = document.getElementById('scroll-sentinel');
     var section = document.createElement('section');
@@ -229,29 +189,23 @@ async function loadNextChapter() {
     scrollState.nextChapter++;
   } catch(e) {
     console.warn('loadNextChapter:', e.message);
-    var s = document.getElementById('scroll-sentinel');
-    if (s) s.style.display = 'none';
+    var s = document.getElementById('scroll-sentinel'); if (s) s.style.display = 'none';
   }
   if (dots) dots.style.display = 'none';
   scrollState.loadingNext = false;
 }
 
 async function loadPrevChapter() {
-  if (scrollState.loadingPrev) return;
-  if (!scrollState.prevChapter || scrollState.prevChapter < 1) {
-    var s = document.getElementById('scroll-sentinel-top');
-    if (s) s.style.display = 'none';
-    return;
+  if (scrollState.loadingPrev || !scrollState.prevChapter || scrollState.prevChapter < 1) {
+    var s = document.getElementById('scroll-sentinel-top'); if (s) s.style.display = 'none'; return;
   }
   scrollState.loadingPrev = true;
-
-  var chStr = String(scrollState.prevChapter).padStart(3, '0');
   try {
+    var chStr = String(scrollState.prevChapter).padStart(3, '0');
     var res = await fetch('/torah/' + scrollState.book + '/' + chStr + '/index.json');
     if (!res.ok) throw new Error('HTTP ' + res.status);
     var data = await res.json();
     if (!data || !data.verses || !data.verses.length) throw new Error('empty');
-
     var feed = document.getElementById('chapters-feed');
     var sentinelTop = document.getElementById('scroll-sentinel-top');
     var section = document.createElement('section');
@@ -260,43 +214,32 @@ async function loadPrevChapter() {
     section.dataset.chapter = scrollState.prevChapter;
     section.id = 'ch' + scrollState.prevChapter;
     section.innerHTML = buildSectionHTML(data, scrollState.prevChapter);
-
-    // Guardar posición de scroll antes de prepend para no saltar
     var prevHeight = feed.scrollHeight;
     feed.insertBefore(section, sentinelTop.nextSibling);
     window.scrollBy(0, feed.scrollHeight - prevHeight);
-
     applyView();
     if (chapterObserver) chapterObserver.observe(section);
     scrollState.prevChapter--;
   } catch(e) {
     console.warn('loadPrevChapter:', e.message);
-    var s = document.getElementById('scroll-sentinel-top');
-    if (s) s.style.display = 'none';
+    var s = document.getElementById('scroll-sentinel-top'); if (s) s.style.display = 'none';
   }
   scrollState.loadingPrev = false;
 }
 
-// ===== INIT =====
 document.addEventListener('DOMContentLoaded', function() {
   var fs = localStorage.getItem('fontSize');
   if (fs) document.documentElement.style.setProperty('--font', fs + 'px');
-
   var sun = document.getElementById('iconSun');
   var moon = document.getElementById('iconMoon');
   var dark = document.documentElement.classList.contains('dark-mode');
   if (sun) sun.style.display = dark ? '' : 'none';
   if (moon) moon.style.display = dark ? 'none' : '';
-
   var sv = localStorage.getItem('VS_torah');
   if (sv) { try { VS = JSON.parse(sv); } catch(e){} }
   applyView();
-
   var ctxEl = document.getElementById('torah-ctx');
-  if (ctxEl) {
-    try { window.TORAH_CTX = JSON.parse(ctxEl.textContent); } catch(e) {}
-  }
-
+  if (ctxEl) { try { window.TORAH_CTX = JSON.parse(ctxEl.textContent); } catch(e) {} }
   var ctx = window.TORAH_CTX;
   if (ctx && ctx.book) {
     scrollState.book = ctx.book;
@@ -304,7 +247,6 @@ document.addEventListener('DOMContentLoaded', function() {
     scrollState.maxChapters = BOOK_CHAPTERS[ctx.book] || 50;
     scrollState.nextChapter = ctx.chapter + 1;
     scrollState.prevChapter = ctx.chapter - 1;
-
     initChapterObserver();
     initSentinelObservers();
   }
