@@ -1,6 +1,5 @@
 {{ define "main" }}
 {{ if .Sections }}
-  {{/* Página raíz de sección: /torah/ → muestra libros */}}
   <div class="card">
     <h1 class="torah-root-title">הַתּוֹרָה</h1>
     <div class="books-grid">
@@ -14,7 +13,6 @@
     </div>
   </div>
 {{ else if .Pages }}
-  {{/* Página de libro: /torah/bereshit/ → muestra capítulos */}}
   {{ $book := .Params.book }}
   {{ $bookData := index .Site.Data.torah $book }}
   <div class="card">
@@ -32,12 +30,6 @@
       </a>
       {{ end }}
     </div>
-  </div>
-{{ else }}
-  {{/* Fallback para taxonomías u otras páginas */}}
-  <div class="card">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
   </div>
 {{ end }}
 {{ end }}

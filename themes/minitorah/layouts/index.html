@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="landing-wrap">
+
+  <div class="landing-head">
+    <div class="landing-main-title">Torah Sefardí</div>
+    <div class="landing-desc">La Torá en hebreo con traducción al español sefardí</div>
+  </div>
+
+  <div class="landing-search" onclick="openSearch()" role="button">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.4;flex-shrink:0">
+      <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <span>...Buscar libro o capítulo</span>
+  </div>
+
+  <div class="landing-tiles">
+    <a href="/torah/bereshit/001/" class="landing-tile">
+      <div class="tile-icon">בְּרֵאשִׁית א</div>
+      <div class="tile-label">Empezar desde el principio</div>
+      <div class="tile-sub">Bereshit 1:1 — En el principio…</div>
+    </a>
+    <a href="/torah/" class="landing-tile">
+      <div class="tile-icon">הַתּוֹרָה</div>
+      <div class="tile-label">Los cinco libros</div>
+      <div class="tile-sub">Bereshit · Shemot · Vayikrá · Bamidbar · Devarim</div>
+    </a>
+  </div>
+
+  <div class="landing-books">
+    {{ range site.Sections }}
+    {{ range sort .Sections "Params.order" }}
+    <a href="{{ .Permalink }}" class="book-card">
+      <span class="book-card-he">{{ .Title }}</span>
+      <span class="book-card-es">{{ .Params.book_es }}</span>
+    </a>
+    {{ end }}
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}
