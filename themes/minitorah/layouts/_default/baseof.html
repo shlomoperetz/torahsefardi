@@ -18,15 +18,14 @@
     <link rel="stylesheet" href="{{ "css/torah.css" | relURL }}?v={{ now.Unix }}">
   </head>
   <body class="{{ if .IsHome }}is-landing{{ end }}">
-    <header class="topbar">
 
+    <header class="topbar">
       <a href="/" class="brand">
         <span class="brand-title">Torah Sefardí</span>
         <span class="brand-byline">by Shlomo Peretz</span>
       </a>
 
       <div class="topbar-actions">
-
         <!-- Controles de texto -->
         <div class="text-controls" id="textControls">
           <div class="font-popover-wrap">
@@ -37,22 +36,18 @@
             </div>
           </div>
           <div class="tbar-sep"></div>
-          <button class="tbar-btn tbar-toggle active" id="btnHe" onclick="toggleView('he')" title="Hebreo">א</button>
-          <button class="tbar-btn tbar-toggle active" id="btnEs" onclick="toggleView('es')" title="Traducción al español">ES</button>
+          <button class="tbar-btn tbar-toggle" id="btnHe" onclick="toggleView('he')" title="Hebreo">א</button>
+          <button class="tbar-btn tbar-toggle" id="btnEs" onclick="toggleView('es')" title="Español">ES</button>
         </div>
 
         <!-- Controles UI -->
         <div class="ui-controls">
-          <!-- Búsqueda -->
-          <button class="tbar-btn" onclick="openSearch()" title="Buscar" id="searchBtn" aria-label="Buscar">
+          <button class="tbar-btn" onclick="openSearch()" title="Buscar" aria-label="Buscar">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="11" cy="11" r="7"/>
-              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
             </svg>
           </button>
-
-          <!-- Dark mode -->
-          <button class="tbar-btn" onclick="toggleDarkMode()" id="themeBtn" title="Cambiar tema" aria-label="Cambiar tema">
+          <button class="tbar-btn" onclick="toggleDarkMode()" title="Cambiar tema" aria-label="Tema">
             <svg id="iconSun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none">
               <circle cx="12" cy="12" r="5"/>
               <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
@@ -65,11 +60,10 @@
             </svg>
           </button>
         </div>
-
       </div>
     </header>
 
-    <main class="main-content" id="mainContent">
+    <main class="main-content">
       <div class="page">
         {{ block "main" . }}{{ end }}
       </div>
@@ -80,15 +74,14 @@
       <a class="bbtn {{ if in .RelPermalink "/torah/" }}active{{ end }}" href="/torah/">Torá</a>
     </nav>
 
-    <!-- Search modal -->
+    <!-- Search -->
     <div id="searchOverlay" onclick="closeSearch()" style="display:none"></div>
     <div id="searchPanel" style="display:none" role="dialog" aria-label="Buscar">
       <div class="search-header">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.4;flex-shrink:0">
-          <circle cx="11" cy="11" r="7"/>
-          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
         </svg>
-        <input type="search" id="searchInput" placeholder="Buscar por libro o capítulo..." oninput="doSearch(this.value)" autocomplete="off" />
+        <input type="search" id="searchInput" placeholder="Buscar libro o capítulo..." oninput="doSearch(this.value)" autocomplete="off" />
         <button class="search-close" onclick="closeSearch()" aria-label="Cerrar">×</button>
       </div>
       <div id="searchResults"></div>

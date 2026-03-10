@@ -17,6 +17,10 @@ enableRedirects = true
 
 [outputs]
   home = ["HTML", "JSON"]
+  page = ["HTML", "JSON"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [outputFormats]
   [outputFormats.JSON]

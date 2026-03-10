@@ -1,0 +1,4 @@
+{{- $book := .Params.book -}}
+{{- $num := printf "%03d" .Params.chapter -}}
+{{- $data := index (index .Site.Data.torah $book) $num -}}
+{{- if $data -}}{{- $data | jsonify -}}{{- else -}}null{{- end -}}

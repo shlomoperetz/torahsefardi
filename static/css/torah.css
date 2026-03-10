@@ -1,316 +1,122 @@
 /* ============================================
-   TORAH.CSS — estilos específicos Torah Sefardí
+   TORAH.CSS — estilos Torah Sefardí
    ============================================ */
 
-:root {
-  --accent: #8b4513;       /* marrón sefaradí */
-  --accent-soft: rgba(139,69,19,0.12);
-  --border: rgba(128,128,128,0.1);
-}
-
-/* === LANDING === */
-.landing {
-  max-width: var(--maxw);
-  margin: 0 auto;
-  padding: 2em var(--pad) calc(var(--bottombar-h) + 40px);
-}
-
-.landing-hero {
-  text-align: center;
-  padding: 2em 0 1.5em;
-  direction: rtl;
-}
-.landing-title {
-  font-family: var(--he-font);
-  font-size: 2.8em;
-  font-weight: 300;
-  margin: 0 0 0.25em;
-  letter-spacing: 0.02em;
-}
-.landing-desc {
-  font-family: var(--ui-font);
-  font-size: 0.9em;
-  color: var(--muted);
-  margin: 0;
-}
-
-.landing-tiles {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
-  margin: 1.5em 0;
-}
-
-@media (max-width: 480px) {
-  .landing-tiles { grid-template-columns: 1fr; }
-}
-
-.tile {
-  display: flex;
-  flex-direction: column;
-  padding: 20px 16px;
-  border-radius: 12px;
-  border: 1px solid var(--border);
-  text-decoration: none;
-  color: var(--fg);
-  transition: background 0.15s, border-color 0.15s;
-  direction: ltr;
-}
-.tile:hover {
-  background: var(--accent-soft);
-  border-color: rgba(139,69,19,0.3);
-  text-decoration: none;
-}
-.tile-icon {
-  font-family: var(--he-font);
-  font-size: 1.3em;
-  margin-bottom: 8px;
-}
-.tile-label {
-  font-family: var(--ui-font);
-  font-size: 0.85em;
-  font-weight: 600;
-  margin-bottom: 4px;
-}
-.tile-sub {
-  font-family: var(--ui-font);
-  font-size: 0.72em;
-  color: var(--muted);
-}
-
-/* === BOOKS GRID (landing + torah root) === */
-.landing-books, .books-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 10px;
-  margin-top: 1em;
-  direction: ltr;
-}
-
-.book-card, .book-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 16px 12px;
-  border-radius: 10px;
-  border: 1px solid var(--border);
-  text-decoration: none;
-  color: var(--fg);
-  transition: background 0.15s, border-color 0.15s;
-  text-align: center;
-}
-.book-card:hover, .book-item:hover {
-  background: var(--accent-soft);
-  border-color: rgba(139,69,19,0.3);
-  text-decoration: none;
-}
-.book-card-he, .book-he {
-  font-family: var(--he-font);
-  font-size: 1.15em;
-  font-weight: 600;
-  direction: rtl;
-}
-.book-card-es, .book-es {
-  font-family: var(--ui-font);
-  font-size: 0.65em;
-  color: var(--muted);
-  margin-top: 4px;
-}
-.book-chapters {
-  font-family: var(--ui-font);
-  font-size: 0.6em;
-  color: var(--muted);
-  margin-top: 6px;
-}
-
-/* === BOOK PAGE === */
-.book-header {
-  text-align: center;
-  padding: 1em 0 1.5em;
-  direction: rtl;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 1em;
-}
-.book-title-he {
-  font-family: var(--he-font);
-  font-size: 2em;
-  font-weight: 300;
-  margin: 0 0 0.2em;
-}
-.book-title-es {
-  font-family: var(--ui-font);
-  font-size: 0.8em;
-  color: var(--muted);
-  margin: 0;
-}
-
-/* === CHAPTERS GRID === */
+/* ===== GRID DE CAPÍTULOS (= tehilim-grid) ===== */
 .chapters-grid {
   direction: ltr;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  gap: 8px;
+  gap: 10px;
   margin-top: 0.5em;
 }
-
 .chapter-item {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 10px 6px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
+  padding: 12px 8px;
+  min-height: 64px;
+  border-radius: 10px;
   text-decoration: none;
   color: var(--fg);
+  border: 1px solid var(--border);
   transition: background 0.15s, border-color 0.15s;
   overflow: hidden;
 }
 .chapter-item:hover {
   background: var(--accent-soft);
-  border-color: rgba(139,69,19,0.3);
+  border-color: rgba(212,175,55,0.3);
   text-decoration: none;
 }
 .chapter-num {
-  font-family: var(--ui-font);
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 700;
   color: var(--accent);
+  font-family: var(--ui-font);
 }
 .chapter-preview {
-  font-family: var(--he-font);
-  font-size: 0.5em;
-  color: var(--muted);
+  font-size: 0.48em;
+  line-height: 1.3;
+  text-align: right;
   margin-top: 4px;
-  text-align: center;
+  font-family: var(--he-font);
   direction: rtl;
+  color: var(--muted);
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  max-width: 100%;
 }
 
-/* === SINGLE CHAPTER === */
-.torah-single {
-  padding: 0;
-}
-
-.torah-header {
-  padding: 1.2em var(--pad) 1em;
-  border-bottom: 1px solid var(--border);
+/* ===== GRID DE LIBROS ===== */
+.books-grid {
   direction: ltr;
-  display: flex;
-  align-items: center;
-  gap: 16px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 10px;
+  margin-top: 0.5em;
 }
-
-.chapter-meta {
+.book-item {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  padding: 16px 8px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--fg);
+  border: 1px solid var(--border);
+  transition: background 0.15s, border-color 0.15s;
+  text-align: center;
 }
-.book-name {
-  font-family: var(--ui-font);
-  font-size: 0.7em;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+.book-item:hover {
+  background: var(--accent-soft);
+  border-color: rgba(212,175,55,0.3);
+  text-decoration: none;
 }
-.chapter-number {
-  font-family: var(--ui-font);
-  font-size: 2em;
-  font-weight: 700;
-  color: var(--accent);
-  line-height: 1;
-}
-.chapter-he-title {
+.book-he {
   font-family: var(--he-font);
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: 400;
   direction: rtl;
-  flex: 1;
-  text-align: right;
 }
-
-/* === VERSES === */
-.torah-verses {
-  padding: 0 var(--pad);
-  direction: rtl;
-}
-
-.verse {
-  margin: 0;
-  padding: 0.6em 0;
-  border-bottom: 1px solid var(--border);
-}
-.verse:last-child { border-bottom: none; }
-
-.verse-he {
-  direction: rtl;
-  font-family: var(--he-font);
-  font-size: 1em;
-  line-height: var(--line);
-}
-.verse-es {
-  direction: ltr;
+.book-es {
   font-family: var(--ui-font);
-  font-size: 0.82em;
+  font-size: 0.62em;
   color: var(--muted);
-  line-height: 1.6;
-  margin-top: 0.3em;
-  padding-right: 1.2em;
-  text-align: left;
+  margin-top: 4px;
 }
-
-.verse-num {
+.book-chapters {
   font-family: var(--ui-font);
   font-size: 0.55em;
-  color: var(--accent);
-  font-weight: 700;
-  vertical-align: super;
-  margin-left: 3px;
-  user-select: none;
-}
-.verse-num-es {
-  font-family: var(--ui-font);
-  font-size: 0.65em;
-  color: var(--accent);
-  font-weight: 700;
-  vertical-align: super;
-  margin-right: 3px;
-  user-select: none;
-}
-
-/* Show-es-only mode */
-body.show-es-only .verse-he { display: none !important; }
-
-/* === CHAPTER NAV === */
-.torah-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1.2em var(--pad);
-  border-top: 1px solid var(--border);
-  direction: ltr;
-  font-family: var(--ui-font);
-  font-size: 0.82em;
-  gap: 8px;
-}
-.nav-prev, .nav-next, .nav-list {
-  color: var(--link);
-  text-decoration: none;
-  padding: 8px 12px;
-  border-radius: 6px;
-  transition: background 0.15s;
-}
-.nav-prev:hover, .nav-next:hover, .nav-list:hover {
-  background: rgba(128,128,128,0.08);
-  text-decoration: none;
-}
-.nav-list {
   color: var(--muted);
-  font-weight: 500;
+  margin-top: 4px;
+  opacity: 0.6;
 }
 
-/* Torah root title */
+/* ===== CABECERA LIBRO (/torah/bereshit/) ===== */
+.book-header {
+  text-align: center;
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid var(--border);
+}
+.book-title-he {
+  font-family: var(--he-font);
+  font-size: 2em;
+  font-weight: 300;
+  direction: rtl;
+  margin: 0 0 0.2em;
+}
+.book-title-es {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  color: var(--muted);
+  font-style: italic;
+  margin: 0;
+}
+
+/* ===== TORAH ROOT (/torah/) ===== */
 .torah-root-title {
   font-family: var(--he-font);
   font-size: 2em;
@@ -318,4 +124,295 @@ body.show-es-only .verse-he { display: none !important; }
   text-align: center;
   direction: rtl;
   margin: 0 0 1em;
+}
+
+/* ===== CAPÍTULO INDIVIDUAL (= tehilim-single) ===== */
+
+/* Cabecera del capítulo — igual que psalm-header */
+.chapter-header {
+  text-align: center;
+  margin: 0.5em 0 1.5em;
+  padding: 0 1em;
+}
+.chapter-label {
+  font-family: var(--ui-font);
+  font-size: 0.85em;
+  color: var(--accent);
+  opacity: 0.7;
+  margin-bottom: 0.3em;
+}
+.chapter-he-title {
+  font-family: var(--he-font);
+  font-size: 1.1em;
+  direction: rtl;
+  margin-bottom: 0.2em;
+}
+
+/* ===== VERSOS (= tehilim verses) ===== */
+.torah-verses { direction: rtl; }
+
+.verse { margin-bottom: 1.6em; }
+
+.verse-he {
+  font-family: var(--he-font);
+  font-size: var(--font, 22px);
+  direction: rtl;
+  text-align: right;
+  line-height: 1.8;
+  color: var(--fg);
+}
+.verse-es {
+  font-family: var(--ui-font);
+  font-size: 0.82em;
+  direction: ltr;
+  text-align: left;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.3em;
+  line-height: 1.6;
+  unicode-bidi: plaintext;
+}
+
+sup.verse-num {
+  font-size: 0.5em;
+  color: var(--accent);
+  font-weight: 700;
+  vertical-align: super;
+  margin-inline-end: 3px;
+  font-family: var(--ui-font);
+  line-height: 1;
+}
+sup.verse-num-es {
+  font-size: 0.55em;
+  color: rgba(212,175,55,0.5);
+  vertical-align: super;
+  margin-inline-end: 3px;
+  font-family: var(--ui-font);
+}
+
+/* ===== NAV CAPÍTULO (= tehilim-nav) ===== */
+.torah-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--border);
+  direction: ltr;
+  font-family: var(--ui-font);
+  font-size: 0.85em;
+}
+.torah-nav a {
+  color: var(--accent);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.15s;
+}
+.torah-nav a:hover { background: var(--accent-soft); text-decoration: none; }
+.torah-nav .nav-list { color: var(--muted); }
+
+/* ===== DIVISOR ENTRE CAPÍTULOS (infinite scroll) ===== */
+.chapter-divider {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin: 3em 0 2.5em;
+}
+.chapter-divider::before,
+.chapter-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.chapter-divider span {
+  font-family: var(--ui-font);
+  font-size: 0.68em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+/* Loading indicator */
+#scroll-sentinel {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
+.loading-dots {
+  display: flex;
+  gap: 6px;
+}
+.loading-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0.4;
+  animation: dot-pulse 1.2s ease-in-out infinite;
+}
+.loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+.loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes dot-pulse {
+  0%, 80%, 100% { opacity: 0.2; transform: scale(0.8); }
+  40% { opacity: 1; transform: scale(1); }
+}
+
+/* Ocultar/mostrar vistas */
+body.hide-he .verse-he { display: none; }
+body.hide-es .verse-es { display: none; }
+
+/* ===== LANDING ===== */
+.landing-wrap {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1.2em 1.2em 5em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.landing-head {
+  text-align: left;
+}
+.landing-main-title {
+  font-family: var(--ui-font);
+  font-size: 1em;
+  font-weight: 600;
+  color: var(--fg);
+  opacity: 0.8;
+  margin: 0 0 0.2em;
+  letter-spacing: -0.01em;
+}
+.landing-desc {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.5;
+  opacity: 0.5;
+}
+
+.landing-search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0.65em 1em;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  background: rgba(128,128,128,0.03);
+  color: var(--fg);
+  font-family: var(--ui-font);
+}
+.landing-search:hover {
+  border-color: rgba(212,175,55,0.4);
+  box-shadow: 0 2px 12px rgba(212,175,55,0.08);
+  text-decoration: none;
+}
+.landing-search span {
+  font-size: 0.9em;
+  color: var(--muted);
+  opacity: 0.5;
+}
+
+.landing-tiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.landing-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  padding: 1.1em 1em;
+  border: 1.5px solid rgba(128,128,128,0.15);
+  border-radius: 14px;
+  text-decoration: none;
+  color: var(--fg);
+  transition: border-color 0.15s, background 0.15s, transform 0.12s;
+  min-height: 90px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.landing-tile:hover {
+  border-color: rgba(212,175,55,0.35);
+  background: rgba(212,175,55,0.04);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+.landing-tile:nth-child(odd) {
+  border-color: rgba(212,175,55,0.2);
+}
+.tile-icon {
+  font-family: var(--he-font);
+  font-size: 1.1em;
+  color: var(--accent);
+  opacity: 0.7;
+  line-height: 1;
+}
+.tile-label {
+  font-family: var(--ui-font);
+  font-size: 0.9em;
+  font-weight: 700;
+  color: var(--fg);
+  line-height: 1.3;
+}
+.tile-sub {
+  font-family: var(--ui-font);
+  font-size: 0.72em;
+  color: var(--muted);
+  opacity: 0.55;
+  line-height: 1.3;
+}
+
+.landing-books {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  direction: ltr;
+}
+@media (max-width: 500px) {
+  .landing-books { grid-template-columns: repeat(3, 1fr); }
+  .landing-tiles { grid-template-columns: 1fr; }
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 6px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--fg);
+  transition: background 0.15s, border-color 0.15s;
+  text-align: center;
+}
+.book-card:hover {
+  background: var(--accent-soft);
+  border-color: rgba(212,175,55,0.3);
+  text-decoration: none;
+}
+.book-card-he {
+  font-family: var(--he-font);
+  font-size: 0.9em;
+  font-weight: 400;
+  direction: rtl;
+}
+.book-card-es {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  color: var(--muted);
+  margin-top: 3px;
+}
+
+@media (max-width: 640px) {
+  .landing-head { order: 3; margin-top: 0.5em; }
+  .landing-search { order: 1; }
+  .landing-tiles { order: 2; }
+  .landing-books { order: 4; }
 }

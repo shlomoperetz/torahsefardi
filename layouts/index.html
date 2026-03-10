@@ -1,19 +1,26 @@
 {{ define "main" }}
-<div class="landing">
+<div class="landing-wrap">
 
-  <div class="landing-hero">
-    <h1 class="landing-title">תּוֹרָה סְפָרַדִי</h1>
-    <p class="landing-desc">La Torá en hebreo con traducción al español sefardí</p>
+  <div class="landing-head">
+    <div class="landing-main-title">Torah Sefardí</div>
+    <div class="landing-desc">La Torá en hebreo con traducción al español sefardí</div>
+  </div>
+
+  <div class="landing-search" onclick="openSearch()" role="button">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.4;flex-shrink:0">
+      <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <span>Buscar libro o capítulo…</span>
   </div>
 
   <div class="landing-tiles">
-    <a href="/torah/bereshit/001/" class="tile tile-start">
+    <a href="/torah/bereshit/001/" class="landing-tile">
       <div class="tile-icon">בְּרֵאשִׁית א</div>
       <div class="tile-label">Empezar desde el principio</div>
       <div class="tile-sub">Bereshit 1:1 — En el principio…</div>
     </a>
-    <a href="/torah/" class="tile tile-all">
-      <div class="tile-icon">📖</div>
+    <a href="/torah/" class="landing-tile">
+      <div class="tile-icon">התורה</div>
       <div class="tile-label">Los cinco libros</div>
       <div class="tile-sub">Bereshit · Shemot · Vayikrá · Bamidbar · Devarim</div>
     </a>

@@ -2,38 +2,46 @@
 {{ $book := .Params.book }}
 {{ $num := printf "%03d" .Params.chapter }}
 {{ $data := index (index .Site.Data.torah $book) $num }}
-<article class="card torah-single" data-page>
+{{ $nextUrl := "" }}{{ with .NextInSection }}{{ $nextUrl = .Permalink }}{{ end }}
 
-  <div class="torah-header">
-    <div class="chapter-meta">
-      <span class="book-name">{{ .Params.book_es }}</span>
-      <span class="chapter-number">{{ .Params.chapter }}</span>
+<div id="chapters-feed">
+  <section class="chapter-section" data-book="{{ $book }}" data-chapter="{{ .Params.chapter }}" id="ch{{ .Params.chapter }}">
+
+    <div class="chapter-header">
+      <div class="chapter-label">{{ .Params.book_es }} {{ .Params.chapter }}</div>
+      {{ if $data }}<div class="chapter-he-title">{{ $data.title_he }}</div>{{ end }}
     </div>
-    {{ if $data }}<div class="chapter-he-title">{{ $data.title_he }}</div>{{ end }}
-  </div>
 
-  {{ if $data }}
-  <div class="torah-verses" id="torahVerses">
-    {{ range $data.verses }}
-    <div class="verse" id="v{{ .num }}">
-      <div class="verse-he"><sup class="verse-num">{{ .num }}</sup>{{ .he | safeHTML }}</div>
-      {{ if .es }}
-      <div class="verse-es" style="display:none"><sup class="verse-num-es">{{ .num }}</sup>{{ .es }}</div>
+    {{ if $data }}
+    <div class="torah-verses">
+      {{ range $data.verses }}
+      <div class="verse" id="v{{ .num }}">
+        <div class="verse-he"><sup class="verse-num">{{ .num }}</sup>{{ .he | safeHTML }}</div>
+        {{ if .es }}<div class="verse-es"><sup class="verse-num-es">{{ .num }}</sup>{{ .es }}</div>{{ end }}
+      </div>
       {{ end }}
     </div>
     {{ end }}
+
+    <nav class="torah-nav">
+      {{ with .PrevInSection }}
+      <a href="{{ .Permalink }}" class="nav-prev">← Cap. {{ .Params.chapter }}</a>
+      {{ else }}<span></span>{{ end }}
+      <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
+      {{ with .NextInSection }}
+      <a href="{{ .Permalink }}" class="nav-next">Cap. {{ .Params.chapter }} →</a>
+      {{ else }}<span></span>{{ end }}
+    </nav>
+
+  </section>
+</div>
+
+<div id="scroll-sentinel">
+  <div class="loading-dots" id="loadingDots" style="display:none">
+    <span></span><span></span><span></span>
   </div>
-  {{ end }}
+</div>
 
-  <nav class="torah-nav">
-    {{ with .PrevInSection }}
-    <a href="{{ .Permalink }}" class="nav-prev">← Cap. {{ .Params.chapter }}</a>
-    {{ end }}
-    <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
-    {{ with .NextInSection }}
-    <a href="{{ .Permalink }}" class="nav-next">Cap. {{ .Params.chapter }} →</a>
-    {{ end }}
-  </nav>
-
-</article>
+<!-- Datos para infinite scroll — tipo application/json para evitar minificación -->
+<script type="application/json" id="torah-ctx">{{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "nextUrl" $nextUrl | jsonify }}</script>
 {{ end }}
