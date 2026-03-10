@@ -276,11 +276,11 @@ body.hide-es .verse-es { display: none; }
 }
 
 .landing-head {
-  text-align: left;
+  text-align: center;
 }
 .landing-main-title {
   font-family: var(--ui-font);
-  font-size: 1em;
+  font-size: 1.8em;
   font-weight: 600;
   color: var(--fg);
   opacity: 0.8;
@@ -293,10 +293,11 @@ body.hide-es .verse-es { display: none; }
   color: var(--muted);
   margin: 0;
   line-height: 1.5;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .landing-search {
+  direction: ltr;
   display: flex;
   align-items: center;
   gap: 10px;
