@@ -23,15 +23,14 @@
     </div>
     {{ end }}
     <nav class="torah-nav">
-      {{ if gt .Params.chapter 1 }}
-      {{ $prevNum := printf "%03d" (sub .Params.chapter 1) }}
-      <a href="/torah/{{ $book }}/{{ $prevNum }}/" class="nav-prev">&larr; Cap. {{ sub .Params.chapter 1 }}</a>
+      {{ $chInt := $num | int }}
+      {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
+      {{ if gt $chInt 1 }}
+      <a href="/torah/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev">&larr; Cap. {{ sub $chInt 1 }}</a>
       {{ else }}<span></span>{{ end }}
       <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
-      {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
-      {{ if lt .Params.chapter $maxCh }}
-      {{ $nextNum := printf "%03d" (add .Params.chapter 1) }}
-      <a href="/torah/{{ $book }}/{{ $nextNum }}/" class="nav-next">Cap. {{ add .Params.chapter 1 }} &rarr;</a>
+      {{ if lt $chInt $maxCh }}
+      <a href="/torah/{{ $book }}/{{ printf "%03d" (add $chInt 1) }}/" class="nav-next">Cap. {{ add $chInt 1 }} &rarr;</a>
       {{ else }}<span></span>{{ end }}
     </nav>
   </section>
