@@ -1,5 +1,4 @@
 // TORAH.JS — Torah Sefardí
-// Aplicar tema antes de render para evitar flash
 (function(){
   var t = localStorage.getItem('theme');
   var dark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -42,7 +41,7 @@ document.addEventListener('click', function(e) {
 var VS = { he: true, es: true };
 function toggleView(k) {
   var active = Object.keys(VS).filter(function(x){ return VS[x]; });
-  if (VS[k] && active.length === 1) return; // no desactivar el único activo
+  if (VS[k] && active.length === 1) return;
   VS[k] = !VS[k];
   applyView();
   localStorage.setItem('VS_torah', JSON.stringify(VS));
@@ -111,27 +110,27 @@ document.addEventListener('keydown', function(e) {
   if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openSearch(); }
 });
 
-// ===== INFINITE SCROLL =====
+// ===== INFINITE SCROLL BIDIRECCIONAL =====
 var BOOK_CHAPTERS = { bereshit: 50, shemot: 40, vayikra: 27, bamidbar: 36, devarim: 34 };
 
 var scrollState = {
   book: null,
   bookEs: null,
   nextChapter: null,
+  prevChapter: null,
   maxChapters: 0,
-  loading: false
+  loadingNext: false,
+  loadingPrev: false
 };
 
-// Observer: actualiza URL y título al hacer scroll
 var chapterObserver = null;
+
 function initChapterObserver() {
   if (!('IntersectionObserver' in window)) return;
   chapterObserver = new IntersectionObserver(function(entries) {
     var best = null;
     entries.forEach(function(e) {
-      if (e.isIntersecting && (!best || e.intersectionRatio > best.intersectionRatio)) {
-        best = e;
-      }
+      if (e.isIntersecting && (!best || e.intersectionRatio > best.intersectionRatio)) best = e;
     });
     if (best) {
       var ch = best.target.dataset.chapter;
@@ -149,18 +148,24 @@ function initChapterObserver() {
   });
 }
 
-// Observer: carga el siguiente capítulo cuando el sentinel entra en vista
-function initSentinelObserver() {
+function initSentinelObservers() {
   if (!('IntersectionObserver' in window)) return;
-  var sentinel = document.getElementById('scroll-sentinel');
-  if (!sentinel || !scrollState.book) return;
 
-  var sentinelObs = new IntersectionObserver(function(entries) {
-    if (entries[0].isIntersecting && !scrollState.loading) {
-      loadNextChapter();
-    }
-  }, { rootMargin: '300px' });
-  sentinelObs.observe(sentinel);
+  // Sentinel inferior → carga siguiente
+  var sentinelBottom = document.getElementById('scroll-sentinel');
+  if (sentinelBottom && scrollState.book) {
+    new IntersectionObserver(function(entries) {
+      if (entries[0].isIntersecting && !scrollState.loadingNext) loadNextChapter();
+    }, { rootMargin: '300px' }).observe(sentinelBottom);
+  }
+
+  // Sentinel superior → carga anterior
+  var sentinelTop = document.getElementById('scroll-sentinel-top');
+  if (sentinelTop && scrollState.book) {
+    new IntersectionObserver(function(entries) {
+      if (entries[0].isIntersecting && !scrollState.loadingPrev) loadPrevChapter();
+    }, { rootMargin: '300px' }).observe(sentinelTop);
+  }
 }
 
 function buildVerseHTML(verse) {
@@ -173,24 +178,12 @@ function buildVerseHTML(verse) {
   return html;
 }
 
-function appendChapter(data, chNum) {
-  var feed = document.getElementById('chapters-feed');
-  var sentinel = document.getElementById('scroll-sentinel');
-  if (!feed || !sentinel) return;
-
-  var section = document.createElement('section');
-  section.className = 'chapter-section';
-  section.dataset.book = scrollState.book;
-  section.dataset.chapter = chNum;
-  section.id = 'ch' + chNum;
-
+function buildSectionHTML(data, chNum) {
   var bookEs = data.book_es || scrollState.bookEs || '';
-  var chPadded = String(chNum).padStart(3, '0');
-  var prevCh = chNum - 1;
+  var prevCh = chNum > 1 ? chNum - 1 : null;
   var nextCh = chNum < scrollState.maxChapters ? chNum + 1 : null;
 
-  section.innerHTML =
-    '<div class="chapter-header">' +
+  return '<div class="chapter-header">' +
       '<div class="chapter-label">' + bookEs + ' ' + chNum + '</div>' +
       '<div class="chapter-he-title">' + (data.title_he || '') + '</div>' +
     '</div>' +
@@ -198,89 +191,121 @@ function appendChapter(data, chNum) {
       data.verses.map(buildVerseHTML).join('') +
     '</div>' +
     '<nav class="torah-nav">' +
-      '<a href="/torah/' + scrollState.book + '/' + String(prevCh).padStart(3,'0') + '/">← Cap. ' + prevCh + '</a>' +
+      (prevCh ? '<a href="/torah/' + scrollState.book + '/' + String(prevCh).padStart(3,'0') + '/">← Cap. ' + prevCh + '</a>' : '<span></span>') +
       '<a href="/torah/' + scrollState.book + '/" class="nav-list">' + bookEs + '</a>' +
       (nextCh ? '<a href="/torah/' + scrollState.book + '/' + String(nextCh).padStart(3,'0') + '/">Cap. ' + nextCh + ' →</a>' : '<span></span>') +
     '</nav>';
-
-  feed.insertBefore(section, sentinel);
-  applyView(); // aplica estado he/es al contenido nuevo
-  if (chapterObserver) chapterObserver.observe(section);
 }
 
 async function loadNextChapter() {
-  if (scrollState.loading) return;
+  if (scrollState.loadingNext) return;
   if (!scrollState.nextChapter || scrollState.nextChapter > scrollState.maxChapters) {
-    // No hay más capítulos
-    var sentinel = document.getElementById('scroll-sentinel');
-    if (sentinel) sentinel.style.display = 'none';
+    var s = document.getElementById('scroll-sentinel');
+    if (s) s.style.display = 'none';
     return;
   }
-
-  scrollState.loading = true;
+  scrollState.loadingNext = true;
   var dots = document.getElementById('loadingDots');
   if (dots) dots.style.display = 'flex';
 
   var chStr = String(scrollState.nextChapter).padStart(3, '0');
-  var url = '/torah/' + scrollState.book + '/' + chStr + '/index.json';
-
   try {
-    var res = await fetch(url);
+    var res = await fetch('/torah/' + scrollState.book + '/' + chStr + '/index.json');
     if (!res.ok) throw new Error('HTTP ' + res.status);
     var data = await res.json();
-    if (!data || !data.verses || data.verses.length === 0) throw new Error('empty');
-    appendChapter(data, scrollState.nextChapter);
+    if (!data || !data.verses || !data.verses.length) throw new Error('empty');
+
+    var feed = document.getElementById('chapters-feed');
+    var sentinel = document.getElementById('scroll-sentinel');
+    var section = document.createElement('section');
+    section.className = 'chapter-section';
+    section.dataset.book = scrollState.book;
+    section.dataset.chapter = scrollState.nextChapter;
+    section.id = 'ch' + scrollState.nextChapter;
+    section.innerHTML = buildSectionHTML(data, scrollState.nextChapter);
+    feed.insertBefore(section, sentinel);
+    applyView();
+    if (chapterObserver) chapterObserver.observe(section);
     scrollState.nextChapter++;
   } catch(e) {
-    console.warn('Fin de capítulos o error:', e.message);
-    scrollState.nextChapter = null;
-    var sentinel = document.getElementById('scroll-sentinel');
-    if (sentinel) sentinel.style.display = 'none';
+    console.warn('loadNextChapter:', e.message);
+    var s = document.getElementById('scroll-sentinel');
+    if (s) s.style.display = 'none';
   }
-
   if (dots) dots.style.display = 'none';
-  scrollState.loading = false;
+  scrollState.loadingNext = false;
+}
+
+async function loadPrevChapter() {
+  if (scrollState.loadingPrev) return;
+  if (!scrollState.prevChapter || scrollState.prevChapter < 1) {
+    var s = document.getElementById('scroll-sentinel-top');
+    if (s) s.style.display = 'none';
+    return;
+  }
+  scrollState.loadingPrev = true;
+
+  var chStr = String(scrollState.prevChapter).padStart(3, '0');
+  try {
+    var res = await fetch('/torah/' + scrollState.book + '/' + chStr + '/index.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    var data = await res.json();
+    if (!data || !data.verses || !data.verses.length) throw new Error('empty');
+
+    var feed = document.getElementById('chapters-feed');
+    var sentinelTop = document.getElementById('scroll-sentinel-top');
+    var section = document.createElement('section');
+    section.className = 'chapter-section';
+    section.dataset.book = scrollState.book;
+    section.dataset.chapter = scrollState.prevChapter;
+    section.id = 'ch' + scrollState.prevChapter;
+    section.innerHTML = buildSectionHTML(data, scrollState.prevChapter);
+
+    // Guardar posición de scroll antes de prepend para no saltar
+    var prevHeight = feed.scrollHeight;
+    feed.insertBefore(section, sentinelTop.nextSibling);
+    window.scrollBy(0, feed.scrollHeight - prevHeight);
+
+    applyView();
+    if (chapterObserver) chapterObserver.observe(section);
+    scrollState.prevChapter--;
+  } catch(e) {
+    console.warn('loadPrevChapter:', e.message);
+    var s = document.getElementById('scroll-sentinel-top');
+    if (s) s.style.display = 'none';
+  }
+  scrollState.loadingPrev = false;
 }
 
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded', function() {
-  // Restaurar fuente
   var fs = localStorage.getItem('fontSize');
   if (fs) document.documentElement.style.setProperty('--font', fs + 'px');
 
-  // Restaurar iconos dark mode
   var sun = document.getElementById('iconSun');
   var moon = document.getElementById('iconMoon');
   var dark = document.documentElement.classList.contains('dark-mode');
   if (sun) sun.style.display = dark ? '' : 'none';
   if (moon) moon.style.display = dark ? 'none' : '';
 
-  // Restaurar vista he/es
   var sv = localStorage.getItem('VS_torah');
   if (sv) { try { VS = JSON.parse(sv); } catch(e){} }
   applyView();
 
-  // Leer contexto del elemento JSON (evita problemas con el minificador HTML)
   var ctxEl = document.getElementById('torah-ctx');
   if (ctxEl) {
     try { window.TORAH_CTX = JSON.parse(ctxEl.textContent); } catch(e) {}
   }
 
-  // Infinite scroll — solo en páginas de capítulo
   var ctx = window.TORAH_CTX;
   if (ctx && ctx.book) {
     scrollState.book = ctx.book;
     scrollState.bookEs = ctx.bookEs;
     scrollState.maxChapters = BOOK_CHAPTERS[ctx.book] || 50;
     scrollState.nextChapter = ctx.chapter + 1;
-
-    // Mostrar dots de carga si hay más capítulos
-    if (scrollState.nextChapter <= scrollState.maxChapters) {
-      var dots = document.getElementById('loadingDots');
-      // dots solo se muestran cuando se activa el sentinel
-    }
+    scrollState.prevChapter = ctx.chapter - 1;
 
     initChapterObserver();
-    initSentinelObserver();
+    initSentinelObservers();
   }
 });
