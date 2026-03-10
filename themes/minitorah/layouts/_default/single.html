@@ -23,12 +23,15 @@
     </div>
     {{ end }}
     <nav class="torah-nav">
-      {{ with .PrevInSection }}
-      <a href="{{ .Permalink }}" class="nav-prev">&larr; Cap. {{ .Params.chapter }}</a>
+      {{ if gt .Params.chapter 1 }}
+      {{ $prevNum := printf "%03d" (sub .Params.chapter 1) }}
+      <a href="/torah/{{ $book }}/{{ $prevNum }}/" class="nav-prev">&larr; Cap. {{ sub .Params.chapter 1 }}</a>
       {{ else }}<span></span>{{ end }}
       <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
-      {{ with .NextInSection }}
-      <a href="{{ .Permalink }}" class="nav-next">Cap. {{ .Params.chapter }} &rarr;</a>
+      {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
+      {{ if lt .Params.chapter $maxCh }}
+      {{ $nextNum := printf "%03d" (add .Params.chapter 1) }}
+      <a href="/torah/{{ $book }}/{{ $nextNum }}/" class="nav-next">Cap. {{ add .Params.chapter 1 }} &rarr;</a>
       {{ else }}<span></span>{{ end }}
     </nav>
   </section>
