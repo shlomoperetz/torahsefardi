@@ -23,7 +23,7 @@
     </div>
     {{ end }}
     <nav class="torah-nav">
-      {{ $chInt := $num | int }}
+      {{ $chInt := .Params.chapter | int }}
       {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
       {{ if gt $chInt 1 }}
       <a href="/torah/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev">&larr; Cap. {{ sub $chInt 1 }}</a>
