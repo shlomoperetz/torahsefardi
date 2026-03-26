@@ -259,6 +259,41 @@ nav.bottombar .bbtn {
   position: relative;
 }
 
+/* ===== TOPBAR BREADCRUMB ===== */
+.topbar-crumb {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+  padding: 0 8px;
+  font-family: var(--ui-font);
+  font-size: 13px;
+  color: var(--muted);
+  direction: ltr;
+}
+.topbar-crumb a {
+  color: var(--muted);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.15s;
+}
+.topbar-crumb a:hover { color: var(--accent); text-decoration: none; }
+.topbar-crumb .crumb-sep {
+  opacity: 0.35;
+  flex-shrink: 0;
+}
+.topbar-crumb .crumb-current {
+  color: var(--fg);
+  opacity: 0.6;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 1;
+}
+
 /* ===== SEARCH ===== */
 #searchOverlay {
   position: fixed;

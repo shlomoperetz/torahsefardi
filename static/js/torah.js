@@ -335,7 +335,21 @@ function initTorahPage(){
     scrollState.prevChapter=parseInt(ctx.chapter,10)-1;
     initChapterObserver();
     initScroll();
+    initCrumb(ctx);
   }
+}
+
+function initCrumb(ctx){
+  var crumb=document.getElementById('topbar-crumb');
+  if(!crumb)return;
+  var sec=ctx.section||'torah';
+  var secLabels={torah:'Torá',neviim:"Nevi'im",ketuvim:'Ketuvim'};
+  var secLabel=secLabels[sec]||sec;
+  var bookLabel=CURRENT_LANG==='he'?(ctx.bookHe||ctx.bookEs):ctx.bookEs;
+  crumb.innerHTML=
+    '<a href="/'+sec+'/">'+secLabel+'</a>'
+    +'<span class="crumb-sep">›</span>'
+    +'<a href="/'+sec+'/'+ctx.book+'/">'+bookLabel+'</a>';
 }
 if(document.readyState==='loading'){
   document.addEventListener('DOMContentLoaded',initTorahPage);
