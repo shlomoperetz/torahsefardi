@@ -4,6 +4,8 @@
   var dark=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;
   document.documentElement.classList.toggle('dark-mode',dark);
   document.documentElement.classList.toggle('light-mode',!dark);
+  var lang=localStorage.getItem('torah-lang')||'es';
+  document.documentElement.classList.toggle('lang-he',lang==='he');
 })();
 
 function toggleDarkMode(){

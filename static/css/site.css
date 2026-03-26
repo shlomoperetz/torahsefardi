@@ -340,7 +340,10 @@ html.lang-he .landing-wrap { direction: rtl; }
 html.lang-he .landing-books { direction: rtl; }
 html.lang-he .chapter-header { direction: rtl; }
 html.lang-he .tnav-view-wrap { display: none; }
+html.lang-he .verse-es { display: none; }
 html.lang-he .book-es { display: none; }
+html.lang-he .book-title-es { display: none; }
+html.lang-he .book-chapters { display: none; }
 html.lang-he .book-card-es { display: none; }
 html.lang-he .lsh-es { display: none; }
 
