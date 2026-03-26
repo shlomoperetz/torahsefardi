@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apoyar · Torah Sefardí</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@100..900&family=Assistant:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
+  <script>
+  (function(){try{var t=localStorage.getItem('theme');var dark=t?t==='dark':window.matchMedia('(prefers-color-scheme:dark)').matches;if(dark)document.documentElement.classList.add('dark-mode');}catch(e){}})();
+  </script>
+  <style>
+    .apoyar-wrap { position: relative; max-width: 540px; margin: 3rem auto; padding: 0 1.2rem; text-align: center; }
+    .apoyar-heart { width: 2.8rem; height: 2.8rem; margin-bottom: 1rem; color: var(--accent); filter: drop-shadow(0 2px 8px rgba(180,140,40,.35)); }
+    .apoyar-title { font-family: var(--ui-font); font-size: 1.6rem; font-weight: 700; margin-bottom: 0.8rem; color: var(--fg); }
+    .apoyar-desc { font-family: var(--ui-font); opacity: 0.65; line-height: 1.7; margin-bottom: 2rem; font-size: 0.95rem; color: var(--fg); }
+    .apoyar-iframe-wrap { border-radius: 12px; overflow: hidden; }
+    .apoyar-back { position: absolute; top: 0; left: 1.2rem; font-family: var(--ui-font); font-size: 0.9rem; opacity: 0.6; text-decoration: none; color: var(--fg); }
+    .apoyar-back:hover { opacity: 1; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a href="/" class="brand">
+      <span class="brand-title">Torah Sefardí</span>
+      <span class="brand-byline">by Shlomo Peretz</span>
+    </a>
+  </div>
+</header>
+
+<div class="apoyar-wrap">
+  <a href="/" class="apoyar-back">← Volver</a>
+
+  <svg class="apoyar-heart" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="0" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+  </svg>
+
+  <h1 class="apoyar-title">Apoyar el proyecto</h1>
+  <p class="apoyar-desc">
+    Torah Sefardí es un proyecto independiente, sin publicidad y completamente gratuito.<br>
+    Si te ha sido útil, puedes contribuir con lo que puedas.
+  </p>
+
+  <div class="apoyar-iframe-wrap">
+    <iframe id="kofiframe"
+      src="https://ko-fi.com/shlomoperetz/?hidefeed=true&widget=true&embed=true&preview=true"
+      style="border:none; width:100%; padding:4px 0; max-height:90vh;"
+      height="712"
+      title="shlomoperetz">
+    </iframe>
+  </div>
+</div>
+
+<script>
+(function () {
+  var t = localStorage.getItem('theme');
+  var dark = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (dark) document.body.classList.add('dark-mode');
+})();
+</script>
+
+</body>
+</html>
