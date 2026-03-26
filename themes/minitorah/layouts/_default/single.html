@@ -1,7 +1,8 @@
 {{ define "main" }}
 {{ $book := .Params.book }}
+{{ $section := .Section }}
 {{ $num := printf "%03d" .Params.chapter }}
-{{ $data := index (index .Site.Data.torah $book) $num }}
+{{ $data := index (index (index .Site.Data $section) $book) $num }}
 {{ $bookHe := "" }}{{ if $data }}{{ $bookHe = $data.book_he }}{{ end }}
 
 <div id="chapters-feed">
@@ -27,13 +28,14 @@
     {{ end }}
     <nav class="torah-nav">
       {{ $chInt := .Params.chapter | int }}
-      {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
+      {{ $chCounts := dict "bereshit" 50 "shemot" 40 "vayikra" 27 "bamidbar" 36 "devarim" 34 "yehoshua" 24 "shoftim" 21 "shmuel1" 31 "shmuel2" 24 "melakhim1" 22 "melakhim2" 25 "yeshayahu" 66 "yirmiyahu" 52 "yehezkel" 48 "hoshea" 14 "yoel" 4 "amos" 9 "ovadyah" 1 "yonah" 4 "mikhah" 7 "nahum" 3 "havakkuk" 3 "tzefanyah" 3 "haggai" 2 "zekharyah" 14 "malakhi" 3 "tehilim" 150 "mishlei" 31 "iyov" 42 "shir_hashirim" 8 "rut" 4 "ekhah" 5 "kohelet" 12 "esther" 10 "daniel" 12 "ezra" 10 "nekhemyah" 13 "divreiy_hayamim1" 29 "divreiy_hayamim2" 36 }}
+      {{ $maxCh := index $chCounts $book | default 50 }}
       {{ if gt $chInt 1 }}
-      <a href="/torah/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev" data-nav="prev" data-n="{{ sub $chInt 1 }}">&larr; Cap. {{ sub $chInt 1 }}</a>
+      <a href="/{{ $section }}/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev" data-nav="prev" data-n="{{ sub $chInt 1 }}">&larr; Cap. {{ sub $chInt 1 }}</a>
       {{ else }}<span></span>{{ end }}
-      <a href="/torah/{{ $book }}/" class="nav-list" data-book-es="{{ .Params.book_es }}" data-book-he="{{ $bookHe }}">{{ .Params.book_es }}</a>
+      <a href="/{{ $section }}/{{ $book }}/" class="nav-list" data-book-es="{{ .Params.book_es }}" data-book-he="{{ $bookHe }}">{{ .Params.book_es }}</a>
       {{ if lt $chInt $maxCh }}
-      <a href="/torah/{{ $book }}/{{ printf "%03d" (add $chInt 1) }}/" class="nav-next" data-nav="next" data-n="{{ add $chInt 1 }}">Cap. {{ add $chInt 1 }} &rarr;</a>
+      <a href="/{{ $section }}/{{ $book }}/{{ printf "%03d" (add $chInt 1) }}/" class="nav-next" data-nav="next" data-n="{{ add $chInt 1 }}">Cap. {{ add $chInt 1 }} &rarr;</a>
       {{ else }}<span></span>{{ end }}
     </nav>
   </section>
@@ -45,5 +47,5 @@
   </div>
 </div>
 
-<script>window.TORAH_CTX={{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "bookHe" $bookHe | jsonify }};</script>
+<script>window.TORAH_CTX={{ dict "section" $section "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "bookHe" $bookHe | jsonify }};</script>
 {{ end }}

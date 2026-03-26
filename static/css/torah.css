@@ -417,3 +417,45 @@ body.hide-es .verse-es { display: none; }
   .landing-tiles { order: 2; }
   .landing-books { order: 4; }
 }
+
+/* ===== LANDING SECTIONS (Torah / Nevi'im / Ketuvim) ===== */
+.landing-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+.landing-section-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.landing-section-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--fg);
+  padding: 4px 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 4px;
+}
+.landing-section-heading:hover { text-decoration: none; }
+.lsh-he {
+  font-family: var(--he-font);
+  font-size: 1.05em;
+  direction: rtl;
+}
+.lsh-es {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  color: var(--muted);
+}
+.lsh-arrow {
+  font-family: var(--ui-font);
+  font-size: 1em;
+  color: var(--accent);
+  margin-left: auto;
+  opacity: 0.7;
+}
+.landing-section-heading:hover .lsh-arrow { opacity: 1; }
+.landing-section-heading:hover .lsh-he { color: var(--accent); }

@@ -26,14 +26,23 @@
     </a>
   </div>
 
-  <div class="landing-books">
-    {{ range site.Sections }}
-    {{ range sort .Sections "Params.order" }}
-    <a href="{{ .Permalink }}" class="book-card">
-      <span class="book-card-he">{{ .Title }}</span>
-      <span class="book-card-es">{{ .Params.book_es }}</span>
-    </a>
-    {{ end }}
+  <div class="landing-sections">
+    {{ range sort site.Sections "Params.order" }}
+    <div class="landing-section-block">
+      <a href="{{ .Permalink }}" class="landing-section-heading">
+        <span class="lsh-he">{{ .Title }}</span>
+        <span class="lsh-es">{{ .Params.book_es }}</span>
+        <span class="lsh-arrow">›</span>
+      </a>
+      <div class="landing-books">
+        {{ range sort .Sections "Params.order" }}
+        <a href="{{ .Permalink }}" class="book-card">
+          <span class="book-card-he">{{ .Title }}</span>
+          <span class="book-card-es">{{ .Params.book_es }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
     {{ end }}
   </div>
 

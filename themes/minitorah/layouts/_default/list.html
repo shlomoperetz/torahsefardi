@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ if .Sections }}
   <div class="card">
-    <h1 class="torah-root-title">הַתּוֹרָה</h1>
+    <h1 class="torah-root-title">{{ .Title }}</h1>
     <div class="books-grid">
       {{ range sort .Sections "Params.order" }}
       <a href="{{ .Permalink }}" class="book-item">
@@ -14,7 +14,8 @@
   </div>
 {{ else if .Pages }}
   {{ $book := .Params.book }}
-  {{ $bookData := index .Site.Data.torah $book }}
+  {{ $section := .Section }}
+  {{ $bookData := index (index .Site.Data $section) $book }}
   <div class="card">
     <div class="book-header">
       <h1 class="book-title-he">{{ .Title }}</h1>

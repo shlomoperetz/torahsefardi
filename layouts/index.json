@@ -1,11 +1,12 @@
-{{- $books := .Site.Data.torah -}}
-[
 {{- $first := true -}}
+[
+{{- range $section, $books := .Site.Data -}}
 {{- range $book, $chapters := $books -}}
 {{- range $k, $ch := $chapters -}}
 {{- if not $first }},{{ end -}}
 {{- $first = false -}}
-{"book":{{ $book | jsonify }},"chapter":{{ $ch.chapter }},"url":"/torah/{{ $book }}/{{ $k }}/","book_he":{{ $ch.book_he | jsonify }},"book_es":{{ $ch.book_es | jsonify }},"title_he":{{ $ch.title_he | jsonify }},"es_preview":{{ if $ch.verses }}{{ with index $ch.verses 0 }}{{ .es | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }}}
+{"section":{{ $section | jsonify }},"book":{{ $book | jsonify }},"chapter":{{ $ch.chapter }},"url":"/{{ $section }}/{{ $book }}/{{ $k }}/","book_he":{{ $ch.book_he | jsonify }},"book_es":{{ $ch.book_es | jsonify }},"title_he":{{ $ch.title_he | jsonify }},"es_preview":{{ if $ch.verses }}{{ with index $ch.verses 0 }}{{ .es | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }}}
+{{- end -}}
 {{- end -}}
 {{- end }}
 ]

@@ -54,10 +54,12 @@ function applyView(){
 var CURRENT_LANG = 'es';
 var STRINGS = {
   es: {
-    brand_title: 'Torah Sefardí',
-    nav_home:    'Inicio',
-    nav_torah:   'Torá',
-    search_ph:   'Buscar libro o capítulo…',
+    brand_title:  'Torah Sefardí',
+    nav_home:     'Inicio',
+    nav_torah:    'Torá',
+    nav_neviim:   "Nevi'im",
+    nav_ketuvim:  'Ketuvim',
+    search_ph:    'Buscar libro o capítulo…',
     no_results:  'Sin resultados',
     landing_desc:'La Torá en hebreo con traducción al español sefardí',
     tile1_label: 'Empezar desde el principio',
@@ -68,10 +70,12 @@ var STRINGS = {
     ch_next: function(n){ return 'Cap. '+n+' →'; },
   },
   he: {
-    brand_title: 'תּוֹרָה סְפָרַדִּי',
-    nav_home:    'בית',
-    nav_torah:   'תּוֹרָה',
-    search_ph:   'חפש ספר או פרק…',
+    brand_title:  'תּוֹרָה סְפָרַדִּי',
+    nav_home:     'בית',
+    nav_torah:    'תּוֹרָה',
+    nav_neviim:   'נְבִיאִים',
+    nav_ketuvim:  'כְּתוּבִים',
+    search_ph:    'חפש ספר או פרק…',
     no_results:  'אין תוצאות',
     landing_desc:'התורה בעברית עם תרגום לספרדית',
     tile1_label: 'התחל מהתחלה',
@@ -188,8 +192,17 @@ document.addEventListener('keydown',function(e){
 });
 
 // INFINITE SCROLL
-var BOOK_CHAPTERS={bereshit:50,shemot:40,vayikra:27,bamidbar:36,devarim:34};
-var scrollState={book:null,bookEs:null,bookHe:null,nextChapter:null,prevChapter:null,maxChapters:0,loadingNext:false,loadingPrev:false};
+var BOOK_CHAPTERS={
+  bereshit:50,shemot:40,vayikra:27,bamidbar:36,devarim:34,
+  yehoshua:24,shoftim:21,shmuel1:31,shmuel2:24,melakhim1:22,melakhim2:25,
+  yeshayahu:66,yirmiyahu:52,yehezkel:48,hoshea:14,yoel:4,amos:9,
+  ovadyah:1,yonah:4,mikhah:7,nahum:3,havakkuk:3,tzefanyah:3,
+  haggai:2,zekharyah:14,malakhi:3,
+  tehilim:150,mishlei:31,iyov:42,shir_hashirim:8,rut:4,ekhah:5,
+  kohelet:12,esther:10,daniel:12,ezra:10,nekhemyah:13,
+  divreiy_hayamim1:29,divreiy_hayamim2:36
+};
+var scrollState={section:'torah',book:null,bookEs:null,bookHe:null,nextChapter:null,prevChapter:null,maxChapters:0,loadingNext:false,loadingPrev:false};
 var chObs=null;
 
 function initChapterObserver(){
@@ -199,7 +212,7 @@ function initChapterObserver(){
     entries.forEach(function(e){if(e.isIntersecting&&(!best||e.intersectionRatio>best.intersectionRatio))best=e;});
     if(best){
       var ch=best.target.dataset.chapter,book=best.target.dataset.book;
-      var url='/torah/'+book+'/'+String(ch).padStart(3,'0')+'/';
+      var url='/'+scrollState.section+'/'+book+'/'+String(ch).padStart(3,'0')+'/';
       if(location.pathname!==url){history.replaceState(null,'',url);document.title=(scrollState.bookEs||book)+' '+ch+' | Torah Sefardi';}
     }
   },{threshold:0.15,rootMargin:'-80px 0px -40% 0px'});
@@ -230,14 +243,15 @@ function buildSection(data,ch){
   var bk=CURRENT_LANG==='he'?bkHe:bkEs;
   var prev=ch>1?ch-1:null,next=ch<scrollState.maxChapters?ch+1:null;
   var base=scrollState.book;
+  var sec=scrollState.section||'torah';
   return '<div class="chapter-header">'
     +'<div class="chapter-label" data-ch="'+ch+'" data-book-es="'+bkEs+'" data-book-he="'+bkHe+'">'+bk+' '+ch+'</div>'
     +'<div class="chapter-he-title">'+(data.title_he||'')+'</div></div>'
     +'<div class="torah-verses">'+data.verses.map(buildVerse).join('')+'</div>'
     +'<nav class="torah-nav">'
-    +(prev?'<a href="/torah/'+base+'/'+String(prev).padStart(3,'0')+'/" class="nav-prev" data-nav="prev" data-n="'+prev+'">'+s.ch_prev(prev)+'</a>':'<span></span>')
-    +'<a href="/torah/'+base+'/" class="nav-list" data-book-es="'+bkEs+'" data-book-he="'+bkHe+'">'+bk+'</a>'
-    +(next?'<a href="/torah/'+base+'/'+String(next).padStart(3,'0')+'/" class="nav-next" data-nav="next" data-n="'+next+'">'+s.ch_next(next)+'</a>':'<span></span>')
+    +(prev?'<a href="/'+sec+'/'+base+'/'+String(prev).padStart(3,'0')+'/" class="nav-prev" data-nav="prev" data-n="'+prev+'">'+s.ch_prev(prev)+'</a>':'<span></span>')
+    +'<a href="/'+sec+'/'+base+'/" class="nav-list" data-book-es="'+bkEs+'" data-book-he="'+bkHe+'">'+bk+'</a>'
+    +(next?'<a href="/'+sec+'/'+base+'/'+String(next).padStart(3,'0')+'/" class="nav-next" data-nav="next" data-n="'+next+'">'+s.ch_next(next)+'</a>':'<span></span>')
     +'</nav>';
 }
 
@@ -249,7 +263,7 @@ async function loadNextChapter(){
   if(dots)dots.style.display='flex';
   try{
     var ch=scrollState.nextChapter;
-    var res=await fetch('/torah/'+scrollState.book+'/'+String(ch).padStart(3,'0')+'/index.json');
+    var res=await fetch('/'+scrollState.section+'/'+scrollState.book+'/'+String(ch).padStart(3,'0')+'/index.json');
     if(!res.ok)throw new Error(res.status);
     var data=await res.json();
     var feed=document.getElementById('chapters-feed');
@@ -275,7 +289,7 @@ async function loadPrevChapter(){
   scrollState.loadingPrev=true;
   try{
     var ch=scrollState.prevChapter;
-    var res=await fetch('/torah/'+scrollState.book+'/'+String(ch).padStart(3,'0')+'/index.json');
+    var res=await fetch('/'+scrollState.section+'/'+scrollState.book+'/'+String(ch).padStart(3,'0')+'/index.json');
     if(!res.ok)throw new Error(res.status);
     var data=await res.json();
     var feed=document.getElementById('chapters-feed');
@@ -310,6 +324,7 @@ function initTorahPage(){
   var ctx=window.TORAH_CTX;
   if(typeof ctx==='string'){try{ctx=JSON.parse(ctx);}catch(e){ctx=null;}}
   if(ctx&&ctx.book){
+    scrollState.section=ctx.section||'torah';
     scrollState.book=ctx.book;
     scrollState.bookEs=ctx.bookEs;
     scrollState.bookHe=ctx.bookHe||'';
