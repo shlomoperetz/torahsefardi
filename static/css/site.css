@@ -331,9 +331,8 @@ nav.bottombar .bbtn {
 .search-result-title { font-size: 15px; color: var(--muted); }
 
 /* ===== LANDING: ocultar toggles de vista en home ===== */
-body.is-landing .tnav-toggle {
-  visibility: hidden;
-  pointer-events: none;
+body.is-landing .tnav-view-wrap {
+  display: none;
 }
 
 /* ===== MODO HEBREO ===== */
