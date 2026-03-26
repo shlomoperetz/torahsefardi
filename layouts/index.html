@@ -28,6 +28,7 @@
 
   <div class="landing-sections">
     {{ range sort site.Sections "Params.order" }}
+    {{ if in (slice "torah" "neviim" "ketuvim") .Section }}
     <div class="landing-section-block">
       <a href="{{ .Permalink }}" class="landing-section-heading">
         <span class="lsh-he">{{ .Title }}</span>
@@ -43,6 +44,7 @@
         {{ end }}
       </div>
     </div>
+    {{ end }}
     {{ end }}
   </div>
 

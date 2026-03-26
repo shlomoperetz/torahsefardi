@@ -339,6 +339,7 @@ body.is-landing .tnav-view-wrap {
 html.lang-he .landing-wrap { direction: rtl; }
 html.lang-he .landing-books { direction: rtl; }
 html.lang-he .chapter-header { direction: rtl; }
+html.lang-he .tnav-view-wrap { display: none; }
 
 /* Lang dropdown mejorado */
 .lang-dropdown { position: relative; }
