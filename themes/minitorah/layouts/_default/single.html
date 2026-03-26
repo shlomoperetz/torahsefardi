@@ -2,14 +2,17 @@
 {{ $book := .Params.book }}
 {{ $num := printf "%03d" .Params.chapter }}
 {{ $data := index (index .Site.Data.torah $book) $num }}
-{{ $nextUrl := "" }}{{ with .NextInSection }}{{ $nextUrl = .Permalink }}{{ end }}
+{{ $bookHe := "" }}{{ if $data }}{{ $bookHe = $data.book_he }}{{ end }}
 
 <div id="chapters-feed">
   <div id="scroll-sentinel-top" style="height:1px"></div>
 
   <section class="chapter-section" data-book="{{ $book }}" data-chapter="{{ .Params.chapter }}" id="ch{{ .Params.chapter }}">
     <div class="chapter-header">
-      <div class="chapter-label">{{ .Params.book_es }} {{ .Params.chapter }}</div>
+      <div class="chapter-label"
+        data-ch="{{ .Params.chapter }}"
+        data-book-es="{{ .Params.book_es }}"
+        data-book-he="{{ $bookHe }}">{{ .Params.book_es }} {{ .Params.chapter }}</div>
       {{ if $data }}<div class="chapter-he-title">{{ $data.title_he }}</div>{{ end }}
     </div>
     {{ if $data }}
@@ -26,11 +29,11 @@
       {{ $chInt := .Params.chapter | int }}
       {{ $maxCh := 50 }}{{ if eq $book "shemot" }}{{ $maxCh = 40 }}{{ else if eq $book "vayikra" }}{{ $maxCh = 27 }}{{ else if eq $book "bamidbar" }}{{ $maxCh = 36 }}{{ else if eq $book "devarim" }}{{ $maxCh = 34 }}{{ end }}
       {{ if gt $chInt 1 }}
-      <a href="/torah/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev">&larr; Cap. {{ sub $chInt 1 }}</a>
+      <a href="/torah/{{ $book }}/{{ printf "%03d" (sub $chInt 1) }}/" class="nav-prev" data-nav="prev" data-n="{{ sub $chInt 1 }}">&larr; Cap. {{ sub $chInt 1 }}</a>
       {{ else }}<span></span>{{ end }}
-      <a href="/torah/{{ $book }}/" class="nav-list">{{ .Params.book_es }}</a>
+      <a href="/torah/{{ $book }}/" class="nav-list" data-book-es="{{ .Params.book_es }}" data-book-he="{{ $bookHe }}">{{ .Params.book_es }}</a>
       {{ if lt $chInt $maxCh }}
-      <a href="/torah/{{ $book }}/{{ printf "%03d" (add $chInt 1) }}/" class="nav-next">Cap. {{ add $chInt 1 }} &rarr;</a>
+      <a href="/torah/{{ $book }}/{{ printf "%03d" (add $chInt 1) }}/" class="nav-next" data-nav="next" data-n="{{ add $chInt 1 }}">Cap. {{ add $chInt 1 }} &rarr;</a>
       {{ else }}<span></span>{{ end }}
     </nav>
   </section>
@@ -42,5 +45,5 @@
   </div>
 </div>
 
-<script>window.TORAH_CTX={{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es | jsonify }};</script>
+<script>window.TORAH_CTX={{ dict "book" $book "chapter" .Params.chapter "bookEs" .Params.book_es "bookHe" $bookHe | jsonify }};</script>
 {{ end }}

@@ -333,6 +333,11 @@ body.is-landing .tnav-toggle {
   pointer-events: none;
 }
 
+/* ===== MODO HEBREO ===== */
+html.lang-he .landing-wrap { direction: rtl; }
+html.lang-he .landing-books { direction: rtl; }
+html.lang-he .chapter-header { direction: rtl; }
+
 /* Lang dropdown mejorado */
 .lang-dropdown { position: relative; }
 .tbar-lang {

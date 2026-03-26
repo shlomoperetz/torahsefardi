@@ -67,8 +67,8 @@
     </main>
 
     <nav class="bottombar" aria-label="Navegación">
-      <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/">Inicio</a>
-      <a class="bbtn {{ if in .RelPermalink "/torah/" }}active{{ end }}" href="/torah/">Torá</a>
+      <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/" data-i18n="nav_home">Inicio</a>
+      <a class="bbtn {{ if in .RelPermalink "/torah/" }}active{{ end }}" href="/torah/" data-i18n="nav_torah">Torá</a>
     </nav>
 
     <!-- Search -->
