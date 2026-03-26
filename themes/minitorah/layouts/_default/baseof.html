@@ -22,10 +22,10 @@
     <header class="topbar">
       <div class="topbar-inner">
 
-        <a href="/" class="brand">
-          <span class="brand-title" data-i18n="brand_title">Torah Sefardí</span>
-          <span class="brand-byline">by Shlomo Peretz</span>
-        </a>
+        <div class="brand">
+          <a href="/" class="brand-title" data-i18n="brand_title">Torah Sefardí</a>
+          <a class="brand-byline" href="https://shlomoperetz.com" target="_blank" rel="noopener">by Shlomo Peretz</a>
+        </div>
 
         <nav class="topbar-nav" aria-label="Controles">
           <div class="tnav-lang-wrap">
@@ -64,6 +64,20 @@
       <div class="page">
         {{ block "main" . }}{{ end }}
       </div>
+      <footer>
+        <p>
+          <a href="https://shlomoperetz.com" target="_blank" rel="noopener" class="footer-author">Por Shlomo Peretz →</a>
+        </p>
+        <p>
+          © {{ now.Year }}
+          &nbsp;·&nbsp;
+          <a href="https://birkathamazonsefardi.com">birkathamazonsefardi.com</a>
+          &nbsp;·&nbsp;
+          <a href="https://tehilimsefardi.com">tehilimsefardi.com</a>
+          &nbsp;·&nbsp;
+          <a href="https://siddursefardi.com">siddursefardi.com</a>
+        </p>
+      </footer>
     </main>
 
     <nav class="bottombar" aria-label="Navegación">
