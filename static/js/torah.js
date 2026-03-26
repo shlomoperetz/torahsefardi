@@ -50,6 +50,41 @@ function applyView(){
   if(be)be.classList.toggle('active',VS.es);
 }
 
+// ── Selector de idioma ──
+function toggleLangMenu(){
+  var m=document.getElementById('lang-menu');
+  if(m)m.classList.toggle('open');
+}
+document.addEventListener('click',function(e){
+  if(!e.target.closest('.tnav-lang-wrap')){
+    var m=document.getElementById('lang-menu');
+    if(m)m.classList.remove('open');
+  }
+});
+function setLang(lang){
+  var btn=document.getElementById('btn-lang');
+  document.querySelectorAll('.tnav-lang-opt').forEach(function(o){
+    o.classList.toggle('active',o.dataset.lang===lang);
+  });
+  if(btn)btn.textContent=lang==='he'?'עב':lang.toUpperCase();
+  localStorage.setItem('torah-lang',lang);
+  if(lang==='he'){VS.he=true;VS.es=false;}
+  else{VS.he=true;VS.es=true;}
+  applyView();
+  var m=document.getElementById('lang-menu');
+  if(m)m.classList.remove('open');
+}
+function initLang(){
+  var lang=localStorage.getItem('torah-lang')||'es';
+  var btn=document.getElementById('btn-lang');
+  if(btn)btn.textContent=lang==='he'?'עב':lang.toUpperCase();
+  document.querySelectorAll('.tnav-lang-opt').forEach(function(o){
+    o.classList.toggle('active',o.dataset.lang===lang);
+    o.addEventListener('click',function(){setLang(o.dataset.lang);});
+  });
+  if(lang==='he'){VS.he=true;VS.es=false;}
+}
+
 var SI=null;
 function openSearch(){
   var o=document.getElementById('searchOverlay'),p=document.getElementById('searchPanel');
@@ -200,6 +235,7 @@ function initTorahPage(){
   if(m)m.style.display=dark?'none':'';
   var sv=localStorage.getItem('VS_torah');
   if(sv){try{VS=JSON.parse(sv);}catch(e){}}
+  initLang();
   applyView();
   var ctx=window.TORAH_CTX;
   if(typeof ctx==='string'){try{ctx=JSON.parse(ctx);}catch(e){ctx=null;}}

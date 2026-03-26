@@ -28,6 +28,13 @@
         </a>
 
         <nav class="topbar-nav" aria-label="Controles">
+          <div class="tnav-lang-wrap">
+            <button class="tnav-lang" id="btn-lang" onclick="toggleLangMenu()" title="Idioma">ES</button>
+            <div class="tnav-lang-menu" id="lang-menu">
+              <button class="tnav-lang-opt active" data-lang="es">ES <span>Español</span></button>
+              <button class="tnav-lang-opt" data-lang="he">עב <span>עברית</span></button>
+            </div>
+          </div>
           <div class="tnav-group">
             <button class="tnav-btn tnav-toggle" id="btnHe" onclick="toggleView('he')" title="Hebreo">א</button>
             <button class="tnav-btn tnav-toggle" id="btnEs" onclick="toggleView('es')" title="Español">ES</button>
