@@ -54,6 +54,7 @@ function applyView(){
 var CURRENT_LANG = 'es';
 var STRINGS = {
   es: {
+    brand_title: 'Torah Sefardí',
     nav_home:    'Inicio',
     nav_torah:   'Torá',
     search_ph:   'Buscar libro o capítulo…',
@@ -67,6 +68,7 @@ var STRINGS = {
     ch_next: function(n){ return 'Cap. '+n+' →'; },
   },
   he: {
+    brand_title: 'תּוֹרָה סְפָרַדִּי',
     nav_home:    'בית',
     nav_torah:   'תּוֹרָה',
     search_ph:   'חפש ספר או פרק…',
