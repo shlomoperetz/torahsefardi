@@ -81,42 +81,43 @@
     {
       "num": 15,
       "he": "לֹא־תַעֲשׂ֥וּ עָ֙וֶל֙ בַּמִּשְׁפָּ֔ט לֹא־תִשָּׂ֣א פְנֵי־דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ׃",
-      "es": ""
+      "es": "No haréis injusticia en el juicio; no favorecerás el rostro del pobre, y no honrarás el rostro del grande; con justicia juzgarás a tu prójimo."
     },
     {
       "num": 16,
       "he": "לֹא־תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל־דַּ֣ם רֵעֶ֑ךָ<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בכתר ארם צובה היה כתוב רֵעֶ֑יךָ)</i> אֲנִ֖י יְהֹוָֽה׃",
-      "es": ""
+      "es": "No andarás como difamador entre tu pueblo; no te detendrás sobre la sangre de tu prójimo. Yo soy el Eterno."
     },
     {
       "num": 17,
       "he": "לֹֽא־תִשְׂנָ֥א אֶת־אָחִ֖יךָ בִּלְבָבֶ֑ךָ הוֹכֵ֤חַ תּוֹכִ֙יחַ֙ אֶת־עֲמִיתֶ֔ךָ וְלֹא־תִשָּׂ֥א עָלָ֖יו חֵֽטְא׃",
-      "es": ""
+      "es": "No aborrecerás a tu hermano en tu corazón; reprender reprenderás a tu prójimo, y no llevarás sobre él pecado."
     },
     {
       "num": 18,
       "he": "לֹֽא־תִקֹּ֤ם וְלֹֽא־תִטֹּר֙ אֶת־בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י יְהֹוָֽה׃",
-      "es": ""
+      "es": "No te vengarás y no guardarás rencor contra los hijos de tu pueblo, y amarás a tu prójimo como a ti mismo. Yo soy el Eterno."
     },
     {
       "num": 19,
       "he": "אֶֽת־חֻקֹּתַי֮ תִּשְׁמֹ֒רוּ֒ בְּהֶמְתְּךָ֙ לֹא־תַרְבִּ֣יעַ כִּלְאַ֔יִם שָׂדְךָ֖ לֹא־תִזְרַ֣ע כִּלְאָ֑יִם וּבֶ֤גֶד כִּלְאַ֙יִם֙ שַֽׁעַטְנֵ֔ז לֹ֥א יַעֲלֶ֖ה עָלֶֽיךָ׃",
-      "es": ""
+      "es": "Mis estatutos guardaréis: tu animal no harás aparear con especie diferente, tu campo no sembrarás con especies mezcladas, y vestimenta de especies mezcladas, shatnez, no subirá sobre ti.",
+      "nota": "shatnez — Término hebreo (שַׁעַטְנֵז) que designa la mezcla prohibida de lana y lino en una misma prenda; se mantiene en hebreo por ser término técnico sin equivalente semántico exacto en español."
     },
     {
       "num": 20,
       "he": "וְ֠אִ֠ישׁ כִּֽי־יִשְׁכַּ֨ב אֶת־אִשָּׁ֜ה שִׁכְבַת־זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהׇפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖הֿ לֹ֣א נִתַּן־לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי־לֹ֥א חֻפָּֽשָׁה׃",
-      "es": ""
+      "es": "Y un hombre que se acueste con una mujer con cópula de simiente, y ella sea sierva asignada a un hombre, y no haya sido redimida con rescate, o libertad no le haya sido dada, habrá indagación; no serán muertos, porque ella no había sido libertada."
     },
     {
       "num": 21,
       "he": "וְהֵבִ֤יא אֶת־אֲשָׁמוֹ֙ לַֽיהֹוָ֔ה אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד אֵ֖יל אָשָֽׁם׃",
-      "es": ""
+      "es": "Y traerá su ofrenda de culpa al Eterno, a la entrada de la tienda de reunión: un carnero de culpa."
     },
     {
       "num": 22,
       "he": "וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן בְּאֵ֤יל הָֽאָשָׁם֙ לִפְנֵ֣י יְהֹוָ֔ה עַל־חַטָּאת֖וֹ אֲשֶׁ֣ר חָטָ֑א וְנִסְלַ֣ח ל֔וֹ מֵחַטָּאת֖וֹ אֲשֶׁ֥ר חָטָֽא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y expiará por él el sacerdote con el carnero de la culpa ante el Eterno, por su pecado que pecó, y le será perdonado de su pecado que pecó."
     },
     {
       "num": 23,
