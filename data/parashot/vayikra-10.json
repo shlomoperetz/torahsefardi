@@ -1,0 +1,95 @@
+{
+  "nombre": "Bejukotai",
+  "nombre_he": "בְּחֻקֹּתַי",
+  "nombre_es": "En mis estatutos",
+  "libro": "vayikra",
+  "libro_es": "Levítico",
+  "libro_he": "וַיִּקְרָא",
+  "num": 10,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 26,
+      "v_start": 1,
+      "ch_end": 26,
+      "v_end": 3,
+      "ref_es": "Lev 26:1–3",
+      "url": "/torah/vayikra/026/#v1",
+      "primera_he": "לֹֽא־תַעֲשׂ֨וּ לָכֶ֜ם אֱלִילִ֗ם וּפֶ֤סֶל וּמַצֵּבָה֙ לֹֽא־תָ...",
+      "primera_es": "No os haréis ídolos, ni imagen tallada ni piedra erguida levantaréis para vosotr..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 26,
+      "v_start": 4,
+      "ch_end": 26,
+      "v_end": 7,
+      "ref_es": "Lev 26:4–7",
+      "url": "/torah/vayikra/026/#v4",
+      "primera_he": "וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֙רֶץ֙ יְב...",
+      "primera_es": "Y daré vuestras lluvias a su tiempo, y la tierra dará su producto, y el árbol de..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 26,
+      "v_start": 8,
+      "ch_end": 26,
+      "v_end": 46,
+      "ref_es": "Lev 26:8–46",
+      "url": "/torah/vayikra/026/#v8",
+      "primera_he": "וְרָדְפ֨וּ מִכֶּ֤ם חֲמִשָּׁה֙ מֵאָ֔ה וּמֵאָ֥ה מִכֶּ֖ם רְבָבָ...",
+      "primera_es": "Y perseguirán cinco de vosotros a cien, y cien de vosotros perseguirán a diez mi..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 27,
+      "v_start": 1,
+      "ch_end": 27,
+      "v_end": 15,
+      "ref_es": "Lev 27:1–15",
+      "url": "/torah/vayikra/027/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 27,
+      "v_start": 16,
+      "ch_end": 27,
+      "v_end": 21,
+      "ref_es": "Lev 27:16–21",
+      "url": "/torah/vayikra/027/#v16",
+      "primera_he": "וְאִ֣ם&thinsp;׀ מִשְּׂדֵ֣ה אֲחֻזָּת֗וֹ יַקְדִּ֥ישׁ אִישׁ֙ לַ...",
+      "primera_es": "Y si del campo de su posesión consagrare un hombre al Eterno, será tu valuación ..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 27,
+      "v_start": 22,
+      "ch_end": 27,
+      "v_end": 28,
+      "ref_es": "Lev 27:22–28",
+      "url": "/torah/vayikra/027/#v22",
+      "primera_he": "וְאִם֙ אֶת־שְׂדֵ֣ה מִקְנָת֔וֹ אֲשֶׁ֕ר לֹ֖א מִשְּׂדֵ֣ה אֲחֻזּ...",
+      "primera_es": "Y si un campo de su adquisición, que no es del campo de su heredad, consagra al ..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 27,
+      "v_start": 29,
+      "ch_end": 27,
+      "v_end": 34,
+      "ref_es": "Lev 27:29–34",
+      "url": "/torah/vayikra/027/#v29",
+      "primera_he": "כׇּל־חֵ֗רֶם אֲשֶׁ֧ר יׇחֳרַ֛ם מִן־הָאָדָ֖ם לֹ֣א יִפָּדֶ֑ה מ֖ו...",
+      "primera_es": "Todo consagrado al exterminio que sea consagrado al exterminio de entre los homb..."
+    }
+  ]
+}

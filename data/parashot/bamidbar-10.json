@@ -1,0 +1,95 @@
+{
+  "nombre": "Masei",
+  "nombre_he": "מַסְעֵי",
+  "nombre_es": "Jornadas",
+  "libro": "bamidbar",
+  "libro_es": "Números",
+  "libro_he": "בַּמִּדְבַּר",
+  "num": 10,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 33,
+      "v_start": 1,
+      "ch_end": 33,
+      "v_end": 10,
+      "ref_es": "Núm 33:1–10",
+      "url": "/torah/bamidbar/033/#v1",
+      "primera_he": "אֵ֜לֶּה מַסְעֵ֣י בְנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֥ר יָצְא֛וּ מֵאֶ֥רֶ...",
+      "primera_es": "Estas son las jornadas de los hijos de Yisrael, que salieron de la tierra de Mit..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 33,
+      "v_start": 11,
+      "ch_end": 33,
+      "v_end": 49,
+      "ref_es": "Núm 33:11–49",
+      "url": "/torah/bamidbar/033/#v11",
+      "primera_he": "וַיִּסְע֖וּ מִיַּם־ס֑וּף וַֽיַּחֲנ֖וּ בְּמִדְבַּר־סִֽין׃",
+      "primera_es": "Y partieron del mar de Suf y acamparon en el desierto de Sin."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 33,
+      "v_start": 50,
+      "ch_end": 34,
+      "v_end": 15,
+      "ref_es": "Núm 33:50–34:15",
+      "url": "/torah/bamidbar/033/#v50",
+      "primera_he": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב עַל־יַ...",
+      "primera_es": "Y habló el Eterno a Moshé en las llanuras de Moav, junto al Yardén de Yerijó, di..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 34,
+      "v_start": 16,
+      "ch_end": 34,
+      "v_end": 29,
+      "ref_es": "Núm 34:16–29",
+      "url": "/torah/bamidbar/034/#v16",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 35,
+      "v_start": 1,
+      "ch_end": 35,
+      "v_end": 8,
+      "ref_es": "Núm 35:1–8",
+      "url": "/torah/bamidbar/035/#v1",
+      "primera_he": "וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב עַל־יַ...",
+      "primera_es": "Y habló el Eterno a Moshé en las llanuras de Moav, junto al Yardén de Yerijó, di..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 35,
+      "v_start": 9,
+      "ch_end": 35,
+      "v_end": 34,
+      "ref_es": "Núm 35:9–34",
+      "url": "/torah/bamidbar/035/#v9",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 36,
+      "v_start": 1,
+      "ch_end": 36,
+      "v_end": 13,
+      "ref_es": "Núm 36:1–13",
+      "url": "/torah/bamidbar/036/#v1",
+      "primera_he": "וַֽיִּקְרְב֞וּ רָאשֵׁ֣י הָֽאָב֗וֹת לְמִשְׁפַּ֤חַת בְּנֵֽי־גִ...",
+      "primera_es": "Y se acercaron los jefes de los padres de la familia de los hijos de Guilad hijo..."
+    }
+  ]
+}

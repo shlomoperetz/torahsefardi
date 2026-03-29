@@ -1,0 +1,95 @@
+{
+  "nombre": "Koráj",
+  "nombre_he": "קֹרַח",
+  "nombre_es": "Koraj",
+  "libro": "bamidbar",
+  "libro_es": "Números",
+  "libro_he": "בַּמִּדְבַּר",
+  "num": 5,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 16,
+      "v_start": 1,
+      "ch_end": 16,
+      "v_end": 13,
+      "ref_es": "Núm 16:1–13",
+      "url": "/torah/bamidbar/016/#v1",
+      "primera_he": "וַיִּקַּ֣ח קֹ֔רַח בֶּן־יִצְהָ֥ר בֶּן־קְהָ֖ת בֶּן־לֵוִ֑י וְדָ...",
+      "primera_es": "Y tomó Córaj, hijo de Yitshar, hijo de Quehat, hijo de Leví, y Datán y Aviram, h..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 16,
+      "v_start": 14,
+      "ch_end": 16,
+      "v_end": 19,
+      "ref_es": "Núm 16:14–19",
+      "url": "/torah/bamidbar/016/#v14",
+      "primera_he": "אַ֡ף לֹ֣א אֶל־אֶ֩רֶץ֩ זָבַ֨ת חָלָ֤ב וּדְבַשׁ֙ הֲבִ֣יאֹתָ֔נוּ...",
+      "primera_es": "Ciertamente no nos has traído a una tierra que mana leche y miel, ni nos has dad..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 16,
+      "v_start": 20,
+      "ch_end": 17,
+      "v_end": 8,
+      "ref_es": "Núm 16:20–17:8",
+      "url": "/torah/bamidbar/016/#v20",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 17,
+      "v_start": 9,
+      "ch_end": 17,
+      "v_end": 15,
+      "ref_es": "Núm 17:9–15",
+      "url": "/torah/bamidbar/017/#v9",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 17,
+      "v_start": 16,
+      "ch_end": 17,
+      "v_end": 24,
+      "ref_es": "Núm 17:16–24",
+      "url": "/torah/bamidbar/017/#v16",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 17,
+      "v_start": 25,
+      "ch_end": 18,
+      "v_end": 20,
+      "ref_es": "Núm 17:25–18:20",
+      "url": "/torah/bamidbar/017/#v25",
+      "primera_he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה הָשֵׁ֞ב אֶת־מַטֵּ֤ה אַהֲרֹן֙...",
+      "primera_es": "Y dijo el Eterno a Moshé: «Devuelve la vara de Aharón ante el testimonio, como r..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 18,
+      "v_start": 21,
+      "ch_end": 18,
+      "v_end": 32,
+      "ref_es": "Núm 18:21–32",
+      "url": "/torah/bamidbar/018/#v21",
+      "primera_he": "וְלִבְנֵ֣י לֵוִ֔י הִנֵּ֥ה נָתַ֛תִּי כׇּל־מַֽעֲשֵׂ֥ר בְּיִשְׂ...",
+      "primera_es": "Y a los hijos de Leví, he aquí he dado todo diezmo en Yisrael por heredad, a cam..."
+    }
+  ]
+}

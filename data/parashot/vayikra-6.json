@@ -1,0 +1,95 @@
+{
+  "nombre": "Ajaré Mot",
+  "nombre_he": "אַחֲרֵי מוֹת",
+  "nombre_es": "Tras la muerte",
+  "libro": "vayikra",
+  "libro_es": "Levítico",
+  "libro_he": "וַיִּקְרָא",
+  "num": 6,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 16,
+      "v_start": 1,
+      "ch_end": 16,
+      "v_end": 17,
+      "ref_es": "Lev 16:1–17",
+      "url": "/torah/vayikra/016/#v1",
+      "primera_he": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה אַחֲרֵ֣י מ֔וֹת שְׁנֵ֖י בְּנ...",
+      "primera_es": "Y habló el Eterno a Moshé, después de la muerte de los dos hijos de Aharón, cuan..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 16,
+      "v_start": 18,
+      "ch_end": 16,
+      "v_end": 24,
+      "ref_es": "Lev 16:18–24",
+      "url": "/torah/vayikra/016/#v18",
+      "primera_he": "וְיָצָ֗א אֶל־הַמִּזְבֵּ֛חַ אֲשֶׁ֥ר לִפְנֵֽי־יְהֹוָ֖ה וְכִפֶּ...",
+      "primera_es": "Y saldrá hacia el altar que está delante del Eterno, y hará expiación sobre él; ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 16,
+      "v_start": 25,
+      "ch_end": 16,
+      "v_end": 34,
+      "ref_es": "Lev 16:25–34",
+      "url": "/torah/vayikra/016/#v25",
+      "primera_he": "וְאֵ֛ת חֵ֥לֶב הַֽחַטָּ֖את יַקְטִ֥יר הַמִּזְבֵּֽחָה׃",
+      "primera_es": "Y la grasa de la ofrenda por el pecado hará humear sobre el altar."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 17,
+      "v_start": 1,
+      "ch_end": 17,
+      "v_end": 7,
+      "ref_es": "Lev 17:1–7",
+      "url": "/torah/vayikra/017/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 17,
+      "v_start": 8,
+      "ch_end": 18,
+      "v_end": 5,
+      "ref_es": "Lev 17:8–18:5",
+      "url": "/torah/vayikra/017/#v8",
+      "primera_he": "וַאֲלֵהֶ֣ם תֹּאמַ֔ר אִ֥ישׁ אִישׁ֙ מִבֵּ֣ית יִשְׂרָאֵ֔ל וּמִן...",
+      "primera_es": "Y a ellos dirás: cualquier hombre de la casa de Yisrael, y del forastero que res..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 18,
+      "v_start": 6,
+      "ch_end": 18,
+      "v_end": 21,
+      "ref_es": "Lev 18:6–21",
+      "url": "/torah/vayikra/018/#v6",
+      "primera_he": "אִ֥ישׁ אִישׁ֙ אֶל־כׇּל־שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְ...",
+      "primera_es": "Cualquier hombre, a toda pariente de su carne no os acercaréis para descubrir de..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 18,
+      "v_start": 22,
+      "ch_end": 18,
+      "v_end": 30,
+      "ref_es": "Lev 18:22–30",
+      "url": "/torah/vayikra/018/#v22",
+      "primera_he": "וְאֶ֨ת־זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ...",
+      "primera_es": "Y con varón no te acostarás como se acuesta con mujer; abominación es."
+    }
+  ]
+}

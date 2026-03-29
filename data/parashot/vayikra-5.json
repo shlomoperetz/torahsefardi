@@ -1,0 +1,95 @@
+{
+  "nombre": "Metsora",
+  "nombre_he": "מְצֹרָע",
+  "nombre_es": "El leproso",
+  "libro": "vayikra",
+  "libro_es": "Levítico",
+  "libro_he": "וַיִּקְרָא",
+  "num": 5,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 14,
+      "v_start": 1,
+      "ch_end": 14,
+      "v_end": 12,
+      "ref_es": "Lev 14:1–12",
+      "url": "/torah/vayikra/014/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 14,
+      "v_start": 13,
+      "ch_end": 14,
+      "v_end": 20,
+      "ref_es": "Lev 14:13–20",
+      "url": "/torah/vayikra/014/#v13",
+      "primera_he": "וְשָׁחַ֣ט אֶת־הַכֶּ֗בֶשׂ בִּ֠מְק֠וֹם אֲשֶׁ֨ר יִשְׁחַ֧ט אֶת־ה...",
+      "primera_es": "Y degollará el cordero en el lugar donde se degüella la ofrenda por el pecado y ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 14,
+      "v_start": 21,
+      "ch_end": 14,
+      "v_end": 32,
+      "ref_es": "Lev 14:21–32",
+      "url": "/torah/vayikra/014/#v21",
+      "primera_he": "וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒ וְ֠לָקַ֠ח כֶּ֣ב...",
+      "primera_es": "Y si es pobre y su mano no alcanza, tomará un cordero como ofrenda de culpa para..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 14,
+      "v_start": 33,
+      "ch_end": 14,
+      "v_end": 53,
+      "ref_es": "Lev 14:33–53",
+      "url": "/torah/vayikra/014/#v33",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 14,
+      "v_start": 54,
+      "ch_end": 15,
+      "v_end": 15,
+      "ref_es": "Lev 14:54–15:15",
+      "url": "/torah/vayikra/014/#v54",
+      "primera_he": "זֹ֖את הַתּוֹרָ֑ה לְכׇל־נֶ֥גַע הַצָּרַ֖עַת וְלַנָּֽתֶק׃",
+      "primera_es": "Esta es la ley para toda afección de tsaráat y para la tiña."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 15,
+      "v_start": 16,
+      "ch_end": 15,
+      "v_end": 28,
+      "ref_es": "Lev 15:16–28",
+      "url": "/torah/vayikra/015/#v16",
+      "primera_he": "וְאִ֕ישׁ כִּֽי־תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת־זָ֑רַע וְרָחַ֥ץ בּ...",
+      "primera_es": "Y un hombre del cual salga emisión de simiente, lavará con agua toda su carne, y..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 15,
+      "v_start": 29,
+      "ch_end": 15,
+      "v_end": 33,
+      "ref_es": "Lev 15:29–33",
+      "url": "/torah/vayikra/015/#v29",
+      "primera_he": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י תִּֽקַּֽח־לָהּ֙ שְׁתֵּ֣י תֹרִ֔ים א֥...",
+      "primera_es": "Y en el día octavo tomará para sí dos tórtolas o dos pichones de paloma, y los t..."
+    }
+  ]
+}

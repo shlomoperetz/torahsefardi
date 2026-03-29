@@ -1,0 +1,95 @@
+{
+  "nombre": "Tetsavé",
+  "nombre_he": "תְּצַוֶּה",
+  "nombre_es": "Ordenarás",
+  "libro": "shemot",
+  "libro_es": "Éxodo",
+  "libro_he": "שְׁמוֹת",
+  "num": 8,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 27,
+      "v_start": 1,
+      "ch_end": 28,
+      "v_end": 12,
+      "ref_es": "Éx 27:1–28:12",
+      "url": "/torah/shemot/027/#v1",
+      "primera_he": "וְעָשִׂ֥יתָ אֶת־הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨...",
+      "primera_es": "Y harás el altar de madera de shitim; cinco codos de largo y cinco codos de anch..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 28,
+      "v_start": 13,
+      "ch_end": 28,
+      "v_end": 30,
+      "ref_es": "Éx 28:13–30",
+      "url": "/torah/shemot/028/#v13",
+      "primera_he": "וְעָשִׂ֥יתָ מִשְׁבְּצֹ֖ת זָהָֽב׃",
+      "primera_es": "Y harás engastes de oro."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 28,
+      "v_start": 31,
+      "ch_end": 28,
+      "v_end": 43,
+      "ref_es": "Éx 28:31–43",
+      "url": "/torah/shemot/028/#v31",
+      "primera_he": "וְעָשִׂ֛יתָ אֶת־מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת׃",
+      "primera_es": "Y harás el manto del efod enteramente de tejélet."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 29,
+      "v_start": 1,
+      "ch_end": 29,
+      "v_end": 18,
+      "ref_es": "Éx 29:1–18",
+      "url": "/torah/shemot/029/#v1",
+      "primera_he": "וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם...",
+      "primera_es": "Y esto es lo que harás para ellos para santificarlos para que me sirvan como sac..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 29,
+      "v_start": 19,
+      "ch_end": 29,
+      "v_end": 37,
+      "ref_es": "Éx 29:19–37",
+      "url": "/torah/shemot/029/#v19",
+      "primera_he": "וְלָ֣קַחְתָּ֔ אֵ֖ת הָאַ֣יִל הַשֵּׁנִ֑י וְסָמַ֨ךְ אַהֲרֹ֧ן וּ...",
+      "primera_es": "Y tomarás el segundo carnero, y Aharón y sus hijos apoyarán sus manos sobre la c..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 29,
+      "v_start": 38,
+      "ch_end": 29,
+      "v_end": 46,
+      "ref_es": "Éx 29:38–46",
+      "url": "/torah/shemot/029/#v38",
+      "primera_he": "וְזֶ֕ה אֲשֶׁ֥ר תַּעֲשֶׂ֖ה עַל־הַמִּזְבֵּ֑חַ כְּבָשִׂ֧ים בְּנ...",
+      "primera_es": "Y esto es lo que harás sobre el altar: corderos hijos de un año, dos al día, con..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 30,
+      "v_start": 1,
+      "ch_end": 30,
+      "v_end": 10,
+      "ref_es": "Éx 30:1–10",
+      "url": "/torah/shemot/030/#v1",
+      "primera_he": "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תּ...",
+      "primera_es": "Y harás un altar para quemar incienso; de madera de shitim lo harás."
+    }
+  ]
+}

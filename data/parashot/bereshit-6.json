@@ -1,0 +1,95 @@
+{
+  "nombre": "Toledot",
+  "nombre_he": "תּוֹלְדֹת",
+  "nombre_es": "Generaciones",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 6,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 25,
+      "v_start": 1,
+      "ch_end": 26,
+      "v_end": 5,
+      "ref_es": "Gén 25:1–26:5",
+      "url": "/torah/bereshit/025/#v1",
+      "primera_he": "וַיֹּ֧סֶף אַבְרָהָ֛ם וַיִּקַּ֥ח אִשָּׁ֖ה וּשְׁמָ֥הּ קְטוּרָֽ...",
+      "primera_es": "Y añadió Avraham y tomó una mujer, y su nombre era Queturá."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 26,
+      "v_start": 6,
+      "ch_end": 26,
+      "v_end": 12,
+      "ref_es": "Gén 26:6–12",
+      "url": "/torah/bereshit/026/#v6",
+      "primera_he": "וַיֵּ֥שֶׁב יִצְחָ֖ק בִּגְרָֽר׃",
+      "primera_es": "Y habitó Yitsjak en Guerar."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 26,
+      "v_start": 13,
+      "ch_end": 26,
+      "v_end": 22,
+      "ref_es": "Gén 26:13–22",
+      "url": "/torah/bereshit/026/#v13",
+      "primera_he": "וַיִּגְדַּ֖ל הָאִ֑ישׁ וַיֵּ֤לֶךְ הָלוֹךְ֙ וְגָדֵ֔ל עַ֥ד כִּֽ...",
+      "primera_es": "Y creció el hombre, y fue creciendo más y más, hasta que se hizo muy grande."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 26,
+      "v_start": 23,
+      "ch_end": 26,
+      "v_end": 29,
+      "ref_es": "Gén 26:23–29",
+      "url": "/torah/bereshit/026/#v23",
+      "primera_he": "וַיַּ֥עַל מִשָּׁ֖ם בְּאֵ֥ר שָֽׁבַע׃",
+      "primera_es": "Y subió de allí a Beer Shéva."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 26,
+      "v_start": 30,
+      "ch_end": 27,
+      "v_end": 27,
+      "ref_es": "Gén 26:30–27:27",
+      "url": "/torah/bereshit/026/#v30",
+      "primera_he": "וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃",
+      "primera_es": "Y les hizo un banquete, y comieron y bebieron."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 27,
+      "v_start": 28,
+      "ch_end": 28,
+      "v_end": 4,
+      "ref_es": "Gén 27:28–28:4",
+      "url": "/torah/bereshit/027/#v28",
+      "primera_he": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם וּמִשְׁמַנּ...",
+      "primera_es": "Y que te dé Elohim del rocío de los cielos y de las grosuras de la tierra, y abu..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 28,
+      "v_start": 5,
+      "ch_end": 28,
+      "v_end": 9,
+      "ref_es": "Gén 28:5–9",
+      "url": "/torah/bereshit/028/#v5",
+      "primera_he": "וַיִּשְׁלַ֤ח יִצְחָק֙ אֶֽת־יַעֲקֹ֔ב וַיֵּ֖לֶךְ פַּדֶּ֣נָֽה א...",
+      "primera_es": "Y envió Yitsjak a Yaakov, y fue a Padán Aram, a Laván hijo de Betuel el arameo, ..."
+    }
+  ]
+}

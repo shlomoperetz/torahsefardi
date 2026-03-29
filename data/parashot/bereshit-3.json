@@ -1,0 +1,95 @@
+{
+  "nombre": "Lej-Lejá",
+  "nombre_he": "לֶךְ-לְךָ",
+  "nombre_es": "Ve a ti mismo",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 3,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 12,
+      "v_start": 1,
+      "ch_end": 12,
+      "v_end": 13,
+      "ref_es": "Gén 12:1–13",
+      "url": "/torah/bereshit/012/#v1",
+      "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־אַבְרָ֔ם לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִ...",
+      "primera_es": "Y dijo el Eterno a Avram: «Vete de tu tierra y de tu parentela y de la casa de t..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 12,
+      "v_start": 14,
+      "ch_end": 13,
+      "v_end": 4,
+      "ref_es": "Gén 12:14–13:4",
+      "url": "/torah/bereshit/012/#v14",
+      "primera_he": "וַיְהִ֕י כְּב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָה וַיִּרְא֤וּ הַמִּצְר...",
+      "primera_es": "Y fue que al llegar Avram a Egipto, los egipcios vieron a la mujer, que era muy ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 13,
+      "v_start": 5,
+      "ch_end": 13,
+      "v_end": 18,
+      "ref_es": "Gén 13:5–18",
+      "url": "/torah/bereshit/013/#v5",
+      "primera_he": "וְגַ֨ם־לְל֔וֹט הַהֹלֵ֖ךְ אֶת־אַבְרָ֑ם הָיָ֥ה צֹאן־וּבָקָ֖ר ו...",
+      "primera_es": "Y también Lot, que iba con Avram, tenía ovejas y ganado vacuno y tiendas."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 14,
+      "v_start": 1,
+      "ch_end": 14,
+      "v_end": 20,
+      "ref_es": "Gén 14:1–20",
+      "url": "/torah/bereshit/014/#v1",
+      "primera_he": "וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ...",
+      "primera_es": "Y fue en los días de Amrafel rey de Shinear, Aryoj rey de Elasar, Kedorlaómer re..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 14,
+      "v_start": 21,
+      "ch_end": 15,
+      "v_end": 6,
+      "ref_es": "Gén 14:21–15:6",
+      "url": "/torah/bereshit/014/#v21",
+      "primera_he": "וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם תֶּן־לִ֣י הַנֶּ֔פֶשׁ ...",
+      "primera_es": "Y dijo el rey de Sedom a Avram: «Dame las personas, y los bienes toma para ti»."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 15,
+      "v_start": 7,
+      "ch_end": 17,
+      "v_end": 6,
+      "ref_es": "Gén 15:7–17:6",
+      "url": "/torah/bereshit/015/#v7",
+      "primera_he": "וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהֹוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא...",
+      "primera_es": "Y dijo a él: «Yo soy el Eterno, que te saqué de Ur de los Kasdim, para darte est..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 17,
+      "v_start": 7,
+      "ch_end": 17,
+      "v_end": 27,
+      "ref_es": "Gén 17:7–27",
+      "url": "/torah/bereshit/017/#v7",
+      "primera_he": "וַהֲקִמֹתִ֨י אֶת־בְּרִיתִ֜י בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֨ין זַרְ...",
+      "primera_es": "Y estableceré Mi pacto entre Mí y entre ti, y entre tu descendencia después de t..."
+    }
+  ]
+}

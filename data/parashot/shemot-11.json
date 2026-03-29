@@ -1,0 +1,95 @@
+{
+  "nombre": "Pekudé",
+  "nombre_he": "פְקוּדֵי",
+  "nombre_es": "Cuentas de",
+  "libro": "shemot",
+  "libro_es": "Éxodo",
+  "libro_he": "שְׁמוֹת",
+  "num": 11,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 38,
+      "v_start": 1,
+      "ch_end": 39,
+      "v_end": 1,
+      "ref_es": "Éx 38:1–39:1",
+      "url": "/torah/shemot/038/#v1",
+      "primera_he": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ א...",
+      "primera_es": "Y hizo el altar del holocausto de madera de shitim; cinco codos su largo y cinco..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 39,
+      "v_start": 2,
+      "ch_end": 39,
+      "v_end": 21,
+      "ref_es": "Éx 39:2–21",
+      "url": "/torah/shemot/039/#v2",
+      "primera_he": "וַיַּ֖עַשׂ אֶת־הָאֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹ...",
+      "primera_es": "E hizo el efod: oro, azul celeste y púrpura y toláat shaní y lino torzal."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 39,
+      "v_start": 22,
+      "ch_end": 39,
+      "v_end": 32,
+      "ref_es": "Éx 39:22–32",
+      "url": "/torah/shemot/039/#v22",
+      "primera_he": "וַיַּ֛עַשׂ אֶת־מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תּ...",
+      "primera_es": "Y hizo el manto del efod, obra de tejedor, todo de azul celeste."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 39,
+      "v_start": 33,
+      "ch_end": 39,
+      "v_end": 43,
+      "ref_es": "Éx 39:33–43",
+      "url": "/torah/shemot/039/#v33",
+      "primera_he": "וַיָּבִ֤יאוּ אֶת־הַמִּשְׁכָּן֙ אֶל־מֹשֶׁ֔ה אֶת־הָאֹ֖הֶל וְאֶ...",
+      "primera_es": "Y trajeron el mishkán a Moshé, la tienda y todos sus utensilios: sus ganchos, su..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 40,
+      "v_start": 1,
+      "ch_end": 40,
+      "v_end": 16,
+      "ref_es": "Éx 40:1–16",
+      "url": "/torah/shemot/040/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 40,
+      "v_start": 17,
+      "ch_end": 40,
+      "v_end": 27,
+      "ref_es": "Éx 40:17–27",
+      "url": "/torah/shemot/040/#v17",
+      "primera_he": "וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּא...",
+      "primera_es": "Y fue en el mes primero, en el año segundo, en el primero del mes, que fue erigi..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 40,
+      "v_start": 28,
+      "ch_end": 40,
+      "v_end": 38,
+      "ref_es": "Éx 40:28–38",
+      "url": "/torah/shemot/040/#v28",
+      "primera_he": "וַיָּ֛שֶׂם אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+      "primera_es": "Y colocó la cortina de la entrada del mishkán."
+    }
+  ]
+}

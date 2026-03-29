@@ -1,0 +1,95 @@
+{
+  "nombre": "Vayerá",
+  "nombre_he": "וַיֵּרָא",
+  "nombre_es": "Y se apareció",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 4,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 18,
+      "v_start": 1,
+      "ch_end": 18,
+      "v_end": 14,
+      "ref_es": "Gén 18:1–14",
+      "url": "/torah/bereshit/018/#v1",
+      "primera_he": "וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשׁ...",
+      "primera_es": "Y se le apareció el Eterno en los encinos de Mamré, y él estaba sentado a la ent..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 18,
+      "v_start": 15,
+      "ch_end": 18,
+      "v_end": 33,
+      "ref_es": "Gén 18:15–33",
+      "url": "/torah/bereshit/018/#v15",
+      "primera_he": "וַתְּכַחֵ֨שׁ שָׂרָ֧ה&thinsp;׀&thinsp;לֵאמֹ֛ר לֹ֥א צָחַ֖קְתִּ...",
+      "primera_es": "Y Sara negó diciendo: «No me reí», porque tuvo temor. Y él dijo: «No, pues te re..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 19,
+      "v_start": 1,
+      "ch_end": 19,
+      "v_end": 20,
+      "ref_es": "Gén 19:1–20",
+      "url": "/torah/bereshit/019/#v1",
+      "primera_he": "וַ֠יָּבֹ֠אוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֙מָה֙ בָּעֶ֔רֶב וְל֖...",
+      "primera_es": "Y llegaron los dos malajim a Sedom al atardecer, y Lot estaba sentado en la puer..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 19,
+      "v_start": 21,
+      "ch_end": 21,
+      "v_end": 4,
+      "ref_es": "Gén 19:21–21:4",
+      "url": "/torah/bereshit/019/#v21",
+      "primera_he": "וַיֹּ֣אמֶר אֵלָ֔יו הִנֵּה֙ נָשָׂ֣אתִי פָנֶ֔יךָ גַּ֖ם לַדָּבָ...",
+      "primera_es": "Y le dijo: «He aquí que he levantado tu rostro también en este asunto, para no d..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 21,
+      "v_start": 5,
+      "ch_end": 21,
+      "v_end": 21,
+      "ref_es": "Gén 21:5–21",
+      "url": "/torah/bereshit/021/#v5",
+      "primera_he": "וְאַבְרָהָ֖ם בֶּן־מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְ...",
+      "primera_es": "Y Avraham tenía cien años cuando le nació Yitsjak, su hijo."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 21,
+      "v_start": 22,
+      "ch_end": 21,
+      "v_end": 34,
+      "ref_es": "Gén 21:22–34",
+      "url": "/torah/bereshit/021/#v22",
+      "primera_he": "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ ...",
+      "primera_es": "Y fue en aquel tiempo que dijo Avimélej y Fijol, jefe de su ejército, a Avraham,..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 22,
+      "v_start": 1,
+      "ch_end": 22,
+      "v_end": 24,
+      "ref_es": "Gén 22:1–24",
+      "url": "/torah/bereshit/022/#v1",
+      "primera_he": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖...",
+      "primera_es": "Y fue después de estas cosas, que Elohim probó a Avraham, y le dijo: «Avraham». ..."
+    }
+  ]
+}

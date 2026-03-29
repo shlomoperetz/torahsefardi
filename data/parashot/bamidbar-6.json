@@ -1,0 +1,95 @@
+{
+  "nombre": "Jukat",
+  "nombre_he": "חֻקַּת",
+  "nombre_es": "Estatuto",
+  "libro": "bamidbar",
+  "libro_es": "Números",
+  "libro_he": "בַּמִּדְבַּר",
+  "num": 6,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 19,
+      "v_start": 1,
+      "ch_end": 19,
+      "v_end": 17,
+      "ref_es": "Núm 19:1–17",
+      "url": "/torah/bamidbar/019/#v1",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 19,
+      "v_start": 18,
+      "ch_end": 20,
+      "v_end": 6,
+      "ref_es": "Núm 19:18–20:6",
+      "url": "/torah/bamidbar/019/#v18",
+      "primera_he": "וְלָקַ֨ח אֵז֜וֹב וְטָבַ֣ל בַּמַּ֘יִם֮ אִ֣ישׁ טָהוֹר֒ וְהִזָּ...",
+      "primera_es": "Y tomará hisopo y lo mojará en el agua un hombre puro, y rociará sobre la tienda..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 20,
+      "v_start": 7,
+      "ch_end": 20,
+      "v_end": 13,
+      "ref_es": "Núm 20:7–13",
+      "url": "/torah/bamidbar/020/#v7",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 20,
+      "v_start": 14,
+      "ch_end": 20,
+      "v_end": 21,
+      "ref_es": "Núm 20:14–21",
+      "url": "/torah/bamidbar/020/#v14",
+      "primera_he": "וַיִּשְׁלַ֨ח מֹשֶׁ֧ה מַלְאָכִ֛ים מִקָּדֵ֖שׁ אֶל־מֶ֣לֶךְ אֱד֑...",
+      "primera_es": "Y envió Moshé mensajeros desde Cadesh al rey de Edom: «Así ha dicho tu hermano Y..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 20,
+      "v_start": 22,
+      "ch_end": 21,
+      "v_end": 9,
+      "ref_es": "Núm 20:22–21:9",
+      "url": "/torah/bamidbar/020/#v22",
+      "primera_he": "וַיִּסְע֖וּ מִקָּדֵ֑שׁ וַיָּבֹ֧אוּ בְנֵֽי־יִשְׂרָאֵ֛ל כׇּל־ה...",
+      "primera_es": "Y partieron de Cadesh, y llegaron los hijos de Yisrael, toda la congregación, al..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 21,
+      "v_start": 10,
+      "ch_end": 21,
+      "v_end": 20,
+      "ref_es": "Núm 21:10–20",
+      "url": "/torah/bamidbar/021/#v10",
+      "primera_he": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנ֖וּ בְּאֹבֹֽת׃",
+      "primera_es": "Y partieron los hijos de Yisrael, y acamparon en Ovot."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 21,
+      "v_start": 21,
+      "ch_end": 22,
+      "v_end": 1,
+      "ref_es": "Núm 21:21–22:1",
+      "url": "/torah/bamidbar/021/#v21",
+      "primera_he": "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיחֹ֥ן מֶֽלֶךְ־הָא...",
+      "primera_es": "Y envió Yisrael mensajeros a Sijón, rey del emorí, diciendo:"
+    }
+  ]
+}

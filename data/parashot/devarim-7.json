@@ -1,0 +1,95 @@
+{
+  "nombre": "Ki Tavó",
+  "nombre_he": "כִּי-תָבוֹא",
+  "nombre_es": "Cuando entres",
+  "libro": "devarim",
+  "libro_es": "Deuteronomio",
+  "libro_he": "דְּבָרִים",
+  "num": 7,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 26,
+      "v_start": 1,
+      "ch_end": 26,
+      "v_end": 11,
+      "ref_es": "Deut 26:1–11",
+      "url": "/torah/devarim/026/#v1",
+      "primera_he": "וְהָיָה֙ כִּֽי־תָב֣וֹא אֶל־הָאָ֔רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔...",
+      "primera_es": "Y será que cuando entres a la tierra que el Eterno tu Elohim te da por heredad, ..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 26,
+      "v_start": 12,
+      "ch_end": 26,
+      "v_end": 15,
+      "ref_es": "Deut 26:12–15",
+      "url": "/torah/devarim/026/#v12",
+      "primera_he": "כִּ֣י תְכַלֶּ֞ה לַ֠עְשֵׂ֠ר אֶת־כׇּל־מַעְשַׂ֧ר תְּבוּאָתְךָ֛ ...",
+      "primera_es": "Cuando termines de diezmar todo el diezmo de tu cosecha en el año tercero, el añ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 26,
+      "v_start": 16,
+      "ch_end": 26,
+      "v_end": 19,
+      "ref_es": "Deut 26:16–19",
+      "url": "/torah/devarim/026/#v16",
+      "primera_he": "הַיּ֣וֹם הַזֶּ֗ה יְהֹוָ֨ה אֱלֹהֶ֜יךָ מְצַוְּךָ֧ לַעֲשׂ֛וֹת א...",
+      "primera_es": "Este día, el Eterno tu Elohim te manda cumplir estos estatutos y estos juicios; ..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 27,
+      "v_start": 1,
+      "ch_end": 27,
+      "v_end": 10,
+      "ref_es": "Deut 27:1–10",
+      "url": "/torah/devarim/027/#v1",
+      "primera_he": "וַיְצַ֤ו מֹשֶׁה֙ וְזִקְנֵ֣י יִשְׂרָאֵ֔ל אֶת־הָעָ֖ם לֵאמֹ֑ר ש...",
+      "primera_es": "Y ordenó Moshé y los ancianos de Yisrael al pueblo, diciendo: «Guarda todo el ma..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 27,
+      "v_start": 11,
+      "ch_end": 28,
+      "v_end": 6,
+      "ref_es": "Deut 27:11–28:6",
+      "url": "/torah/devarim/027/#v11",
+      "primera_he": "וַיְצַ֤ו מֹשֶׁה֙ אֶת־הָעָ֔ם בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃",
+      "primera_es": "Y ordenó Moshé al pueblo en aquel día, diciendo:"
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 28,
+      "v_start": 7,
+      "ch_end": 28,
+      "v_end": 69,
+      "ref_es": "Deut 28:7–69",
+      "url": "/torah/devarim/028/#v7",
+      "primera_he": "יִתֵּ֨ן יְהֹוָ֤ה אֶת־אֹיְבֶ֙יךָ֙ הַקָּמִ֣ים עָלֶ֔יךָ נִגָּפִ...",
+      "primera_es": "El Eterno entregará a tus enemigos que se levantan contra ti, derrotados delante..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 29,
+      "v_start": 1,
+      "ch_end": 29,
+      "v_end": 8,
+      "ref_es": "Deut 29:1–8",
+      "url": "/torah/devarim/029/#v1",
+      "primera_he": "וַיִּקְרָ֥א מֹשֶׁ֛ה אֶל־כׇּל־יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם...",
+      "primera_es": "Y llamó Moshé a todo Yisrael y les dijo: «Vosotros habéis visto todo lo que hizo..."
+    }
+  ]
+}

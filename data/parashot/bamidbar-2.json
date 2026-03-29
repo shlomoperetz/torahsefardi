@@ -1,0 +1,95 @@
+{
+  "nombre": "Nasó",
+  "nombre_he": "נָשֹׂא",
+  "nombre_es": "Eleva",
+  "libro": "bamidbar",
+  "libro_es": "Números",
+  "libro_he": "בַּמִּדְבַּר",
+  "num": 2,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 4,
+      "v_start": 1,
+      "ch_end": 4,
+      "v_end": 17,
+      "ref_es": "Núm 4:1–17",
+      "url": "/torah/bamidbar/004/#v1",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 4,
+      "v_start": 18,
+      "ch_end": 4,
+      "v_end": 49,
+      "ref_es": "Núm 4:18–49",
+      "url": "/torah/bamidbar/004/#v18",
+      "primera_he": "אַל־תַּכְרִ֕יתוּ אֶת־שֵׁ֖בֶט מִשְׁפְּחֹ֣ת הַקְּהָתִ֑י מִתּ֖ו...",
+      "primera_es": "No extirpéis la tribu de las familias del kehatí de en medio de los leviím."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 5,
+      "v_start": 1,
+      "ch_end": 5,
+      "v_end": 10,
+      "ref_es": "Núm 5:1–10",
+      "url": "/torah/bamidbar/005/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 5,
+      "v_start": 11,
+      "ch_end": 6,
+      "v_end": 27,
+      "ref_es": "Núm 5:11–6:27",
+      "url": "/torah/bamidbar/005/#v11",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 7,
+      "v_start": 1,
+      "ch_end": 7,
+      "v_end": 41,
+      "ref_es": "Núm 7:1–41",
+      "url": "/torah/bamidbar/007/#v1",
+      "primera_he": "וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים אֶת־הַמִּשְׁכּ...",
+      "primera_es": "Y fue en el día en que terminó Moshé de erigir el mishkán, que lo ungió y lo san..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 7,
+      "v_start": 42,
+      "ch_end": 7,
+      "v_end": 71,
+      "ref_es": "Núm 7:42–71",
+      "url": "/torah/bamidbar/007/#v42",
+      "primera_he": "בַּיּוֹם֙ הַשִּׁשִּׁ֔י נָשִׂ֖יא לִבְנֵ֣י גָ֑ד אֶלְיָסָ֖ף בֶּ...",
+      "primera_es": "En el día sexto, el príncipe de los hijos de Gad: Elyasaf ben Deuel."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 7,
+      "v_start": 72,
+      "ch_end": 7,
+      "v_end": 89,
+      "ref_es": "Núm 7:72–89",
+      "url": "/torah/bamidbar/007/#v72",
+      "primera_he": "בְּיוֹם֙ עַשְׁתֵּ֣י עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י אָשֵׁ֑ר ...",
+      "primera_es": "En el día undécimo, el príncipe de los hijos de Ashér: Paguiel hijo de Ojrán."
+    }
+  ]
+}

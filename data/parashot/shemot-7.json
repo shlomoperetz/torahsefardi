@@ -1,0 +1,95 @@
+{
+  "nombre": "Terumá",
+  "nombre_he": "תְּרוּמָה",
+  "nombre_es": "Ofrenda",
+  "libro": "shemot",
+  "libro_es": "Éxodo",
+  "libro_he": "שְׁמוֹת",
+  "num": 7,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 25,
+      "v_start": 1,
+      "ch_end": 25,
+      "v_end": 16,
+      "ref_es": "Éx 25:1–16",
+      "url": "/torah/shemot/025/#v1",
+      "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé, diciendo:"
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 25,
+      "v_start": 17,
+      "ch_end": 25,
+      "v_end": 30,
+      "ref_es": "Éx 25:17–30",
+      "url": "/torah/shemot/025/#v17",
+      "primera_he": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֙צִי֙ א...",
+      "primera_es": "Y harás una cubierta de oro puro; dos codos y medio su largo, y un codo y medio ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 25,
+      "v_start": 31,
+      "ch_end": 26,
+      "v_end": 14,
+      "ref_es": "Éx 25:31–26:14",
+      "url": "/torah/shemot/025/#v31",
+      "primera_he": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה*(בס...",
+      "primera_es": "Y harás una menorá de oro puro; labrada a martillo será hecha la menorá, su base..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 26,
+      "v_start": 15,
+      "ch_end": 26,
+      "v_end": 30,
+      "ref_es": "Éx 26:15–30",
+      "url": "/torah/shemot/026/#v15",
+      "primera_he": "וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים...",
+      "primera_es": "Y harás los tablones para el mishkán, de madera de shitim, enhiestos."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 26,
+      "v_start": 31,
+      "ch_end": 26,
+      "v_end": 37,
+      "ref_es": "Éx 26:31–37",
+      "url": "/torah/shemot/026/#v31",
+      "primera_he": "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁ...",
+      "primera_es": "Y harás una cortina de azul, y púrpura, y toláat shaní, y lino torcido; obra de ..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 27,
+      "v_start": 1,
+      "ch_end": 27,
+      "v_end": 8,
+      "ref_es": "Éx 27:1–8",
+      "url": "/torah/shemot/027/#v1",
+      "primera_he": "וְעָשִׂ֥יתָ אֶת־הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨...",
+      "primera_es": "Y harás el altar de madera de shitim; cinco codos de largo y cinco codos de anch..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 27,
+      "v_start": 9,
+      "ch_end": 27,
+      "v_end": 19,
+      "ref_es": "Éx 27:9–19",
+      "url": "/torah/shemot/027/#v9",
+      "primera_he": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־תֵּ֠ימ...",
+      "primera_es": "Y harás el atrio del mishkán; para el lado del néguev, hacia el sur, cortinas pa..."
+    }
+  ]
+}

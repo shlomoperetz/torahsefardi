@@ -1,0 +1,95 @@
+{
+  "nombre": "Vayeshev",
+  "nombre_he": "וַיֵּשֶׁב",
+  "nombre_es": "Y se asentó",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 9,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 37,
+      "v_start": 1,
+      "ch_end": 37,
+      "v_end": 11,
+      "ref_es": "Gén 37:1–11",
+      "url": "/torah/bereshit/037/#v1",
+      "primera_he": "וַיֵּ֣שֶׁב יַעֲקֹ֔ב בְּאֶ֖רֶץ מְגוּרֵ֣י אָבִ֑יו בְּאֶ֖רֶץ כּ...",
+      "primera_es": "Y se estableció Yaakov en la tierra de las peregrinaciones de su padre, en la ti..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 37,
+      "v_start": 12,
+      "ch_end": 37,
+      "v_end": 22,
+      "ref_es": "Gén 37:12–22",
+      "url": "/torah/bereshit/037/#v12",
+      "primera_he": "וַיֵּלְכ֖וּ אֶחָ֑יו לִרְע֛וֹת אֶׄתׄ־צֹ֥אן אֲבִיהֶ֖ם בִּשְׁכֶ...",
+      "primera_es": "Y fueron sus hermanos a apacentar el rebaño de su padre en Shejem."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 37,
+      "v_start": 23,
+      "ch_end": 37,
+      "v_end": 36,
+      "ref_es": "Gén 37:23–36",
+      "url": "/torah/bereshit/037/#v23",
+      "primera_he": "וַיְהִ֕י כַּֽאֲשֶׁר־בָּ֥א יוֹסֵ֖ף אֶל־אֶחָ֑יו וַיַּפְשִׁ֤יטו...",
+      "primera_es": "Y sucedió que cuando llegó Yosef a sus hermanos, despojaron a Yosef de su túnica..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 38,
+      "v_start": 1,
+      "ch_end": 38,
+      "v_end": 30,
+      "ref_es": "Gén 38:1–30",
+      "url": "/torah/bereshit/038/#v1",
+      "primera_he": "וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֵּ֥רֶד יְהוּדָ֖ה מֵאֵ֣ת אֶחָ֑יו...",
+      "primera_es": "Y fue en aquel tiempo que Yehudá descendió de junto a sus hermanos, y se dirigió..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 39,
+      "v_start": 1,
+      "ch_end": 39,
+      "v_end": 6,
+      "ref_es": "Gén 39:1–6",
+      "url": "/torah/bereshit/039/#v1",
+      "primera_he": "וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְר...",
+      "primera_es": "Y Yosef fue llevado a Mitsráyim, y lo compró Potifar, oficial de Paró, capitán d..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 39,
+      "v_start": 7,
+      "ch_end": 39,
+      "v_end": 23,
+      "ref_es": "Gén 39:7–23",
+      "url": "/torah/bereshit/039/#v7",
+      "primera_he": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־א...",
+      "primera_es": "Y fue después de estas cosas, y alzó la mujer de su señor sus ojos hacia Yosef, ..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 40,
+      "v_start": 1,
+      "ch_end": 40,
+      "v_end": 23,
+      "ref_es": "Gén 40:1–23",
+      "url": "/torah/bereshit/040/#v1",
+      "primera_he": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָ֥טְא֛וּ מַשְׁקֵ֥ה מ...",
+      "primera_es": "Y sucedió después de estas cosas que pecaron el copero del rey de Mitsráyim y el..."
+    }
+  ]
+}

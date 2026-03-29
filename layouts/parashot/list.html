@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="parasha-list-wrap">
+  <div class="parasha-list-head">
+    <h1 class="parasha-list-title">פָּרָשִׁיּוֹת</h1>
+    <p class="parasha-list-desc">Las 54 porciones semanales de la Torá</p>
+  </div>
+
+  {{ $books := slice "bereshit" "shemot" "vayikra" "bamidbar" "devarim" }}
+  {{ $bookNames := dict "bereshit" "Génesis" "shemot" "Éxodo" "vayikra" "Levítico" "bamidbar" "Números" "devarim" "Deuteronomio" }}
+  {{ $bookHe := dict "bereshit" "בְּרֵאשִׁית" "shemot" "שְׁמוֹת" "vayikra" "וַיִּקְרָא" "bamidbar" "בַּמִּדְבַּר" "devarim" "דְּבָרִים" }}
+
+  {{ range $books }}
+    {{ $libro := . }}
+    {{ $pages := where $.Site.RegularPages "Params.libro" $libro }}
+    {{ $sorted := sort $pages "Params.num" }}
+    {{ if $sorted }}
+    <div class="parasha-book-section">
+      <div class="parasha-book-heading">
+        <span class="pbh-he">{{ index $bookHe $libro }}</span>
+        <span class="pbh-es">{{ index $bookNames $libro }}</span>
+      </div>
+      <div class="parasha-grid">
+        {{ range $sorted }}
+        <a href="{{ .Permalink }}" class="parasha-card">
+          <span class="pc-num">{{ .Params.num }}</span>
+          <span class="pc-he">{{ .Params.nombre_he }}</span>
+          <span class="pc-nombre">{{ .Title }}</span>
+          <span class="pc-es">{{ .Params.nombre_es }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,95 @@
+{
+  "nombre": "Vayigash",
+  "nombre_he": "וַיִּגַּשׁ",
+  "nombre_es": "Y se acercó",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 11,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 44,
+      "v_start": 1,
+      "ch_end": 44,
+      "v_end": 13,
+      "ref_es": "Gén 44:1–13",
+      "url": "/torah/bereshit/044/#v1",
+      "primera_he": "וַיְצַ֞ו אֶת־אֲשֶׁ֣ר עַל־בֵּיתוֹ֮ לֵאמֹר֒ מַלֵּ֞א אֶת־אַמְתּ...",
+      "primera_es": "Y ordenó al que estaba sobre su casa, diciendo: «Llena los costales de los hombr..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 44,
+      "v_start": 14,
+      "ch_end": 45,
+      "v_end": 7,
+      "ref_es": "Gén 44:14–45:7",
+      "url": "/torah/bereshit/044/#v14",
+      "primera_he": "וַיָּבֹ֨א יְהוּדָ֤ה וְאֶחָיו֙ בֵּ֣יתָה יוֹסֵ֔ף וְה֖וּא עוֹדֶ...",
+      "primera_es": "Y vino Yehudá y sus hermanos a la casa de Yosef, y él aún estaba allí; y cayeron..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 45,
+      "v_start": 8,
+      "ch_end": 45,
+      "v_end": 18,
+      "ref_es": "Gén 45:8–18",
+      "url": "/torah/bereshit/045/#v8",
+      "primera_he": "וְעַתָּ֗ה לֹֽא־אַתֶּ֞ם שְׁלַחְתֶּ֤ם אֹתִי֙ הֵ֔נָּה כִּ֖י הָא...",
+      "primera_es": "Y ahora, no vosotros me enviasteis aquí, sino Elohim; y me puso por padre para P..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 45,
+      "v_start": 19,
+      "ch_end": 45,
+      "v_end": 27,
+      "ref_es": "Gén 45:19–27",
+      "url": "/torah/bereshit/045/#v19",
+      "primera_he": "וְאַתָּ֥ה צֻוֵּ֖יתָה זֹ֣את עֲשׂ֑וּ קְחוּ־לָכֶם֩ מֵאֶ֨רֶץ מִצ...",
+      "primera_es": "Y tú has sido ordenado: esto haced; tomad para vosotros de la tierra de Mitsráyi..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 45,
+      "v_start": 28,
+      "ch_end": 46,
+      "v_end": 27,
+      "ref_es": "Gén 45:28–46:27",
+      "url": "/torah/bereshit/045/#v28",
+      "primera_he": "וַיֹּ֙אמֶר֙ יִשְׂרָאֵ֔ל רַ֛ב עוֹד־יוֹסֵ֥ף בְּנִ֖י חָ֑י אֵֽלְ...",
+      "primera_es": "Y dijo Yisrael: «Basta; aún Yosef mi hijo vive. Iré y lo veré antes de que muera..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 46,
+      "v_start": 28,
+      "ch_end": 47,
+      "v_end": 10,
+      "ref_es": "Gén 46:28–47:10",
+      "url": "/torah/bereshit/046/#v28",
+      "primera_he": "וְאֶת־יְהוּדָ֞ה שָׁלַ֤ח לְפָנָיו֙ אֶל־יוֹסֵ֔ף לְהוֹרֹ֥ת לְפָ...",
+      "primera_es": "Y a Yehudá envió delante de él, a Yosef, para indicar delante de él hacia Goshen..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 47,
+      "v_start": 11,
+      "ch_end": 47,
+      "v_end": 27,
+      "ref_es": "Gén 47:11–27",
+      "url": "/torah/bereshit/047/#v11",
+      "primera_he": "וַיּוֹשֵׁ֣ב יוֹסֵף֮ אֶת־אָבִ֣יו וְאֶת־אֶחָיו֒ וַיִּתֵּ֨ן לָה...",
+      "primera_es": "Y asentó Yosef a su padre y a sus hermanos, y les dio posesión en la tierra de M..."
+    }
+  ]
+}

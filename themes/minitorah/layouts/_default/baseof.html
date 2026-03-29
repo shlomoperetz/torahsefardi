@@ -83,6 +83,7 @@
     <nav class="bottombar" aria-label="Navegación">
       <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/" data-i18n="nav_home">Inicio</a>
       <a class="bbtn {{ if in .RelPermalink "/torah/" }}active{{ end }}" href="/torah/" data-i18n="nav_torah">Torá</a>
+      <a class="bbtn {{ if in .RelPermalink "/parashot/" }}active{{ end }}" href="/parashot/" data-i18n="nav_parashot">Parashot</a>
       <a class="bbtn {{ if in .RelPermalink "/neviim/" }}active{{ end }}" href="/neviim/" data-i18n="nav_neviim">Nevi'im</a>
       <a class="bbtn {{ if in .RelPermalink "/ketuvim/" }}active{{ end }}" href="/ketuvim/" data-i18n="nav_ketuvim">Ketuvim</a>
     </nav>

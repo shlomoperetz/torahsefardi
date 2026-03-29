@@ -1,0 +1,95 @@
+{
+  "nombre": "Ki Tisá",
+  "nombre_he": "כִּי תִשָּׂא",
+  "nombre_es": "Cuando tomes",
+  "libro": "shemot",
+  "libro_es": "Éxodo",
+  "libro_he": "שְׁמוֹת",
+  "num": 9,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 30,
+      "v_start": 1,
+      "ch_end": 31,
+      "v_end": 17,
+      "ref_es": "Éx 30:1–31:17",
+      "url": "/torah/shemot/030/#v1",
+      "primera_he": "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תּ...",
+      "primera_es": "Y harás un altar para quemar incienso; de madera de shitim lo harás."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 31,
+      "v_start": 18,
+      "ch_end": 33,
+      "v_end": 11,
+      "ref_es": "Éx 31:18–33:11",
+      "url": "/torah/shemot/031/#v18",
+      "primera_he": "וַיִּתֵּ֣ן אֶל־מֹשֶׁ֗ה כְּכַלֹּתוֹ֙ לְדַבֵּ֤ר אִתּוֹ֙ בְּהַ֣...",
+      "primera_es": "Y dio a Moshé, cuando acabó de hablar con él en el monte Sinay, las dos tablas d..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 33,
+      "v_start": 12,
+      "ch_end": 33,
+      "v_end": 16,
+      "ref_es": "Éx 33:12–16",
+      "url": "/torah/shemot/033/#v12",
+      "primera_he": "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־יְהֹוָ֗ה רְ֠אֵ֠ה אַתָּ֞ה אֹמֵ֤ר אֵלַי...",
+      "primera_es": "Y dijo Moshé al Eterno: «Mira, Tú me dices: Haz subir a este pueblo, pero no me ..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 33,
+      "v_start": 17,
+      "ch_end": 33,
+      "v_end": 23,
+      "ref_es": "Éx 33:17–23",
+      "url": "/torah/shemot/033/#v17",
+      "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה גַּ֣ם אֶת־הַדָּבָ֥ר הַזֶּ֛ה ...",
+      "primera_es": "Y dijo el Eterno a Moshé: «También esta cosa que has hablado haré, porque has ha..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 34,
+      "v_start": 1,
+      "ch_end": 34,
+      "v_end": 9,
+      "ref_es": "Éx 34:1–9",
+      "url": "/torah/shemot/034/#v1",
+      "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה פְּסׇל־לְךָ֛ שְׁנֵֽי־לֻחֹ֥ת ...",
+      "primera_es": "Y dijo el Eterno a Moshé: «Talla para ti dos tablas de piedra como las primeras,..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 34,
+      "v_start": 10,
+      "ch_end": 34,
+      "v_end": 26,
+      "ref_es": "Éx 34:10–26",
+      "url": "/torah/shemot/034/#v10",
+      "primera_he": "וַיֹּ֗אמֶר הִנֵּ֣ה אָנֹכִי֮ כֹּרֵ֣ת בְּרִית֒ נֶ֤גֶד כׇּֽל־עַ...",
+      "primera_es": "Y dijo: «He aquí que yo establezco un pacto; ante todo tu pueblo haré maravillas..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 34,
+      "v_start": 27,
+      "ch_end": 34,
+      "v_end": 35,
+      "ref_es": "Éx 34:27–35",
+      "url": "/torah/shemot/034/#v27",
+      "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כְּתׇב־לְךָ֖ אֶת־הַדְּבָרִ֣י...",
+      "primera_es": "Y dijo el Eterno a Moshé: «Escribe para ti estas palabras, pues conforme a estas..."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "nombre": "Jayé Sará",
+  "nombre_he": "חַיֵּי שָׂרָה",
+  "nombre_es": "Vida de Sara",
+  "libro": "bereshit",
+  "libro_es": "Génesis",
+  "libro_he": "בְּרֵאשִׁית",
+  "num": 5,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 23,
+      "v_start": 1,
+      "ch_end": 23,
+      "v_end": 16,
+      "ref_es": "Gén 23:1–16",
+      "url": "/torah/bereshit/023/#v1",
+      "primera_he": "וַיִּהְיוּ֙ חַיֵּ֣י שָׂרָ֔ה מֵאָ֥ה שָׁנָ֛ה וְעֶשְׂרִ֥ים שָׁנ...",
+      "primera_es": "Y fueron los años de vida de Sarah cien años y veinte años y siete años; los año..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 23,
+      "v_start": 17,
+      "ch_end": 24,
+      "v_end": 9,
+      "ref_es": "Gén 23:17–24:9",
+      "url": "/torah/bereshit/023/#v17",
+      "primera_he": "וַיָּ֣קׇם&thinsp;׀ שְׂדֵ֣ה עֶפְר֗וֹן אֲשֶׁר֙ בַּמַּכְפֵּלָ֔ה...",
+      "primera_es": "Y se confirmó el campo de Efrón que está en Majpelá, que está frente a Mamré: el..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 24,
+      "v_start": 10,
+      "ch_end": 24,
+      "v_end": 26,
+      "ref_es": "Gén 24:10–26",
+      "url": "/torah/bereshit/024/#v10",
+      "primera_he": "וַיִּקַּ֣ח הָ֠עֶ֠בֶד עֲשָׂרָ֨ה גְמַלִּ֜ים מִגְּמַלֵּ֤י אֲדֹנ...",
+      "primera_es": "Y tomó el siervo diez camellos de los camellos de su señor, y se fue, y todo lo ..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 24,
+      "v_start": 27,
+      "ch_end": 24,
+      "v_end": 52,
+      "ref_es": "Gén 24:27–52",
+      "url": "/torah/bereshit/024/#v27",
+      "primera_he": "וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם א...",
+      "primera_es": "Y dijo: «Bendito sea el Eterno, Elohim de mi señor Avraham, que no ha abandonado..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 24,
+      "v_start": 53,
+      "ch_end": 24,
+      "v_end": 67,
+      "ref_es": "Gén 24:53–67",
+      "url": "/torah/bereshit/024/#v53",
+      "primera_he": "וַיּוֹצֵ֨א הָעֶ֜בֶד כְּלֵי־כֶ֨סֶף וּכְלֵ֤י זָהָב֙ וּבְגָדִ֔י...",
+      "primera_es": "Y sacó el siervo objetos de plata y objetos de oro y vestidos, y los dio a Rivká..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 25,
+      "v_start": 1,
+      "ch_end": 25,
+      "v_end": 11,
+      "ref_es": "Gén 25:1–11",
+      "url": "/torah/bereshit/025/#v1",
+      "primera_he": "וַיֹּ֧סֶף אַבְרָהָ֛ם וַיִּקַּ֥ח אִשָּׁ֖ה וּשְׁמָ֥הּ קְטוּרָֽ...",
+      "primera_es": "Y añadió Avraham y tomó una mujer, y su nombre era Queturá."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 25,
+      "v_start": 12,
+      "ch_end": 25,
+      "v_end": 18,
+      "ref_es": "Gén 25:12–18",
+      "url": "/torah/bereshit/025/#v12",
+      "primera_he": "וְאֵ֛לֶּה תֹּלְדֹ֥ת יִשְׁמָעֵ֖אל בֶּן־אַבְרָהָ֑ם אֲשֶׁ֨ר יָל...",
+      "primera_es": "Y estas son las generaciones de Yishmael hijo de Avraham, al que dio a luz Hagar..."
+    }
+  ]
+}

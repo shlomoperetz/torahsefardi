@@ -462,3 +462,241 @@ h1.landing-main-title {
 }
 .landing-section-heading:hover .lsh-arrow { opacity: 1; }
 .landing-section-heading:hover .lsh-he { color: var(--accent); }
+
+/* ===== PARASHOT LIST ===== */
+.parasha-list-wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1.5em var(--pad) 5em;
+}
+.parasha-list-head {
+  text-align: center;
+  padding: 2rem 0 2rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.parasha-list-title {
+  font-family: var(--he-font);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+}
+.parasha-list-desc {
+  font-family: var(--ui-font);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.parasha-book-section {
+  margin-bottom: 2rem;
+}
+.parasha-book-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.8rem;
+}
+.pbh-he {
+  font-family: var(--he-font);
+  font-size: 1.05em;
+  direction: rtl;
+}
+.pbh-es {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  color: var(--muted);
+}
+.parasha-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+}
+.parasha-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 14px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--fg);
+  transition: background 0.15s, border-color 0.15s;
+  text-align: center;
+  gap: 3px;
+}
+.parasha-card:hover {
+  background: var(--accent-soft);
+  border-color: rgba(212,175,55,0.3);
+  text-decoration: none;
+}
+.pc-num {
+  font-family: var(--ui-font);
+  font-size: 0.5em;
+  color: var(--muted);
+  opacity: 0.6;
+  line-height: 1;
+}
+.pc-he {
+  font-family: var(--he-font);
+  font-size: 0.9em;
+  direction: rtl;
+  line-height: 1.2;
+}
+.pc-nombre {
+  font-family: var(--ui-font);
+  font-size: 0.58em;
+  font-weight: 600;
+  color: var(--fg);
+  line-height: 1.2;
+}
+.pc-es {
+  font-family: var(--ui-font);
+  font-size: 0.5em;
+  color: var(--muted);
+  opacity: 0.7;
+}
+
+/* ===== PARASHA SINGLE ===== */
+.parasha-single-wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 1.5em var(--pad) 5em;
+  direction: ltr;
+}
+.parasha-header {
+  text-align: center;
+  padding: 1.5rem 0 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.parasha-num-badge {
+  font-family: var(--ui-font);
+  font-size: 0.5em;
+  color: var(--muted);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+.parasha-title-he {
+  font-family: var(--he-font);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--gold);
+  margin: 0 0 0.3rem;
+  line-height: 1.2;
+  direction: rtl;
+}
+.parasha-title-es {
+  font-family: var(--ui-font);
+  font-size: 0.65em;
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 0.4rem;
+}
+.parasha-libro {
+  font-family: var(--ui-font);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+.aliyot-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+@media (min-width: 500px) {
+  .aliyot-grid { grid-template-columns: 1fr 1fr; }
+}
+.aliya-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--fg);
+  transition: background 0.15s, border-color 0.15s;
+}
+.aliya-card:hover {
+  background: var(--accent-soft);
+  border-color: rgba(212,175,55,0.35);
+  text-decoration: none;
+}
+.aliya-num-he {
+  font-family: var(--he-font);
+  font-size: 1.4em;
+  color: var(--gold);
+  line-height: 1;
+  direction: rtl;
+}
+.aliya-label {
+  font-family: var(--ui-font);
+  font-size: 0.5em;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.aliya-ref {
+  font-family: var(--ui-font);
+  font-size: 0.6em;
+  font-weight: 600;
+  color: var(--fg);
+  margin-top: 2px;
+}
+.aliya-preview-he {
+  font-family: var(--he-font);
+  font-size: 0.7em;
+  direction: rtl;
+  text-align: right;
+  color: var(--fg);
+  opacity: 0.8;
+  line-height: 1.4;
+  margin-top: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.aliya-preview-es {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.parasha-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--border);
+  font-family: var(--ui-font);
+  font-size: 0.6em;
+  gap: 8px;
+}
+.pnav-btn {
+  color: var(--gold);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 8px;
+  transition: background 0.15s;
+}
+.pnav-btn:hover { background: var(--accent-soft); text-decoration: none; }
+.pnav-center {
+  color: var(--muted);
+  text-decoration: none;
+}
+.pnav-center:hover { color: var(--gold); text-decoration: none; }

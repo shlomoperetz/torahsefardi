@@ -1,0 +1,23 @@
+{
+  "nombre": "Vayelej",
+  "nombre_he": "וַיֵּלֶךְ",
+  "nombre_es": "Y fue",
+  "libro": "devarim",
+  "libro_es": "Deuteronomio",
+  "libro_he": "דְּבָרִים",
+  "num": 9,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 31,
+      "v_start": 1,
+      "ch_end": 31,
+      "v_end": 30,
+      "ref_es": "Deut 31:1–30",
+      "url": "/torah/devarim/031/#v1",
+      "primera_he": "וַיֵּ֖לֶךְ מֹשֶׁ֑ה וַיְדַבֵּ֛ר אֶת־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶ...",
+      "primera_es": "Y fue Moshé y habló estas palabras a todo Yisrael."
+    }
+  ]
+}

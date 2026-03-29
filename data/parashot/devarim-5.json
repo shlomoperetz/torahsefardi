@@ -1,0 +1,95 @@
+{
+  "nombre": "Shoftim",
+  "nombre_he": "שֹׁפְטִים",
+  "nombre_es": "Jueces",
+  "libro": "devarim",
+  "libro_es": "Deuteronomio",
+  "libro_he": "דְּבָרִים",
+  "num": 5,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 16,
+      "v_start": 1,
+      "ch_end": 17,
+      "v_end": 13,
+      "ref_es": "Deut 16:1–17:13",
+      "url": "/torah/devarim/016/#v1",
+      "primera_he": "שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהֹוָ֖ה...",
+      "primera_es": "Guarda el mes de aviv y harás pésaj al Eterno tu Elohim, porque en el mes de avi..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 17,
+      "v_start": 14,
+      "ch_end": 17,
+      "v_end": 20,
+      "ref_es": "Deut 17:14–20",
+      "url": "/torah/devarim/017/#v14",
+      "primera_he": "כִּֽי־תָבֹ֣א אֶל־הָאָ֗רֶץ אֲשֶׁ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ נֹתֵ֣...",
+      "primera_es": "Cuando vengas a la tierra que el Eterno tu Elohim te da, y la heredes y habites ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 18,
+      "v_start": 1,
+      "ch_end": 18,
+      "v_end": 5,
+      "ref_es": "Deut 18:1–5",
+      "url": "/torah/devarim/018/#v1",
+      "primera_he": "לֹֽא־יִ֠הְיֶ֠ה לַכֹּהֲנִ֨ים הַלְוִיִּ֜ם כׇּל־שֵׁ֧בֶט לֵוִ֛י ...",
+      "primera_es": "No tendrán los sacerdotes levitas, toda la tribu de Leví, porción ni heredad con..."
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 18,
+      "v_start": 6,
+      "ch_end": 18,
+      "v_end": 13,
+      "ref_es": "Deut 18:6–13",
+      "url": "/torah/devarim/018/#v6",
+      "primera_he": "וְכִֽי־יָבֹ֨א הַלֵּוִ֜י מֵאַחַ֤ד שְׁעָרֶ֙יךָ֙ מִכׇּל־יִשְׂרָ...",
+      "primera_es": "Y cuando venga el levita de una de tus puertas, de todo Yisrael, donde él reside..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 18,
+      "v_start": 14,
+      "ch_end": 19,
+      "v_end": 13,
+      "ref_es": "Deut 18:14–19:13",
+      "url": "/torah/devarim/018/#v14",
+      "primera_he": "כִּ֣י&thinsp;׀ הַגּוֹיִ֣ם הָאֵ֗לֶּה אֲשֶׁ֤ר אַתָּה֙ יוֹרֵ֣שׁ...",
+      "primera_es": "Porque estas naciones que tú desposees, a adivinos de nubes y a adivinos escucha..."
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 19,
+      "v_start": 14,
+      "ch_end": 20,
+      "v_end": 9,
+      "ref_es": "Deut 19:14–20:9",
+      "url": "/torah/devarim/019/#v14",
+      "primera_he": "לֹ֤א תַסִּיג֙ גְּב֣וּל רֵֽעֲךָ֔ אֲשֶׁ֥ר גָּבְל֖וּ רִאשֹׁנִ֑י...",
+      "primera_es": "No moverás el lindero de tu prójimo, que establecieron los primeros, en tu hered..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 20,
+      "v_start": 10,
+      "ch_end": 21,
+      "v_end": 9,
+      "ref_es": "Deut 20:10–21:9",
+      "url": "/torah/devarim/020/#v10",
+      "primera_he": "כִּֽי־תִקְרַ֣ב אֶל־עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵל...",
+      "primera_es": "Cuando te acerques a una ciudad para combatir contra ella, la convocarás a la pa..."
+    }
+  ]
+}

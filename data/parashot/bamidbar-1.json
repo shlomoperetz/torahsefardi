@@ -1,0 +1,95 @@
+{
+  "nombre": "Bamidbar",
+  "nombre_he": "בַּמִּדְבַּר",
+  "nombre_es": "En el desierto",
+  "libro": "bamidbar",
+  "libro_es": "Números",
+  "libro_he": "בַּמִּדְבַּר",
+  "num": 1,
+  "aliyot": [
+    {
+      "num": 1,
+      "num_he": "א",
+      "ch_start": 1,
+      "v_start": 1,
+      "ch_end": 1,
+      "v_end": 19,
+      "ref_es": "Núm 1:1–19",
+      "url": "/torah/bamidbar/001/#v1",
+      "primera_he": "וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣...",
+      "primera_es": "Y habló el Eterno a Moshé en el desierto de Sinay, en la tienda de reunión, en e..."
+    },
+    {
+      "num": 2,
+      "num_he": "ב",
+      "ch_start": 1,
+      "v_start": 20,
+      "ch_end": 1,
+      "v_end": 54,
+      "ref_es": "Núm 1:20–54",
+      "url": "/torah/bamidbar/001/#v20",
+      "primera_he": "וַיִּהְי֤וּ בְנֵֽי־רְאוּבֵן֙ בְּכֹ֣ר יִשְׂרָאֵ֔ל תּוֹלְדֹתָ֥...",
+      "primera_es": "Y fueron los hijos de Reuvén, primogénito de Yisrael, sus descendencias por sus ..."
+    },
+    {
+      "num": 3,
+      "num_he": "ג",
+      "ch_start": 2,
+      "v_start": 1,
+      "ch_end": 2,
+      "v_end": 34,
+      "ref_es": "Núm 2:1–34",
+      "url": "/torah/bamidbar/002/#v1",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    },
+    {
+      "num": 4,
+      "num_he": "ד",
+      "ch_start": 3,
+      "v_start": 1,
+      "ch_end": 3,
+      "v_end": 13,
+      "ref_es": "Núm 3:1–13",
+      "url": "/torah/bamidbar/003/#v1",
+      "primera_he": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת אַהֲרֹ֖ן וּמֹשֶׁ֑ה בְּי֗וֹם דִּבֶּ֧ר יְ...",
+      "primera_es": "Y estas son las generaciones de Aharón y Moshé, el día que habló el Eterno con M..."
+    },
+    {
+      "num": 5,
+      "num_he": "ה",
+      "ch_start": 3,
+      "v_start": 14,
+      "ch_end": 3,
+      "v_end": 39,
+      "ref_es": "Núm 3:14–39",
+      "url": "/torah/bamidbar/003/#v14",
+      "primera_he": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּמִדְבַּ֥ר סִינַ֖י לֵאמֹֽ...",
+      "primera_es": "Y habló el Eterno a Moshé en el desierto de Sinay, diciendo:"
+    },
+    {
+      "num": 6,
+      "num_he": "ו",
+      "ch_start": 3,
+      "v_start": 40,
+      "ch_end": 3,
+      "v_end": 51,
+      "ref_es": "Núm 3:40–51",
+      "url": "/torah/bamidbar/003/#v40",
+      "primera_he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה פְּקֹ֨ד כׇּל־בְּכֹ֤ר זָכָר֙ ...",
+      "primera_es": "Y dijo el Eterno a Moshé: «Cuenta a todo primogénito varón de los hijos de Yisra..."
+    },
+    {
+      "num": 7,
+      "num_he": "ז",
+      "ch_start": 4,
+      "v_start": 1,
+      "ch_end": 4,
+      "v_end": 20,
+      "ref_es": "Núm 4:1–20",
+      "url": "/torah/bamidbar/004/#v1",
+      "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+      "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
+    }
+  ]
+}
