@@ -43,112 +43,115 @@
     {
       "num": 8,
       "he": "כִּ֤י תִבְנֶה֙ בַּ֣יִת חָדָ֔שׁ וְעָשִׂ֥יתָ מַעֲקֶ֖ה לְגַגֶּ֑ךָ וְלֹֽא־תָשִׂ֤ים דָּמִים֙ בְּבֵיתֶ֔ךָ כִּֽי־יִפֹּ֥ל הַנֹּפֵ֖ל מִמֶּֽנּוּ׃",
-      "es": ""
+      "es": "Cuando edifiques una casa nueva, harás un parapeto para tu techo, y no pondrás sangre en tu casa, pues podría caer el que cayere de él."
     },
     {
       "num": 9,
       "he": "לֹא־תִזְרַ֥ע כַּרְמְךָ֖ כִּלְאָ֑יִם פֶּן־תִּקְדַּ֗שׁ הַֽמְלֵאָ֤ה הַזֶּ֙רַע֙ אֲשֶׁ֣ר תִּזְרָ֔ע וּתְבוּאַ֖ת הַכָּֽרֶם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "No sembrarás tu viña con kilayim, para que no se haga sagrada la plenitud de la semilla que siembres y el fruto de la viña.",
+      "nota": "kilayim — Término hebreo (כִּלְאַיִם) que designa la mezcla prohibida de especies diversas; se mantiene en hebreo por ser término técnico de la legislación ritual."
     },
     {
       "num": 10,
       "he": "לֹֽא־תַחֲרֹ֥שׁ בְּשׁוֹר־וּבַחֲמֹ֖ר יַחְדָּֽו׃",
-      "es": ""
+      "es": "No ararás con buey y con asno juntamente."
     },
     {
       "num": 11,
       "he": "לֹ֤א תִלְבַּשׁ֙ שַֽׁעַטְנֵ֔ז צֶ֥מֶר וּפִשְׁתִּ֖ים יַחְדָּֽו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "No vestirás shatnez, lana y lino juntamente.",
+      "nota": "shatnez — Término hebreo (שַׁעַטְנֵז) que designa la mezcla prohibida de lana y lino; su etimología es debatida. Se mantiene en hebreo por ser término técnico ritual sin equivalente exacto en español."
     },
     {
       "num": 12,
       "he": "גְּדִלִ֖ים תַּעֲשֶׂה־לָּ֑ךְ עַל־אַרְבַּ֛ע כַּנְפ֥וֹת כְּסוּתְךָ֖ אֲשֶׁ֥ר תְּכַסֶּה־בָּֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Guedilim te harás sobre las cuatro esquinas de tu vestidura con la que te cubras.",
+      "nota": "guedilim — Término hebreo (גְּדִלִים) que designa los flecos o cordones trenzados que se colocan en las esquinas de la vestidura; se mantiene en hebreo por su carácter técnico ritual."
     },
     {
       "num": 13,
       "he": "כִּֽי־יִקַּ֥ח אִ֖ישׁ אִשָּׁ֑ה וּבָ֥א אֵלֶ֖יהָ וּשְׂנֵאָֽהּ׃",
-      "es": ""
+      "es": "Cuando un hombre tome una mujer y venga a ella, y la aborrezca,"
     },
     {
       "num": 14,
       "he": "וְשָׂ֥ם לָהּ֙ עֲלִילֹ֣ת דְּבָרִ֔ים וְהוֹצִ֥א עָלֶ֖יהָ שֵׁ֣ם רָ֑ע וְאָמַ֗ר אֶת־הָאִשָּׁ֤ה הַזֹּאת֙ לָקַ֔חְתִּי וָאֶקְרַ֣ב אֵלֶ֔יהָ וְלֹא־מָצָ֥אתִי לָ֖הּ בְּתוּלִֽים׃",
-      "es": ""
+      "es": "y le ponga acusaciones de palabras, y saque sobre ella mala fama, y diga: «A esta mujer tomé, y me acerqué a ella, y no hallé en ella virginidad»,"
     },
     {
       "num": 15,
       "he": "וְלָקַ֛ח אֲבִ֥י <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֖</span> וְאִמָּ֑הּ וְהוֹצִ֜יאוּ אֶת־בְּתוּלֵ֧י <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֛</span> אֶל־זִקְנֵ֥י הָעִ֖יר הַשָּֽׁעְרָה׃",
-      "es": ""
+      "es": "entonces tomará el padre de la joven y su madre, y sacarán las señales de virginidad de la joven ante los ancianos de la ciudad, a la puerta."
     },
     {
       "num": 16,
       "he": "וְאָמַ֛ר אֲבִ֥י <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֖</span> אֶל־הַזְּקֵנִ֑ים אֶת־בִּתִּ֗י נָתַ֜תִּי לָאִ֥ישׁ הַזֶּ֛ה לְאִשָּׁ֖ה וַיִּשְׂנָאֶֽהָ׃",
-      "es": ""
+      "es": "Y dirá el padre de la joven a los ancianos: «A mi hija di a este hombre por mujer, y él la aborreció."
     },
     {
       "num": 17,
       "he": "וְהִנֵּה־ה֡וּא שָׂם֩ עֲלִילֹ֨ת דְּבָרִ֜ים לֵאמֹ֗ר לֹֽא־מָצָ֤אתִי לְבִתְּךָ֙ בְּתוּלִ֔ים וְאֵ֖לֶּה בְּתוּלֵ֣י בִתִּ֑י וּפָֽרְשׂוּ֙ הַשִּׂמְלָ֔ה לִפְנֵ֖י זִקְנֵ֥י הָעִֽיר׃",
-      "es": ""
+      "es": "Y he aquí que él puso acusaciones de palabras, diciendo: No hallé en tu hija virginidad; y estas son las señales de virginidad de mi hija». Y extenderán la vestidura ante los ancianos de la ciudad."
     },
     {
       "num": 18,
       "he": "וְלָ֥קְח֛וּ זִקְנֵ֥י הָֽעִיר־הַהִ֖וא אֶת־הָאִ֑ישׁ וְיִסְּר֖וּ אֹתֽוֹ׃",
-      "es": ""
+      "es": "Y tomarán los ancianos de aquella ciudad al hombre y lo castigarán."
     },
     {
       "num": 19,
       "he": "וְעָנְשׁ֨וּ אֹת֜וֹ מֵ֣אָה כֶ֗סֶף וְנָתְנוּ֙ לַאֲבִ֣י הַֽנַּעֲרָ֔ה כִּ֤י הוֹצִיא֙ שֵׁ֣ם רָ֔ע עַ֖ל בְּתוּלַ֣ת יִשְׂרָאֵ֑ל וְלֽוֹ־תִהְיֶ֣ה לְאִשָּׁ֔ה לֹא־יוּכַ֥ל לְשַׁלְּחָ֖הּ כׇּל־יָמָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y lo multarán en cien piezas de plata, y las darán al padre de la joven, porque sacó mala fama sobre una virgen de Yisrael; y ella será para él por mujer, no podrá despedirla todos sus días."
     },
     {
       "num": 20,
       "he": "וְאִם־אֱמֶ֣ת הָיָ֔ה הַדָּבָ֖ר הַזֶּ֑ה לֹא־נִמְצְא֥וּ בְתוּלִ֖ים <span class=\"mam-kq-trivial\">לַֽנַּעֲרָֽ</span>׃",
-      "es": ""
+      "es": "Y si fuere verdad esta cosa, que no se hallaron señales de virginidad en la joven,"
     },
     {
       "num": 21,
       "he": "וְהוֹצִ֨יאוּ אֶת־<span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֜</span> אֶל־פֶּ֣תַח בֵּית־אָבִ֗יהָ וּסְקָל֩וּהָ֩ אַנְשֵׁ֨י עִירָ֤הּ בָּאֲבָנִים֙ וָמֵ֔תָה כִּֽי־עָשְׂתָ֤ה נְבָלָה֙ בְּיִשְׂרָאֵ֔ל לִזְנ֖וֹת בֵּ֣ית אָבִ֑יהָ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "entonces sacarán a la joven a la puerta de la casa de su padre, y la apedrearán los hombres de su ciudad con piedras, y morirá, porque hizo vileza en Yisrael, fornicando en la casa de su padre; y extirparás el mal de en medio de ti."
     },
     {
       "num": 22,
       "he": "כִּֽי־יִמָּצֵ֨א אִ֜ישׁ שֹׁכֵ֣ב&thinsp;<b>׀</b> עִם־אִשָּׁ֣ה בְעֻֽלַת־בַּ֗עַל וּמֵ֙תוּ֙ גַּם־שְׁנֵיהֶ֔ם הָאִ֛ישׁ הַשֹּׁכֵ֥ב עִם־הָאִשָּׁ֖ה וְהָאִשָּׁ֑ה וּבִֽעַרְתָּ֥ הָרָ֖ע מִיִּשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Cuando fuere hallado un hombre acostado con una mujer casada con marido, morirán también los dos, el hombre que se acostó con la mujer y la mujer; y extirparás el mal de Yisrael."
     },
     {
       "num": 23,
       "he": "כִּ֤י יִהְיֶה֙ <span class=\"mam-kq-trivial\">נַעֲרָ֣</span> בְתוּלָ֔ה מְאֹרָשָׂ֖ה לְאִ֑ישׁ וּמְצָאָ֥הּ אִ֛ישׁ בָּעִ֖יר וְשָׁכַ֥ב עִמָּֽהּ׃",
-      "es": ""
+      "es": "Cuando hubiere una joven virgen desposada con un hombre, y la hallare un hombre en la ciudad y se acostare con ella,"
     },
     {
       "num": 24,
       "he": "וְהוֹצֵאתֶ֨ם אֶת־שְׁנֵיהֶ֜ם אֶל־שַׁ֣עַר&thinsp;<b>׀</b> הָעִ֣יר הַהִ֗וא וּסְקַלְתֶּ֨ם אֹתָ֥ם בָּאֲבָנִים֮ וָמֵ֒תוּ֒ אֶת־<span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֗</span> עַל־דְּבַר֙ אֲשֶׁ֣ר לֹא־צָעֲקָ֣ה בָעִ֔יר וְאֶ֨ת־הָאִ֔ישׁ עַל־דְּבַ֥ר אֲשֶׁר־עִנָּ֖ה אֶת־אֵ֣שֶׁת רֵעֵ֑הוּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "sacaréis a los dos a la puerta de aquella ciudad y los apedrearéis con piedras, y morirán: a la joven, por cuanto no clamó en la ciudad, y al hombre, por cuanto humilló a la mujer de su prójimo; y extirparás el mal de en medio de ti."
     },
     {
       "num": 25,
       "he": "וְֽאִם־בַּשָּׂדֶ֞ה יִמְצָ֣א הָאִ֗ישׁ אֶת־<span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֙</span> הַמְאֹ֣רָשָׂ֔ה וְהֶחֱזִֽיק־בָּ֥הּ הָאִ֖ישׁ וְשָׁכַ֣ב עִמָּ֑הּ וּמֵ֗ת הָאִ֛ישׁ אֲשֶׁר־שָׁכַ֥ב עִמָּ֖הּ לְבַדּֽוֹ׃",
-      "es": ""
+      "es": "Y si en el campo hallare el hombre a la joven desposada, y la forzare el hombre y se acostare con ella, morirá solamente el hombre que se acostó con ella."
     },
     {
       "num": 26,
       "he": "<span class=\"mam-kq-trivial\">וְלַֽנַּעֲרָ֙</span> לֹא־תַעֲשֶׂ֣ה דָבָ֔ר אֵ֥ין <span class=\"mam-kq-trivial\">לַֽנַּעֲרָ֖</span> חֵ֣טְא מָ֑וֶת כִּ֡י כַּאֲשֶׁר֩ יָק֨וּם אִ֤ישׁ עַל־רֵעֵ֙הוּ֙ וּרְצָח֣וֹ נֶ֔פֶשׁ כֵּ֖ן הַדָּבָ֥ר הַזֶּֽה׃",
-      "es": ""
+      "es": "Y a la joven no le harás cosa alguna; no hay en la joven pecado de muerte, pues como cuando un hombre se levanta contra su prójimo y lo asesina, así es esta cosa."
     },
     {
       "num": 27,
       "he": "כִּ֥י בַשָּׂדֶ֖ה מְצָאָ֑הּ צָעֲקָ֗ה <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֙</span> הַמְאֹ֣רָשָׂ֔ה וְאֵ֥ין מוֹשִׁ֖יעַ לָֽהּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Porque en el campo la halló; clamó la joven desposada, y no hubo quien la salvara."
     },
     {
       "num": 28,
       "he": "כִּֽי־יִמְצָ֣א אִ֗ישׁ <span class=\"mam-kq-trivial\">נַעֲרָ֤</span> בְתוּלָה֙ אֲשֶׁ֣ר לֹא־אֹרָ֔שָׂה וּתְפָשָׂ֖הּ וְשָׁכַ֣ב עִמָּ֑הּ וְנִמְצָֽאוּ׃",
-      "es": ""
+      "es": "Cuando un hombre hallare una joven virgen que no esté desposada, y la asiere y se acostare con ella, y fueren hallados,"
     },
     {
       "num": 29,
       "he": "וְ֠נָתַ֠ן הָאִ֨ישׁ הַשֹּׁכֵ֥ב עִמָּ֛הּ לַאֲבִ֥י <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֖</span> חֲמִשִּׁ֣ים כָּ֑סֶף וְלֽוֹ־תִהְיֶ֣ה לְאִשָּׁ֗ה תַּ֚חַת אֲשֶׁ֣ר עִנָּ֔הּ לֹא־יוּכַ֥ל שַׁלְּחָ֖הּ כׇּל־יָמָֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "dará el hombre que se acostó con ella al padre de la joven cincuenta piezas de plata, y ella será para él por mujer, por cuanto la humilló; no podrá despedirla todos sus días."
     }
   ]
 }
