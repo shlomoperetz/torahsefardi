@@ -8,82 +8,87 @@
     {
       "num": 1,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 2,
       "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃",
-      "es": ""
+      "es": "«Habla a los hijos de Yisrael, y que tomen para mí una terumá; de todo hombre cuyo corazón lo impulse, tomaréis mi terumá.",
+      "nota": "TERUMÁ — Ofrenda elevada o contribución separada; término hebreo que designa una porción apartada voluntariamente para un fin sagrado. Se mantiene en hebreo por su carácter técnico ritual."
     },
     {
       "num": 3,
       "he": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
-      "es": ""
+      "es": "Y esta es la terumá que tomaréis de ellos: oro y plata y cobre;"
     },
     {
       "num": 4,
       "he": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
-      "es": ""
+      "es": "y tejélet y argamán y toláat shaní y lino fino y pelo de cabras;",
+      "nota": "TOLÁAT SHANÍ — Literalmente «gusano de escarlata»; designa la lana teñida de rojo escarlata mediante un tinte extraído de un insecto (coccus ilicis). Se mantiene en hebreo por ser expresión técnica."
     },
     {
       "num": 5,
       "he": "וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃",
-      "es": ""
+      "es": "y pieles de carneros enrojecidas y pieles de tejashim y maderas de shitim;",
+      "nota": "SHITIM — Madera de acacia del desierto (Acacia tortilis o similar); término hebreo que designa un tipo específico de árbol. Se mantiene en hebreo por su uso técnico extendido."
     },
     {
       "num": 6,
       "he": "שֶׁ֖מֶן לַמָּאֹ֑ר בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
-      "es": ""
+      "es": "aceite para el alumbrado, especias para el aceite de la unción y para el incienso de las especias;"
     },
     {
       "num": 7,
       "he": "אַבְנֵי־שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
-      "es": ""
+      "es": "piedras de shóham y piedras de engaste para el efod y para el jóshen.",
+      "nota": "JÓSHEN — Pectoral del juicio, pieza del atuendo sacerdotal que portaba doce piedras engastadas. Se mantiene en hebreo por ser término técnico ritual."
     },
     {
       "num": 8,
       "he": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃",
-      "es": ""
+      "es": "Y harán para mí un santuario, y habitaré en medio de ellos."
     },
     {
       "num": 9,
       "he": "כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כׇּל־כֵּלָ֑יו וְכֵ֖ן תַּעֲשֽׂוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Conforme a todo lo que yo te muestro, el diseño del Mishkán y el diseño de todos sus utensilios, así haréis».",
+      "nota": "MISHKÁN — Tabernáculo o morada; término hebreo derivado de la raíz שׁכן (habitar), que designa el santuario portátil. Se mantiene en hebreo por su carácter técnico ritual de uso extendido."
     },
     {
       "num": 10,
       "he": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
-      "es": ""
+      "es": "Y harán un arca de maderas de shitim; dos codos y medio su largo, y un codo y medio su ancho, y un codo y medio su alto."
     },
     {
       "num": 11,
       "he": "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
-      "es": ""
+      "es": "Y la revestirás de oro puro; por dentro y por fuera la revestirás, y harás sobre ella una moldura de oro alrededor."
     },
     {
       "num": 12,
       "he": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
-      "es": ""
+      "es": "Y fundirás para ella cuatro anillos de oro, y los pondrás sobre sus cuatro pies; y dos anillos sobre su costado uno, y dos anillos sobre su costado segundo."
     },
     {
       "num": 13,
       "he": "וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
-      "es": ""
+      "es": "Y harás varas de maderas de shitim, y las revestirás de oro."
     },
     {
       "num": 14,
       "he": "וְהֵבֵאתָ֤ אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֥את אֶת־הָאָרֹ֖ן בָּהֶֽם׃",
-      "es": ""
+      "es": "Y meterás las varas en los anillos, sobre los costados del arca, para llevar el arca con ellas."
     },
     {
       "num": 15,
       "he": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃",
-      "es": ""
+      "es": "En los anillos del arca estarán las varas; no se apartarán de ella."
     },
     {
       "num": 16,
       "he": "וְנָתַתָּ֖ אֶל־הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
-      "es": ""
+      "es": "Y pondrás en el arca el testimonio que yo te daré."
     },
     {
       "num": 17,
