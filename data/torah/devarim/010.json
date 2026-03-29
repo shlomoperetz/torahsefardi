@@ -63,57 +63,58 @@
     {
       "num": 12,
       "he": "וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהֹוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם־לְ֠יִרְאָ֠ה אֶת־יְהֹוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכׇל־דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇל־לְבָבְךָ֖ וּבְכׇל־נַפְשֶֽׁךָ׃",
-      "es": ""
+      "es": "Y ahora, Yisrael, ¿qué el Eterno tu Elohim pide de ti, sino temer al Eterno tu Elohim, andar en todos Sus caminos y amar a Él, y servir al Eterno tu Elohim con todo tu corazón y con toda tu alma,"
     },
     {
       "num": 13,
       "he": "לִשְׁמֹ֞ר אֶת־מִצְוֺ֤ת יְהֹוָה֙ וְאֶת־חֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לְט֖וֹב לָֽךְ׃",
-      "es": ""
+      "es": "guardar los mandamientos del Eterno y Sus estatutos que yo te ordeno hoy, para tu bien?"
     },
     {
       "num": 14,
       "he": "הֵ֚ן לַיהֹוָ֣ה אֱלֹהֶ֔יךָ הַשָּׁמַ֖יִם וּשְׁמֵ֣י הַשָּׁמָ֑יִם הָאָ֖רֶץ וְכׇל־אֲשֶׁר־בָּֽהּ׃",
-      "es": ""
+      "es": "He aquí, del Eterno tu Elohim son los cielos y los cielos de los cielos, la tierra y todo lo que hay en ella."
     },
     {
       "num": 15,
       "he": "רַ֧ק בַּאֲבֹתֶ֛יךָ חָשַׁ֥ק יְהֹוָ֖ה לְאַהֲבָ֣ה אוֹתָ֑ם וַיִּבְחַ֞ר בְּזַרְעָ֣ם אַחֲרֵיהֶ֗ם בָּכֶ֛ם מִכׇּל־הָעַמִּ֖ים כַּיּ֥וֹם הַזֶּֽה׃",
-      "es": ""
+      "es": "Solo en tus padres se deleitó el Eterno para amarlos, y eligió en su descendencia después de ellos, en vosotros, de entre todos los pueblos, como en este día."
     },
     {
       "num": 16,
       "he": "וּמַלְתֶּ֕ם אֵ֖ת עׇרְלַ֣ת לְבַבְכֶ֑ם וְעׇ֨רְפְּכֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד׃",
-      "es": ""
+      "es": "Y circuncidaréis la orlá de vuestro corazón, y vuestra cerviz no endureceréis más.",
+      "nota": "orlá — Término hebreo (עָרְלָה) que designa el prepucio; aquí usado metafóricamente para referirse a la insensibilidad o cerrazón del corazón."
     },
     {
       "num": 17,
       "he": "כִּ֚י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֚וּא אֱלֹהֵ֣י הָֽאֱלֹהִ֔ים וַאֲדֹנֵ֖י הָאֲדֹנִ֑ים הָאֵ֨ל הַגָּדֹ֤ל הַגִּבֹּר֙ וְהַנּוֹרָ֔א אֲשֶׁר֙ לֹא־יִשָּׂ֣א פָנִ֔ים וְלֹ֥א יִקַּ֖ח שֹֽׁחַד׃",
-      "es": ""
+      "es": "Porque el Eterno vuestro Elohim, Él es Elohim de los elohim y Señor de los señores, el Dios grande, poderoso y temible, que no alza rostro y no toma soborno."
     },
     {
       "num": 18,
       "he": "עֹשֶׂ֛ה מִשְׁפַּ֥ט יָת֖וֹם וְאַלְמָנָ֑ה וְאֹהֵ֣ב גֵּ֔ר לָ֥תֶת ל֖וֹ לֶ֥חֶם וְשִׂמְלָֽה׃",
-      "es": ""
+      "es": "Hace justicia al huérfano y a la viuda, y ama al forastero para darle pan y vestido."
     },
     {
       "num": 19,
       "he": "וַאֲהַבְתֶּ֖ם אֶת־הַגֵּ֑ר כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-      "es": ""
+      "es": "Y amaréis al forastero, porque forasteros fuisteis en la tierra de Mitsráyim."
     },
     {
       "num": 20,
       "he": "אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א אֹת֣וֹ תַעֲבֹ֑ד וּב֣וֹ תִדְבָּ֔ק וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃",
-      "es": ""
+      "es": "Al Eterno tu Elohim temerás, a Él servirás, y a Él te apegarás, y en Su nombre jurarás."
     },
     {
       "num": 21,
       "he": "ה֥וּא תְהִלָּתְךָ֖ וְה֣וּא אֱלֹהֶ֑יךָ אֲשֶׁר־עָשָׂ֣ה אִתְּךָ֗ אֶת־הַגְּדֹלֹ֤ת וְאֶת־הַנּֽוֹרָאֹת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר רָא֖וּ עֵינֶֽיךָ׃",
-      "es": ""
+      "es": "Él es tu alabanza y Él es tu Elohim, que hizo contigo las grandezas y las cosas temibles estas que vieron tus ojos."
     },
     {
       "num": 22,
       "he": "בְּשִׁבְעִ֣ים נֶ֔פֶשׁ יָרְד֥וּ אֲבֹתֶ֖יךָ מִצְרָ֑יְמָה וְעַתָּ֗ה שָֽׂמְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹֽב׃",
-      "es": ""
+      "es": "Con setenta almas bajaron tus padres a Mitsráyim, y ahora te ha puesto el Eterno tu Elohim como las estrellas de los cielos en multitud."
     }
   ]
 }
