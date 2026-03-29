@@ -34,62 +34,65 @@
     {
       "num": 6,
       "he": "וְרָאָה֩ הַכֹּהֵ֨ן אֹת֜וֹ בַּיּ֣וֹם הַשְּׁבִיעִי֮ שֵׁנִית֒ וְהִנֵּה֙ כֵּהָ֣ה הַנֶּ֔גַע וְלֹא־פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְטִהֲר֤וֹ הַכֹּהֵן֙ מִסְפַּ֣חַת הִ֔וא וְכִבֶּ֥ס בְּגָדָ֖יו וְטָהֵֽר׃",
-      "es": ""
+      "es": "Y verá el cohén a él en el día séptimo, por segunda vez, y he aquí que se ha oscurecido la llaga y no se ha extendido la llaga en la piel; y lo declarará puro el cohén, mispájat es, y lavará sus vestiduras y será puro.",
+      "nota": "mispájat — Término hebreo (מִסְפַּחַת) que designa una erupción cutánea benigna o costra; se mantiene en hebreo por falta de correspondencia unívoca en español."
     },
     {
       "num": 7,
       "he": "וְאִם־פָּשֹׂ֨ה תִפְשֶׂ֤ה הַמִּסְפַּ֙חַת֙ בָּע֔וֹר אַחֲרֵ֧י הֵרָאֹת֛וֹ אֶל־הַכֹּהֵ֖ן לְטׇהֳרָת֑וֹ וְנִרְאָ֥ה שֵׁנִ֖ית אֶל־הַכֹּהֵֽן׃",
-      "es": ""
+      "es": "Y si extenderse se extiende la mispájat en la piel después de haberse mostrado ante el cohén para su purificación, se mostrará por segunda vez ante el cohén."
     },
     {
       "num": 8,
       "he": "וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה פָּשְׂתָ֥ה הַמִּסְפַּ֖חַת בָּע֑וֹר וְטִמְּא֥וֹ הַכֹּהֵ֖ן צָרַ֥עַת הִֽוא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y verá el cohén, y he aquí que se ha extendido la mispájat en la piel, y lo declarará impuro el cohén; tsaráat es.",
+      "nota": "tsaráat — Término hebreo (צָרַעַת) que designa una afección cutánea de impureza ritual; tradicionalmente traducido como «lepra», pero sin correspondencia médica exacta. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 9,
       "he": "נֶ֣גַע צָרַ֔עַת כִּ֥י תִהְיֶ֖ה בְּאָדָ֑ם וְהוּבָ֖א אֶל־הַכֹּהֵֽן׃",
-      "es": ""
+      "es": "Llaga de tsaráat, cuando esté en un hombre, será traído ante el cohén."
     },
     {
       "num": 10,
       "he": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֤ה שְׂאֵת־לְבָנָה֙ בָּע֔וֹר וְהִ֕יא הָפְכָ֖ה שֵׂעָ֣ר לָבָ֑ן וּמִֽחְיַ֛ת בָּשָׂ֥ר חַ֖י בַּשְׂאֵֽת׃",
-      "es": ""
+      "es": "Y verá el cohén, y he aquí una hinchazón blanca en la piel, y ella ha tornado el cabello blanco, y hay carne viva que revive en la hinchazón.",
+      "nota": "«carne viva que revive» — Traducción literal de מִחְיַת בָּשָׂר חַי, que describe tejido de carne viva visible dentro de la hinchazón."
     },
     {
       "num": 11,
       "he": "צָרַ֨עַת נוֹשֶׁ֤נֶת הִוא֙ בְּע֣וֹר בְּשָׂר֔וֹ וְטִמְּא֖וֹ הַכֹּהֵ֑ן לֹ֣א יַסְגִּרֶ֔נּוּ כִּ֥י טָמֵ֖א הֽוּא׃",
-      "es": ""
+      "es": "Tsaráat envejecida es en la piel de su carne, y lo declarará impuro el cohén; no lo recluirá, pues impuro es."
     },
     {
       "num": 12,
       "he": "וְאִם־פָּר֨וֹחַ תִּפְרַ֤ח הַצָּרַ֙עַת֙ בָּע֔וֹר וְכִסְּתָ֣ה הַצָּרַ֗עַת אֵ֚ת כׇּל־ע֣וֹר הַנֶּ֔גַע מֵרֹאשׁ֖וֹ וְעַד־רַגְלָ֑יו לְכׇל־מַרְאֵ֖ה עֵינֵ֥י הַכֹּהֵֽן׃",
-      "es": ""
+      "es": "Y si brotar brota la tsaráat en la piel, y cubre la tsaráat toda la piel de la llaga, desde su cabeza hasta sus pies, a toda vista de los ojos del cohén;"
     },
     {
       "num": 13,
       "he": "וְרָאָ֣ה הַכֹּהֵ֗ן וְהִנֵּ֨ה כִסְּתָ֤ה הַצָּרַ֙עַת֙ אֶת־כׇּל־בְּשָׂר֔וֹ וְטִהַ֖ר אֶת־הַנָּ֑גַע כֻּלּ֛וֹ הָפַ֥ךְ לָבָ֖ן טָה֥וֹר הֽוּא׃",
-      "es": ""
+      "es": "y verá el cohén, y he aquí que ha cubierto la tsaráat toda su carne, y declarará pura la llaga; todo él se ha tornado blanco, puro es."
     },
     {
       "num": 14,
       "he": "וּבְי֨וֹם הֵרָא֥וֹת בּ֛וֹ בָּשָׂ֥ר חַ֖י יִטְמָֽא׃",
-      "es": ""
+      "es": "Y en el día que se vea en él carne viva, será impuro."
     },
     {
       "num": 15,
       "he": "וְרָאָ֧ה הַכֹּהֵ֛ן אֶת־הַבָּשָׂ֥ר הַחַ֖י וְטִמְּא֑וֹ הַבָּשָׂ֥ר הַחַ֛י טָמֵ֥א ה֖וּא צָרַ֥עַת הֽוּא׃",
-      "es": ""
+      "es": "Y verá el cohén la carne viva y lo declarará impuro; la carne viva, impura es; tsaráat es."
     },
     {
       "num": 16,
       "he": "א֣וֹ כִ֥י יָשׁ֛וּב הַבָּשָׂ֥ר הַחַ֖י וְנֶהְפַּ֣ךְ לְלָבָ֑ן וּבָ֖א אֶל־הַכֹּהֵֽן׃",
-      "es": ""
+      "es": "O cuando vuelva la carne viva y se torne a blanco, vendrá ante el cohén."
     },
     {
       "num": 17,
       "he": "וְרָאָ֙הוּ֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נֶהְפַּ֥ךְ הַנֶּ֖גַע לְלָבָ֑ן וְטִהַ֧ר הַכֹּהֵ֛ן אֶת־הַנֶּ֖גַע טָה֥וֹר הֽוּא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y lo verá el cohén, y he aquí que se ha tornado la llaga a blanco, y declarará puro el cohén la llaga; puro es."
     },
     {
       "num": 18,
