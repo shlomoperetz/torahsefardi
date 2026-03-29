@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-2",
   "nombre": "Vaetjanán",
   "nombre_he": "וָאֶתְחַנַּן",
   "nombre_es": "Y supliqué",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 2,
+  "global_num": 45,
+  "prev_slug": "devarim-1",
+  "next_slug": "devarim-3",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 4,
       "v_end": 4,
       "ref_es": "Deut 3:1–4:4",
-      "url": "/torah/devarim/003/#v1",
       "primera_he": "וַנֵּ֣פֶן וַנַּ֔עַל דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽל...",
       "primera_es": "Y nos volvimos y subimos por el camino del Bashán, y salió Og rey del Bashán a n..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 4,
       "v_end": 40,
       "ref_es": "Deut 4:5–40",
-      "url": "/torah/devarim/004/#v5",
       "primera_he": "רְאֵ֣ה&thinsp;׀ לִמַּ֣דְתִּי אֶתְכֶ֗ם חֻקִּים֙ וּמִשְׁפָּטִ֔...",
       "primera_es": "«Mira, os he enseñado estatutos y juicios, tal como me ordenó el Eterno mi Elohi..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 4,
       "v_end": 49,
       "ref_es": "Deut 4:41–49",
-      "url": "/torah/devarim/004/#v41",
       "primera_he": "אָ֣ז יַבְדִּ֤יל מֹשֶׁה֙ שָׁלֹ֣שׁ עָרִ֔ים בְּעֵ֖בֶר הַיַּרְדּ...",
       "primera_es": "Entonces apartó Moshé tres ciudades en la ribera del Yardén, hacia la salida del..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 5,
       "v_end": 18,
       "ref_es": "Deut 5:1–18",
-      "url": "/torah/devarim/005/#v1",
       "primera_he": "וַיִּקְרָ֣א מֹשֶׁה֮ אֶל־כׇּל־יִשְׂרָאֵל֒ וַיֹּ֣אמֶר אֲלֵהֶ֗ם...",
       "primera_es": "Y llamó Moshé a todo Yisrael y les dijo: «Escucha, Yisrael, los estatutos y los ..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 6,
       "v_end": 3,
       "ref_es": "Deut 5:19–6:3",
-      "url": "/torah/devarim/005/#v19",
       "primera_he": "אֶֽת־הַדְּבָרִ֣ים הָאֵ֡לֶּה דִּבֶּר֩ יְהֹוָ֨ה אֶל־כׇּל־קְהַל...",
       "primera_es": "Estas palabras habló el Eterno a toda vuestra congregación en el monte, de en me..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 6,
       "v_end": 25,
       "ref_es": "Deut 6:4–25",
-      "url": "/torah/devarim/006/#v4",
       "primera_he": "שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה&thinsp;׀&t...",
       "primera_es": "Escucha, Yisrael: el Eterno es nuestro Elohim, el Eterno es uno."
     },
@@ -87,7 +85,6 @@
       "ch_end": 7,
       "v_end": 11,
       "ref_es": "Deut 7:1–11",
-      "url": "/torah/devarim/007/#v1",
       "primera_he": "כִּ֤י יְבִֽיאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַ...",
       "primera_es": "Cuando te traiga el Eterno tu Elohim a la tierra adonde tú entras para poseerla,..."
     }

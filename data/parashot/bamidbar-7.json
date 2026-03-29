@@ -1,4 +1,5 @@
 {
+  "slug": "bamidbar-7",
   "nombre": "Balak",
   "nombre_he": "בָּלָק",
   "nombre_es": "Balak",
@@ -6,6 +7,9 @@
   "libro_es": "Números",
   "libro_he": "בַּמִּדְבַּר",
   "num": 7,
+  "global_num": 40,
+  "prev_slug": "bamidbar-6",
+  "next_slug": "bamidbar-8",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 22,
       "v_end": 11,
       "ref_es": "Núm 22:1–11",
-      "url": "/torah/bamidbar/022/#v1",
       "primera_he": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנוּ֙ בְּעַֽרְב֣וֹת מ...",
       "primera_es": "Y partieron los hijos de Yisrael, y acamparon en las llanuras de Moav, del otro ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 22,
       "v_end": 19,
       "ref_es": "Núm 22:12–19",
-      "url": "/torah/bamidbar/022/#v12",
       "primera_he": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־בִּלְעָ֔ם לֹ֥א תֵלֵ֖ךְ עִמָּהֶ֑ם לֹ...",
       "primera_es": "Y dijo Elohim a Bilam: «No vayas con ellos; no maldigas al pueblo, pues bendito ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 22,
       "v_end": 37,
       "ref_es": "Núm 22:20–37",
-      "url": "/torah/bamidbar/022/#v20",
       "primera_he": "וַיָּבֹ֨א אֱלֹהִ֥ים&thinsp;׀&thinsp;אֶל־בִּלְעָם֮ לַ֒יְלָה֒ ...",
       "primera_es": "Y vino Elohim a Bilam de noche y le dijo: «Si para llamarte han venido los hombr..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 23,
       "v_end": 12,
       "ref_es": "Núm 22:38–23:12",
-      "url": "/torah/bamidbar/022/#v38",
       "primera_he": "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־בָּלָ֗ק הִֽנֵּה־בָ֙אתִי֙ אֵלֶ֔יךָ ע...",
       "primera_es": "Y dijo Bilam a Balak: «He aquí que he venido a ti; ahora, ¿acaso podré hablar al..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 23,
       "v_end": 26,
       "ref_es": "Núm 23:13–26",
-      "url": "/torah/bamidbar/023/#v13",
       "primera_he": "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק (לך) [לְכָה־]נָּ֨א אִתִּ֜י אֶל־מָ...",
       "primera_es": "Y dijo a él Balak: «Ven, por favor, conmigo a un lugar otro desde donde lo verás..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 24,
       "v_end": 13,
       "ref_es": "Núm 23:27–24:13",
-      "url": "/torah/bamidbar/023/#v27",
       "primera_he": "וַיֹּ֤אמֶר בָּלָק֙ אֶל־בִּלְעָ֔ם לְכָה־נָּא֙ אֶקָּ֣חֲךָ֔ אֶל...",
       "primera_es": "Y dijo Balak a Bilam: «Ven, por favor, te llevaré a otro lugar; quizás sea recto..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 25,
       "v_end": 9,
       "ref_es": "Núm 24:14–25:9",
-      "url": "/torah/bamidbar/024/#v14",
       "primera_he": "וְעַתָּ֕ה הִנְנִ֥י הוֹלֵ֖ךְ לְעַמִּ֑י לְכָה֙ אִיעָ֣צְךָ֔ אֲש...",
       "primera_es": "Y habitó Yisrael en Hashitim, y comenzó el pueblo a fornicar con las hijas de Mo..."
     }

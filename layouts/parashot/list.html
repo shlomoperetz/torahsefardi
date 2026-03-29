@@ -11,8 +11,16 @@
 
   {{ range $books }}
     {{ $libro := . }}
-    {{ $pages := where $.Site.RegularPages "Params.libro" $libro }}
-    {{ $sorted := sort $pages "Params.num" }}
+
+    {{/* Collect parashot for this book from data */}}
+    {{ $book_parashot := slice }}
+    {{ range $slug, $p := $.Site.Data.parashot }}
+      {{ if eq $p.libro $libro }}
+        {{ $book_parashot = $book_parashot | append $p }}
+      {{ end }}
+    {{ end }}
+    {{ $sorted := sort $book_parashot "global_num" }}
+
     {{ if $sorted }}
     <div class="parasha-book-section">
       <div class="parasha-book-heading">
@@ -21,11 +29,11 @@
       </div>
       <div class="parasha-grid">
         {{ range $sorted }}
-        <a href="{{ .Permalink }}" class="parasha-card">
-          <span class="pc-num">{{ .Params.num }}</span>
-          <span class="pc-he">{{ .Params.nombre_he }}</span>
-          <span class="pc-nombre">{{ .Title }}</span>
-          <span class="pc-es">{{ .Params.nombre_es }}</span>
+        <a href="/parashot/{{ .slug }}/" class="parasha-card" data-slug="{{ .slug }}">
+          <span class="pc-num">{{ .num }}</span>
+          <span class="pc-he">{{ .nombre_he }}</span>
+          <span class="pc-nombre">{{ .nombre }}</span>
+          <span class="pc-es">{{ .nombre_es }}</span>
         </a>
         {{ end }}
       </div>

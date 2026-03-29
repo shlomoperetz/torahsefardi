@@ -1,4 +1,5 @@
 {
+  "slug": "vayikra-4",
   "nombre": "Tazriá",
   "nombre_he": "תַזְרִיעַ",
   "nombre_es": "Cuando conciba",
@@ -6,6 +7,9 @@
   "libro_es": "Levítico",
   "libro_he": "וַיִּקְרָא",
   "num": 4,
+  "global_num": 27,
+  "prev_slug": "vayikra-3",
+  "next_slug": "vayikra-5",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 13,
       "v_end": 5,
       "ref_es": "Lev 12:1–13:5",
-      "url": "/torah/vayikra/012/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 13,
       "v_end": 17,
       "ref_es": "Lev 13:6–17",
-      "url": "/torah/vayikra/013/#v6",
       "primera_he": "וְרָאָה֩ הַכֹּהֵ֨ן אֹת֜וֹ בַּיּ֣וֹם הַשְּׁבִיעִי֮ שֵׁנִית֒ ו...",
       "primera_es": "Y verá el cohén a él en el día séptimo, por segunda vez, y he aquí que se ha osc..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 13,
       "v_end": 23,
       "ref_es": "Lev 13:18–23",
-      "url": "/torah/vayikra/013/#v18",
       "primera_he": "וּבָשָׂ֕ר כִּֽי־יִהְיֶ֥ה בֽוֹ־בְעֹר֖וֹ שְׁחִ֑ין וְנִרְפָּֽא׃",
       "primera_es": "Y carne, cuando haya en ella, en su piel, un divieso, y se haya curado;"
     },
@@ -51,7 +52,6 @@
       "ch_end": 13,
       "v_end": 28,
       "ref_es": "Lev 13:24–28",
-      "url": "/torah/vayikra/013/#v24",
       "primera_he": "א֣וֹ בָשָׂ֔ר כִּֽי־יִהְיֶ֥ה בְעֹר֖וֹ מִכְוַת־אֵ֑שׁ וְֽהָיְתָ...",
       "primera_es": "O carne, cuando hubiere en su piel quemadura de fuego, y la parte viva de la que..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 13,
       "v_end": 39,
       "ref_es": "Lev 13:29–39",
-      "url": "/torah/vayikra/013/#v29",
       "primera_he": "וְאִישׁ֙ א֣וֹ אִשָּׁ֔ה כִּֽי־יִהְיֶ֥ה ב֖וֹ נָ֑גַע בְּרֹ֖אשׁ ...",
       "primera_es": "Y hombre o mujer, cuando hubiere en él llaga en la cabeza o en la barba,"
     },
@@ -75,7 +74,6 @@
       "ch_end": 13,
       "v_end": 54,
       "ref_es": "Lev 13:40–54",
-      "url": "/torah/vayikra/013/#v40",
       "primera_he": "וְאִ֕ישׁ כִּ֥י יִמָּרֵ֖ט רֹאשׁ֑וֹ קֵרֵ֥חַ ה֖וּא טָה֥וֹר הֽוּ...",
       "primera_es": "Y un hombre, cuando se le caiga el cabello de su cabeza, calvo es; puro es."
     },
@@ -87,7 +85,6 @@
       "ch_end": 13,
       "v_end": 59,
       "ref_es": "Lev 13:55–59",
-      "url": "/torah/vayikra/013/#v55",
       "primera_he": "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י&thinsp;׀ הֻכַּבֵּ֣ס אֶת־הַנֶּ֗גַ...",
       "primera_es": "Y verá el cohén después de haber sido lavada la afección, y he aquí que no ha ca..."
     }

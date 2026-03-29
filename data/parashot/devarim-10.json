@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-10",
   "nombre": "Haazinú",
   "nombre_he": "הַאֲזִינוּ",
   "nombre_es": "Escuchad",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 10,
+  "global_num": 53,
+  "prev_slug": "devarim-9",
+  "next_slug": "devarim-11",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 32,
       "v_end": 52,
       "ref_es": "Deut 32:1–52",
-      "url": "/torah/devarim/032/#v1",
       "primera_he": "הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה&nbsp;&nbsp;&nbsp;&nbs...",
       "primera_es": "Prestad oído, cielos, y hablaré; y escuche la tierra los dichos de mi boca."
     }

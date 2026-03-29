@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-1",
   "nombre": "Devarim",
   "nombre_he": "דְּבָרִים",
   "nombre_es": "Palabras",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 1,
+  "global_num": 44,
+  "prev_slug": "bamidbar-10",
+  "next_slug": "devarim-2",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 1,
       "v_end": 10,
       "ref_es": "Deut 1:1–10",
-      "url": "/torah/devarim/001/#v1",
       "primera_he": "אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙ אֶל־כׇּל־יִשְׂ...",
       "primera_es": "Estas son las palabras que habló Moshé a todo Yisrael, al otro lado del Yardén, ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 1,
       "v_end": 21,
       "ref_es": "Deut 1:11–21",
-      "url": "/torah/devarim/001/#v11",
       "primera_he": "יְהֹוָ֞ה אֱלֹהֵ֣י אֲבֽוֹתֵכֶ֗ם יֹסֵ֧ף עֲלֵיכֶ֛ם כָּכֶ֖ם אֶ֣ל...",
       "primera_es": "El Eterno, Elohim de vuestros padres, añada sobre vosotros mil veces como vosotr..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 1,
       "v_end": 38,
       "ref_es": "Deut 1:22–38",
-      "url": "/torah/devarim/001/#v22",
       "primera_he": "וַתִּקְרְב֣וּן אֵלַי֮ כֻּלְּכֶם֒ וַתֹּאמְר֗וּ נִשְׁלְחָ֤ה אֲ...",
       "primera_es": "Y os acercasteis a mí todos vosotros y dijisteis: «Enviemos hombres delante de n..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 2,
       "v_end": 1,
       "ref_es": "Deut 1:39–2:1",
-      "url": "/torah/devarim/001/#v39",
       "primera_he": "וְטַפְּכֶם֩ אֲשֶׁ֨ר אֲמַרְתֶּ֜ם לָבַ֣ז יִהְיֶ֗ה וּ֠בְנֵיכֶ֠ם...",
       "primera_es": "Y vuestros pequeños, de los cuales dijisteis que serán para botín, y vuestros hi..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 2,
       "v_end": 30,
       "ref_es": "Deut 2:2–30",
-      "url": "/torah/devarim/002/#v2",
       "primera_he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃",
       "primera_es": "Y habló el Eterno a mí, diciendo:"
     },
@@ -75,7 +74,6 @@
       "ch_end": 3,
       "v_end": 14,
       "ref_es": "Deut 2:31–3:14",
-      "url": "/torah/devarim/002/#v31",
       "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י רְאֵ֗ה הַֽחִלֹּ֙תִי֙ תֵּ֣ת לְפָנֶ...",
       "primera_es": "Y dijo el Eterno a mí: «Mira, he comenzado a entregar ante ti a Sijón y su tierr..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 3,
       "v_end": 22,
       "ref_es": "Deut 3:15–22",
-      "url": "/torah/devarim/003/#v15",
       "primera_he": "וּלְמָכִ֖יר נָתַ֥תִּי אֶת־הַגִּלְעָֽד׃",
       "primera_es": "Y a Majir di el Guilad."
     }

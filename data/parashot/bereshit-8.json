@@ -1,4 +1,5 @@
 {
+  "slug": "bereshit-8",
   "nombre": "Vayishláj",
   "nombre_he": "וַיִּשְׁלַח",
   "nombre_es": "Y envió",
@@ -6,6 +7,9 @@
   "libro_es": "Génesis",
   "libro_he": "בְּרֵאשִׁית",
   "num": 8,
+  "global_num": 8,
+  "prev_slug": "bereshit-7",
+  "next_slug": "bereshit-9",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 32,
       "v_end": 10,
       "ref_es": "Gén 32:1–10",
-      "url": "/torah/bereshit/032/#v1",
       "primera_he": "וַיַּשְׁכֵּ֨ם לָבָ֜ן בַּבֹּ֗קֶר וַיְנַשֵּׁ֧ק לְבָנָ֛יו וְלִב...",
       "primera_es": "Y madrugó Laván por la mañana, y besó a sus hijos y a sus hijas, y los bendijo; ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 32,
       "v_end": 27,
       "ref_es": "Gén 32:11–27",
-      "url": "/torah/bereshit/032/#v11",
       "primera_he": "קָטֹ֜נְתִּי מִכֹּ֤ל הַחֲסָדִים֙ וּמִכׇּל־הָ֣אֱמֶ֔ת אֲשֶׁ֥ר ע...",
       "primera_es": "«He sido empequeñecido de todas las bondades y de toda la verdad que has hecho c..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 33,
       "v_end": 5,
       "ref_es": "Gén 32:28–33:5",
-      "url": "/torah/bereshit/032/#v28",
       "primera_he": "וַיֹּ֥אמֶר אֵלָ֖יו מַה־שְּׁמֶ֑ךָ וַיֹּ֖אמֶר יַעֲקֹֽב׃",
       "primera_es": "Y le dijo: «¿Cuál es tu nombre?» Y dijo: «Yaakov»."
     },
@@ -51,7 +52,6 @@
       "ch_end": 33,
       "v_end": 20,
       "ref_es": "Gén 33:6–20",
-      "url": "/torah/bereshit/033/#v6",
       "primera_he": "וַתִּגַּ֧שְׁןָ הַשְּׁפָח֛וֹת הֵ֥נָּה וְיַלְדֵיהֶ֖ן וַתִּֽשְׁ...",
       "primera_es": "Y se acercaron las siervas, ellas y sus hijos, y se prosternaron."
     },
@@ -63,7 +63,6 @@
       "ch_end": 35,
       "v_end": 11,
       "ref_es": "Gén 34:1–35:11",
-      "url": "/torah/bereshit/034/#v1",
       "primera_he": "וַתֵּצֵ֤א דִינָה֙ בַּת־לֵאָ֔ה אֲשֶׁ֥ר יָלְדָ֖ה לְיַעֲקֹ֑ב לִ...",
       "primera_es": "Y salió Diná, hija de Leá, la que había dado a luz a Yaakov, a ver entre las hij..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 36,
       "v_end": 19,
       "ref_es": "Gén 35:12–36:19",
-      "url": "/torah/bereshit/035/#v12",
       "primera_he": "וְאֶת־הָאָ֗רֶץ אֲשֶׁ֥ר נָתַ֛תִּי לְאַבְרָהָ֥ם וּלְיִצְחָ֖ק ל...",
       "primera_es": "«Y la tierra que di a Avraham y a Yitsjak, a ti te la daré; y a tu descendencia ..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 36,
       "v_end": 43,
       "ref_es": "Gén 36:20–43",
-      "url": "/torah/bereshit/036/#v20",
       "primera_he": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן ...",
       "primera_es": "Estos son los hijos de Seír el jorí, habitantes de la tierra: Lotán y Shoval y T..."
     }

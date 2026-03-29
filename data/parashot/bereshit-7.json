@@ -1,4 +1,5 @@
 {
+  "slug": "bereshit-7",
   "nombre": "Vayetsé",
   "nombre_he": "וַיֵּצֵא",
   "nombre_es": "Y salió",
@@ -6,6 +7,9 @@
   "libro_es": "Génesis",
   "libro_he": "בְּרֵאשִׁית",
   "num": 7,
+  "global_num": 7,
+  "prev_slug": "bereshit-6",
+  "next_slug": "bereshit-8",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 28,
       "v_end": 22,
       "ref_es": "Gén 28:1–22",
-      "url": "/torah/bereshit/028/#v1",
       "primera_he": "וַיִּקְרָ֥א יִצְחָ֛ק אֶֽל־יַעֲקֹ֖ב וַיְבָ֣רֶךְ אֹת֑וֹ וַיְצַ...",
       "primera_es": "Y llamó Yitsjak a Yaakov y lo bendijo, y le ordenó y le dijo: «No tomes mujer de..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 29,
       "v_end": 17,
       "ref_es": "Gén 29:1–17",
-      "url": "/torah/bereshit/029/#v1",
       "primera_he": "וַיִּשָּׂ֥א יַעֲקֹ֖ב רַגְלָ֑יו וַיֵּ֖לֶךְ אַ֥רְצָה בְנֵי־קֶֽ...",
       "primera_es": "Y alzó Yaakov sus pies y caminó a la tierra de los hijos del oriente."
     },
@@ -39,7 +41,6 @@
       "ch_end": 30,
       "v_end": 13,
       "ref_es": "Gén 29:18–30:13",
-      "url": "/torah/bereshit/029/#v18",
       "primera_he": "וַיֶּאֱהַ֥ב יַעֲקֹ֖ב אֶת־רָחֵ֑ל וַיֹּ֗אמֶר אֶֽעֱבׇדְךָ֙ שֶׁ֣...",
       "primera_es": "Y amó Yaakov a Rajel, y dijo: «Te serviré siete años por Rajel, tu hija menor»."
     },
@@ -51,7 +52,6 @@
       "ch_end": 30,
       "v_end": 27,
       "ref_es": "Gén 30:14–27",
-      "url": "/torah/bereshit/030/#v14",
       "primera_he": "וַיֵּ֨לֶךְ רְאוּבֵ֜ן בִּימֵ֣י קְצִיר־חִטִּ֗ים וַיִּמְצָ֤א דֽ...",
       "primera_es": "Y fue Reuvén en los días de la siega del trigo, y halló dudaím en el campo, y lo..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 31,
       "v_end": 16,
       "ref_es": "Gén 30:28–31:16",
-      "url": "/torah/bereshit/030/#v28",
       "primera_he": "וַיֹּאמַ֑ר נׇקְבָ֧ה שְׂכָרְךָ֛ עָלַ֖י וְאֶתֵּֽנָה׃",
       "primera_es": "Y dijo: «Fija tu salario sobre mí, y yo lo daré»."
     },
@@ -75,7 +74,6 @@
       "ch_end": 31,
       "v_end": 42,
       "ref_es": "Gén 31:17–42",
-      "url": "/torah/bereshit/031/#v17",
       "primera_he": "וַיָּ֖קׇם יַעֲקֹ֑ב וַיִּשָּׂ֛א אֶת־בָּנָ֥יו וְאֶת־נָשָׁ֖יו ע...",
       "primera_es": "Y se levantó Yaakov, y montó a sus hijos y a sus mujeres sobre los camellos."
     },
@@ -87,7 +85,6 @@
       "ch_end": 32,
       "v_end": 3,
       "ref_es": "Gén 31:43–32:3",
-      "url": "/torah/bereshit/031/#v43",
       "primera_he": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ...",
       "primera_es": "Y respondió Laván y dijo a Yaakov: «Las hijas son mis hijas, y los hijos son mis..."
     }

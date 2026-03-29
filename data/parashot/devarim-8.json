@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-8",
   "nombre": "Nitsavim",
   "nombre_he": "נִצָּבִים",
   "nombre_es": "Estáis de pie",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 8,
+  "global_num": 51,
+  "prev_slug": "devarim-7",
+  "next_slug": "devarim-9",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 29,
       "v_end": 3,
       "ref_es": "Deut 29:1–3",
-      "url": "/torah/devarim/029/#v1",
       "primera_he": "וַיִּקְרָ֥א מֹשֶׁ֛ה אֶל־כׇּל־יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם...",
       "primera_es": "Y llamó Moshé a todo Yisrael y les dijo: «Vosotros habéis visto todo lo que hizo..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 29,
       "v_end": 6,
       "ref_es": "Deut 29:4–6",
-      "url": "/torah/devarim/029/#v4",
       "primera_he": "וָאוֹלֵ֥ךְ אֶתְכֶ֛ם אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לֹֽא־...",
       "primera_es": "Y os conduje cuarenta años por el desierto; no se desgastaron vuestros vestidos ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 29,
       "v_end": 28,
       "ref_es": "Deut 29:7–28",
-      "url": "/torah/devarim/029/#v7",
       "primera_he": "וַנִּקַּח֙ אֶת־אַרְצָ֔ם וַנִּתְּנָ֣הּ לְנַחֲלָ֔ה לָראוּבֵנִ֖...",
       "primera_es": "Y tomamos su tierra y la dimos en herencia al reuvenita y al gadita y a la media..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 30,
       "v_end": 6,
       "ref_es": "Deut 30:1–6",
-      "url": "/torah/devarim/030/#v1",
       "primera_he": "וְהָיָה֩ כִֽי־יָבֹ֨אוּ עָלֶ֜יךָ כׇּל־הַדְּבָרִ֣ים הָאֵ֗לֶּה ...",
       "primera_es": "Y sucederá que cuando vengan sobre ti todas estas cosas, la bendición y la maldi..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 30,
       "v_end": 10,
       "ref_es": "Deut 30:7–10",
-      "url": "/torah/devarim/030/#v7",
       "primera_he": "וְנָתַן֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֵ֥ת כׇּל־הָאָל֖וֹת הָאֵ֑לֶּה ע...",
       "primera_es": "Y pondrá el Eterno tu Elohim todas estas maldiciones sobre tus enemigos y sobre ..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 30,
       "v_end": 14,
       "ref_es": "Deut 30:11–14",
-      "url": "/torah/devarim/030/#v11",
       "primera_he": "כִּ֚י הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑...",
       "primera_es": "Porque esta mitsvá que yo te ordeno hoy, no es demasiado difícil para ti, ni est..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 30,
       "v_end": 20,
       "ref_es": "Deut 30:15–20",
-      "url": "/torah/devarim/030/#v15",
       "primera_he": "רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֙יךָ֙ הַיּ֔וֹם אֶת־הַֽחַיִּ֖ים וְאֶת־...",
       "primera_es": "Mira, he puesto delante de ti hoy la vida y el bien, y la muerte y el mal."
     }

@@ -1,4 +1,5 @@
 {
+  "slug": "bamidbar-8",
   "nombre": "Pinjas",
   "nombre_he": "פִּינְחָס",
   "nombre_es": "Pinjas",
@@ -6,6 +7,9 @@
   "libro_es": "Números",
   "libro_he": "בַּמִּדְבַּר",
   "num": 8,
+  "global_num": 41,
+  "prev_slug": "bamidbar-7",
+  "next_slug": "bamidbar-9",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 26,
       "v_end": 4,
       "ref_es": "Núm 25:1–26:4",
-      "url": "/torah/bamidbar/025/#v1",
       "primera_he": "וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בַּשִּׁטִּ֑ים וַיָּ֣חֶל הָעָ֔ם לִזְנ֖...",
       "primera_es": "Y se asentó Yisrael en Hashitim, y el pueblo comenzó a fornicar con las hijas de..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 26,
       "v_end": 51,
       "ref_es": "Núm 26:5–51",
-      "url": "/torah/bamidbar/026/#v5",
       "primera_he": "רְאוּבֵ֖ן בְּכ֣וֹר יִשְׂרָאֵ֑ל בְּנֵ֣י רְאוּבֵ֗ן חֲנוֹךְ֙ מִ...",
       "primera_es": "Reuvén, primogénito de Yisrael; los hijos de Reuvén: Janoj, la familia del janoj..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 27,
       "v_end": 5,
       "ref_es": "Núm 26:52–27:5",
-      "url": "/torah/bamidbar/026/#v52",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -51,7 +52,6 @@
       "ch_end": 27,
       "v_end": 23,
       "ref_es": "Núm 27:6–23",
-      "url": "/torah/bamidbar/027/#v6",
       "primera_he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y dijo el Eterno a Moshé, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 28,
       "v_end": 15,
       "ref_es": "Núm 28:1–15",
-      "url": "/torah/bamidbar/028/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -75,7 +74,6 @@
       "ch_end": 29,
       "v_end": 11,
       "ref_es": "Núm 28:16–29:11",
-      "url": "/torah/bamidbar/028/#v16",
       "primera_he": "וּבַחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֑דֶ...",
       "primera_es": "Y en el mes primero, en el día catorce del mes, es pésaj para el Eterno."
     },
@@ -87,7 +85,6 @@
       "ch_end": 30,
       "v_end": 1,
       "ref_es": "Núm 29:12–30:1",
-      "url": "/torah/bamidbar/029/#v12",
       "primera_he": "וּבַחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י מִֽקְרָ...",
       "primera_es": "Y en el quince día del mes séptimo, convocación santa será para vosotros; toda l..."
     }

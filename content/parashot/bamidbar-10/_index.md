@@ -1,0 +1,12 @@
+---
+title: "Masei"
+nombre_he: "מַסְעֵי"
+nombre_es: "Jornadas"
+slug_parasha: "bamidbar-10"
+libro: "bamidbar"
+libro_es: "Números"
+num: 10
+global_num: 43
+weight: 43
+layout: parasha
+---

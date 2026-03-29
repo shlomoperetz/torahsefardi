@@ -1,4 +1,5 @@
 {
+  "slug": "shemot-1",
   "nombre": "Shemot",
   "nombre_he": "שְׁמוֹת",
   "nombre_es": "Nombres",
@@ -6,6 +7,9 @@
   "libro_es": "Éxodo",
   "libro_he": "שְׁמוֹת",
   "num": 1,
+  "global_num": 13,
+  "prev_slug": "bereshit-12",
+  "next_slug": "shemot-2",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 1,
       "v_end": 17,
       "ref_es": "Éx 1:1–17",
-      "url": "/torah/shemot/001/#v1",
       "primera_he": "וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים מִצְרָ֑יְמ...",
       "primera_es": "Y estos son los nombres de los hijos de Yisrael que vinieron a Mitsráyim; con Ya..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 2,
       "v_end": 10,
       "ref_es": "Éx 1:18–2:10",
-      "url": "/torah/shemot/001/#v18",
       "primera_he": "וַיִּקְרָ֤א מֶֽלֶךְ־מִצְרַ֙יִם֙ לַֽמְיַלְּדֹ֔ת וַיֹּ֣אמֶר לָ...",
       "primera_es": "Y llamó el rey de Mitsráyim a las parteras y les dijo: «¿Por qué habéis hecho es..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 2,
       "v_end": 25,
       "ref_es": "Éx 2:11–25",
-      "url": "/torah/shemot/002/#v11",
       "primera_he": "וַיְהִ֣י&thinsp;׀ בַּיָּמִ֣ים הָהֵ֗ם וַיִּגְדַּ֤ל מֹשֶׁה֙ וַ...",
       "primera_es": "Y aconteció en aquellos días que creció Moshé y salió hacia sus hermanos, y vio ..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 3,
       "v_end": 15,
       "ref_es": "Éx 3:1–15",
-      "url": "/torah/shemot/003/#v1",
       "primera_he": "וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת־צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן ...",
       "primera_es": "Y Moshé estaba pastoreando el rebaño de Yitró, su suegro, sacerdote de Midyán; y..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 4,
       "v_end": 17,
       "ref_es": "Éx 3:16–4:17",
-      "url": "/torah/shemot/003/#v16",
       "primera_he": "לֵ֣ךְ וְאָֽסַפְתָּ֞ אֶת־זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאָמַרְתָּ֤ אֲ...",
       "primera_es": "«Ve y reúne a los ancianos de Yisrael, y diles: El Eterno, Elohim de vuestros pa..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 4,
       "v_end": 31,
       "ref_es": "Éx 4:18–31",
-      "url": "/torah/shemot/004/#v18",
       "primera_he": "וַיֵּ֨לֶךְ מֹשֶׁ֜ה וַיָּ֣שׇׁב&thinsp;׀ אֶל־יֶ֣תֶר חֹֽתְנ֗וֹ ...",
       "primera_es": "Y fue Moshé y volvió a Yéter, su suegro, y le dijo: «Iré, por favor, y volveré a..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 6,
       "v_end": 1,
       "ref_es": "Éx 5:1–6:1",
-      "url": "/torah/shemot/005/#v1",
       "primera_he": "וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל־פַּרְעֹ...",
       "primera_es": "Y después vinieron Moshé y Aharón y dijeron a Paró: «Así ha dicho el Eterno, Elo..."
     }

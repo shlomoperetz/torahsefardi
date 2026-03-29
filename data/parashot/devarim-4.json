@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-4",
   "nombre": "Reé",
   "nombre_he": "רְאֵה",
   "nombre_es": "Mira",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 4,
+  "global_num": 47,
+  "prev_slug": "devarim-3",
+  "next_slug": "devarim-5",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 12,
       "v_end": 10,
       "ref_es": "Deut 11:1–12:10",
-      "url": "/torah/devarim/011/#v1",
       "primera_he": "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְשָׁמַרְתָּ֣ מִשְׁמַ...",
       "primera_es": "Y amarás al Eterno tu Elohim, y guardarás su encomienda, y sus estatutos, y sus ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 12,
       "v_end": 28,
       "ref_es": "Deut 12:11–28",
-      "url": "/torah/devarim/012/#v11",
       "primera_he": "וְהָיָ֣ה הַמָּק֗וֹם אֲשֶׁר־יִבְחַר֩ יְהֹוָ֨ה אֱלֹהֵיכֶ֥ם בּו...",
       "primera_es": "Y será el lugar que escoja el Eterno vuestro Elohim en él para hacer morar Su no..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 13,
       "v_end": 19,
       "ref_es": "Deut 12:29–13:19",
-      "url": "/torah/devarim/012/#v29",
       "primera_he": "כִּֽי־יַכְרִית֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ אֶת־הַגּוֹיִ֗ם אֲשֶׁ֨ר א...",
       "primera_es": "Cuando destruya el Eterno tu Elohim a las naciones adonde tú vas para desposeerl..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 14,
       "v_end": 21,
       "ref_es": "Deut 14:1–21",
-      "url": "/torah/devarim/014/#v1",
       "primera_he": "בָּנִ֣ים אַתֶּ֔ם לַיהֹוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ ו...",
       "primera_es": "Hijos sois vosotros del Eterno vuestro Elohim; no os haréis incisiones y no pond..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 14,
       "v_end": 29,
       "ref_es": "Deut 14:22–29",
-      "url": "/torah/devarim/014/#v22",
       "primera_he": "עַשֵּׂ֣ר תְּעַשֵּׂ֔ר אֵ֖ת כׇּל־תְּבוּאַ֣ת זַרְעֶ֑ךָ הַיֹּצֵ֥...",
       "primera_es": "Diezmar diezmarás todo el producto de tu siembra, lo que salga del campo año tra..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 15,
       "v_end": 18,
       "ref_es": "Deut 15:1–18",
-      "url": "/torah/devarim/015/#v1",
       "primera_he": "מִקֵּ֥ץ שֶֽׁבַע־שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃",
       "primera_es": "Al cabo de siete años harás remisión."
     },
@@ -87,7 +85,6 @@
       "ch_end": 16,
       "v_end": 17,
       "ref_es": "Deut 15:19–16:17",
-      "url": "/torah/devarim/015/#v19",
       "primera_he": "כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ...",
       "primera_es": "Todo primogénito que nazca en tu ganado vacuno y en tu ganado menor, el macho, c..."
     }

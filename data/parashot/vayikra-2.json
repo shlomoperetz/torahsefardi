@@ -1,4 +1,5 @@
 {
+  "slug": "vayikra-2",
   "nombre": "Tsav",
   "nombre_he": "צַו",
   "nombre_es": "Ordena",
@@ -6,6 +7,9 @@
   "libro_es": "Levítico",
   "libro_he": "וַיִּקְרָא",
   "num": 2,
+  "global_num": 25,
+  "prev_slug": "vayikra-1",
+  "next_slug": "vayikra-3",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 6,
       "v_end": 11,
       "ref_es": "Lev 6:1–11",
-      "url": "/torah/vayikra/006/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 7,
       "v_end": 10,
       "ref_es": "Lev 6:12–7:10",
-      "url": "/torah/vayikra/006/#v12",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -39,7 +41,6 @@
       "ch_end": 7,
       "v_end": 38,
       "ref_es": "Lev 7:11–38",
-      "url": "/torah/vayikra/007/#v11",
       "primera_he": "וְזֹ֥את תּוֹרַ֖ת זֶ֣בַח הַשְּׁלָמִ֑ים אֲשֶׁ֥ר יַקְרִ֖יב לַיה...",
       "primera_es": "Y esta es la ley del sacrificio de las ofrendas de paz que se ofrecerá al Eterno..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 8,
       "v_end": 13,
       "ref_es": "Lev 8:1–13",
-      "url": "/torah/vayikra/008/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 8,
       "v_end": 21,
       "ref_es": "Lev 8:14–21",
-      "url": "/torah/vayikra/008/#v14",
       "primera_he": "וַיַּגֵּ֕שׁ אֵ֖ת פַּ֣ר הַֽחַטָּ֑את וַיִּסְמֹ֨ךְ אַהֲרֹ֤ן וּב...",
       "primera_es": "Y acercó el toro de la ofrenda por el pecado, y apoyaron Aharón y sus hijos sus ..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 8,
       "v_end": 29,
       "ref_es": "Lev 8:22–29",
-      "url": "/torah/vayikra/008/#v22",
       "primera_he": "וַיַּקְרֵב֙ אֶת־הָאַ֣יִל הַשֵּׁנִ֔י אֵ֖יל הַמִּלֻּאִ֑ים וַֽי...",
       "primera_es": "Y acercó el carnero segundo, el carnero de las investiduras; y apoyaron Aharón y..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 8,
       "v_end": 36,
       "ref_es": "Lev 8:30–36",
-      "url": "/torah/vayikra/008/#v30",
       "primera_he": "וַיִּקַּ֨ח מֹשֶׁ֜ה מִשֶּׁ֣מֶן הַמִּשְׁחָ֗ה וּמִן־הַדָּם֮ אֲש...",
       "primera_es": "Y tomó Moshé del aceite de la unción y de la sangre que estaba sobre el altar, y..."
     }

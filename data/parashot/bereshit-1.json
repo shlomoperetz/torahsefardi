@@ -1,4 +1,5 @@
 {
+  "slug": "bereshit-1",
   "nombre": "Bereshit",
   "nombre_he": "בְּרֵאשִׁית",
   "nombre_es": "En el principio",
@@ -6,6 +7,9 @@
   "libro_es": "Génesis",
   "libro_he": "בְּרֵאשִׁית",
   "num": 1,
+  "global_num": 1,
+  "prev_slug": "",
+  "next_slug": "bereshit-2",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 2,
       "v_end": 3,
       "ref_es": "Gén 1:1–2:3",
-      "url": "/torah/bereshit/001/#v1",
       "primera_he": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָ...",
       "primera_es": "En el principio creó Elohim los cielos y la tierra."
     },
@@ -27,7 +30,6 @@
       "ch_end": 2,
       "v_end": 19,
       "ref_es": "Gén 2:4–19",
-      "url": "/torah/bereshit/002/#v4",
       "primera_he": "אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם ב...",
       "primera_es": "Estas son las generaciones de los cielos y de la tierra cuando fueron creados, e..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 3,
       "v_end": 21,
       "ref_es": "Gén 2:20–3:21",
-      "url": "/torah/bereshit/002/#v20",
       "primera_he": "וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכׇל־הַבְּהֵמָה֙ וּלְע֣וֹף ה...",
       "primera_es": "Y llamó el hombre nombres a todo el ganado, y a las aves de los cielos, y a toda..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 4,
       "v_end": 18,
       "ref_es": "Gén 3:22–4:18",
-      "url": "/torah/bereshit/003/#v22",
       "primera_he": "וַיֹּ֣אמֶר&thinsp;׀ יְהֹוָ֣ה אֱלֹהִ֗ים הֵ֤ן הָֽאָדָם֙ הָיָה֙...",
       "primera_es": "Y dijo el Eterno Elohim: «He aquí que el hombre ha llegado a ser como uno de nos..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 4,
       "v_end": 22,
       "ref_es": "Gén 4:19–22",
-      "url": "/torah/bereshit/004/#v19",
       "primera_he": "וַיִּֽקַּֽח־ל֥וֹ לֶ֖מֶךְ שְׁתֵּ֣י נָשִׁ֑ים שֵׁ֤ם הָֽאַחַת֙ ע...",
       "primera_es": "Y tomó para sí Lémej dos mujeres; el nombre de la primera, Adá, y el nombre de l..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 5,
       "v_end": 24,
       "ref_es": "Gén 4:23–5:24",
-      "url": "/torah/bereshit/004/#v23",
       "primera_he": "וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹ...",
       "primera_es": "Y dijo Lémej a sus mujeres: «Adá y Tsilá, oíd mi voz; mujeres de Lémej, escuchad..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 6,
       "v_end": 8,
       "ref_es": "Gén 5:25–6:8",
-      "url": "/torah/bereshit/005/#v25",
       "primera_he": "וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת ...",
       "primera_es": "Y vivió Metushélaj ochenta y siete años y cien años, y engendró a Lémej."
     }

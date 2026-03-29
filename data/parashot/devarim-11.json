@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-11",
   "nombre": "Vezot Haberajá",
   "nombre_he": "וְזֹאת הַבְּרָכָה",
   "nombre_es": "Esta es la bendición",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 11,
+  "global_num": 54,
+  "prev_slug": "devarim-10",
+  "next_slug": "",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 33,
       "v_end": 7,
       "ref_es": "Deut 33:1–7",
-      "url": "/torah/devarim/033/#v1",
       "primera_he": "וְזֹ֣את הַבְּרָכָ֗ה אֲשֶׁ֨ר בֵּרַ֥ךְ מֹשֶׁ֛ה אִ֥ישׁ הָאֱלֹהִ...",
       "primera_es": "Y esta es la bendición con la que bendijo Moshé, hombre de Elohim, a los hijos d..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 33,
       "v_end": 12,
       "ref_es": "Deut 33:8–12",
-      "url": "/torah/devarim/033/#v8",
       "primera_he": "וּלְלֵוִ֣י אָמַ֔ר תֻּמֶּ֥יךָ וְאוּרֶ֖יךָ לְאִ֣ישׁ חֲסִידֶ֑ךָ...",
       "primera_es": "Y a Leví dijo: «Tus tumim y tus urim son para el varón de tu piedad, al cual pro..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 33,
       "v_end": 17,
       "ref_es": "Deut 33:13–17",
-      "url": "/torah/devarim/033/#v13",
       "primera_he": "וּלְיוֹסֵ֣ף אָמַ֔ר מְבֹרֶ֥כֶת יְהֹוָ֖ה אַרְצ֑וֹ מִמֶּ֤גֶד שׁ...",
       "primera_es": "Y a Yosef dijo: «Bendita del Eterno sea su tierra, de lo más precioso del cielo,..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 33,
       "v_end": 21,
       "ref_es": "Deut 33:18–21",
-      "url": "/torah/devarim/033/#v18",
       "primera_he": "וְלִזְבוּלֻ֣ן אָמַ֔ר שְׂמַ֥ח זְבוּלֻ֖ן בְּצֵאתֶ֑ךָ וְיִשָּׂש...",
       "primera_es": "Y a Zevulún dijo: «Alégrate, Zevulún, en tu salida; y Yisajar, en tus tiendas."
     },
@@ -63,7 +63,6 @@
       "ch_end": 33,
       "v_end": 26,
       "ref_es": "Deut 33:22–26",
-      "url": "/torah/devarim/033/#v22",
       "primera_he": "וּלְדָ֣ן אָמַ֔ר דָּ֖ן גּ֣וּר אַרְיֵ֑ה יְזַנֵּ֖ק מִן־הַבָּשָׁ...",
       "primera_es": "Y a Dan dijo: «Dan es cachorro de león; salta desde el Bashán»."
     },
@@ -75,7 +74,6 @@
       "ch_end": 33,
       "v_end": 29,
       "ref_es": "Deut 33:27–29",
-      "url": "/torah/devarim/033/#v27",
       "primera_he": "מְעֹנָהֿ֙ אֱלֹ֣הֵי קֶ֔דֶם וּמִתַּ֖חַת זְרֹעֹ֣ת עוֹלָ֑ם וַיְג...",
       "primera_es": "Morada es el Elohim de antigüedad, y debajo están los brazos eternos; Y expulsó ..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 34,
       "v_end": 12,
       "ref_es": "Deut 34:1–12",
-      "url": "/torah/devarim/034/#v1",
       "primera_he": "וַיַּ֨עַל מֹשֶׁ֜ה מֵעַרְבֹ֤ת מוֹאָב֙ אֶל־הַ֣ר נְב֔וֹ רֹ֚אשׁ ...",
       "primera_es": "Y subió Moshé desde las llanuras de Moav al monte Nevó, cumbre de la Pisgá, que ..."
     }

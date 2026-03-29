@@ -1,4 +1,5 @@
 {
+  "slug": "shemot-6",
   "nombre": "Mishpatim",
   "nombre_he": "מִשְׁפָּטִים",
   "nombre_es": "Leyes",
@@ -6,6 +7,9 @@
   "libro_es": "Éxodo",
   "libro_he": "שְׁמוֹת",
   "num": 6,
+  "global_num": 18,
+  "prev_slug": "shemot-5",
+  "next_slug": "shemot-7",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 21,
       "v_end": 19,
       "ref_es": "Éx 21:1–19",
-      "url": "/torah/shemot/021/#v1",
       "primera_he": "וְאֵ֙לֶּה֙ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר תָּשִׂ֖ים לִפְנֵיהֶֽם׃",
       "primera_es": "Y estas son las leyes que pondrás delante de ellos."
     },
@@ -27,7 +30,6 @@
       "ch_end": 22,
       "v_end": 3,
       "ref_es": "Éx 21:20–22:3",
-      "url": "/torah/shemot/021/#v20",
       "primera_he": "וְכִֽי־יַכֶּה֩ אִ֨ישׁ אֶת־עַבְדּ֜וֹ א֤וֹ אֶת־אֲמָתוֹ֙ בַּשּׁ...",
       "primera_es": "Y cuando golpeare un hombre a su siervo o a su sierva con la vara, y muriere baj..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 22,
       "v_end": 26,
       "ref_es": "Éx 22:4–26",
-      "url": "/torah/shemot/022/#v4",
       "primera_he": "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־בְּעִ...",
       "primera_es": "Cuando un hombre hiciere pastar un campo o una viña, y enviare a su bestia y est..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 23,
       "v_end": 5,
       "ref_es": "Éx 22:27–23:5",
-      "url": "/torah/shemot/022/#v27",
       "primera_he": "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
       "primera_es": "No maldecirás a Elohim, y a un príncipe en tu pueblo no maldecirás."
     },
@@ -63,7 +63,6 @@
       "ch_end": 23,
       "v_end": 19,
       "ref_es": "Éx 23:6–19",
-      "url": "/torah/shemot/023/#v6",
       "primera_he": "לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ׃",
       "primera_es": "No torcerás el juicio de tu pobre en su pleito."
     },
@@ -75,7 +74,6 @@
       "ch_end": 23,
       "v_end": 25,
       "ref_es": "Éx 23:20–25",
-      "url": "/torah/shemot/023/#v20",
       "primera_he": "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמׇרְךָ֖ ...",
       "primera_es": "He aquí que Yo envío un ángel delante de ti para guardarte en el camino y para l..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 24,
       "v_end": 18,
       "ref_es": "Éx 23:26–24:18",
-      "url": "/torah/shemot/023/#v26",
       "primera_he": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־מִסְפ...",
       "primera_es": "No habrá mujer que pierda sus crías ni estéril en tu tierra; el número de tus dí..."
     }

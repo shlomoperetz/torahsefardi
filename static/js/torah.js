@@ -67,6 +67,8 @@ var STRINGS = {
     landing_desc:'La Torá en hebreo con traducción al español sefardí',
     tile1_label: 'Empezar desde el principio',
     tile1_sub:   'Bereshit 1:1 — En el principio…',
+    tile_parasha_label: 'Parashá de la semana',
+    tile_parasha_sub: 'Las 54 porciones semanales',
     tile2_label: 'Los cinco libros',
     tile2_sub:   'Bereshit · Shemot · Vayikrá · Bamidbar · Devarim',
     ch_prev: function(n){ return '← Cap. '+n; },
@@ -84,6 +86,8 @@ var STRINGS = {
     landing_desc:'התורה בעברית עם תרגום לספרדית',
     tile1_label: 'התחל מהתחלה',
     tile1_sub:   'בראשית א:א — בְּרֵאשִׁית…',
+    tile_parasha_label: 'פרשת השבוע',
+    tile_parasha_sub: '54 פרשיות התורה',
     tile2_label: 'חמשה חומשי תורה',
     tile2_sub:   'בְּרֵאשִׁית · שְׁמוֹת · וַיִּקְרָא · בְּמִדְבַּר · דְּבָרִים',
     ch_prev: function(n){ return 'פרק '+n+' →'; },
@@ -218,6 +222,7 @@ function initChapterObserver(){
       var ch=best.target.dataset.chapter,book=best.target.dataset.book;
       var url='/'+scrollState.section+'/'+book+'/'+String(ch).padStart(3,'0')+'/';
       if(location.pathname!==url){history.replaceState(null,'',url);document.title=(scrollState.bookEs||book)+' '+ch+' | Torah Sefardi';}
+      if(scrollState.section==='torah')updateParashaCrumb(book, parseInt(ch,10));
     }
   },{threshold:0.15,rootMargin:'-80px 0px -40% 0px'});
   document.querySelectorAll('.chapter-section').forEach(function(s){chObs.observe(s);});
@@ -352,9 +357,157 @@ function initCrumb(ctx){
     '<a href="/'+sec+'/">'+secLabel+'</a>'
     +'<span class="crumb-sep">›</span>'
     +'<a href="/'+sec+'/'+ctx.book+'/">'+bookLabel+'</a>';
+  // Add parasha context if available
+  if(window.PARASHA_MAP&&ctx.book&&sec==='torah'){
+    updateParashaCrumb(ctx.book, parseInt(ctx.chapter,10)||1);
+  }
 }
+
+function updateParashaCrumb(libro, ch){
+  var crumb=document.getElementById('topbar-crumb');
+  if(!crumb||!window.PARASHA_MAP)return;
+  var map=window.PARASHA_MAP[libro];
+  if(!map)return;
+  var result=null;
+  for(var i=0;i<map.length;i++){
+    var e=map[i];
+    if(e.ch<ch||(e.ch===ch)){result=e;}
+    else break;
+  }
+  if(!result)return;
+  // Remove existing parasha crumb if any
+  var existing=crumb.querySelector('.crumb-sep-parasha');
+  if(existing){existing.nextSibling&&crumb.removeChild(existing.nextSibling);crumb.removeChild(existing);}
+  var existing2=crumb.querySelector('.crumb-parasha');
+  if(existing2)crumb.removeChild(existing2);
+  var existing3=crumb.querySelector('.crumb-aliya');
+  if(existing3)crumb.removeChild(existing3);
+  var sep=document.createElement('span');
+  sep.className='crumb-sep crumb-sep-parasha';
+  sep.textContent='›';
+  var aParasha=document.createElement('a');
+  aParasha.className='crumb-parasha';
+  aParasha.href=result.parasha_url;
+  aParasha.textContent=result.nombre;
+  var aAliya=document.createElement('span');
+  aAliya.className='crumb-aliya';
+  aAliya.textContent=' '+result.aliya_num_he;
+  crumb.appendChild(sep);
+  crumb.appendChild(aParasha);
+  crumb.appendChild(aAliya);
+}
+
+// Parasha de la semana
+function getCurrentWeekParasha(){
+  if(!window.PARASHA_SCHEDULE)return null;
+  var today=new Date();
+  today.setHours(12,0,0,0);
+  var result=null;
+  for(var i=0;i<PARASHA_SCHEDULE.length;i++){
+    var entry=PARASHA_SCHEDULE[i];
+    var d=new Date(entry[0]+'T12:00:00');
+    if(d<=today&&entry[1])result=entry[1];
+  }
+  return result;
+}
+
+function highlightCurrentParasha(){
+  var slug=getCurrentWeekParasha();
+  if(!slug)return;
+  // Highlight on parasha list page
+  var cards=document.querySelectorAll('.parasha-card[data-slug]');
+  cards.forEach(function(card){
+    if(card.dataset.slug===slug){
+      card.classList.add('is-current');
+      var badge=document.createElement('span');
+      badge.className='parasha-current-badge';
+      badge.textContent='Esta semana';
+      card.appendChild(badge);
+    }
+  });
+  // Update landing tile
+  var tile=document.getElementById('parasha-semana-tile');
+  if(tile&&window.PARASHA_INFO&&PARASHA_INFO[slug]){
+    var info=PARASHA_INFO[slug];
+    tile.href=info.url;
+    var icon=tile.querySelector('.tile-icon-parasha');
+    if(icon)icon.textContent=info.nombre_he;
+    var label=tile.querySelector('.tile-label');
+    if(label){label.removeAttribute('data-i18n');label.textContent='Parashá de esta semana';}
+    var sub=tile.querySelector('.tile-sub-parasha');
+    if(sub){sub.removeAttribute('data-i18n');sub.textContent='Parashat '+info.nombre;}
+  }
+}
+
+// Aliyah verse loader
+async function fetchAliyaVerses(ctx){
+  var verses=[];
+  var ch=ctx.ch_start;
+  while(ch<=ctx.ch_end){
+    var url='/torah/'+ctx.libro+'/'+String(ch).padStart(3,'0')+'/index.json';
+    try{
+      var res=await fetch(url);
+      if(!res.ok)break;
+      var data=await res.json();
+      if(!data||!data.verses)break;
+      var chV=data.verses;
+      if(ch===ctx.ch_start&&ch===ctx.ch_end){
+        chV=chV.filter(function(v){return v.num>=ctx.v_start&&v.num<=ctx.v_end;});
+      }else if(ch===ctx.ch_start){
+        chV=chV.filter(function(v){return v.num>=ctx.v_start;});
+      }else if(ch===ctx.ch_end){
+        chV=chV.filter(function(v){return v.num<=ctx.v_end;});
+      }
+      verses=verses.concat(chV);
+    }catch(e){console.warn('aliya fetch ch'+ch,e);}
+    ch++;
+  }
+  return verses;
+}
+
+async function initAliyaPage(){
+  var ctx=window.ALIYA_CTX;
+  if(!ctx)return;
+  if(typeof ctx==='string'){try{ctx=JSON.parse(ctx);}catch(e){ctx=null;}}
+  if(!ctx)return;
+  // Update topbar crumb for aliyah
+  var crumb=document.getElementById('topbar-crumb');
+  if(crumb){
+    crumb.innerHTML=
+      '<a href="/parashot/">Parashot</a>'
+      +'<span class="crumb-sep">›</span>'
+      +'<a href="'+ctx.parasha_url+'">'+ctx.parasha+'</a>'
+      +'<span class="crumb-sep">›</span>'
+      +'<span class="crumb-current">'+ctx.aliya_num_he+'</span>';
+  }
+  // Load verses
+  var container=document.getElementById('aliya-verses');
+  if(!container)return;
+  var verses=await fetchAliyaVerses(ctx);
+  if(!verses.length){
+    container.innerHTML='<div style="padding:2rem;opacity:0.5;text-align:center;font-family:var(--ui-font);font-size:0.6em">No se pudieron cargar los versículos.</div>';
+    return;
+  }
+  var html='<div class="torah-verses">';
+  verses.forEach(function(v){html+=buildVerse(v);});
+  html+='</div>';
+  container.innerHTML=html;
+  applyView();
+}
+
 if(document.readyState==='loading'){
   document.addEventListener('DOMContentLoaded',initTorahPage);
 }else{
   initTorahPage();
+}
+
+// Run parasha de la semana highlight + aliyah page init after DOM ready
+function initParashaFeatures(){
+  highlightCurrentParasha();
+  if(window.ALIYA_CTX)initAliyaPage();
+}
+if(document.readyState==='loading'){
+  document.addEventListener('DOMContentLoaded',initParashaFeatures);
+}else{
+  initParashaFeatures();
 }

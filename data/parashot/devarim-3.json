@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-3",
   "nombre": "Ekev",
   "nombre_he": "עֵקֶב",
   "nombre_es": "A causa de",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 3,
+  "global_num": 46,
+  "prev_slug": "devarim-2",
+  "next_slug": "devarim-4",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 8,
       "v_end": 10,
       "ref_es": "Deut 7:1–8:10",
-      "url": "/torah/devarim/007/#v1",
       "primera_he": "כִּ֤י יְבִֽיאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַ...",
       "primera_es": "Cuando te traiga el Eterno tu Elohim a la tierra adonde tú entras para poseerla,..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 9,
       "v_end": 3,
       "ref_es": "Deut 8:11–9:3",
-      "url": "/torah/devarim/008/#v11",
       "primera_he": "הִשָּׁ֣מֶר לְךָ֔ פֶּן־תִּשְׁכַּ֖ח אֶת־יְהֹוָ֣ה אֱלֹהֶ֑יךָ לְ...",
       "primera_es": "Guárdate de olvidar al Eterno tu Elohim, dejando de guardar sus mandamientos, y ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 9,
       "v_end": 29,
       "ref_es": "Deut 9:4–29",
-      "url": "/torah/devarim/009/#v4",
       "primera_he": "אַל־תֹּאמַ֣ר בִּלְבָבְךָ֗ בַּהֲדֹ֣ף יְהֹוָה֩ אֱלֹהֶ֨יךָ אֹתָ...",
       "primera_es": "No digas en tu corazón, cuando el Eterno tu Elohim los arroje de delante de ti, ..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 10,
       "v_end": 11,
       "ref_es": "Deut 10:1–11",
-      "url": "/torah/devarim/010/#v1",
       "primera_he": "בָּעֵ֨ת הַהִ֜וא אָמַ֧ר יְהֹוָ֣ה אֵלַ֗י פְּסׇל־לְךָ֞ שְׁנֵֽי־...",
       "primera_es": "En aquel tiempo el Eterno me dijo: Labra para ti dos tablas de piedra como las p..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 11,
       "v_end": 9,
       "ref_es": "Deut 10:12–11:9",
-      "url": "/torah/devarim/010/#v12",
       "primera_he": "וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהֹוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמ...",
       "primera_es": "Y ahora, Yisrael, ¿qué el Eterno tu Elohim pide de ti, sino temer al Eterno tu E..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 11,
       "v_end": 21,
       "ref_es": "Deut 11:10–21",
-      "url": "/torah/devarim/011/#v10",
       "primera_he": "כִּ֣י הָאָ֗רֶץ אֲשֶׁ֨ר אַתָּ֤ה בָא־שָׁ֙מָּה֙ לְרִשְׁתָּ֔הּ ל...",
       "primera_es": "Porque la tierra a la cual tú entras allá para poseerla, no es como la tierra de..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 11,
       "v_end": 25,
       "ref_es": "Deut 11:22–25",
-      "url": "/torah/devarim/011/#v22",
       "primera_he": "כִּי֩ אִם־שָׁמֹ֨ר תִּשְׁמְר֜וּן אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֗א...",
       "primera_es": "Porque si guardar guardareis todo este mandamiento que yo os ordeno para cumplir..."
     }

@@ -1,0 +1,76 @@
+{{ define "main" }}
+{{ $slug := .Params.parasha_slug }}
+{{ $data := index .Site.Data.parashot $slug }}
+{{ $n := .Params.aliya_num }}
+{{ $a := index $data.aliyot (sub $n 1) }}
+{{ $he_nums := slice "א" "ב" "ג" "ד" "ה" "ו" "ז" }}
+{{ $num_he := index $he_nums (sub $n 1) }}
+
+{{ $ctx := dict
+  "libro" $data.libro
+  "parasha" $data.nombre
+  "parasha_he" $data.nombre_he
+  "parasha_slug" $slug
+  "parasha_url" (printf "/parashot/%s/" $slug)
+  "global_num" $data.global_num
+  "aliya_num" $n
+  "aliya_num_he" $num_he
+  "ch_start" $a.ch_start
+  "v_start" $a.v_start
+  "ch_end" $a.ch_end
+  "v_end" $a.v_end
+  "ref_es" $a.ref_es
+  "prev_aliya_url" .Params.prev_aliya_url
+  "next_aliya_url" .Params.next_aliya_url
+}}
+<script>window.ALIYA_CTX={{ $ctx | jsonify }};</script>
+
+<div class="aliya-reader-wrap">
+
+  <div class="aliya-reader-header">
+    <a href="/parashot/{{ $slug }}/" class="aliya-back">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      {{ $data.nombre }}
+    </a>
+    <div class="aliya-reader-badge">
+      <span class="arb-he">{{ $num_he }}</span>
+      <span class="arb-label">Lectura {{ $n }}</span>
+    </div>
+    <div class="aliya-reader-ref">{{ $a.ref_es }}</div>
+    <div class="aliya-reader-parasha-he">{{ $data.nombre_he }}</div>
+  </div>
+
+  <div id="aliya-verses">
+    <div class="aliya-loading">
+      <div class="loading-dots"><span></span><span></span><span></span></div>
+    </div>
+  </div>
+
+  <nav class="aliya-reader-nav">
+    {{ if .Params.prev_aliya_url }}
+      {{ if gt $n 1 }}
+        <a href="{{ .Params.prev_aliya_url }}" class="arn-btn">← Lectura {{ sub $n 1 }}</a>
+      {{ else if $data.prev_slug }}
+        {{ $pd := index .Site.Data.parashot $data.prev_slug }}
+        <a href="{{ .Params.prev_aliya_url }}" class="arn-btn">← {{ $pd.nombre }}</a>
+      {{ end }}
+    {{ else }}
+      <span></span>
+    {{ end }}
+
+    <a href="/parashot/{{ $slug }}/" class="arn-center">{{ $data.nombre }}</a>
+
+    {{ if .Params.next_aliya_url }}
+      {{ if lt $n 7 }}
+        <a href="{{ .Params.next_aliya_url }}" class="arn-btn">Lectura {{ add $n 1 }} →</a>
+      {{ else if $data.next_slug }}
+        {{ $nd := index .Site.Data.parashot $data.next_slug }}
+        <a href="{{ .Params.next_aliya_url }}" class="arn-btn">{{ $nd.nombre }} →</a>
+      {{ end }}
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </nav>
+
+</div>
+{{ end }}

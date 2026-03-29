@@ -1,4 +1,5 @@
 {
+  "slug": "vayikra-1",
   "nombre": "Vayikrá",
   "nombre_he": "וַיִּקְרָא",
   "nombre_es": "Y llamó",
@@ -6,6 +7,9 @@
   "libro_es": "Levítico",
   "libro_he": "וַיִּקְרָא",
   "num": 1,
+  "global_num": 24,
+  "prev_slug": "shemot-11",
+  "next_slug": "vayikra-2",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 1,
       "v_end": 13,
       "ref_es": "Lev 1:1–13",
-      "url": "/torah/vayikra/001/#v1",
       "primera_he": "וַיִּקְרָ֖א אֶל־מֹשֶׁ֑ה וַיְדַבֵּ֤ר יְהֹוָה֙ אֵלָ֔יו מֵאֹ֥הֶ...",
       "primera_es": "Y llamó a Moshé, y habló el Eterno a él desde la tienda de reunión, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 2,
       "v_end": 6,
       "ref_es": "Lev 1:14–2:6",
-      "url": "/torah/vayikra/001/#v14",
       "primera_he": "וְאִ֧ם מִן־הָע֛וֹף עֹלָ֥ה קׇרְבָּנ֖וֹ לַֽיהֹוָ֑ה וְהִקְרִ֣יב...",
       "primera_es": "Y si de las aves es su ofrenda de ascenso al Eterno, presentará de las tórtolas ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 2,
       "v_end": 16,
       "ref_es": "Lev 2:7–16",
-      "url": "/torah/vayikra/002/#v7",
       "primera_he": "וְאִם־מִנְחַ֥ת מַרְחֶ֖שֶׁת קׇרְבָּנֶ֑ךָ סֹ֥לֶת בַּשֶּׁ֖מֶן ת...",
       "primera_es": "Y si ofrenda de sartén es tu ofrenda, de harina fina en aceite será hecha."
     },
@@ -51,7 +52,6 @@
       "ch_end": 3,
       "v_end": 17,
       "ref_es": "Lev 3:1–17",
-      "url": "/torah/vayikra/003/#v1",
       "primera_he": "וְאִם־זֶ֥בַח שְׁלָמִ֖ים קׇרְבָּנ֑וֹ אִ֤ם מִן־הַבָּקָר֙ ה֣וּא...",
       "primera_es": "Y si sacrificio de shelamim es su ofrenda, si del ganado vacuno él ofrece, sea m..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 4,
       "v_end": 26,
       "ref_es": "Lev 4:1–26",
-      "url": "/torah/vayikra/004/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -75,7 +74,6 @@
       "ch_end": 5,
       "v_end": 10,
       "ref_es": "Lev 4:27–5:10",
-      "url": "/torah/vayikra/004/#v27",
       "primera_he": "וְאִם־נֶ֧פֶשׁ אַחַ֛ת תֶּחֱטָ֥א בִשְׁגָגָ֖ה מֵעַ֣ם הָאָ֑רֶץ ב...",
       "primera_es": "Y si una persona pecare por inadvertencia de entre el pueblo de la tierra, al ha..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 5,
       "v_end": 26,
       "ref_es": "Lev 5:11–26",
-      "url": "/torah/vayikra/005/#v11",
       "primera_he": "וְאִם־לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣...",
       "primera_es": "Y si su mano no alcanzare para dos tórtolas o para dos pichones de paloma, traer..."
     }

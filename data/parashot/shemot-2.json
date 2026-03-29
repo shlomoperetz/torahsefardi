@@ -1,4 +1,5 @@
 {
+  "slug": "shemot-2",
   "nombre": "Vaerá",
   "nombre_he": "וָאֵרָא",
   "nombre_es": "Y me aparecí",
@@ -6,6 +7,9 @@
   "libro_es": "Éxodo",
   "libro_he": "שְׁמוֹת",
   "num": 2,
+  "global_num": 14,
+  "prev_slug": "shemot-1",
+  "next_slug": "shemot-3",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 6,
       "v_end": 12,
       "ref_es": "Éx 6:1–12",
-      "url": "/torah/shemot/006/#v1",
       "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה עַתָּ֣ה תִרְאֶ֔ה אֲשֶׁ֥ר אֶֽ...",
       "primera_es": "Y dijo el Eterno a Moshé: «Ahora verás lo que haré a Paró, pues con mano fuerte ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 6,
       "v_end": 27,
       "ref_es": "Éx 6:13–27",
-      "url": "/torah/shemot/006/#v13",
       "primera_he": "וַיְדַבֵּ֣ר יְהֹוָה֮ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹן֒ וַיְצַוֵּם֙...",
       "primera_es": "Y habló el Eterno a Moshé y a Aharón, y les ordenó acerca de los hijos de Yisrae..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 7,
       "v_end": 7,
       "ref_es": "Éx 6:28–7:7",
-      "url": "/torah/shemot/006/#v28",
       "primera_he": "וַיְהִ֗י בְּי֨וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֖ה בְּאֶ֥רֶץ מִ...",
       "primera_es": "Y fue en el día en que habló el Eterno a Moshé en la tierra de Mitsráyim."
     },
@@ -51,7 +52,6 @@
       "ch_end": 8,
       "v_end": 6,
       "ref_es": "Éx 7:8–8:6",
-      "url": "/torah/shemot/007/#v8",
       "primera_he": "וַיֹּ֣אמֶר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
       "primera_es": "Y dijo el Eterno a Moshé y a Aharón, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 8,
       "v_end": 18,
       "ref_es": "Éx 8:7–18",
-      "url": "/torah/shemot/008/#v7",
       "primera_he": "וְסָר֣וּ הַֽצְפַרְדְּעִ֗ים מִמְּךָ֙ וּמִבָּ֣תֶּ֔יךָ וּמֵעֲבָ...",
       "primera_es": "Y se apartarán las ranas de ti y de tus casas y de tus siervos y de tu pueblo; s..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 9,
       "v_end": 16,
       "ref_es": "Éx 8:19–9:16",
-      "url": "/torah/shemot/008/#v19",
       "primera_he": "וְשַׂמְתִּ֣י פְדֻ֔ת בֵּ֥ין עַמִּ֖י וּבֵ֣ין עַמֶּ֑ךָ לְמָחָ֥ר...",
       "primera_es": "Y pondré distinción entre mi pueblo y tu pueblo; mañana será esta señal."
     },
@@ -87,7 +85,6 @@
       "ch_end": 9,
       "v_end": 35,
       "ref_es": "Éx 9:17–35",
-      "url": "/torah/shemot/009/#v17",
       "primera_he": "עוֹדְךָ֖ מִסְתּוֹלֵ֣ל בְּעַמִּ֑י לְבִלְתִּ֖י שַׁלְּחָֽם׃",
       "primera_es": "«Todavía te enalteces contra mi pueblo para no dejarlos ir."
     }

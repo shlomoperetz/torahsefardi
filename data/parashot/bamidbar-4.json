@@ -1,4 +1,5 @@
 {
+  "slug": "bamidbar-4",
   "nombre": "Sheláj",
   "nombre_he": "שְׁלַח",
   "nombre_es": "Envía",
@@ -6,6 +7,9 @@
   "libro_es": "Números",
   "libro_he": "בַּמִּדְבַּר",
   "num": 4,
+  "global_num": 37,
+  "prev_slug": "bamidbar-3",
+  "next_slug": "bamidbar-5",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 13,
       "v_end": 20,
       "ref_es": "Núm 13:1–20",
-      "url": "/torah/bamidbar/013/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 14,
       "v_end": 7,
       "ref_es": "Núm 13:21–14:7",
-      "url": "/torah/bamidbar/013/#v21",
       "primera_he": "וַֽיַּעֲל֖וּ וַיָּתֻ֣רוּ אֶת־הָאָ֑רֶץ מִמִּדְבַּר־צִ֥ן עַד־ר...",
       "primera_es": "Y subieron y exploraron la tierra, desde el desierto de Tsín hasta Rejov, a la e..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 14,
       "v_end": 25,
       "ref_es": "Núm 14:8–25",
-      "url": "/torah/bamidbar/014/#v8",
       "primera_he": "אִם־חָפֵ֥ץ בָּ֙נוּ֙ יְהֹוָ֔ה וְהֵבִ֤יא אֹתָ֙נוּ֙ אֶל־הָאָ֣רֶ...",
       "primera_es": "Si el Eterno se complace en nosotros, Él nos traerá a esta tierra y nos la dará;..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 15,
       "v_end": 7,
       "ref_es": "Núm 14:26–15:7",
-      "url": "/torah/bamidbar/014/#v26",
       "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 15,
       "v_end": 16,
       "ref_es": "Núm 15:8–16",
-      "url": "/torah/bamidbar/015/#v8",
       "primera_he": "וְכִֽי־תַעֲשֶׂ֥ה בֶן־בָּקָ֖ר עֹלָ֣ה אוֹ־זָ֑בַח לְפַלֵּא־נֶ֥ד...",
       "primera_es": "Y cuando hagas un hijo de ganado vacuno como holocausto o como sacrificio, para ..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 15,
       "v_end": 26,
       "ref_es": "Núm 15:17–26",
-      "url": "/torah/bamidbar/015/#v17",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -87,7 +85,6 @@
       "ch_end": 15,
       "v_end": 41,
       "ref_es": "Núm 15:27–41",
-      "url": "/torah/bamidbar/015/#v27",
       "primera_he": "וְאִם־נֶ֥פֶשׁ אַחַ֖ת תֶּחֱטָ֣א בִשְׁגָגָ֑ה וְהִקְרִ֛יבָה עֵ֥...",
       "primera_es": "Y si una persona pecare por inadvertencia, ofrecerá una cabra de un año como ofr..."
     }

@@ -1,0 +1,19 @@
+---
+title: "Tazriá · Lectura 3"
+parasha_slug: "vayikra-4"
+parasha_nombre: "Tazriá"
+parasha_nombre_he: "תַזְרִיעַ"
+parasha_url: "/parashot/vayikra-4/"
+libro: "vayikra"
+global_num: 27
+aliya_num: 3
+aliya_num_he: "ג"
+ch_start: 13
+v_start: 18
+ch_end: 13
+v_end: 23
+ref_es: "Lev 13:18–23"
+prev_aliya_url: "/parashot/vayikra-4/aliya-2/"
+next_aliya_url: "/parashot/vayikra-4/aliya-4/"
+layout: aliya
+---

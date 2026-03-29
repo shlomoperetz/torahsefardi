@@ -1,4 +1,5 @@
 {
+  "slug": "bamidbar-3",
   "nombre": "Behaálotjá",
   "nombre_he": "בְּהַעֲלֹתְךָ",
   "nombre_es": "Al encender",
@@ -6,6 +7,9 @@
   "libro_es": "Números",
   "libro_he": "בַּמִּדְבַּר",
   "num": 3,
+  "global_num": 36,
+  "prev_slug": "bamidbar-2",
+  "next_slug": "bamidbar-4",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 8,
       "v_end": 14,
       "ref_es": "Núm 8:1–14",
-      "url": "/torah/bamidbar/008/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 8,
       "v_end": 26,
       "ref_es": "Núm 8:15–26",
-      "url": "/torah/bamidbar/008/#v15",
       "primera_he": "וְאַֽחֲרֵי־כֵן֙ יָבֹ֣אוּ הַלְוִיִּ֔ם לַעֲבֹ֖ד אֶת־אֹ֣הֶל מוֹ...",
       "primera_es": "Y después de eso vendrán los levitas a servir en la Tienda de Reunión; y los pur..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 9,
       "v_end": 14,
       "ref_es": "Núm 9:1–14",
-      "url": "/torah/bamidbar/009/#v1",
       "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֣ה אֶל־מֹשֶׁ֣ה בְמִדְבַּר־סִ֠ינַ֠י בַּשָּׁ...",
       "primera_es": "Y habló el Eterno a Moshé en el desierto de Sinay, en el segundo año de su salid..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 10,
       "v_end": 10,
       "ref_es": "Núm 9:15–10:10",
-      "url": "/torah/bamidbar/009/#v15",
       "primera_he": "וּבְיוֹם֙ הָקִ֣ים אֶת־הַמִּשְׁכָּ֔ן כִּסָּ֤ה הֶֽעָנָן֙ אֶת־ה...",
       "primera_es": "Y en el día en que fue erigido el mishkán, la nube cubrió el mishkán, la tienda ..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 10,
       "v_end": 34,
       "ref_es": "Núm 10:11–34",
-      "url": "/torah/bamidbar/010/#v11",
       "primera_he": "וַיְהִ֞י בַּשָּׁנָ֧ה הַשֵּׁנִ֛ית בַּחֹ֥דֶשׁ הַשֵּׁנִ֖י בְּעֶ...",
       "primera_es": "Y fue en el año segundo, en el mes segundo, a los veinte del mes, que se alzó la..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 11,
       "v_end": 29,
       "ref_es": "Núm 10:35–11:29",
-      "url": "/torah/bamidbar/010/#v35",
       "primera_he": "׆&nbsp;וַיְהִ֛י בִּנְסֹ֥עַ הָאָרֹ֖ן וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ...",
       "primera_es": "Y sucedió que al partir el arca, dijo Moshé: «Levántate, oh Eterno, y sean dispe..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 12,
       "v_end": 16,
       "ref_es": "Núm 11:30–12:16",
-      "url": "/torah/bamidbar/011/#v30",
       "primera_he": "וַיֵּאָסֵ֥ף מֹשֶׁ֖ה אֶל־הַֽמַּחֲנֶ֑ה ה֖וּא וְזִקְנֵ֥י יִשְׂר...",
       "primera_es": "Y se recogió Moshé al campamento, él y los ancianos de Yisrael."
     }

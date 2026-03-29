@@ -1,4 +1,5 @@
 {
+  "slug": "bereshit-2",
   "nombre": "Noaj",
   "nombre_he": "נֹחַ",
   "nombre_es": "Noaj",
@@ -6,6 +7,9 @@
   "libro_es": "Génesis",
   "libro_he": "בְּרֵאשִׁית",
   "num": 2,
+  "global_num": 2,
+  "prev_slug": "bereshit-1",
+  "next_slug": "bereshit-3",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 6,
       "v_end": 22,
       "ref_es": "Gén 6:1–22",
-      "url": "/torah/bereshit/006/#v1",
       "primera_he": "וַֽיְהִי֙ כִּֽי־הֵחֵ֣ל הָֽאָדָ֔ם לָרֹ֖ב עַל־פְּנֵ֣י הָֽאֲדָמ...",
       "primera_es": "Y fue cuando comenzó el hombre a multiplicarse sobre la faz de la tierra, y les ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 7,
       "v_end": 16,
       "ref_es": "Gén 7:1–16",
-      "url": "/torah/bereshit/007/#v1",
       "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ לְנֹ֔חַ בֹּֽא־אַתָּ֥ה וְכׇל־בֵּיתְךָ֖ אֶ...",
       "primera_es": "Y dijo el Eterno a Nóaj: «Entra tú y toda tu casa al arca, porque a ti he visto ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 8,
       "v_end": 14,
       "ref_es": "Gén 7:17–8:14",
-      "url": "/torah/bereshit/007/#v17",
       "primera_he": "וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל־הָאָ֑רֶץ וַיִּר...",
       "primera_es": "Y fue el diluvio cuarenta días sobre la tierra, y se multiplicaron las aguas y l..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 9,
       "v_end": 7,
       "ref_es": "Gén 8:15–9:7",
-      "url": "/torah/bereshit/008/#v15",
       "primera_he": "וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־נֹ֥חַ לֵאמֹֽר׃",
       "primera_es": "Y habló Elohim a Nóaj, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 9,
       "v_end": 17,
       "ref_es": "Gén 9:8–17",
-      "url": "/torah/bereshit/009/#v8",
       "primera_he": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־נֹ֔חַ וְאֶל־בָּנָ֥יו אִתּ֖וֹ לֵאמֹֽ...",
       "primera_es": "Y dijo Elohim a Nóaj y a sus hijos con él, diciendo:"
     },
@@ -75,7 +74,6 @@
       "ch_end": 10,
       "v_end": 32,
       "ref_es": "Gén 9:18–10:32",
-      "url": "/torah/bereshit/009/#v18",
       "primera_he": "וַיִּֽהְי֣וּ בְנֵי־נֹ֗חַ הַיֹּֽצְאִים֙ מִן־הַתֵּבָ֔ה שֵׁ֖ם ו...",
       "primera_es": "Y fueron los hijos de Nóaj que salieron del arca: Shem, Jam y Yéfet; y Jam, él e..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 11,
       "v_end": 32,
       "ref_es": "Gén 11:1–32",
-      "url": "/torah/bereshit/011/#v1",
       "primera_he": "וַיְהִ֥י כׇל־הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים׃",
       "primera_es": "Y fue toda la tierra una lengua y palabras unas."
     }

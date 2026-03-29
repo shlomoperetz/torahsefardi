@@ -1,4 +1,5 @@
 {
+  "slug": "shemot-5",
   "nombre": "Yitró",
   "nombre_he": "יִתְרוֹ",
   "nombre_es": "Yitró",
@@ -6,6 +7,9 @@
   "libro_es": "Éxodo",
   "libro_he": "שְׁמוֹת",
   "num": 5,
+  "global_num": 17,
+  "prev_slug": "shemot-4",
+  "next_slug": "shemot-6",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 18,
       "v_end": 12,
       "ref_es": "Éx 18:1–12",
-      "url": "/torah/shemot/018/#v1",
       "primera_he": "וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כּ...",
       "primera_es": "Y oyó Yitró, sacerdote de Midián, suegro de Moshé, todo lo que hizo Elohim por M..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 18,
       "v_end": 23,
       "ref_es": "Éx 18:13–23",
-      "url": "/torah/shemot/018/#v13",
       "primera_he": "וַֽיְהִי֙ מִֽמׇּחֳרָ֔ת וַיֵּ֥שֶׁב מֹשֶׁ֖ה לִשְׁפֹּ֣ט אֶת־הָע...",
       "primera_es": "Y fue al día siguiente, y se sentó Moshé a juzgar al pueblo; y el pueblo estuvo ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 18,
       "v_end": 27,
       "ref_es": "Éx 18:24–27",
-      "url": "/torah/shemot/018/#v24",
       "primera_he": "וַיִּשְׁמַ֥ע מֹשֶׁ֖ה לְק֣וֹל חֹתְנ֑וֹ וַיַּ֕עַשׂ כֹּ֖ל אֲשֶׁ...",
       "primera_es": "Y escuchó Moshé la voz de su suegro, e hizo todo lo que dijo."
     },
@@ -51,7 +52,6 @@
       "ch_end": 19,
       "v_end": 6,
       "ref_es": "Éx 19:1–6",
-      "url": "/torah/shemot/019/#v1",
       "primera_he": "בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣ר...",
       "primera_es": "En el mes tercero de la salida de los hijos de Yisrael de la tierra de Mitsráyim..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 19,
       "v_end": 19,
       "ref_es": "Éx 19:7–19",
-      "url": "/torah/shemot/019/#v7",
       "primera_he": "וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם ל...",
       "primera_es": "Y vino Moshé y llamó a los ancianos del pueblo, y puso delante de ellos todas es..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 20,
       "v_end": 14,
       "ref_es": "Éx 19:20–20:14",
-      "url": "/torah/shemot/019/#v20",
       "primera_he": "וַיֵּ֧רֶד יְהֹוָ֛ה עַל־הַ֥ר סִינַ֖י אֶל־רֹ֣אשׁ הָהָ֑ר וַיִּק...",
       "primera_es": "Y descendió el Eterno sobre el monte Sinay, a la cumbre del monte, y llamó el Et..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 20,
       "v_end": 23,
       "ref_es": "Éx 20:15–23",
-      "url": "/torah/shemot/020/#v15",
       "primera_he": "וְכׇל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵ...",
       "primera_es": "Y todo el pueblo veía los truenos y los relámpagos, y el sonido del shofar, y el..."
     }

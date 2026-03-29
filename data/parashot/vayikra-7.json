@@ -1,4 +1,5 @@
 {
+  "slug": "vayikra-7",
   "nombre": "Kedoshim",
   "nombre_he": "קְדֹשִׁים",
   "nombre_es": "Santos seréis",
@@ -6,6 +7,9 @@
   "libro_es": "Levítico",
   "libro_he": "וַיִּקְרָא",
   "num": 7,
+  "global_num": 30,
+  "prev_slug": "vayikra-6",
+  "next_slug": "vayikra-8",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 19,
       "v_end": 14,
       "ref_es": "Lev 19:1–14",
-      "url": "/torah/vayikra/019/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 19,
       "v_end": 22,
       "ref_es": "Lev 19:15–22",
-      "url": "/torah/vayikra/019/#v15",
       "primera_he": "לֹא־תַעֲשׂ֥וּ עָ֙וֶל֙ בַּמִּשְׁפָּ֔ט לֹא־תִשָּׂ֣א פְנֵי־דָ֔ל...",
       "primera_es": "No haréis injusticia en el juicio; no favorecerás el rostro del pobre, y no honr..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 19,
       "v_end": 32,
       "ref_es": "Lev 19:23–32",
-      "url": "/torah/vayikra/019/#v23",
       "primera_he": "וְכִי־תָבֹ֣אוּ אֶל־הָאָ֗רֶץ וּנְטַעְתֶּם֙ כׇּל־עֵ֣ץ מַאֲכָ֔ל...",
       "primera_es": "Y cuando vengáis a la tierra y plantéis todo árbol de alimento, consideraréis in..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 19,
       "v_end": 37,
       "ref_es": "Lev 19:33–37",
-      "url": "/torah/vayikra/019/#v33",
       "primera_he": "וְכִֽי־יָג֧וּר אִתְּךָ֛ גֵּ֖ר בְּאַרְצְכֶ֑ם לֹ֥א תוֹנ֖וּ אֹת...",
       "primera_es": "Y cuando habite contigo un forastero en vuestra tierra, no lo oprimiréis."
     },
@@ -63,7 +63,6 @@
       "ch_end": 20,
       "v_end": 7,
       "ref_es": "Lev 20:1–7",
-      "url": "/torah/vayikra/020/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -75,7 +74,6 @@
       "ch_end": 20,
       "v_end": 22,
       "ref_es": "Lev 20:8–22",
-      "url": "/torah/vayikra/020/#v8",
       "primera_he": "וּשְׁמַרְתֶּם֙ אֶת־חֻקֹּתַ֔י וַעֲשִׂיתֶ֖ם אֹתָ֑ם אֲנִ֥י יְהֹ...",
       "primera_es": "Y guardaréis mis estatutos y los cumpliréis; Yo soy el Eterno que os santifica."
     },
@@ -87,7 +85,6 @@
       "ch_end": 20,
       "v_end": 27,
       "ref_es": "Lev 20:23–27",
-      "url": "/torah/vayikra/020/#v23",
       "primera_he": "וְלֹ֤א תֵֽלְכוּ֙ בְּחֻקֹּ֣ת הַגּ֔וֹי אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖...",
       "primera_es": "Y no andaréis en las costumbres de la nación que yo envío de delante de vosotros..."
     }

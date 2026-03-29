@@ -1,4 +1,5 @@
 {
+  "slug": "devarim-6",
   "nombre": "Ki Tetsé",
   "nombre_he": "כִּי-תֵצֵא",
   "nombre_es": "Cuando salgas",
@@ -6,6 +7,9 @@
   "libro_es": "Deuteronomio",
   "libro_he": "דְּבָרִים",
   "num": 6,
+  "global_num": 49,
+  "prev_slug": "devarim-5",
+  "next_slug": "devarim-7",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 21,
       "v_end": 12,
       "ref_es": "Deut 21:1–12",
-      "url": "/torah/devarim/021/#v1",
       "primera_he": "כִּי־יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהֹוָ֨ה אֱלֹהֶ֜יך...",
       "primera_es": "Cuando se hallare un muerto en la tierra que el Eterno tu Elohim te da para pose..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 22,
       "v_end": 7,
       "ref_es": "Deut 21:13–22:7",
-      "url": "/torah/devarim/021/#v13",
       "primera_he": "וְהֵסִ֩ירָה֩ אֶת־שִׂמְלַ֨ת שִׁבְיָ֜הּ מֵעָלֶ֗יהָ וְיָֽשְׁבָה...",
       "primera_es": "Y quitará el vestido de su cautiverio de sobre ella, y habitará en tu casa, y ll..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 23,
       "v_end": 7,
       "ref_es": "Deut 22:8–23:7",
-      "url": "/torah/devarim/022/#v8",
       "primera_he": "כִּ֤י תִבְנֶה֙ בַּ֣יִת חָדָ֔שׁ וְעָשִׂ֥יתָ מַעֲקֶ֖ה לְגַגֶּ֑...",
       "primera_es": "Cuando edifiques una casa nueva, harás un parapeto para tu techo, y no pondrás s..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 23,
       "v_end": 24,
       "ref_es": "Deut 23:8–24",
-      "url": "/torah/devarim/023/#v8",
       "primera_he": "לֹֽא־תְתַעֵ֣ב אֲדֹמִ֔י כִּ֥י אָחִ֖יךָ ה֑וּא לֹא־תְתַעֵ֣ב מִצ...",
       "primera_es": "No aborrecerás al edomita, porque tu hermano es; no aborrecerás al egipcio, porq..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 24,
       "v_end": 4,
       "ref_es": "Deut 23:25–24:4",
-      "url": "/torah/devarim/023/#v25",
       "primera_he": "כִּ֤י תָבֹא֙ בְּכֶ֣רֶם רֵעֶ֔ךָ וְאָכַלְתָּ֧ עֲנָבִ֛ים כְּנַפ...",
       "primera_es": "Cuando entres en la viña de tu prójimo, comerás uvas conforme a tu deseo, hasta ..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 24,
       "v_end": 13,
       "ref_es": "Deut 24:5–13",
-      "url": "/torah/devarim/024/#v5",
       "primera_he": "כִּֽי־יִקַּ֥ח אִישׁ֙ אִשָּׁ֣ה חֲדָשָׁ֔ה לֹ֤א יֵצֵא֙ בַּצָּבָ...",
       "primera_es": "Cuando un hombre tome una mujer nueva, no saldrá con el ejército, y no se le imp..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 25,
       "v_end": 19,
       "ref_es": "Deut 24:14–25:19",
-      "url": "/torah/devarim/024/#v14",
       "primera_he": "לֹא־תַעֲשֹׁ֥ק שָׂכִ֖יר עָנִ֣י וְאֶבְי֑וֹן מֵאַחֶ֕יךָ א֧וֹ מִ...",
       "primera_es": "No oprimirás a jornalero pobre y necesitado, de tus hermanos o de tu forastero q..."
     }

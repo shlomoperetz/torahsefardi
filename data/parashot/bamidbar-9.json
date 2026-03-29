@@ -1,4 +1,5 @@
 {
+  "slug": "bamidbar-9",
   "nombre": "Matot",
   "nombre_he": "מַטּוֹת",
   "nombre_es": "Tribus",
@@ -6,6 +7,9 @@
   "libro_es": "Números",
   "libro_he": "בַּמִּדְבַּר",
   "num": 9,
+  "global_num": 42,
+  "prev_slug": "bamidbar-8",
+  "next_slug": "bamidbar-10",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 30,
       "v_end": 17,
       "ref_es": "Núm 30:1–17",
-      "url": "/torah/bamidbar/030/#v1",
       "primera_he": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל כְּכֹ֛ל אֲשֶׁר־צִ...",
       "primera_es": "Y dijo Moshé a los hijos de Yisrael conforme a todo lo que el Eterno había orden..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 31,
       "v_end": 12,
       "ref_es": "Núm 31:1–12",
-      "url": "/torah/bamidbar/031/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -39,7 +41,6 @@
       "ch_end": 31,
       "v_end": 24,
       "ref_es": "Núm 31:13–24",
-      "url": "/torah/bamidbar/031/#v13",
       "primera_he": "וַיֵּ֨צְא֜וּ מֹשֶׁ֨ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן וְכׇל־נְשִׂיאֵ֥י...",
       "primera_es": "Y salieron Moshé y Elazar el sacerdote y todos los príncipes de la congregación ..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 31,
       "v_end": 41,
       "ref_es": "Núm 31:25–41",
-      "url": "/torah/bamidbar/031/#v25",
       "primera_he": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     },
@@ -63,7 +63,6 @@
       "ch_end": 31,
       "v_end": 54,
       "ref_es": "Núm 31:42–54",
-      "url": "/torah/bamidbar/031/#v42",
       "primera_he": "וּמִֽמַּחֲצִ֖ית בְּנֵ֣י יִשְׂרָאֵ֑ל אֲשֶׁר֙ חָצָ֣ה מֹשֶׁ֔ה מ...",
       "primera_es": "Y de la mitad de los hijos de Yisrael, que apartó Moshé de los hombres que había..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 32,
       "v_end": 19,
       "ref_es": "Núm 32:1–19",
-      "url": "/torah/bamidbar/032/#v1",
       "primera_he": "וּמִקְנֶ֣ה&thinsp;׀ רַ֗ב הָיָ֞ה לִבְנֵ֧י רְאוּבֵ֛ן וְלִבְנֵי...",
       "primera_es": "Y ganado abundante tenían los hijos de Reuvén y los hijos de Gad, muy numeroso; ..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 32,
       "v_end": 42,
       "ref_es": "Núm 32:20–42",
-      "url": "/torah/bamidbar/032/#v20",
       "primera_he": "וַיֹּ֤אמֶר אֲלֵיהֶם֙ מֹשֶׁ֔ה אִֽם־תַּעֲשׂ֖וּן אֶת־הַדָּבָ֣ר ...",
       "primera_es": "Y dijo Moshé a ellos: «Si hacéis esta cosa, si os armáis delante del Eterno para..."
     }

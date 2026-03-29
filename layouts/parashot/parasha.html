@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ $slug := .File.Dir | path.Base }}
+{{ $data := index .Site.Data.parashot $slug }}
+{{ $he_nums := slice "א" "ב" "ג" "ד" "ה" "ו" "ז" }}
+<div class="parasha-single-wrap">
+  <div class="parasha-header">
+    <div class="parasha-num-badge">פרשה {{ $data.global_num }}</div>
+    <h1 class="parasha-title-he">{{ $data.nombre_he }}</h1>
+    <div class="parasha-title-es">{{ $data.nombre_es }}</div>
+    <div class="parasha-libro">{{ $data.libro_he }} · {{ $data.libro_es }}</div>
+  </div>
+
+  <div class="aliyot-grid">
+    {{ range $data.aliyot }}
+    <a href="/parashot/{{ $slug }}/aliya-{{ .num }}/" class="aliya-card">
+      <div class="aliya-num-he">{{ index $he_nums (sub (int .num) 1) }}</div>
+      <div class="aliya-label">Lectura {{ .num }}</div>
+      <div class="aliya-ref">{{ .ref_es }}</div>
+      <div class="aliya-preview-he">{{ .primera_he }}</div>
+      <div class="aliya-preview-es">{{ .primera_es }}</div>
+    </a>
+    {{ end }}
+  </div>
+
+  <div class="parasha-nav">
+    {{ if $data.prev_slug }}
+    {{ $prev := index .Site.Data.parashot $data.prev_slug }}
+    <a href="/parashot/{{ $data.prev_slug }}/" class="pnav-btn">← {{ $prev.nombre }}</a>
+    {{ else }}<span></span>{{ end }}
+    <a href="/parashot/" class="pnav-center">Todas las parashot</a>
+    {{ if $data.next_slug }}
+    {{ $next := index .Site.Data.parashot $data.next_slug }}
+    <a href="/parashot/{{ $data.next_slug }}/" class="pnav-btn">{{ $next.nombre }} →</a>
+    {{ else }}<span></span>{{ end }}
+  </div>
+</div>
+{{ end }}

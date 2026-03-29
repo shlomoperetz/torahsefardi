@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Generate parashot data and content files."""
+"""Generate parashot data, content files, and JS lookup map."""
 
 import json
 import os
 import re
+import shutil
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -64,6 +65,59 @@ PARASHOT = [
     {"slug":"devarim-11", "nombre":"Vezot Haberajá", "nombre_he":"וְזֹאת הַבְּרָכָה","nombre_es":"Esta es la bendición","libro":"devarim","libro_es":"Deuteronomio","libro_he":"דְּבָרִים","num":11},
 ]
 
+# Schedule 5786 diaspora (Shabbat date → parasha slug, None = holiday break)
+PARASHA_SCHEDULE = [
+    ("2025-10-18", "bereshit-1"),
+    ("2025-10-25", "bereshit-2"),
+    ("2025-11-01", "bereshit-3"),
+    ("2025-11-08", "bereshit-4"),
+    ("2025-11-15", "bereshit-5"),
+    ("2025-11-22", "bereshit-6"),
+    ("2025-11-29", "bereshit-7"),
+    ("2025-12-06", "bereshit-8"),
+    ("2025-12-13", "bereshit-9"),
+    ("2025-12-20", "bereshit-10"),
+    ("2025-12-27", "bereshit-11"),
+    ("2026-01-03", "bereshit-12"),
+    ("2026-01-10", "shemot-1"),
+    ("2026-01-17", "shemot-2"),
+    ("2026-01-24", "shemot-3"),
+    ("2026-01-31", "shemot-4"),
+    ("2026-02-07", "shemot-5"),
+    ("2026-02-14", "shemot-6"),
+    ("2026-02-21", "shemot-7"),
+    ("2026-02-28", "shemot-8"),
+    ("2026-03-07", "shemot-9"),
+    ("2026-03-14", "shemot-10"),   # Vayakhel-Pekudei combinadas
+    ("2026-03-21", "vayikra-1"),
+    ("2026-03-28", "vayikra-2"),
+    # Apr 4 = Shabbat Jol HaMoed Pesaj
+    ("2026-04-11", "vayikra-3"),
+    ("2026-04-18", "vayikra-4"),   # Tazriá-Metsora combinadas
+    ("2026-04-25", "vayikra-6"),   # Ajaré Mot-Kedoshim combinadas
+    ("2026-05-02", "vayikra-8"),
+    ("2026-05-09", "vayikra-9"),   # Behar-Bejukotai combinadas
+    ("2026-05-16", "bamidbar-1"),
+    ("2026-05-23", "bamidbar-2"),
+    ("2026-05-30", "bamidbar-3"),
+    ("2026-06-06", "bamidbar-4"),
+    ("2026-06-13", "bamidbar-5"),
+    ("2026-06-20", "bamidbar-6"),
+    ("2026-06-27", "bamidbar-7"),
+    ("2026-07-04", "bamidbar-8"),
+    ("2026-07-11", "bamidbar-9"),  # Matot-Masei combinadas
+    ("2026-07-18", "devarim-1"),
+    ("2026-07-25", "devarim-2"),
+    ("2026-08-01", "devarim-3"),
+    ("2026-08-08", "devarim-4"),
+    ("2026-08-15", "devarim-5"),
+    ("2026-08-22", "devarim-6"),
+    ("2026-08-29", "devarim-7"),
+    ("2026-09-05", "devarim-8"),   # Nitsavim-Vayelej combinadas
+    # Sep 12 = RH / Sep 19 = Shabbat Shuva / Sep 26 = Sucot
+    ("2026-10-03", "devarim-10"),  # Haazinú (Shabbat Shuva 5787)
+]
+
 HE_NUMS = ["א","ב","ג","ד","ה","ו","ז"]
 
 BOOK_ABBR = {
@@ -116,6 +170,10 @@ def make_ref_es(libro, ch_start, v_start, ch_end, v_end):
         return f"{abbr} {ch_start}:{v_start}–{ch_end}:{v_end}"
 
 
+def escape_yaml(s):
+    return s.replace('"', '\\"')
+
+
 def main():
     # Load aliyot cache
     cache_path = os.path.join(BASE, "tools", "aliyot_cache.json")
@@ -128,13 +186,23 @@ def main():
     os.makedirs(data_dir, exist_ok=True)
     os.makedirs(content_dir, exist_ok=True)
 
-    # Write _index.md
+    # Clean up old leaf .md files (not _index.md, not directories)
+    for fname in os.listdir(content_dir):
+        fpath = os.path.join(content_dir, fname)
+        if fname != "_index.md" and fname.endswith(".md") and os.path.isfile(fpath):
+            os.remove(fpath)
+            print(f"Removed old: {fpath}")
+
+    # Write section _index.md
     index_path = os.path.join(content_dir, "_index.md")
     with open(index_path, "w", encoding="utf-8") as f:
         f.write("---\ntitle: \"Parashot\"\n---\n")
     print(f"Written: {index_path}")
 
-    for p in PARASHOT:
+    # Build parasha data with global_num, prev_slug, next_slug
+    all_data = []  # ordered list of (slug, data_out, p)
+
+    for global_num, p in enumerate(PARASHOT, start=1):
         slug = p["slug"]
         cache_key = slug_to_cache_key(slug)
         aliyot_raw = aliyot_cache.get(cache_key, [])
@@ -152,7 +220,6 @@ def main():
             primera_es = primera_es or ""
 
             ref_es = make_ref_es(p["libro"], ch_start, v_start, ch_end, v_end)
-            url = f"/torah/{p['libro']}/{ch_start:03d}/#v{v_start}"
 
             aliyot_out.append({
                 "num": num,
@@ -162,12 +229,15 @@ def main():
                 "ch_end": ch_end,
                 "v_end": v_end,
                 "ref_es": ref_es,
-                "url": url,
                 "primera_he": primera_he,
                 "primera_es": primera_es,
             })
 
+        prev_slug = PARASHOT[global_num - 2]["slug"] if global_num > 1 else ""
+        next_slug = PARASHOT[global_num]["slug"] if global_num < len(PARASHOT) else ""
+
         data_out = {
+            "slug": slug,
             "nombre": p["nombre"],
             "nombre_he": p["nombre_he"],
             "nombre_es": p["nombre_es"],
@@ -175,36 +245,129 @@ def main():
             "libro_es": p["libro_es"],
             "libro_he": p["libro_he"],
             "num": p["num"],
+            "global_num": global_num,
+            "prev_slug": prev_slug,
+            "next_slug": next_slug,
             "aliyot": aliyot_out,
         }
+        all_data.append((slug, data_out, p, global_num))
 
+    # Write data files and content files
+    for slug, data_out, p, global_num in all_data:
         # Write data file
         data_path = os.path.join(data_dir, f"{slug}.json")
         with open(data_path, "w", encoding="utf-8") as f:
             json.dump(data_out, f, ensure_ascii=False, indent=2)
 
-        # Write content file
-        content_path = os.path.join(content_dir, f"{slug}.md")
-        # Escape quotes in strings for YAML
-        nombre_he_esc = p["nombre_he"].replace('"', '\\"')
-        nombre_es_esc = p["nombre_es"].replace('"', '\\"')
-        libro_es_esc = p["libro_es"].replace('"', '\\"')
-        with open(content_path, "w", encoding="utf-8") as f:
+        # Create branch bundle directory
+        parasha_dir = os.path.join(content_dir, slug)
+        os.makedirs(parasha_dir, exist_ok=True)
+
+        # Write branch bundle _index.md
+        index_md = os.path.join(parasha_dir, "_index.md")
+        with open(index_md, "w", encoding="utf-8") as f:
             f.write(f"""---
-title: "{p['nombre']}"
-nombre_he: "{nombre_he_esc}"
-nombre_es: "{nombre_es_esc}"
+title: "{escape_yaml(p['nombre'])}"
+nombre_he: "{escape_yaml(p['nombre_he'])}"
+nombre_es: "{escape_yaml(p['nombre_es'])}"
 slug_parasha: "{slug}"
 libro: "{p['libro']}"
-libro_es: "{libro_es_esc}"
+libro_es: "{escape_yaml(p['libro_es'])}"
 num: {p['num']}
-weight: {p['num']}
+global_num: {global_num}
+weight: {global_num}
+layout: parasha
 ---
 """)
 
-        print(f"Written: {slug} ({len(aliyot_out)} aliyot)")
+        # Write aliyah content files
+        aliyot = data_out["aliyot"]
+        for a in aliyot:
+            n = a["num"]
+            prev_aliya_url = ""
+            if n > 1:
+                prev_aliya_url = f"/parashot/{slug}/aliya-{n-1}/"
+            elif data_out["prev_slug"]:
+                prev_aliya_url = f"/parashot/{data_out['prev_slug']}/aliya-7/"
 
-    print(f"\nDone. Generated {len(PARASHOT)} parashot.")
+            next_aliya_url = ""
+            if n < 7:
+                next_aliya_url = f"/parashot/{slug}/aliya-{n+1}/"
+            elif data_out["next_slug"]:
+                next_aliya_url = f"/parashot/{data_out['next_slug']}/aliya-1/"
+
+            aliya_md = os.path.join(parasha_dir, f"aliya-{n}.md")
+            with open(aliya_md, "w", encoding="utf-8") as f:
+                f.write(f"""---
+title: "{escape_yaml(p['nombre'])} · Lectura {n}"
+parasha_slug: "{slug}"
+parasha_nombre: "{escape_yaml(p['nombre'])}"
+parasha_nombre_he: "{escape_yaml(p['nombre_he'])}"
+parasha_url: "/parashot/{slug}/"
+libro: "{p['libro']}"
+global_num: {global_num}
+aliya_num: {n}
+aliya_num_he: "{a['num_he']}"
+ch_start: {a['ch_start']}
+v_start: {a['v_start']}
+ch_end: {a['ch_end']}
+v_end: {a['v_end']}
+ref_es: "{escape_yaml(a['ref_es'])}"
+prev_aliya_url: "{prev_aliya_url}"
+next_aliya_url: "{next_aliya_url}"
+layout: aliya
+---
+""")
+
+        print(f"Written: {slug} (global #{global_num}, {len(aliyot)} aliyot)")
+
+    # --- Generate static/js/parasha-map.js ---
+    # Build PARASHA_MAP: {libro: [{ch, v, slug, nombre, nombre_he, aliya_num, aliya_num_he},...]}
+    parasha_map = {}
+    for slug, data_out, p, global_num in all_data:
+        libro = p["libro"]
+        if libro not in parasha_map:
+            parasha_map[libro] = []
+        for a in data_out["aliyot"]:
+            parasha_map[libro].append({
+                "ch": a["ch_start"],
+                "v": a["v_start"],
+                "slug": slug,
+                "nombre": p["nombre"],
+                "nombre_he": p["nombre_he"],
+                "aliya_num": a["num"],
+                "aliya_num_he": a["num_he"],
+                "aliya_url": f"/parashot/{slug}/aliya-{a['num']}/",
+                "parasha_url": f"/parashot/{slug}/",
+            })
+
+    # Sort each libro's entries by ch then v
+    for libro in parasha_map:
+        parasha_map[libro].sort(key=lambda x: (x["ch"], x["v"]))
+
+    # Build PARASHA_INFO: slug → {nombre, nombre_he, url}
+    parasha_info = {}
+    for slug, data_out, p, global_num in all_data:
+        parasha_info[slug] = {
+            "nombre": p["nombre"],
+            "nombre_he": p["nombre_he"],
+            "url": f"/parashot/{slug}/",
+        }
+
+    # Build schedule as list of [date, slug_or_null]
+    schedule_js = []
+    for date, slug in PARASHA_SCHEDULE:
+        schedule_js.append([date, slug])
+
+    js_path = os.path.join(BASE, "static", "js", "parasha-map.js")
+    os.makedirs(os.path.dirname(js_path), exist_ok=True)
+    with open(js_path, "w", encoding="utf-8") as f:
+        f.write("// Auto-generated by gen_parashot.py — do not edit\n")
+        f.write(f"var PARASHA_MAP={json.dumps(parasha_map, ensure_ascii=False)};\n")
+        f.write(f"var PARASHA_INFO={json.dumps(parasha_info, ensure_ascii=False)};\n")
+        f.write(f"var PARASHA_SCHEDULE={json.dumps(schedule_js, ensure_ascii=False)};\n")
+    print(f"\nWritten: {js_path}")
+    print(f"Done. Generated {len(PARASHOT)} parashot, {len(PARASHOT)*7} aliyot.")
 
 
 if __name__ == "__main__":

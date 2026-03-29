@@ -1,4 +1,5 @@
 {
+  "slug": "vayikra-9",
   "nombre": "Behar",
   "nombre_he": "בְּהַר",
   "nombre_es": "En el monte",
@@ -6,6 +7,9 @@
   "libro_es": "Levítico",
   "libro_he": "וַיִּקְרָא",
   "num": 9,
+  "global_num": 32,
+  "prev_slug": "vayikra-8",
+  "next_slug": "vayikra-10",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 25,
       "v_end": 13,
       "ref_es": "Lev 25:1–13",
-      "url": "/torah/vayikra/025/#v1",
       "primera_he": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé en el monte Sinay, diciendo:"
     },
@@ -27,7 +30,6 @@
       "ch_end": 25,
       "v_end": 18,
       "ref_es": "Lev 25:14–18",
-      "url": "/torah/vayikra/025/#v14",
       "primera_he": "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣...",
       "primera_es": "Y cuando vendiereis venta a tu prójimo, o comprares de mano de tu prójimo, no en..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 25,
       "v_end": 24,
       "ref_es": "Lev 25:19–24",
-      "url": "/torah/vayikra/025/#v19",
       "primera_he": "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽי...",
       "primera_es": "Y dará la tierra su fruto, y comeréis hasta saciaros, y habitaréis con seguridad..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 25,
       "v_end": 28,
       "ref_es": "Lev 25:25–28",
-      "url": "/torah/vayikra/025/#v25",
       "primera_he": "כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲל...",
       "primera_es": "Cuando empobreciere tu hermano y vendiere de su posesión, vendrá su redentor, el..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 25,
       "v_end": 38,
       "ref_es": "Lev 25:29–38",
-      "url": "/torah/vayikra/025/#v29",
       "primera_he": "וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְ...",
       "primera_es": "Y un hombre, si vendiere casa de morada en ciudad amurallada, su redención será ..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 25,
       "v_end": 46,
       "ref_es": "Lev 25:39–46",
-      "url": "/torah/vayikra/025/#v39",
       "primera_he": "וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲב...",
       "primera_es": "Y si empobreciere tu hermano contigo y se vendiere a ti, no lo harás trabajar co..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 26,
       "v_end": 2,
       "ref_es": "Lev 25:47–26:2",
-      "url": "/torah/vayikra/025/#v47",
       "primera_he": "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ...",
       "primera_es": "Y si alcanzare la mano del extranjero y residente contigo, y tu hermano empobrec..."
     }

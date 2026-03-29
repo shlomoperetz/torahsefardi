@@ -1,4 +1,5 @@
 {
+  "slug": "shemot-3",
   "nombre": "Bo",
   "nombre_he": "בֹּא",
   "nombre_es": "Entra",
@@ -6,6 +7,9 @@
   "libro_es": "Éxodo",
   "libro_he": "שְׁמוֹת",
   "num": 3,
+  "global_num": 15,
+  "prev_slug": "shemot-2",
+  "next_slug": "shemot-4",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 10,
       "v_end": 11,
       "ref_es": "Éx 10:1–11",
-      "url": "/torah/shemot/010/#v1",
       "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה כִּֽי־אֲ...",
       "primera_es": "Y dijo el Eterno a Moshé: «Ven a Paró, porque yo he endurecido su corazón y el c..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 10,
       "v_end": 23,
       "ref_es": "Éx 10:12–23",
-      "url": "/torah/shemot/010/#v12",
       "primera_he": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה נְטֵ֨ה יָדְךָ֜ עַל־אֶ֤רֶץ מִ...",
       "primera_es": "Y dijo el Eterno a Moshé: «Extiende tu mano sobre la tierra de Mitsráyim por la ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 11,
       "v_end": 3,
       "ref_es": "Éx 10:24–11:3",
-      "url": "/torah/shemot/010/#v24",
       "primera_he": "וַיִּקְרָ֨א פַרְעֹ֜ה אֶל־מֹשֶׁ֗ה וַיֹּ֙אמֶר֙ לְכוּ֙ עִבְד֣וּ...",
       "primera_es": "Y llamó Paró a Moshé y dijo: «Id, servid al Eterno; solo vuestro ganado menor y ..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 12,
       "v_end": 20,
       "ref_es": "Éx 11:4–12:20",
-      "url": "/torah/shemot/011/#v4",
       "primera_he": "וַיֹּ֣אמֶר מֹשֶׁ֔ה כֹּ֖ה אָמַ֣ר יְהֹוָ֑ה כַּחֲצֹ֣ת הַלַּ֔יְל...",
       "primera_es": "Y dijo Moshé: «Así ha dicho el Eterno: Como a la medianoche Yo saldré en medio d..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 12,
       "v_end": 28,
       "ref_es": "Éx 12:21–28",
-      "url": "/torah/shemot/012/#v21",
       "primera_he": "וַיִּקְרָ֥א מֹשֶׁ֛ה לְכׇל־זִקְנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲ...",
       "primera_es": "Y llamó Moshé a todos los ancianos de Yisrael y les dijo: «Tomad y adquirid para..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 12,
       "v_end": 51,
       "ref_es": "Éx 12:29–51",
-      "url": "/torah/shemot/012/#v29",
       "primera_he": "וַיְהִ֣י&thinsp;׀ בַּחֲצִ֣י הַלַּ֗יְלָה וַֽיהֹוָה֮ הִכָּ֣ה כ...",
       "primera_es": "Y fue a la medianoche, y el Eterno hirió a todo primogénito en la tierra de Mits..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 13,
       "v_end": 16,
       "ref_es": "Éx 13:1–16",
-      "url": "/torah/shemot/013/#v1",
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     }

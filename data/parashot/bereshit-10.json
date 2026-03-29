@@ -1,4 +1,5 @@
 {
+  "slug": "bereshit-10",
   "nombre": "Mikéts",
   "nombre_he": "מִקֵּץ",
   "nombre_es": "Al cabo de",
@@ -6,6 +7,9 @@
   "libro_es": "Génesis",
   "libro_he": "בְּרֵאשִׁית",
   "num": 10,
+  "global_num": 10,
+  "prev_slug": "bereshit-9",
+  "next_slug": "bereshit-11",
   "aliyot": [
     {
       "num": 1,
@@ -15,7 +19,6 @@
       "ch_end": 41,
       "v_end": 14,
       "ref_es": "Gén 41:1–14",
-      "url": "/torah/bereshit/041/#v1",
       "primera_he": "וַיְהִ֕י מִקֵּ֖ץ שְׁנָתַ֣יִם יָמִ֑ים וּפַרְעֹ֣ה חֹלֵ֔ם וְהִנ...",
       "primera_es": "Y sucedió al cabo de dos años de días, que Paró soñaba, y he aquí que estaba de ..."
     },
@@ -27,7 +30,6 @@
       "ch_end": 41,
       "v_end": 38,
       "ref_es": "Gén 41:15–38",
-      "url": "/torah/bereshit/041/#v15",
       "primera_he": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־יוֹסֵ֔ף חֲל֣וֹם חָלַ֔מְתִּי וּפֹתֵ֖...",
       "primera_es": "Y dijo Paró a Yosef: «Un sueño he soñado, y no hay quien lo interprete; y yo he ..."
     },
@@ -39,7 +41,6 @@
       "ch_end": 41,
       "v_end": 52,
       "ref_es": "Gén 41:39–52",
-      "url": "/torah/bereshit/041/#v39",
       "primera_he": "וַיֹּ֤אמֶר פַּרְעֹה֙ אֶל־יוֹסֵ֔ף אַחֲרֵ֨י הוֹדִ֧יעַ אֱלֹהִ֛י...",
       "primera_es": "Y dijo Paró a Yosef: «Después que Elohim te ha dado a conocer todo esto, no hay ..."
     },
@@ -51,7 +52,6 @@
       "ch_end": 42,
       "v_end": 18,
       "ref_es": "Gén 41:53–42:18",
-      "url": "/torah/bereshit/041/#v53",
       "primera_he": "וַתִּכְלֶ֕ינָה שֶׁ֖בַע שְׁנֵ֣י הַשָּׂבָ֑ע אֲשֶׁ֥ר הָיָ֖ה בְּ...",
       "primera_es": "Y se acabaron los siete años de la abundancia que hubo en la tierra de Mitsráyim..."
     },
@@ -63,7 +63,6 @@
       "ch_end": 43,
       "v_end": 15,
       "ref_es": "Gén 42:19–43:15",
-      "url": "/torah/bereshit/042/#v19",
       "primera_he": "אִם־כֵּנִ֣ים אַתֶּ֔ם אֲחִיכֶ֣ם אֶחָ֔ד יֵאָסֵ֖ר בְּבֵ֣ית מִשׁ...",
       "primera_es": "«Si sois hombres rectos, uno de vuestros hermanos quedará preso en la casa de vu..."
     },
@@ -75,7 +74,6 @@
       "ch_end": 43,
       "v_end": 29,
       "ref_es": "Gén 43:16–29",
-      "url": "/torah/bereshit/043/#v16",
       "primera_he": "וַיַּ֨רְא יוֹסֵ֣ף אִתָּם֮ אֶת־בִּנְיָמִין֒ וַיֹּ֙אמֶר֙ לַֽאֲ...",
       "primera_es": "Y vio Yosef con ellos a Binyamín, y dijo al que estaba sobre su casa: «Haz entra..."
     },
@@ -87,7 +85,6 @@
       "ch_end": 44,
       "v_end": 17,
       "ref_es": "Gén 43:30–44:17",
-      "url": "/torah/bereshit/043/#v30",
       "primera_he": "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־נִכְמְר֤וּ רַחֲמָיו֙ אֶל־אָחִ֔יו וַ...",
       "primera_es": "Y se apresuró Yosef, porque se conmovieron sus entrañas hacia su hermano, y busc..."
     }
