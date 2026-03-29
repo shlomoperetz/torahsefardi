@@ -18,7 +18,8 @@
     {
       "num": 3,
       "he": "וְאֵ֤ל שַׁדַּי֙ יְבָרֵ֣ךְ אֹֽתְךָ֔ וְיַפְרְךָ֖ וְיַרְבֶּ֑ךָ וְהָיִ֖יתָ לִקְהַ֥ל עַמִּֽים׃",
-      "es": "Y El Shaday te bendiga, y te haga fecundo y te multiplique, y seas congregación de pueblos."
+      "es": "Y El Shaday te bendiga, y te haga fructificar y te multiplique, y seas congregación de pueblos.",
+      "nota": "Shaday — Nombre divino (שַׁדַּי); se mantiene en hebreo como forma establecida del nombre El Shaday, uno de los nombres con que Elohim se reveló a los patriarcas."
     },
     {
       "num": 4,
@@ -33,7 +34,7 @@
     {
       "num": 6,
       "he": "וַיַּ֣רְא עֵשָׂ֗ו כִּֽי־בֵרַ֣ךְ יִצְחָק֮ אֶֽת־יַעֲקֹב֒ וְשִׁלַּ֤ח אֹתוֹ֙ פַּדֶּ֣נָֽה אֲרָ֔ם לָקַֽחַת־ל֥וֹ מִשָּׁ֖ם אִשָּׁ֑ה בְּבָרְכ֣וֹ אֹת֔וֹ וַיְצַ֤ו עָלָיו֙ לֵאמֹ֔ר לֹֽא־תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃",
-      "es": "Y vio Esav que Yitsjak había bendecido a Yaakov y lo había enviado a Padán Aram para tomar de allí mujer para sí, y al bendecirlo le ordenó diciendo: «No tomarás mujer de las hijas de Kenáan»."
+      "es": "Y vio Esav que Yitsjak había bendecido a Yaakov y lo había enviado a Padán Aram para tomar para sí de allí mujer, y que al bendecirlo le ordenó diciendo: «No tomes mujer de las hijas de Kenáan»."
     },
     {
       "num": 7,
@@ -48,72 +49,74 @@
     {
       "num": 9,
       "he": "וַיֵּ֥לֶךְ עֵשָׂ֖ו אֶל־יִשְׁמָעֵ֑אל וַיִּקַּ֡ח אֶֽת־מָחֲלַ֣ת&thinsp;<b>׀</b> בַּת־יִשְׁמָעֵ֨אל בֶּן־אַבְרָהָ֜ם אֲח֧וֹת נְבָי֛וֹת עַל־נָשָׁ֖יו ל֥וֹ לְאִשָּֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": "Y fue Esav a Yishmael, y tomó a Majalat hija de Yishmael hijo de Avraham, hermana de Nevayot, además de sus mujeres, por mujer para sí."
+      "es": "Y fue Esav a Yishmael, y tomó a Majalat hija de Yishmael hijo de Avraham, hermana de Nevayot, además de sus mujeres, por mujer para él."
     },
     {
       "num": 10,
       "he": "וַיֵּצֵ֥א יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיֵּ֖לֶךְ חָרָֽנָה׃",
-      "es": ""
+      "es": "Y salió Yaakov de Beer Shéva, y fue hacia Jarán.",
+      "nota": "Beer Shéva — Nombre del lugar que significa tanto «pozo del juramento» como «pozo de las siete», aludiendo a las siete corderas y al juramento entre Avraham y Avimélej."
     },
     {
       "num": 11,
       "he": "וַיִּפְגַּ֨ע בַּמָּק֜וֹם וַיָּ֤לֶן שָׁם֙ כִּי־בָ֣א הַשֶּׁ֔מֶשׁ וַיִּקַּח֙ מֵאַבְנֵ֣י הַמָּק֔וֹם וַיָּ֖שֶׂם מְרַֽאֲשֹׁתָ֑יו וַיִּשְׁכַּ֖ב בַּמָּק֥וֹם הַהֽוּא׃",
-      "es": ""
+      "es": "Y llegó al lugar y pernoctó allí porque se había puesto el sol, y tomó de las piedras del lugar y puso a su cabecera, y se acostó en aquel lugar."
     },
     {
       "num": 12,
       "he": "וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙ מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ׃",
-      "es": ""
+      "es": "Y soñó, y he aquí una escalera asentada en la tierra, y su cima llegaba hasta los cielos, y he aquí ángeles de Elohim que subían y descendían por ella."
     },
     {
       "num": 13,
       "he": "וְהִנֵּ֨ה יְהֹוָ֜ה נִצָּ֣ב עָלָיו֮ וַיֹּאמַר֒ אֲנִ֣י יְהֹוָ֗ה אֱלֹהֵי֙ אַבְרָהָ֣ם אָבִ֔יךָ וֵאלֹהֵ֖י יִצְחָ֑ק הָאָ֗רֶץ אֲשֶׁ֤ר אַתָּה֙ שֹׁכֵ֣ב עָלֶ֔יהָ לְךָ֥ אֶתְּנֶ֖נָּה וּלְזַרְעֶֽךָ׃",
-      "es": ""
+      "es": "Y he aquí que el Eterno estaba erguido sobre ella, y dijo: «Yo soy el Eterno, Elohim de Avraham tu padre y Elohim de Yitsjak. La tierra sobre la cual tú estás acostado, a ti te la daré y a tu descendencia."
     },
     {
       "num": 14,
       "he": "וְהָיָ֤ה זַרְעֲךָ֙ כַּעֲפַ֣ר הָאָ֔רֶץ וּפָרַצְתָּ֛ יָ֥מָּה וָקֵ֖דְמָה וְצָפֹ֣נָה וָנֶ֑גְבָּה וְנִבְרְכ֥וּ בְךָ֛ כׇּל־מִשְׁפְּחֹ֥ת הָאֲדָמָ֖ה וּבְזַרְעֶֽךָ׃",
-      "es": ""
+      "es": "Y será tu descendencia como el polvo de la tierra, y te extenderás al occidente y al oriente, y al norte y al sur, y serán bendecidas en ti todas las familias de la tierra y en tu descendencia."
     },
     {
       "num": 15,
       "he": "וְהִנֵּ֨ה אָנֹכִ֜י עִמָּ֗ךְ וּשְׁמַרְתִּ֙יךָ֙ בְּכֹ֣ל אֲשֶׁר־תֵּלֵ֔ךְ וַהֲשִׁ֣בֹתִ֔יךָ אֶל־הָאֲדָמָ֖ה הַזֹּ֑את כִּ֚י לֹ֣א אֶֽעֱזׇבְךָ֔ עַ֚ד אֲשֶׁ֣ר אִם־עָשִׂ֔יתִי אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ׃",
-      "es": ""
+      "es": "Y he aquí que Yo estoy contigo, y te guardaré en todo lugar adonde vayas, y te haré volver a esta tierra, pues no te abandonaré hasta que haya hecho lo que te he dicho»."
     },
     {
       "num": 16,
       "he": "וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒ וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהֹוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה וְאָנֹכִ֖י לֹ֥א יָדָֽעְתִּי׃",
-      "es": ""
+      "es": "Y despertó Yaakov de su sueño y dijo: «Ciertamente está el Eterno en este lugar, y yo no lo sabía»."
     },
     {
       "num": 17,
       "he": "וַיִּירָא֙ וַיֹּאמַ֔ר מַה־נּוֹרָ֖א הַמָּק֣וֹם הַזֶּ֑ה אֵ֣ין זֶ֗ה כִּ֚י אִם־בֵּ֣ית אֱלֹהִ֔ים וְזֶ֖ה שַׁ֥עַר הַשָּׁמָֽיִם׃",
-      "es": ""
+      "es": "Y temió y dijo: «¡Cuán temible es este lugar! No es este sino casa de Elohim, y esta es la puerta de los cielos»."
     },
     {
       "num": 18,
       "he": "וַיַּשְׁכֵּ֨ם יַעֲקֹ֜ב בַּבֹּ֗קֶר וַיִּקַּ֤ח אֶת־הָאֶ֙בֶן֙ אֲשֶׁר־שָׂ֣ם מְרַֽאֲשֹׁתָ֔יו וַיָּ֥שֶׂם אֹתָ֖הּ מַצֵּבָ֑ה וַיִּצֹ֥ק שֶׁ֖מֶן עַל־רֹאשָֽׁהּ׃",
-      "es": ""
+      "es": "Y madrugó Yaakov por la mañana, y tomó la piedra que había puesto a su cabecera y la erigió como estela, y vertió aceite sobre su cima.",
+      "nota": "estela — Traducción de מַצֵּבָה (matsevá), piedra erigida verticalmente como monumento o señal sagrada."
     },
     {
       "num": 19,
       "he": "וַיִּקְרָ֛א אֶת־שֵֽׁם־הַמָּק֥וֹם הַה֖וּא בֵּֽית־אֵ֑ל וְאוּלָ֛ם ל֥וּז שֵׁם־הָעִ֖יר לָרִאשֹׁנָֽה׃",
-      "es": ""
+      "es": "Y llamó el nombre de aquel lugar Bet-El; sin embargo, Luz era el nombre de la ciudad al principio."
     },
     {
       "num": 20,
       "he": "וַיִּדַּ֥ר יַעֲקֹ֖ב נֶ֣דֶר לֵאמֹ֑ר אִם־יִהְיֶ֨ה אֱלֹהִ֜ים עִמָּדִ֗י וּשְׁמָרַ֙נִי֙ בַּדֶּ֤רֶךְ הַזֶּה֙ אֲשֶׁ֣ר אָנֹכִ֣י הוֹלֵ֔ךְ וְנָֽתַן־לִ֥י לֶ֛חֶם לֶאֱכֹ֖ל וּבֶ֥גֶד לִלְבֹּֽשׁ׃",
-      "es": ""
+      "es": "Y formuló Yaakov un voto diciendo: «Si Elohim estuviere conmigo y me guardare en este camino por el que yo voy, y me diere pan para comer y vestido para vestir,"
     },
     {
       "num": 21,
       "he": "וְשַׁבְתִּ֥י בְשָׁל֖וֹם אֶל־בֵּ֣ית אָבִ֑י וְהָיָ֧ה יְהֹוָ֛ה לִ֖י לֵאלֹהִֽים׃",
-      "es": ""
+      "es": "y volviere en paz a la casa de mi padre, entonces el Eterno será para mí por Elohim."
     },
     {
       "num": 22,
       "he": "וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר־שַׂ֙מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן־לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ׃",
-      "es": ""
+      "es": "Y esta piedra que he erigido como estela será casa de Elohim, y de todo lo que me dieres, diezmar lo diezmaré para Ti»."
     }
   ]
 }
