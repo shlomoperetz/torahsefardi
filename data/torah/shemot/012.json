@@ -8,102 +8,105 @@
     {
       "num": 1,
       "he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֣ה וְאֶֽל־אַהֲרֹ֔ן בְּאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
-      "es": ""
+      "es": "Y dijo el Eterno a Moshé y a Aharón en la tierra de Mitsráyim, diciendo:"
     },
     {
       "num": 2,
       "he": "הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחׇדְשֵׁ֖י הַשָּׁנָֽה׃",
-      "es": ""
+      "es": "«Este mes será para vosotros cabeza de meses; primero será para vosotros entre los meses del año."
     },
     {
       "num": 3,
       "he": "דַּבְּר֗וּ אֶֽל־כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃",
-      "es": ""
+      "es": "Hablad a toda la congregación de Yisrael, diciendo: En el diez de este mes, que tomen para sí cada uno una res para la casa paterna, una res por casa."
     },
     {
       "num": 4,
       "he": "וְאִם־יִמְעַ֣ט הַבַּ֘יִת֮ מִהְי֣וֹת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אׇכְל֔וֹ תָּכֹ֖סּוּ עַל־הַשֶּֽׂה׃",
-      "es": ""
+      "es": "Y si la casa fuere pequeña para tener una res, tomará él y su vecino cercano a su casa, según la cuenta de las almas; cada uno conforme a lo que come, contaréis sobre la res."
     },
     {
       "num": 5,
       "he": "שֶׂ֥ה תָמִ֛ים זָכָ֥ר בֶּן־שָׁנָ֖ה יִהְיֶ֣ה לָכֶ֑ם מִן־הַכְּבָשִׂ֥ים וּמִן־הָעִזִּ֖ים תִּקָּֽחוּ׃",
-      "es": ""
+      "es": "Res íntegra, macho, de un año será para vosotros; de los corderos o de las cabras lo tomaréis."
     },
     {
       "num": 6,
       "he": "וְהָיָ֤ה לָכֶם֙ לְמִשְׁמֶ֔רֶת עַ֣ד אַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֣דֶשׁ הַזֶּ֑ה וְשָׁחֲט֣וּ אֹת֗וֹ כֹּ֛ל קְהַ֥ל עֲדַֽת־יִשְׂרָאֵ֖ל בֵּ֥ין הָעַרְבָּֽיִם׃",
-      "es": ""
+      "es": "Y lo tendréis en guarda hasta el día catorce de este mes, y lo degollará toda la asamblea de la congregación de Yisrael entre las tardes.",
+      "nota": "בֵּין הָעַרְבָּיִם (bein haarbáyim) — Literalmente «entre las tardes»; expresión que designa el período entre la declinación del sol y el anochecer."
     },
     {
       "num": 7,
       "he": "וְלָֽקְחוּ֙ מִן־הַדָּ֔ם וְנָ֥תְנ֛וּ עַל־שְׁתֵּ֥י הַמְּזוּזֹ֖ת וְעַל־הַמַּשְׁק֑וֹף עַ֚ל הַבָּ֣תִּ֔ים אֲשֶׁר־יֹאכְל֥וּ אֹת֖וֹ בָּהֶֽם׃",
-      "es": ""
+      "es": "Y tomarán de la sangre y pondrán sobre las dos jambas y sobre el dintel, sobre las casas en las que lo coman."
     },
     {
       "num": 8,
       "he": "וְאָכְל֥וּ אֶת־הַבָּשָׂ֖ר בַּלַּ֣יְלָה הַזֶּ֑ה צְלִי־אֵ֣שׁ וּמַצּ֔וֹת עַל־מְרֹרִ֖ים יֹאכְלֻֽהוּ׃",
-      "es": ""
+      "es": "Y comerán la carne en esta noche, asada al fuego; y matsot, con hierbas amargas lo comerán."
     },
     {
       "num": 9,
       "he": "אַל־תֹּאכְל֤וּ מִמֶּ֙נּוּ֙ נָ֔א וּבָשֵׁ֥ל מְבֻשָּׁ֖ל בַּמָּ֑יִם כִּ֣י אִם־צְלִי־אֵ֔שׁ רֹאשׁ֥וֹ עַל־כְּרָעָ֖יו וְעַל־קִרְבּֽוֹ׃",
-      "es": ""
+      "es": "No comáis de él crudo, ni cocido, hervido en agua, sino asado al fuego, su cabeza con sus patas y con sus entrañas."
     },
     {
       "num": 10,
       "he": "וְלֹא־תוֹתִ֥ירוּ מִמֶּ֖נּוּ עַד־בֹּ֑קֶר וְהַנֹּתָ֥ר מִמֶּ֛נּוּ עַד־בֹּ֖קֶר בָּאֵ֥שׁ תִּשְׂרֹֽפוּ׃",
-      "es": ""
+      "es": "Y no dejaréis sobrar de él hasta la mañana, y lo que sobre de él hasta la mañana, en el fuego lo quemaréis."
     },
     {
       "num": 11,
       "he": "וְכָ֘כָה֮ תֹּאכְל֣וּ אֹתוֹ֒ מׇתְנֵיכֶ֣ם חֲגֻרִ֔ים נַֽעֲלֵיכֶם֙ בְּרַגְלֵיכֶ֔ם וּמַקֶּלְכֶ֖ם בְּיֶדְכֶ֑ם וַאֲכַלְתֶּ֤ם אֹתוֹ֙ בְּחִפָּז֔וֹן פֶּ֥סַח ה֖וּא לַיהֹוָֽה׃",
-      "es": ""
+      "es": "Y así lo comeréis: vuestros lomos ceñidos, vuestras sandalias en vuestros pies y vuestro bastón en vuestra mano; y lo comeréis con premura. Pésaj es para el Eterno.",
+      "nota": "פֶּסַח (pésaj) — Término hebreo que designa la ofrenda pascual y la festividad; relacionado con la raíz que significa «pasar por encima» o «saltar sobre», vinculado al acto divino de pasar sobre las casas de los hijos de Yisrael."
     },
     {
       "num": 12,
       "he": "וְעָבַרְתִּ֣י בְאֶֽרֶץ־מִצְרַ֘יִם֮ בַּלַּ֣יְלָה הַזֶּה֒ וְהִכֵּיתִ֤י כׇל־בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מֵאָדָ֖ם וְעַד־בְּהֵמָ֑ה וּבְכׇל־אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים אֲנִ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y pasaré por la tierra de Mitsráyim en esta noche, y heriré a todo primogénito en la tierra de Mitsráyim, desde el hombre hasta la bestia; y contra todos los dioses de Mitsráyim haré juicios. Yo soy el Eterno."
     },
     {
       "num": 13,
       "he": "וְהָיָה֩ הַדָּ֨ם לָכֶ֜ם לְאֹ֗ת עַ֤ל הַבָּתִּים֙ אֲשֶׁ֣ר אַתֶּ֣ם שָׁ֔ם וְרָאִ֙יתִי֙ אֶת־הַדָּ֔ם וּפָסַחְתִּ֖י עֲלֵכֶ֑ם וְלֹֽא־יִֽהְיֶ֨ה בָכֶ֥ם נֶ֙גֶף֙ לְמַשְׁחִ֔ית בְּהַכֹּתִ֖י בְּאֶ֥רֶץ מִצְרָֽיִם׃",
-      "es": ""
+      "es": "Y será la sangre para vosotros por señal sobre las casas donde vosotros estéis, y veré la sangre y pasaré sobre vosotros, y no habrá en vosotros plaga destructora cuando Yo hiera en la tierra de Mitsráyim."
     },
     {
       "num": 14,
       "he": "וְהָיָה֩ הַיּ֨וֹם הַזֶּ֤ה לָכֶם֙ לְזִכָּר֔וֹן וְחַגֹּתֶ֥ם אֹת֖וֹ חַ֣ג לַֽיהֹוָ֑ה לְדֹרֹ֣תֵיכֶ֔ם חֻקַּ֥ת עוֹלָ֖ם תְּחׇגֻּֽהוּ׃",
-      "es": ""
+      "es": "Y será este día para vosotros por memorial, y lo celebraréis como fiesta para el Eterno; por vuestras generaciones, estatuto perpetuo lo celebraréis."
     },
     {
       "num": 15,
       "he": "שִׁבְעַ֤ת יָמִים֙ מַצּ֣וֹת תֹּאכֵ֔לוּ אַ֚ךְ בַּיּ֣וֹם הָרִאשׁ֔וֹן תַּשְׁבִּ֥יתוּ שְּׂאֹ֖ר מִבָּתֵּיכֶ֑ם כִּ֣י&thinsp;<b>׀</b> כׇּל־אֹכֵ֣ל חָמֵ֗ץ וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מִיִּשְׂרָאֵ֔ל מִיּ֥וֹם הָרִאשֹׁ֖ן עַד־י֥וֹם הַשְּׁבִעִֽי׃",
-      "es": ""
+      "es": "Siete días matsot comeréis; ciertamente en el día primero haréis cesar la levadura de vuestras casas, pues todo el que coma leudado, será cortada esa alma de Yisrael, desde el día primero hasta el día séptimo.",
+      "nota": "מַצּוֹת (matsot) — Panes sin levadura; se mantiene la forma hebrea por tratarse de un término ritual de uso extendido."
     },
     {
       "num": 16,
       "he": "וּבַיּ֤וֹם הָרִאשׁוֹן֙ מִקְרָא־קֹ֔דֶשׁ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלָאכָה֙ לֹא־יֵעָשֶׂ֣ה בָהֶ֔ם אַ֚ךְ אֲשֶׁ֣ר יֵאָכֵ֣ל לְכׇל־נֶ֔פֶשׁ ה֥וּא לְבַדּ֖וֹ יֵעָשֶׂ֥ה לָכֶֽם׃",
-      "es": ""
+      "es": "Y en el día primero, convocación santa, y en el día séptimo, convocación santa habrá para vosotros; ninguna labor se hará en ellos, salvo lo que sea comido por toda alma, eso solo se hará para vosotros."
     },
     {
       "num": 17,
       "he": "וּשְׁמַרְתֶּם֮ אֶת־הַמַּצּוֹת֒ כִּ֗י בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה הוֹצֵ֥אתִי אֶת־צִבְאוֹתֵיכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וּשְׁמַרְתֶּ֞ם אֶת־הַיּ֥וֹם הַזֶּ֛ה לְדֹרֹתֵיכֶ֖ם חֻקַּ֥ת עוֹלָֽם׃",
-      "es": ""
+      "es": "Y guardaréis las matsot, pues en este mismo día saqué a vuestros ejércitos de la tierra de Mitsráyim; y guardaréis este día por vuestras generaciones, estatuto perpetuo."
     },
     {
       "num": 18,
       "he": "בָּרִאשֹׁ֡ן בְּאַרְבָּעָה֩ עָשָׂ֨ר י֤וֹם לַחֹ֙דֶשׁ֙ בָּעֶ֔רֶב תֹּאכְל֖וּ מַצֹּ֑ת עַ֠ד י֣וֹם הָאֶחָ֧ד וְעֶשְׂרִ֛ים לַחֹ֖דֶשׁ בָּעָֽרֶב׃",
-      "es": ""
+      "es": "En el primero, en el día catorce del mes, por la tarde, comeréis matsot, hasta el día veintiuno del mes, por la tarde."
     },
     {
       "num": 19,
       "he": "שִׁבְעַ֣ת יָמִ֔ים שְׂאֹ֕ר לֹ֥א יִמָּצֵ֖א בְּבָתֵּיכֶ֑ם כִּ֣י&thinsp;<b>׀</b> כׇּל־אֹכֵ֣ל מַחְמֶ֗צֶת וְנִכְרְתָ֞ה הַנֶּ֤פֶשׁ הַהִוא֙ מֵעֲדַ֣ת יִשְׂרָאֵ֔ל בַּגֵּ֖ר וּבְאֶזְרַ֥ח הָאָֽרֶץ׃",
-      "es": ""
+      "es": "Siete días no se hallará levadura en vuestras casas, pues todo el que coma leudado, será cortada esa alma de la congregación de Yisrael, tanto el extranjero como el nativo de la tierra."
     },
     {
       "num": 20,
       "he": "כׇּל־מַחְמֶ֖צֶת לֹ֣א תֹאכֵ֑לוּ בְּכֹל֙ מוֹשְׁבֹ֣תֵיכֶ֔ם תֹּאכְל֖וּ מַצּֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Nada leudado comeréis; en todas vuestras moradas comeréis matsot»."
     },
     {
       "num": 21,
