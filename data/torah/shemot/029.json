@@ -8,92 +8,94 @@
     {
       "num": 1,
       "he": "וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַ֠ח פַּ֣ר אֶחָ֧ד בֶּן־בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃",
-      "es": ""
+      "es": "Y esto es lo que harás para ellos para santificarlos para que me sirvan como sacerdotes: toma un novillo, hijo de ganado vacuno, y dos carneros sin defecto."
     },
     {
       "num": 2,
       "he": "וְלֶ֣חֶם מַצּ֗וֹת וְחַלֹּ֤ת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן סֹ֥לֶת חִטִּ֖ים תַּעֲשֶׂ֥ה אֹתָֽם׃",
-      "es": ""
+      "es": "Y pan de matsot, y tortas de matsot mezcladas con aceite, y hojuelas de matsot untadas con aceite; de flor de harina de trigo las harás.",
+      "nota": "matsot — Plural de matsá, pan ázimo o sin leudar; se mantiene en hebreo por ser término técnico ritual de uso extendido."
     },
     {
       "num": 3,
       "he": "וְנָתַתָּ֤ אוֹתָם֙ עַל־סַ֣ל אֶחָ֔ד וְהִקְרַבְתָּ֥ אֹתָ֖ם בַּסָּ֑ל וְאֶ֨ת־הַפָּ֔ר וְאֵ֖ת שְׁנֵ֥י הָאֵילִֽם׃",
-      "es": ""
+      "es": "Y las pondrás en un canasto, y las acercarás en el canasto, junto con el novillo y los dos carneros."
     },
     {
       "num": 4,
       "he": "וְאֶת־אַהֲרֹ֤ן וְאֶת־בָּנָיו֙ תַּקְרִ֔יב אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃",
-      "es": ""
+      "es": "Y a Aharón y a sus hijos harás acercar a la entrada de la tienda del encuentro, y los lavarás con agua."
     },
     {
       "num": 5,
       "he": "וְלָקַחְתָּ֣ אֶת־הַבְּגָדִ֗ים וְהִלְבַּשְׁתָּ֤ אֶֽת־אַהֲרֹן֙ אֶת־הַכֻּתֹּ֔נֶת וְאֵת֙ מְעִ֣יל הָאֵפֹ֔ד וְאֶת־הָאֵפֹ֖ד וְאֶת־הַחֹ֑שֶׁן וְאָפַדְתָּ֣ ל֔וֹ בְּחֵ֖שֶׁב הָאֵפֹֽד׃",
-      "es": ""
+      "es": "Y tomarás las vestiduras, y vestirás a Aharón con la túnica y con el manto del efod y con el efod y con el jóshen, y lo ceñirás con el cinto del efod.",
+      "nota": "jóshen — Pectoral del juicio, pieza del atuendo sacerdotal que portaba doce piedras engastadas. Se mantiene en hebreo por ser término técnico ritual."
     },
     {
       "num": 6,
       "he": "וְשַׂמְתָּ֥ הַמִּצְנֶ֖פֶת עַל־רֹאשׁ֑וֹ וְנָתַתָּ֛ אֶת־נֵ֥זֶר הַקֹּ֖דֶשׁ עַל־הַמִּצְנָֽפֶת׃",
-      "es": ""
+      "es": "Y pondrás la mitra sobre su cabeza, y colocarás la diadema de santidad sobre la mitra."
     },
     {
       "num": 7,
       "he": "וְלָֽקַחְתָּ֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל־רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ׃",
-      "es": ""
+      "es": "Y tomarás el aceite de la unción, y lo verterás sobre su cabeza, y lo ungirás."
     },
     {
       "num": 8,
       "he": "וְאֶת־בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֖ם כֻּתֳּנֹֽת׃",
-      "es": ""
+      "es": "Y a sus hijos harás acercar, y los vestirás con túnicas."
     },
     {
       "num": 9,
       "he": "וְחָגַרְתָּ֩ אֹתָ֨ם אַבְנֵ֜ט אַהֲרֹ֣ן וּבָנָ֗יו וְחָבַשְׁתָּ֤ לָהֶם֙ מִגְבָּעֹ֔ת וְהָיְתָ֥ה לָהֶ֛ם כְּהֻנָּ֖ה לְחֻקַּ֣ת עוֹלָ֑ם וּמִלֵּאתָ֥ יַֽד־אַהֲרֹ֖ן וְיַד־בָּנָֽיו׃",
-      "es": ""
+      "es": "Y los ceñirás con cinturón, a Aharón y a sus hijos, y les atarás las cofias; y será para ellos sacerdocio como estatuto perpetuo. Y llenarás la mano de Aharón y la mano de sus hijos."
     },
     {
       "num": 10,
       "he": "וְהִקְרַבְתָּ֙ אֶת־הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הַפָּֽר׃",
-      "es": ""
+      "es": "Y acercarás el novillo delante de la tienda del encuentro, y apoyarán Aharón y sus hijos sus manos sobre la cabeza del novillo."
     },
     {
       "num": 11,
       "he": "וְשָׁחַטְתָּ֥ אֶת־הַפָּ֖ר לִפְנֵ֣י יְהֹוָ֑ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-      "es": ""
+      "es": "Y degollarás el novillo delante del Eterno, a la entrada de la tienda del encuentro."
     },
     {
       "num": 12,
       "he": "וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל־קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת־כׇּל־הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃",
-      "es": ""
+      "es": "Y tomarás de la sangre del novillo, y pondrás sobre los cuernos del altar con tu dedo; y toda la sangre la derramarás al pie del altar."
     },
     {
       "num": 13,
       "he": "וְלָֽקַחְתָּ֗ אֶֽת־כׇּל־הַחֵ֘לֶב֮ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֒רֶב֒ וְאֵ֗ת הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֖לֶב אֲשֶׁ֣ר עֲלֵיהֶ֑ן וְהִקְטַרְתָּ֖ הַמִּזְבֵּֽחָה׃",
-      "es": ""
+      "es": "Y tomarás toda la grasa que cubre las entrañas, y el lóbulo que está sobre el hígado, y los dos riñones, y la grasa que está sobre ellos, y los quemarás sobre el altar."
     },
     {
       "num": 14,
       "he": "וְאֶת־בְּשַׂ֤ר הַפָּר֙ וְאֶת־עֹר֣וֹ וְאֶת־פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה חַטָּ֖את הֽוּא׃",
-      "es": ""
+      "es": "Y la carne del novillo, y su piel, y su excremento, los quemarás en fuego fuera del campamento; ofrenda por el pecado es."
     },
     {
       "num": 15,
       "he": "וְאֶת־הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הָאָֽיִל׃",
-      "es": ""
+      "es": "Y tomarás el primer carnero, y apoyarán Aharón y sus hijos sus manos sobre la cabeza del carnero."
     },
     {
       "num": 16,
       "he": "וְשָׁחַטְתָּ֖ אֶת־הָאָ֑יִל וְלָֽקַחְתָּ֙ אֶת־דָּמ֔וֹ וְזָרַקְתָּ֥ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
-      "es": ""
+      "es": "Y degollarás el carnero, y tomarás su sangre, y la rociarás sobre el altar alrededor."
     },
     {
       "num": 17,
       "he": "וְאֶ֨ת־הָאַ֔יִל תְּנַתֵּ֖חַ לִנְתָחָ֑יו וְרָחַצְתָּ֤ קִרְבּוֹ֙ וּכְרָעָ֔יו וְנָתַתָּ֥ עַל־נְתָחָ֖יו וְעַל־רֹאשֽׁוֹ׃",
-      "es": ""
+      "es": "Y el carnero lo cortarás en sus piezas, y lavarás sus entrañas y sus patas, y las pondrás sobre sus piezas y sobre su cabeza."
     },
     {
       "num": 18,
       "he": "וְהִקְטַרְתָּ֤ אֶת־כׇּל־הָאַ֙יִל֙ הַמִּזְבֵּ֔חָה עֹלָ֥ה ה֖וּא לַֽיהֹוָ֑ה רֵ֣יחַ נִיח֔וֹחַ אִשֶּׁ֥ה לַיהֹוָ֖ה הֽוּא׃",
-      "es": ""
+      "es": "Y quemarás todo el carnero sobre el altar; holocausto es para el Eterno, olor grato, ofrenda de fuego para el Eterno es."
     },
     {
       "num": 19,
