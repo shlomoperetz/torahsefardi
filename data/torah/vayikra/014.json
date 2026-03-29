@@ -175,107 +175,109 @@
     {
       "num": 33,
       "he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
     },
     {
       "num": 34,
       "he": "כִּ֤י תָבֹ֙אוּ֙ אֶל־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֥ר אֲנִ֛י נֹתֵ֥ן לָכֶ֖ם לַאֲחֻזָּ֑ה וְנָתַתִּי֙ נֶ֣גַע צָרַ֔עַת בְּבֵ֖ית אֶ֥רֶץ אֲחֻזַּתְכֶֽם׃",
-      "es": ""
+      "es": "«Cuando entréis a la tierra de Kenáan, que yo doy a vosotros en posesión, y yo ponga plaga de tsaráat en una casa de la tierra de vuestra posesión,",
+      "nota": "tsaráat — Afección que se manifiesta en personas, vestimentas o edificaciones; tradicionalmente traducida como «lepra», pero su alcance en el texto bíblico es más amplio y no corresponde exactamente a ninguna enfermedad moderna. Se mantiene en hebreo por falta de equivalente semántico exacto."
     },
     {
       "num": 35,
       "he": "וּבָא֙ אֲשֶׁר־ל֣וֹ הַבַּ֔יִת וְהִגִּ֥יד לַכֹּהֵ֖ן לֵאמֹ֑ר כְּנֶ֕גַע נִרְאָ֥ה לִ֖י בַּבָּֽיִת׃",
-      "es": ""
+      "es": "vendrá aquel de quien es la casa y declarará al cohén, diciendo: \"Como una plaga se me ha mostrado en la casa\"."
     },
     {
       "num": 36,
       "he": "וְצִוָּ֨ה הַכֹּהֵ֜ן וּפִנּ֣וּ אֶת־הַבַּ֗יִת בְּטֶ֨רֶם יָבֹ֤א הַכֹּהֵן֙ לִרְא֣וֹת אֶת־הַנֶּ֔גַע וְלֹ֥א יִטְמָ֖א כׇּל־אֲשֶׁ֣ר בַּבָּ֑יִת וְאַ֥חַר כֵּ֛ן יָבֹ֥א הַכֹּהֵ֖ן לִרְא֥וֹת אֶת־הַבָּֽיִת׃",
-      "es": ""
+      "es": "Y ordenará el cohén que desocupen la casa antes de que entre el cohén a ver la plaga, para que no se haga impuro todo lo que hay en la casa; y después de esto entrará el cohén a ver la casa."
     },
     {
       "num": 37,
       "he": "וְרָאָ֣ה אֶת־הַנֶּ֗גַע וְהִנֵּ֤ה הַנֶּ֙גַע֙ בְּקִירֹ֣ת הַבַּ֔יִת שְׁקַֽעֲרוּרֹת֙ יְרַקְרַקֹּ֔ת א֖וֹ אֲדַמְדַּמֹּ֑ת וּמַרְאֵיהֶ֥ן שָׁפָ֖ל מִן־הַקִּֽיר׃",
-      "es": ""
+      "es": "Y verá la plaga, y he aquí que la plaga está en las paredes de la casa, hundimientos verdosos o rojizos, y su apariencia es más baja que la pared."
     },
     {
       "num": 38,
       "he": "וְיָצָ֧א הַכֹּהֵ֛ן מִן־הַבַּ֖יִת אֶל־פֶּ֣תַח הַבָּ֑יִת וְהִסְגִּ֥יר אֶת־הַבַּ֖יִת שִׁבְעַ֥ת יָמִֽים׃",
-      "es": ""
+      "es": "Y saldrá el cohén de la casa, a la entrada de la casa, y encerrará la casa siete días."
     },
     {
       "num": 39,
       "he": "וְשָׁ֥ב הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בְּקִירֹ֥ת הַבָּֽיִת׃",
-      "es": ""
+      "es": "Y volverá el cohén al séptimo día, y verá, y he aquí que se ha extendido la plaga en las paredes de la casa."
     },
     {
       "num": 40,
       "he": "וְצִוָּה֙ הַכֹּהֵ֔ן וְחִלְּצוּ֙ אֶת־הָ֣אֲבָנִ֔ים אֲשֶׁ֥ר בָּהֵ֖ן הַנָּ֑גַע וְהִשְׁלִ֤יכוּ אֶתְהֶן֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
-      "es": ""
+      "es": "Y ordenará el cohén que arranquen las piedras en las cuales está la plaga, y las arrojarán fuera de la ciudad, a un lugar impuro."
     },
     {
       "num": 41,
       "he": "וְאֶת־הַבַּ֛יִת יַקְצִ֥עַ מִבַּ֖יִת סָבִ֑יב וְשָׁפְכ֗וּ אֶת־הֶֽעָפָר֙ אֲשֶׁ֣ר הִקְצ֔וּ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
-      "es": ""
+      "es": "Y la casa será raspada por dentro alrededor, y derramarán el polvo que hayan raspado fuera de la ciudad, a un lugar impuro."
     },
     {
       "num": 42,
       "he": "וְלָקְחוּ֙ אֲבָנִ֣ים אֲחֵר֔וֹת וְהֵבִ֖יאוּ אֶל־תַּ֣חַת הָאֲבָנִ֑ים וְעָפָ֥ר אַחֵ֛ר יִקַּ֖ח וְטָ֥ח אֶת־הַבָּֽיִת׃",
-      "es": ""
+      "es": "Y tomarán otras piedras y las traerán en lugar de las piedras, y otro polvo tomará y revocará la casa."
     },
     {
       "num": 43,
       "he": "וְאִם־יָשׁ֤וּב הַנֶּ֙גַע֙ וּפָרַ֣ח בַּבַּ֔יִת אַחַ֖ר חִלֵּ֣ץ אֶת־הָאֲבָנִ֑ים וְאַחֲרֵ֛י הִקְצ֥וֹת אֶת־הַבַּ֖יִת וְאַחֲרֵ֥י הִטּֽוֹחַ׃",
-      "es": ""
+      "es": "Y si vuelve la plaga y brota en la casa después de haber arrancado las piedras, y después de haber raspado la casa, y después de haber revocado,"
     },
     {
       "num": 44,
       "he": "וּבָא֙ הַכֹּהֵ֔ן וְרָאָ֕ה וְהִנֵּ֛ה פָּשָׂ֥ה הַנֶּ֖גַע בַּבָּ֑יִת צָרַ֨עַת מַמְאֶ֥רֶת הִ֛וא בַּבַּ֖יִת טָמֵ֥א הֽוּא׃",
-      "es": ""
+      "es": "vendrá el cohén y verá, y he aquí que se ha extendido la plaga en la casa: tsaráat maligna es en la casa; impura es."
     },
     {
       "num": 45,
       "he": "וְנָתַ֣ץ אֶת־הַבַּ֗יִת אֶת־אֲבָנָיו֙ וְאֶת־עֵצָ֔יו וְאֵ֖ת כׇּל־עֲפַ֣ר הַבָּ֑יִת וְהוֹצִיא֙ אֶל־מִח֣וּץ לָעִ֔יר אֶל־מָק֖וֹם טָמֵֽא׃",
-      "es": ""
+      "es": "Y derribará la casa, sus piedras y sus maderas, y todo el polvo de la casa, y sacará fuera de la ciudad, a un lugar impuro."
     },
     {
       "num": 46,
       "he": "וְהַבָּא֙ אֶל־הַבַּ֔יִת כׇּל־יְמֵ֖י הִסְגִּ֣יר אֹת֑וֹ יִטְמָ֖א עַד־הָעָֽרֶב׃",
-      "es": ""
+      "es": "Y el que entre en la casa todos los días que esté encerrada, será impuro hasta la tarde."
     },
     {
       "num": 47,
       "he": "וְהַשֹּׁכֵ֣ב בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָ֑יו וְהָאֹכֵ֣ל בַּבַּ֔יִת יְכַבֵּ֖ס אֶת־בְּגָדָֽיו׃",
-      "es": ""
+      "es": "Y el que se acueste en la casa lavará sus vestidos; y el que coma en la casa lavará sus vestidos."
     },
     {
       "num": 48,
       "he": "וְאִם־בֹּ֨א יָבֹ֜א הַכֹּהֵ֗ן וְרָאָה֙ וְ֠הִנֵּ֠ה לֹא־פָשָׂ֤ה הַנֶּ֙גַע֙ בַּבַּ֔יִת אַחֲרֵ֖י הִטֹּ֣חַ אֶת־הַבָּ֑יִת וְטִהַ֤ר הַכֹּהֵן֙ אֶת־הַבַּ֔יִת כִּ֥י נִרְפָּ֖א הַנָּֽגַע׃",
-      "es": ""
+      "es": "Y si ciertamente viniere el cohén y viere, y he aquí que no se ha extendido la plaga en la casa después de haber revocado la casa, declarará pura el cohén la casa, porque ha sanado la plaga."
     },
     {
       "num": 49,
       "he": "וְלָקַ֛ח לְחַטֵּ֥א אֶת־הַבַּ֖יִת שְׁתֵּ֣י צִפֳּרִ֑ים וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃",
-      "es": ""
+      "es": "Y tomará para purificar la casa dos aves, y madera de cedro, y toláat shaní, e hisopo.",
+      "nota": "toláat shaní — Literalmente «gusano de escarlata»; designa la lana teñida de rojo escarlata mediante un tinte extraído de un insecto (coccus ilicis). Se mantiene en hebreo por ser expresión técnica."
     },
     {
       "num": 50,
       "he": "וְשָׁחַ֖ט אֶת־הַצִּפֹּ֣ר הָאֶחָ֑ת אֶל־כְּלִי־חֶ֖רֶשׂ עַל־מַ֥יִם חַיִּֽים׃",
-      "es": ""
+      "es": "Y degollará el ave una sobre vasija de barro, sobre aguas vivas."
     },
     {
       "num": 51,
       "he": "וְלָקַ֣ח אֶת־עֵֽץ־הָ֠אֶ֠רֶז וְאֶת־הָ֨אֵזֹ֜ב וְאֵ֣ת&thinsp;<b>׀</b> שְׁנִ֣י הַתּוֹלַ֗עַת וְאֵת֮ הַצִּפֹּ֣ר הַֽחַיָּה֒ וְטָבַ֣ל אֹתָ֗ם בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחוּטָ֔ה וּבַמַּ֖יִם הַֽחַיִּ֑ים וְהִזָּ֥ה אֶל־הַבַּ֖יִת שֶׁ֥בַע פְּעָמִֽים׃",
-      "es": ""
+      "es": "Y tomará la madera de cedro, y el hisopo, y la toláat shaní, y el ave viva, y los mojará en la sangre del ave degollada y en las aguas vivas, y rociará sobre la casa siete veces."
     },
     {
       "num": 52,
       "he": "וְחִטֵּ֣א אֶת־הַבַּ֔יִת בְּדַם֙ הַצִּפּ֔וֹר וּבַמַּ֖יִם הַֽחַיִּ֑ים וּבַצִּפֹּ֣ר הַחַיָּ֗ה וּבְעֵ֥ץ הָאֶ֛רֶז וּבָאֵזֹ֖ב וּבִשְׁנִ֥י הַתּוֹלָֽעַת׃",
-      "es": ""
+      "es": "Y purificará la casa con la sangre del ave, y con las aguas vivas, y con el ave viva, y con la madera de cedro, y con el hisopo, y con la toláat shaní."
     },
     {
       "num": 53,
       "he": "וְשִׁלַּ֞ח אֶת־הַצִּפֹּ֧ר הַֽחַיָּ֛ה אֶל־מִח֥וּץ לָעִ֖יר אֶל־פְּנֵ֣י הַשָּׂדֶ֑ה וְכִפֶּ֥ר עַל־הַבַּ֖יִת וְטָהֵֽר׃",
-      "es": ""
+      "es": "Y soltará el ave viva fuera de la ciudad, hacia la faz del campo, y hará expiación sobre la casa, y será pura»."
     },
     {
       "num": 54,
