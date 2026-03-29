@@ -8,62 +8,63 @@
     {
       "num": 1,
       "he": "וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כׇּל־אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי־הוֹצִ֧יא יְהֹוָ֛ה אֶת־יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם׃",
-      "es": ""
+      "es": "Y oyó Yitró, sacerdote de Midián, suegro de Moshé, todo lo que hizo Elohim por Moshé y por Yisrael su pueblo, que sacó el Eterno a Yisrael de Mitsráyim."
     },
     {
       "num": 2,
       "he": "וַיִּקַּ֗ח יִתְרוֹ֙ חֹתֵ֣ן מֹשֶׁ֔ה אֶת־צִפֹּרָ֖ה אֵ֣שֶׁת מֹשֶׁ֑ה אַחַ֖ר שִׁלּוּחֶֽיהָ׃",
-      "es": ""
+      "es": "Y tomó Yitró, suegro de Moshé, a Tsiporá, mujer de Moshé, después de haberla enviado de vuelta."
     },
     {
       "num": 3,
       "he": "וְאֵ֖ת שְׁנֵ֣י בָנֶ֑יהָ אֲשֶׁ֨ר שֵׁ֤ם הָֽאֶחָד֙ גֵּֽרְשֹׁ֔ם כִּ֣י אָמַ֔ר גֵּ֣ר הָיִ֔יתִי בְּאֶ֖רֶץ נׇכְרִיָּֽה׃",
-      "es": ""
+      "es": "Y a sus dos hijos, de los cuales el nombre del uno era Guershom, pues dijo: «Forastero he sido en tierra extranjera».",
+      "nota": "guershom — Nombre del hijo de Moshé, derivado de la raíz hebrea גֵּר (guer, «forastero») y vinculado a la explicación que Moshé ofrece: «forastero he sido en tierra extranjera»."
     },
     {
       "num": 4,
       "he": "וְשֵׁ֥ם הָאֶחָ֖ד אֱלִיעֶ֑זֶר כִּֽי־אֱלֹהֵ֤י אָבִי֙ בְּעֶזְרִ֔י וַיַּצִּלֵ֖נִי מֵחֶ֥רֶב פַּרְעֹֽה׃",
-      "es": ""
+      "es": "Y el nombre del otro era Eliézer, pues: «Elohim de mi padre fue mi ayuda, y me libró de la espada de Paró»."
     },
     {
       "num": 5,
       "he": "וַיָּבֹ֞א יִתְר֨וֹ חֹתֵ֥ן מֹשֶׁ֛ה וּבָנָ֥יו וְאִשְׁתּ֖וֹ אֶל־מֹשֶׁ֑ה אֶל־הַמִּדְבָּ֗ר אֲשֶׁר־ה֛וּא חֹנֶ֥ה שָׁ֖ם הַ֥ר הָאֱלֹהִֽים׃",
-      "es": ""
+      "es": "Y vino Yitró, suegro de Moshé, y sus hijos y su mujer, a Moshé, al desierto donde él acampaba, al monte de Elohim."
     },
     {
       "num": 6,
       "he": "וַיֹּ֙אמֶר֙ אֶל־מֹשֶׁ֔ה אֲנִ֛י חֹתֶנְךָ֥ יִתְר֖וֹ בָּ֣א אֵלֶ֑יךָ וְאִ֨שְׁתְּךָ֔ וּשְׁנֵ֥י בָנֶ֖יהָ עִמָּֽהּ׃",
-      "es": ""
+      "es": "Y dijo a Moshé: «Yo, tu suegro Yitró, vengo a ti, y tu mujer y sus dos hijos con ella»."
     },
     {
       "num": 7,
       "he": "וַיֵּצֵ֨א מֹשֶׁ֜ה לִקְרַ֣את חֹֽתְנ֗וֹ וַיִּשְׁתַּ֙חוּ֙ וַיִּשַּׁק־ל֔וֹ וַיִּשְׁאֲל֥וּ אִישׁ־לְרֵעֵ֖הוּ לְשָׁל֑וֹם וַיָּבֹ֖אוּ הָאֹֽהֱלָה׃",
-      "es": ""
+      "es": "Y salió Moshé al encuentro de su suegro, y se inclinó y lo besó, y se preguntaron el uno al otro por la paz, y entraron en la tienda."
     },
     {
       "num": 8,
       "he": "וַיְסַפֵּ֤ר מֹשֶׁה֙ לְחֹ֣תְנ֔וֹ אֵת֩ כׇּל־אֲשֶׁ֨ר עָשָׂ֤ה יְהֹוָה֙ לְפַרְעֹ֣ה וּלְמִצְרַ֔יִם עַ֖ל אוֹדֹ֣ת יִשְׂרָאֵ֑ל אֵ֤ת כׇּל־הַתְּלָאָה֙ אֲשֶׁ֣ר מְצָאָ֣תַם בַּדֶּ֔רֶךְ וַיַּצִּלֵ֖ם יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y contó Moshé a su suegro todo lo que hizo el Eterno a Paró y a Mitsráyim por causa de Yisrael, toda la penalidad que les había sobrevenido en el camino, y los libró el Eterno."
     },
     {
       "num": 9,
       "he": "וַיִּ֣חַדְּ יִתְר֔וֹ עַ֚ל כׇּל־הַטּוֹבָ֔ה אֲשֶׁר־עָשָׂ֥ה יְהֹוָ֖ה לְיִשְׂרָאֵ֑ל אֲשֶׁ֥ר הִצִּיל֖וֹ מִיַּ֥ד מִצְרָֽיִם׃",
-      "es": ""
+      "es": "Y se alegró Yitró por todo el bien que el Eterno hizo a Yisrael, que lo libró de la mano de Mitsráyim."
     },
     {
       "num": 10,
       "he": "וַיֹּ֘אמֶר֮ יִתְרוֹ֒ בָּר֣וּךְ יְהֹוָ֔ה אֲשֶׁ֨ר הִצִּ֥יל אֶתְכֶ֛ם מִיַּ֥ד מִצְרַ֖יִם וּמִיַּ֣ד פַּרְעֹ֑ה אֲשֶׁ֤ר הִצִּיל֙ אֶת־הָעָ֔ם מִתַּ֖חַת יַד־מִצְרָֽיִם׃",
-      "es": ""
+      "es": "Y dijo Yitró: «Bendito sea el Eterno, que os libró de la mano de Mitsráyim y de la mano de Paró, que libró al pueblo de debajo de la mano de Mitsráyim."
     },
     {
       "num": 11,
       "he": "עַתָּ֣ה יָדַ֔עְתִּי כִּֽי־גָד֥וֹל יְהֹוָ֖ה מִכׇּל־הָאֱלֹהִ֑ים כִּ֣י בַדָּבָ֔ר אֲשֶׁ֥ר זָד֖וּ עֲלֵיהֶֽם׃",
-      "es": ""
+      "es": "Ahora sé que grande es el Eterno más que todos los dioses, pues en aquello mismo con que se ensoberbecieron contra ellos»."
     },
     {
       "num": 12,
       "he": "וַיִּקַּ֞ח יִתְר֨וֹ חֹתֵ֥ן מֹשֶׁ֛ה עֹלָ֥ה וּזְבָחִ֖ים לֵֽאלֹהִ֑ים וַיָּבֹ֨א אַהֲרֹ֜ן וְכֹ֣ל&thinsp;<b>׀</b> זִקְנֵ֣י יִשְׂרָאֵ֗ל לֶאֱכׇל־לֶ֛חֶם עִם־חֹתֵ֥ן מֹשֶׁ֖ה לִפְנֵ֥י הָאֱלֹהִֽים׃",
-      "es": ""
+      "es": "Y tomó Yitró, suegro de Moshé, holocausto y sacrificios para Elohim; y vino Aharón y todos los ancianos de Yisrael a comer pan con el suegro de Moshé delante de Elohim."
     },
     {
       "num": 13,
