@@ -8,142 +8,145 @@
     {
       "num": 1,
       "he": "וְעַתָּ֞ה כֹּֽה־אָמַ֤ר יְהֹוָה֙ בֹּרַאֲךָ֣ יַעֲקֹ֔ב וְיֹצֶרְךָ֖ יִשְׂרָאֵ֑ל אַל־תִּירָא֙ כִּ֣י גְאַלְתִּ֔יךָ קָרָ֥אתִי בְשִׁמְךָ֖ לִי־אָֽתָּה׃",
-      "es": ""
+      "es": "Y ahora, así ha dicho el Eterno, tu Creador, Yaakov, y tu Formador, Yisrael: «No temas, porque te he redimido; te he llamado por tu nombre, mío eres tú."
     },
     {
       "num": 2,
       "he": "כִּֽי־תַעֲבֹ֤ר בַּמַּ֙יִם֙ אִתְּךָ־אָ֔נִי וּבַנְּהָר֖וֹת לֹ֣א יִשְׁטְפ֑וּךָ כִּֽי־תֵלֵ֤ךְ בְּמוֹ־אֵשׁ֙ לֹ֣א תִכָּוֶ֔ה וְלֶהָבָ֖ה לֹ֥א תִבְעַר־בָּֽךְ׃",
-      "es": ""
+      "es": "Cuando pases por las aguas, contigo estaré yo; y por los ríos, no te anegarán. Cuando camines por el fuego, no te quemarás, y la llama no arderá en ti."
     },
     {
       "num": 3,
       "he": "כִּ֗י אֲנִי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ קְד֥וֹשׁ יִשְׂרָאֵ֖ל מוֹשִׁיעֶ֑ךָ נָתַ֤תִּי כׇפְרְךָ֙ מִצְרַ֔יִם כּ֥וּשׁ וּסְבָ֖א תַּחְתֶּֽיךָ׃",
-      "es": ""
+      "es": "Porque Yo soy el Eterno, tu Elohim, el Santo de Yisrael, tu Salvador; he dado como tu rescate a Mitsráyim, a Kush y a Sevá en tu lugar.",
+      "nota": "Sevá — Región africana cuya ubicación exacta es debatida; frecuentemente asociada con Kush."
     },
     {
       "num": 4,
       "he": "מֵאֲשֶׁ֨ר יָקַ֧רְתָּ בְעֵינַ֛י נִכְבַּ֖דְתָּ וַאֲנִ֣י אֲהַבְתִּ֑יךָ וְאֶתֵּ֤ן אָדָם֙ תַּחְתֶּ֔יךָ וּלְאֻמִּ֖ים תַּ֥חַת נַפְשֶֽׁךָ׃",
-      "es": ""
+      "es": "Puesto que fuiste precioso a mis ojos, fuiste honrado, y Yo te amé; daré hombres en tu lugar y pueblos a cambio de tu vida."
     },
     {
       "num": 5,
       "he": "אַל־תִּירָ֖א כִּ֣י אִתְּךָ־אָ֑נִי מִמִּזְרָח֙ אָבִ֣יא זַרְעֶ֔ךָ וּמִֽמַּעֲרָ֖ב אֲקַבְּצֶֽךָּ׃",
-      "es": ""
+      "es": "No temas, porque contigo estoy Yo; del oriente traeré tu descendencia, y del occidente te reuniré."
     },
     {
       "num": 6,
       "he": "אֹמַ֤ר לַצָּפוֹן֙ תֵּ֔נִי וּלְתֵימָ֖ן אַל־תִּכְלָ֑אִי הָבִ֤יאִי בָנַי֙ מֵרָח֔וֹק וּבְנוֹתַ֖י מִקְצֵ֥ה הָאָֽרֶץ׃",
-      "es": ""
+      "es": "Diré al norte: ¡Da!, y al sur: ¡No retengas! Trae a mis hijos de lejos y a mis hijas desde el extremo de la tierra."
     },
     {
       "num": 7,
       "he": "כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְלִכְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו אַף־עֲשִׂיתִֽיו׃",
-      "es": ""
+      "es": "A todo el que es llamado por mi nombre, y para mi gloria lo creé, lo formé, también lo hice»."
     },
     {
       "num": 8,
       "he": "הוֹצִ֥יא עַם־עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאׇזְנַ֥יִם לָֽמוֹ׃",
-      "es": ""
+      "es": "Sacad al pueblo ciego que tiene ojos, y a los sordos que tienen oídos."
     },
     {
       "num": 9,
       "he": "כׇּֽל־הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת׃",
-      "es": ""
+      "es": "Todas las naciones se congreguen juntamente, y se reúnan los pueblos. ¿Quién de ellos anunciará esto, y las cosas primeras nos hará oír? Que presenten a sus testigos y sean justificados, y oigan y digan: «Es verdad»."
     },
     {
       "num": 10,
       "he": "אַתֶּ֤ם עֵדַי֙ נְאֻם־יְהֹוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְע֠וּ וְתַאֲמִ֨ינוּ לִ֤י וְתָבִ֙ינוּ֙ כִּֽי־אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא־נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "«Vosotros sois mis testigos —oráculo del Eterno— y mi siervo a quien elegí, para que sepáis y me creáis y entendáis que Yo soy Él; antes de mí no fue formado dios, y después de mí no lo habrá."
     },
     {
       "num": 11,
       "he": "אָנֹכִ֥י אָנֹכִ֖י יְהֹוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ׃",
-      "es": ""
+      "es": "Yo, Yo soy el Eterno, y no hay fuera de mí salvador."
     },
     {
       "num": 12,
       "he": "אָנֹכִ֞י הִגַּ֤דְתִּי וְהוֹשַׁ֙עְתִּי֙ וְהִשְׁמַ֔עְתִּי וְאֵ֥ין בָּכֶ֖ם זָ֑ר וְאַתֶּ֥ם עֵדַ֛י נְאֻם־יְהֹוָ֖ה וַאֲנִי־אֵֽל׃",
-      "es": ""
+      "es": "Yo anuncié, y salvé, e hice oír, y no hubo entre vosotros dios extraño; y vosotros sois mis testigos —oráculo del Eterno— y Yo soy Dios."
     },
     {
       "num": 13,
       "he": "גַּם־מִיּוֹם֙ אֲנִ֣י ה֔וּא וְאֵ֥ין מִיָּדִ֖י מַצִּ֑יל אֶפְעַ֖ל וּמִ֥י יְשִׁיבֶֽנָּה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Aun desde el día, Yo soy Él, y no hay quien libre de mi mano; Yo obro, ¿y quién lo revertirá?»"
     },
     {
       "num": 14,
       "he": "כֹּֽה־אָמַ֧ר יְהֹוָ֛ה גֹּאַלְכֶ֖ם קְד֣וֹשׁ יִשְׂרָאֵ֑ל לְמַעַנְכֶ֞ם שִׁלַּ֣חְתִּי בָבֶ֗לָה וְהוֹרַדְתִּ֤י בָֽרִיחִים֙ כֻּלָּ֔ם וְכַשְׂדִּ֖ים בָּאֳנִיּ֥וֹת רִנָּתָֽם׃",
-      "es": ""
+      "es": "Así ha dicho el Eterno, vuestro Redentor, el Santo de Yisrael: «Por vosotros envié a Babilonia, y derribé a todos como fugitivos, y a los kasdim en las naves de su júbilo.",
+      "nota": "kasdim — Caldeos; nombre hebreo para los habitantes de Babilonia."
     },
     {
       "num": 15,
       "he": "אֲנִ֥י יְהֹוָ֖ה קְדֽוֹשְׁכֶ֑ם בּוֹרֵ֥א יִשְׂרָאֵ֖ל מַלְכְּכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Yo soy el Eterno, vuestro Santo, Creador de Yisrael, vuestro Rey»."
     },
     {
       "num": 16,
       "he": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה הַנּוֹתֵ֥ן בַּיָּ֖ם דָּ֑רֶךְ וּבְמַ֥יִם עַזִּ֖ים נְתִיבָֽה׃",
-      "es": ""
+      "es": "Así ha dicho el Eterno, el que abre camino en el mar y senda en aguas impetuosas,"
     },
     {
       "num": 17,
       "he": "הַמּוֹצִ֥יא רֶכֶב־וָס֖וּס חַ֣יִל וְעִזּ֑וּז יַחְדָּ֤ו יִשְׁכְּבוּ֙ בַּל־יָק֔וּמוּ דָּעֲכ֖וּ כַּפִּשְׁתָּ֥ה כָבֽוּ׃",
-      "es": ""
+      "es": "el que saca carro y caballo, ejército y fuerza; juntos yacen, no se levantarán; se apagaron, como mecha se extinguieron:"
     },
     {
       "num": 18,
       "he": "אַֽל־תִּזְכְּר֖וּ רִאשֹׁנ֑וֹת וְקַדְמֹנִיּ֖וֹת אַל־תִּתְבֹּנָֽנוּ׃",
-      "es": ""
+      "es": "«No recordéis las cosas primeras, y las antiguas no consideréis."
     },
     {
       "num": 19,
       "he": "הִנְנִ֨י עֹשֶׂ֤ה חֲדָשָׁה֙ עַתָּ֣ה תִצְמָ֔ח הֲל֖וֹא תֵּדָע֑וּהָ אַ֣ף אָשִׂ֤ים בַּמִּדְבָּר֙ דֶּ֔רֶךְ בִּישִׁמ֖וֹן נְהָרֽוֹת׃",
-      "es": ""
+      "es": "He aquí que Yo hago cosa nueva; ahora brotará, ¿acaso no la conoceréis? Aun pondré camino en el desierto, ríos en la soledad."
     },
     {
       "num": 20,
       "he": "תְּכַבְּדֵ֙נִי֙ חַיַּ֣ת הַשָּׂדֶ֔ה תַּנִּ֖ים וּבְנ֣וֹת יַעֲנָ֑ה כִּֽי־נָתַ֨תִּי בַמִּדְבָּ֜ר מַ֗יִם נְהָרוֹת֙ בִּֽישִׁימֹ֔ן לְהַשְׁק֖וֹת עַמִּ֥י בְחִירִֽי׃",
-      "es": ""
+      "es": "Me honrará la bestia del campo, los chacales y las hijas del avestruz, porque puse aguas en el desierto, ríos en la soledad, para dar de beber a mi pueblo, mi elegido.",
+      "nota": "taninim — Grandes criaturas; aquí en contexto de animales del desierto, el término se refiere a chacales (תַּנִּים, forma diferente de תַּנִּינִים)."
     },
     {
       "num": 21,
       "he": "עַם־זוּ֙ יָצַ֣רְתִּי לִ֔י תְּהִלָּתִ֖י יְסַפֵּֽרוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Este pueblo que formé para mí, mi alabanza contarán»."
     },
     {
       "num": 22,
       "he": "וְלֹא־אֹתִ֥י קָרָ֖אתָ יַעֲקֹ֑ב כִּֽי־יָגַ֥עְתָּ בִּ֖י יִשְׂרָאֵֽל׃",
-      "es": ""
+      "es": "«Y no me invocaste a mí, Yaakov, pues te cansaste de mí, Yisrael."
     },
     {
       "num": 23,
       "he": "לֹֽא־הֵבֵ֤יאתָ לִּי֙ שֵׂ֣ה עֹלֹתֶ֔יךָ וּזְבָחֶ֖יךָ לֹ֣א כִבַּדְתָּ֑נִי לֹ֤א הֶעֱבַדְתִּ֙יךָ֙ בְּמִנְחָ֔ה וְלֹ֥א הוֹגַעְתִּ֖יךָ בִּלְבוֹנָֽה׃",
-      "es": ""
+      "es": "No me trajiste la res de tus holocaustos, y con tus sacrificios no me honraste. No te hice servir con ofrenda, ni te fatigué con incienso."
     },
     {
       "num": 24,
       "he": "לֹא־קָנִ֨יתָ לִּ֤י בַכֶּ֙סֶף֙ קָנֶ֔ה וְחֵ֥לֶב זְבָחֶ֖יךָ לֹ֣א הִרְוִיתָ֑נִי אַ֗ךְ הֶעֱבַדְתַּ֙נִי֙ בְּחַטֹּאותֶ֔יךָ הוֹגַעְתַּ֖נִי בַּעֲוֺנֹתֶֽיךָ׃",
-      "es": ""
+      "es": "No compraste para mí con plata caña aromática, ni con la grasa de tus sacrificios me saciaste; antes bien, me hiciste servir con tus pecados, me fatigaste con tus iniquidades."
     },
     {
       "num": 25,
       "he": "אָנֹכִ֨י אָנֹכִ֥י ה֛וּא מֹחֶ֥ה פְשָׁעֶ֖יךָ לְמַעֲנִ֑י וְחַטֹּאתֶ֖יךָ לֹ֥א אֶזְכֹּֽר׃",
-      "es": ""
+      "es": "Yo, Yo soy el que borro tus transgresiones por mi causa, y tus pecados no recordaré."
     },
     {
       "num": 26,
       "he": "הַזְכִּירֵ֕נִי נִשָּׁפְטָ֖ה יָ֑חַד סַפֵּ֥ר אַתָּ֖ה לְמַ֥עַן תִּצְדָּֽק׃",
-      "es": ""
+      "es": "Hazme recordar, entremos juntos en juicio; cuenta tú, para que seas justificado."
     },
     {
       "num": 27,
       "he": "אָבִ֥יךָ הָרִאשׁ֖וֹן חָטָ֑א וּמְלִיצֶ֖יךָ פָּ֥שְׁעוּ בִֽי׃",
-      "es": ""
+      "es": "Tu primer padre pecó, y tus intercesores se rebelaron contra mí."
     },
     {
       "num": 28,
       "he": "וַאֲחַלֵּ֖ל שָׂ֣רֵי קֹ֑דֶשׁ וְאֶתְּנָ֤ה לַחֵ֙רֶם֙ יַֽעֲקֹ֔ב וְיִשְׂרָאֵ֖ל לְגִדּוּפִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y profané a los príncipes del santuario, y entregué a Yaakov al anatema, y a Yisrael a los ultrajes»."
     }
   ]
 }

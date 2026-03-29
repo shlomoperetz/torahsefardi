@@ -8,107 +8,110 @@
     {
       "num": 1,
       "he": "בַּיּ֣וֹם הַה֔וּא יוּשַׁ֥ר הַשִּׁיר־הַזֶּ֖ה בְּאֶ֣רֶץ יְהוּדָ֑ה עִ֣יר עׇז־לָ֔נוּ יְשׁוּעָ֥ה יָשִׁ֖ית חוֹמ֥וֹת וָחֵֽל׃",
-      "es": ""
+      "es": "En aquel día será cantado este cántico en la tierra de Yehudá: «Ciudad de fortaleza tenemos; salvación puso por muros y antemuro."
     },
     {
       "num": 2,
       "he": "פִּתְח֖וּ שְׁעָרִ֑ים וְיָבֹ֥א גוֹי־צַדִּ֖יק שֹׁמֵ֥ר אֱמֻנִֽים׃",
-      "es": ""
+      "es": "Abrid las puertas, y entrará nación justa, guardadora de fidelidades."
     },
     {
       "num": 3,
       "he": "יֵ֣צֶר סָמ֔וּךְ תִּצֹּ֖ר שָׁל֣וֹם&thinsp;<small>׀</small>&thinsp;שָׁל֑וֹם כִּ֥י בְךָ֖ בָּטֽוּחַ׃",
-      "es": ""
+      "es": "Al ánimo firme guardarás en paz, paz, porque en Ti confía."
     },
     {
       "num": 4,
       "he": "בִּטְח֥וּ בַיהֹוָ֖ה עֲדֵי־עַ֑ד כִּ֚י בְּיָ֣הּ יְהֹוָ֔ה צ֖וּר עוֹלָמִֽים׃",
-      "es": ""
+      "es": "Confiad en el Eterno por siempre jamás, porque en Yah, el Eterno, está la Roca de los siglos.",
+      "nota": "Yah — Forma abreviada del nombre divino יהוה, usada en contextos poéticos y litúrgicos."
     },
     {
       "num": 5,
       "he": "כִּ֤י הֵשַׁח֙ יֹשְׁבֵ֣י מָר֔וֹם קִרְיָ֖ה נִשְׂגָּבָ֑ה יַשְׁפִּילֶ֤נָּה יַשְׁפִּילָהּ֙ עַד־אֶ֔רֶץ יַגִּיעֶ֖נָּה עַד־עָפָֽר׃",
-      "es": ""
+      "es": "Porque Él abatió a los moradores de la altura, la ciudad enaltecida; la humilló, la humilló hasta la tierra, la hizo llegar hasta el polvo."
     },
     {
       "num": 6,
       "he": "תִּרְמְסֶ֖נָּה רָ֑גֶל רַגְלֵ֥י עָנִ֖י פַּעֲמֵ֥י דַלִּֽים׃",
-      "es": ""
+      "es": "La pisoteará el pie, los pies del pobre, las pisadas de los desvalidos»."
     },
     {
       "num": 7,
       "he": "אֹ֥רַח לַצַּדִּ֖יק מֵישָׁרִ֑ים יָשָׁ֕ר מַעְגַּ֥ל צַדִּ֖יק תְּפַלֵּֽס׃",
-      "es": ""
+      "es": "La senda del justo es rectitud; Tú, Recto, allanas el camino del justo."
     },
     {
       "num": 8,
       "he": "אַ֣ף אֹ֧רַח מִשְׁפָּטֶ֛יךָ יְהֹוָ֖ה קִוִּינ֑וּךָ לְשִׁמְךָ֥ וּלְזִכְרְךָ֖ תַּאֲוַת־נָֽפֶשׁ׃",
-      "es": ""
+      "es": "También en la senda de Tus juicios, oh Eterno, Te esperamos; a Tu nombre y a Tu recuerdo va el anhelo del alma."
     },
     {
       "num": 9,
       "he": "נַפְשִׁ֤י אִוִּיתִ֙ךָ֙ בַּלַּ֔יְלָה אַף־רוּחִ֥י בְקִרְבִּ֖י אֲשַׁחֲרֶ֑ךָּ כִּ֞י כַּאֲשֶׁ֤ר מִשְׁפָּטֶ֙יךָ֙ לָאָ֔רֶץ צֶ֥דֶק לָמְד֖וּ יֹשְׁבֵ֥י תֵבֵֽל׃",
-      "es": ""
+      "es": "Con mi alma Te anhelé en la noche; también con mi espíritu dentro de mí Te busqué al alba; porque cuando Tus juicios alcanzan la tierra, justicia aprenden los moradores del mundo."
     },
     {
       "num": 10,
       "he": "יֻחַ֤ן רָשָׁע֙ בַּל־לָמַ֣ד צֶ֔דֶק בְּאֶ֥רֶץ נְכֹח֖וֹת יְעַוֵּ֑ל וּבַל־יִרְאֶ֖ה גֵּא֥וּת יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Si se le muestra gracia al malvado, no aprende justicia; en tierra de rectitudes obra perversamente, y no ve la majestad del Eterno."
     },
     {
       "num": 11,
       "he": "יְהֹוָ֛ה רָ֥מָה יָדְךָ֖ בַּל־יֶחֱזָי֑וּן יֶחֱז֤וּ וְיֵבֹ֙שׁוּ֙ קִנְאַת־עָ֔ם אַף־אֵ֖שׁ צָרֶ֥יךָ תֹאכְלֵֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Oh Eterno, alzada está Tu mano, mas no lo ven; verán y se avergonzarán del celo por Tu pueblo; sí, el fuego de Tus adversarios los consumirá."
     },
     {
       "num": 12,
       "he": "יְהֹוָ֕ה תִּשְׁפֹּ֥ת שָׁל֖וֹם לָ֑נוּ כִּ֛י גַּ֥ם כׇּֽל־מַעֲשֵׂ֖ינוּ פָּעַ֥לְתָּ לָּֽנוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Oh Eterno, Tú dispondrás paz para nosotros, porque también todas nuestras obras Tú las obraste para nosotros."
     },
     {
       "num": 13,
       "he": "יְהֹוָ֣ה אֱלֹהֵ֔ינוּ בְּעָל֥וּנוּ אֲדֹנִ֖ים זוּלָתֶ֑ךָ לְבַד־בְּךָ֖ נַזְכִּ֥יר שְׁמֶֽךָ׃",
-      "es": ""
+      "es": "Oh Eterno, Elohim nuestro, señores distintos de Ti nos dominaron; solo por Ti mencionamos Tu nombre."
     },
     {
       "num": 14,
       "he": "מֵתִים֙ בַּל־יִ֣חְי֔וּ רְפָאִ֖ים בַּל־יָקֻ֑מוּ לָכֵ֤ן פָּקַ֙דְתָּ֙ וַתַּשְׁמִידֵ֔ם וַתְּאַבֵּ֥ד כׇּל־זֵ֖כֶר לָֽמוֹ׃",
-      "es": ""
+      "es": "Los muertos no vivirán; los refaím no se levantarán; por eso los visitaste y los destruiste, y borraste todo recuerdo de ellos.",
+      "nota": "refaím — Término hebreo (רְפָאִים) que designa a los espíritus de los muertos o sombras del inframundo; se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 15,
       "he": "יָסַ֤פְתָּ לַגּוֹי֙ יְהֹוָ֔ה יָסַ֥פְתָּ לַגּ֖וֹי נִכְבָּ֑דְתָּ רִחַ֖קְתָּ כׇּל־קַצְוֵי־אָֽרֶץ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Acrecentaste la nación, oh Eterno, acrecentaste la nación; fuiste glorificado; extendiste todos los confines de la tierra."
     },
     {
       "num": 16,
       "he": "יְהֹוָ֖ה בַּצַּ֣ר פְּקָד֑וּךָ צָק֣וּן לַ֔חַשׁ מוּסָרְךָ֖ לָֽמוֹ׃",
-      "es": ""
+      "es": "Oh Eterno, en la angustia Te buscaron; derramaron susurro de plegaria cuando Tu castigo estaba sobre ellos."
     },
     {
       "num": 17,
       "he": "כְּמ֤וֹ הָרָה֙ תַּקְרִ֣יב לָלֶ֔דֶת תָּחִ֥יל תִּזְעַ֖ק בַּחֲבָלֶ֑יהָ כֵּ֛ן הָיִ֥ינוּ מִפָּנֶ֖יךָ יְהֹוָֽה׃",
-      "es": ""
+      "es": "Como la mujer encinta que se acerca al parto, se retuerce y grita en sus dolores, así fuimos nosotros ante Ti, oh Eterno."
     },
     {
       "num": 18,
       "he": "הָרִ֣ינוּ חַ֔לְנוּ כְּמ֖וֹ יָלַ֣דְנוּ ר֑וּחַ יְשׁוּעֹת֙ בַּל־נַ֣עֲשֶׂה אֶ֔רֶץ וּבַֽל־יִפְּל֖וּ יֹשְׁבֵ֥י תֵבֵֽל׃",
-      "es": ""
+      "es": "Concebimos, nos retorcimos; como si diésemos a luz viento; salvación no hicimos en la tierra, y no cayeron los moradores del mundo."
     },
     {
       "num": 19,
       "he": "יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Vivirán tus muertos, mis cadáveres se levantarán. ¡Despertad y cantad, moradores del polvo!, porque rocío de luces es Tu rocío, y la tierra a los refaím echará fuera.",
+      "nota": "refaím — Véase nota al versículo 14."
     },
     {
       "num": 20,
       "he": "לֵ֤ךְ עַמִּי֙ בֹּ֣א בַחֲדָרֶ֔יךָ וּֽסְגֹ֥ר <span class=\"mam-kq\"><span class=\"mam-kq-k\">(דלתיך)</span> <span class=\"mam-kq-q\">[דְּלָֽתְךָ֖]</span></span> בַּעֲדֶ֑ךָ חֲבִ֥י כִמְעַט־רֶ֖גַע עַד־<span class=\"mam-kq\"><span class=\"mam-kq-k\">(יעבור)</span>־<span class=\"mam-kq-q\">[יַעֲבׇר־]</span></span>זָֽעַם׃",
-      "es": ""
+      "es": "Anda, pueblo mío, entra en tus aposentos y cierra tu puerta tras de ti; escóndete por un breve instante, hasta que pase la ira."
     },
     {
       "num": 21,
       "he": "כִּֽי־הִנֵּ֤ה יְהֹוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב־הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה הָאָ֙רֶץ֙ אֶת־דָּמֶ֔יהָ וְלֹא־תְכַסֶּ֥ה ע֖וֹד עַל־הֲרוּגֶֽיהָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Porque he aquí que el Eterno sale de Su lugar para castigar la iniquidad del morador de la tierra sobre él; y la tierra descubrirá sus sangres, y no encubrirá más a sus muertos."
     }
   ]
 }
