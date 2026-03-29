@@ -129,52 +129,54 @@
     {
       "num": 25,
       "he": "וְאֵ֛ת חֵ֥לֶב הַֽחַטָּ֖את יַקְטִ֥יר הַמִּזְבֵּֽחָה׃",
-      "es": ""
+      "es": "Y la grasa de la ofrenda por el pecado hará humear sobre el altar."
     },
     {
       "num": 26,
       "he": "וְהַֽמְשַׁלֵּ֤חַ אֶת־הַשָּׂעִיר֙ לַֽעֲזָאזֵ֔ל יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־בְּשָׂר֖וֹ בַּמָּ֑יִם וְאַחֲרֵי־כֵ֖ן יָב֥וֹא אֶל־הַֽמַּחֲנֶֽה׃",
-      "es": ""
+      "es": "Y el que envió el macho cabrío a azazel lavará sus vestidos y lavará su carne con agua, y después de esto vendrá al campamento.",
+      "nota": "azazel — Término hebreo (עֲזָאזֵל) de significado debatido; se ha interpretado como nombre de un lugar desértico escarpado, como entidad demoníaca, o como derivación de עז (cabra) y אזל (ir). Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 27,
       "he": "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת&thinsp;<b>׀</b> שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ יוֹצִ֖יא אֶל־מִח֣וּץ לַֽמַּחֲנֶ֑ה וְשָׂרְפ֣וּ בָאֵ֔שׁ אֶת־עֹרֹתָ֥ם וְאֶת־בְּשָׂרָ֖ם וְאֶת־פִּרְשָֽׁם׃",
-      "es": ""
+      "es": "Y el toro de la ofrenda por el pecado y el macho cabrío de la ofrenda por el pecado, cuya sangre fue traída para expiar en el santuario, sacará fuera del campamento; y quemarán en el fuego sus pieles, y su carne, y su excremento."
     },
     {
       "num": 28,
       "he": "וְהַשֹּׂרֵ֣ף אֹתָ֔ם יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־בְּשָׂר֖וֹ בַּמָּ֑יִם וְאַחֲרֵי־כֵ֖ן יָב֥וֹא אֶל־הַֽמַּחֲנֶֽה׃",
-      "es": ""
+      "es": "Y el que los queme lavará sus vestidos y lavará su carne con agua, y después de esto vendrá al campamento."
     },
     {
       "num": 29,
       "he": "וְהָיְתָ֥ה לָכֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם בַּחֹ֣דֶשׁ הַ֠שְּׁבִיעִ֠י בֶּֽעָשׂ֨וֹר לַחֹ֜דֶשׁ תְּעַנּ֣וּ אֶת־נַפְשֹֽׁתֵיכֶ֗ם וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃",
-      "es": ""
+      "es": "Y será para vosotros estatuto perpetuo: en el mes séptimo, en el décimo del mes, afligiréis vuestras almas, y ninguna labor haréis, el nativo y el forastero que mora en medio de vosotros."
     },
     {
       "num": 30,
       "he": "כִּֽי־בַיּ֥וֹם הַזֶּ֛ה יְכַפֵּ֥ר עֲלֵיכֶ֖ם לְטַהֵ֣ר אֶתְכֶ֑ם מִכֹּל֙ חַטֹּ֣אתֵיכֶ֔ם לִפְנֵ֥י יְהֹוָ֖ה תִּטְהָֽרוּ׃",
-      "es": ""
+      "es": "Porque en este día se expiará sobre vosotros para purificaros; de todos vuestros pecados ante el Eterno seréis purificados."
     },
     {
       "num": 31,
       "he": "שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־נַפְשֹׁתֵיכֶ֑ם חֻקַּ֖ת עוֹלָֽם׃",
-      "es": ""
+      "es": "Shabat de shabatón es ella para vosotros, y afligiréis vuestras almas; estatuto perpetuo.",
+      "nota": "shabatón — Forma intensiva de shabat, que expresa un descanso solemne o completo; la expresión «shabat de shabatón» indica el reposo más absoluto."
     },
     {
       "num": 32,
       "he": "וְכִפֶּ֨ר הַכֹּהֵ֜ן אֲשֶׁר־יִמְשַׁ֣ח אֹת֗וֹ וַאֲשֶׁ֤ר יְמַלֵּא֙ אֶת־יָד֔וֹ לְכַהֵ֖ן תַּ֣חַת אָבִ֑יו וְלָבַ֛שׁ אֶת־בִּגְדֵ֥י הַבָּ֖ד בִּגְדֵ֥י הַקֹּֽדֶשׁ׃",
-      "es": ""
+      "es": "Y expiará el sacerdote que sea ungido y cuya mano sea llenada para servir como sacerdote en lugar de su padre, y vestirá las vestiduras de lino, las vestiduras de santidad."
     },
     {
       "num": 33,
       "he": "וְכִפֶּר֙ אֶת־מִקְדַּ֣שׁ הַקֹּ֔דֶשׁ וְאֶת־אֹ֧הֶל מוֹעֵ֛ד וְאֶת־הַמִּזְבֵּ֖חַ יְכַפֵּ֑ר וְעַ֧ל הַכֹּהֲנִ֛ים וְעַל־כׇּל־עַ֥ם הַקָּהָ֖ל יְכַפֵּֽר׃",
-      "es": ""
+      "es": "Y expiará el santuario de santidad, y la tienda de reunión y el altar expiará, y sobre los sacerdotes y sobre todo el pueblo de la congregación expiará."
     },
     {
       "num": 34,
       "he": "וְהָֽיְתָה־זֹּ֨את לָכֶ֜ם לְחֻקַּ֣ת עוֹלָ֗ם לְכַפֵּ֞ר עַל־בְּנֵ֤י יִשְׂרָאֵל֙ מִכׇּל־חַטֹּאתָ֔ם אַחַ֖ת בַּשָּׁנָ֑ה וַיַּ֕עַשׂ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y será esto para vosotros estatuto perpetuo, para expiar sobre los hijos de Yisrael de todos sus pecados, una vez al año. Y él hizo conforme a lo que ordenó el Eterno a Moshé."
     }
   ]
 }
