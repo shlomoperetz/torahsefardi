@@ -138,22 +138,23 @@
     {
       "num": 27,
       "he": "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
-      "es": ""
+      "es": "No maldecirás a Elohim, y a un príncipe en tu pueblo no maldecirás."
     },
     {
       "num": 28,
       "he": "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־לִֽי׃",
-      "es": ""
+      "es": "Tu plenitud y tu libación no retrasarás; el primogénito de tus hijos me darás.",
+      "nota": "מְלֵאָתְךָ וְדִמְעֲךָ — «Tu plenitud y tu libación»: expresión que alude respectivamente a la ofrenda de los primeros frutos maduros (מְלֵאָה, plenitud de la cosecha) y a la primera porción del lagar (דִּמְעָה, literalmente «lágrima», referida al jugo que fluye del lagar)."
     },
     {
       "num": 29,
       "he": "כֵּֽן־תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־לִֽי׃",
-      "es": ""
+      "es": "Así harás con tu buey y con tu oveja: siete días estará con su madre, y al día octavo me lo darás."
     },
     {
       "num": 30,
       "he": "וְאַנְשֵׁי־קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y hombres de santidad seréis para mí; y carne desgarrada en el campo no comeréis, al perro la arrojaréis."
     }
   ]
 }
