@@ -8,67 +8,71 @@
     {
       "num": 1,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 2,
       "he": "קַ֤ח אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֣יו אִתּ֔וֹ וְאֵת֙ הַבְּגָדִ֔ים וְאֵ֖ת שֶׁ֣מֶן הַמִּשְׁחָ֑ה וְאֵ֣ת&thinsp;<b>׀</b> פַּ֣ר הַֽחַטָּ֗את וְאֵת֙ שְׁנֵ֣י הָֽאֵילִ֔ים וְאֵ֖ת סַ֥ל הַמַּצּֽוֹת׃",
-      "es": ""
+      "es": "«Toma a Aharón y a sus hijos con él, y las vestiduras, y el aceite de la unción, y el novillo de la ofrenda por el pecado, y los dos carneros, y el canasto de las matsot.",
+      "nota": "matsot — Plural de matsá, pan ázimo o sin leudar; se mantiene en hebreo por ser término técnico ritual de uso extendido."
     },
     {
       "num": 3,
       "he": "וְאֵ֥ת כׇּל־הָעֵדָ֖ה הַקְהֵ֑ל אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-      "es": ""
+      "es": "Y a toda la congregación reúnela a la entrada de la tienda de reunión»."
     },
     {
       "num": 4,
       "he": "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֹת֑וֹ וַתִּקָּהֵל֙ הָֽעֵדָ֔ה אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
-      "es": ""
+      "es": "Y Moshé hizo conforme a lo que le ordenó el Eterno, y se reunió la congregación a la entrada de la tienda de reunión."
     },
     {
       "num": 5,
       "he": "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל־הָעֵדָ֑ה זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֽׂוֹת׃",
-      "es": ""
+      "es": "Y dijo Moshé a la congregación: «Esto es lo que ha ordenado el Eterno hacer»."
     },
     {
       "num": 6,
       "he": "וַיַּקְרֵ֣ב מֹשֶׁ֔ה אֶֽת־אַהֲרֹ֖ן וְאֶת־בָּנָ֑יו וַיִּרְחַ֥ץ אֹתָ֖ם בַּמָּֽיִם׃",
-      "es": ""
+      "es": "Y Moshé hizo acercar a Aharón y a sus hijos, y los lavó con agua."
     },
     {
       "num": 7,
       "he": "וַיִּתֵּ֨ן עָלָ֜יו אֶת־הַכֻּתֹּ֗נֶת וַיַּחְגֹּ֤ר אֹתוֹ֙ בָּֽאַבְנֵ֔ט וַיַּלְבֵּ֤שׁ אֹתוֹ֙ אֶֽת־הַמְּעִ֔יל וַיִּתֵּ֥ן עָלָ֖יו אֶת־הָאֵפֹ֑ד וַיַּחְגֹּ֣ר אֹת֗וֹ בְּחֵ֙שֶׁב֙ הָֽאֵפֹ֔ד וַיֶּאְפֹּ֥ד ל֖וֹ בּֽוֹ׃",
-      "es": ""
+      "es": "Y puso sobre él la túnica, y lo ciñó con el cinturón, y lo vistió con el manto, y puso sobre él el efod, y lo ciñó con el cinto del efod, y lo ajustó con él.",
+      "nota": "efod — Prenda sacerdotal que se colocaba sobre el manto; término hebreo (אֵפֹד) que designa una pieza específica del atuendo del sumo sacerdote. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 8,
       "he": "וַיָּ֥שֶׂם עָלָ֖יו אֶת־הַחֹ֑שֶׁן וַיִּתֵּן֙ אֶל־הַחֹ֔שֶׁן אֶת־הָאוּרִ֖ים וְאֶת־הַתֻּמִּֽים׃",
-      "es": ""
+      "es": "Y colocó sobre él el jóshen, y puso en el jóshen los urim y los tumim.",
+      "nota": "urim y tumim — Términos hebreos (אוּרִים וְתֻמִּים) que designan objetos sagrados colocados dentro del jóshen, empleados para consultar la voluntad divina; su naturaleza exacta es debatida. Se mantienen en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 9,
       "he": "וַיָּ֥שֶׂם אֶת־הַמִּצְנֶ֖פֶת עַל־רֹאשׁ֑וֹ וַיָּ֨שֶׂם עַֽל־הַמִּצְנֶ֜פֶת אֶל־מ֣וּל פָּנָ֗יו אֵ֣ת צִ֤יץ הַזָּהָב֙ נֵ֣זֶר הַקֹּ֔דֶשׁ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
-      "es": ""
+      "es": "Y colocó la mitra sobre su cabeza, y colocó sobre la mitra, hacia el frente de su rostro, la lámina de oro, diadema de santidad, tal como ordenó el Eterno a Moshé."
     },
     {
       "num": 10,
       "he": "וַיִּקַּ֤ח מֹשֶׁה֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה וַיִּמְשַׁ֥ח אֶת־הַמִּשְׁכָּ֖ן וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ וַיְקַדֵּ֖שׁ אֹתָֽם׃",
-      "es": ""
+      "es": "Y tomó Moshé el aceite de la unción, y ungió el mishkán y todo lo que había en él, y los santificó.",
+      "nota": "mishkán — Tabernáculo o morada; término hebreo derivado de la raíz שׁכן (habitar), que designa el santuario portátil. Se mantiene en hebreo por su carácter técnico ritual de uso extendido."
     },
     {
       "num": 11,
       "he": "וַיַּ֥ז מִמֶּ֛נּוּ עַל־הַמִּזְבֵּ֖חַ שֶׁ֣בַע פְּעָמִ֑ים וַיִּמְשַׁ֨ח אֶת־הַמִּזְבֵּ֜חַ וְאֶת־כׇּל־כֵּלָ֗יו וְאֶת־הַכִּיֹּ֛ר וְאֶת־כַּנּ֖וֹ לְקַדְּשָֽׁם׃",
-      "es": ""
+      "es": "Y roció de él sobre el altar siete veces, y ungió el altar y todos sus utensilios, y la fuente y su base, para santificarlos."
     },
     {
       "num": 12,
       "he": "וַיִּצֹק֙ מִשֶּׁ֣מֶן הַמִּשְׁחָ֔ה עַ֖ל רֹ֣אשׁ אַהֲרֹ֑ן וַיִּמְשַׁ֥ח אֹת֖וֹ לְקַדְּשֽׁוֹ׃",
-      "es": ""
+      "es": "Y derramó del aceite de la unción sobre la cabeza de Aharón, y lo ungió para santificarlo."
     },
     {
       "num": 13,
       "he": "וַיַּקְרֵ֨ב מֹשֶׁ֜ה אֶת־בְּנֵ֣י אַהֲרֹ֗ן וַיַּלְבִּשֵׁ֤ם כֻּתֳּנֹת֙ וַיַּחְגֹּ֤ר אֹתָם֙ אַבְנֵ֔ט וַיַּחֲבֹ֥שׁ לָהֶ֖ם מִגְבָּע֑וֹת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
-      "es": ""
+      "es": "Y Moshé hizo acercar a los hijos de Aharón, y los vistió con túnicas, y los ciñó con cinturón, y les ajustó las cofias, tal como ordenó el Eterno a Moshé."
     },
     {
       "num": 14,
