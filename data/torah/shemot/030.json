@@ -34,7 +34,7 @@
     {
       "num": 6,
       "he": "וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃",
-      "es": "Y lo pondrás delante del parójet que está sobre el arca del testimonio, delante del propiciatorio que está sobre el testimonio, donde me encontraré contigo allí.",
+      "es": "Y lo pondrás delante del velo que está sobre el arca del testimonio, delante de la cubierta que está sobre el testimonio, donde me encontraré contigo allí.",
       "nota": "parójet — Cortina o velo que separaba el lugar santo del lugar santísimo en el mishkán."
     },
     {
@@ -45,12 +45,12 @@
     {
       "num": 8,
       "he": "וּבְהַעֲלֹ֨ת אַהֲרֹ֧ן אֶת־הַנֵּרֹ֛ת בֵּ֥ין הָעַרְבַּ֖יִם יַקְטִירֶ֑נָּה קְטֹ֧רֶת תָּמִ֛יד לִפְנֵ֥י יְהֹוָ֖ה לְדֹרֹתֵיכֶֽם׃",
-      "es": "Y cuando encienda Aharón las lámparas entre las tardes, lo quemará; incienso continuo ante el Eterno por vuestras generaciones."
+      "es": "Y cuando Aharón encienda las lámparas entre las tardes, lo quemará; incienso continuo delante del Eterno por vuestras generaciones."
     },
     {
       "num": 9,
       "he": "לֹא־תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃",
-      "es": "No ofreceréis sobre él incienso extraño, ni holocausto ni ofrenda; y libación no derramaréis sobre él."
+      "es": "No ofreceréis sobre él incienso extraño, ni holocausto ni ofrenda vegetal; y libación no derramaréis sobre él."
     },
     {
       "num": 10,
@@ -60,142 +60,143 @@
     {
       "num": 11,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 12,
       "he": "כִּ֣י תִשָּׂ֞א אֶת־רֹ֥אשׁ בְּנֵֽי־יִשְׂרָאֵל֮ לִפְקֻדֵיהֶם֒ וְנָ֨תְנ֜וּ אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַיהֹוָ֖ה בִּפְקֹ֣ד אֹתָ֑ם וְלֹא־יִהְיֶ֥ה בָהֶ֛ם נֶ֖גֶף בִּפְקֹ֥ד אֹתָֽם׃",
-      "es": ""
+      "es": "«Cuando hagas el censo de los hijos de Yisrael según sus contados, darán cada uno rescate de su alma al Eterno al ser contados, y no habrá entre ellos plaga al ser contados."
     },
     {
       "num": 13,
       "he": "זֶ֣ה&thinsp;<b>׀</b> יִתְּנ֗וּ כׇּל־הָעֹבֵר֙ עַל־הַפְּקֻדִ֔ים מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֤ים גֵּרָה֙ הַשֶּׁ֔קֶל מַחֲצִ֣ית הַשֶּׁ֔קֶל תְּרוּמָ֖ה לַֽיהֹוָֽה׃",
-      "es": ""
+      "es": "Esto darán todo el que pase entre los contados: medio shékel en shékel del santuario —veinte guerá el shékel—, medio shékel como terumá para el Eterno.",
+      "nota": "guerá — Unidad de peso mínima en el sistema metrológico bíblico, equivalente a una vigésima parte del shékel."
     },
     {
       "num": 14,
       "he": "כֹּ֗ל הָעֹבֵר֙ עַל־הַפְּקֻדִ֔ים מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה יִתֵּ֖ן תְּרוּמַ֥ת יְהֹוָֽה׃",
-      "es": ""
+      "es": "Todo el que pase entre los contados, de veinte años en adelante, dará la terumá del Eterno."
     },
     {
       "num": 15,
       "he": "הֶֽעָשִׁ֣יר לֹֽא־יַרְבֶּ֗ה וְהַדַּל֙ לֹ֣א יַמְעִ֔יט מִֽמַּחֲצִ֖ית הַשָּׁ֑קֶל לָתֵת֙ אֶת־תְּרוּמַ֣ת יְהֹוָ֔ה לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶֽם׃",
-      "es": ""
+      "es": "El rico no aumentará y el pobre no disminuirá del medio shékel, para dar la terumá del Eterno, para expiar por vuestras almas."
     },
     {
       "num": 16,
       "he": "וְלָקַחְתָּ֞ אֶת־כֶּ֣סֶף הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָתַתָּ֣ אֹת֔וֹ עַל־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩ לִבְנֵ֨י יִשְׂרָאֵ֤ל לְזִכָּרוֹן֙ לִפְנֵ֣י יְהֹוָ֔ה לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y tomarás la plata de las expiaciones de los hijos de Yisrael, y la darás para el servicio de la tienda de reunión; y será para los hijos de Yisrael como recuerdo delante del Eterno, para expiar por vuestras almas»."
     },
     {
       "num": 17,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 18,
       "he": "וְעָשִׂ֜יתָ כִּיּ֥וֹר נְחֹ֛שֶׁת וְכַנּ֥וֹ נְחֹ֖שֶׁת לְרׇחְצָ֑ה וְנָתַתָּ֣ אֹת֗וֹ בֵּֽין־אֹ֤הֶל מוֹעֵד֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ וְנָתַתָּ֥ שָׁ֖מָּה מָֽיִם׃",
-      "es": ""
+      "es": "«Y harás una pila de cobre y su base de cobre, para lavarse; y la pondrás entre la tienda de reunión y el altar, y pondrás allí agua."
     },
     {
       "num": 19,
       "he": "וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת־יְדֵיהֶ֖ם וְאֶת־רַגְלֵיהֶֽם׃",
-      "es": ""
+      "es": "Y se lavarán Aharón y sus hijos de ella sus manos y sus pies."
     },
     {
       "num": 20,
       "he": "בְּבֹאָ֞ם אֶל־אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ־מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל־הַמִּזְבֵּ֙חַ֙ לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהֹוָֽה׃",
-      "es": ""
+      "es": "Cuando entren a la tienda de reunión se lavarán con agua y no morirán, o cuando se acerquen al altar para servir, para quemar ofrenda ígnea al Eterno."
     },
     {
       "num": 21,
       "he": "וְרָחֲצ֛וּ יְדֵיהֶ֥ם וְרַגְלֵיהֶ֖ם וְלֹ֣א יָמֻ֑תוּ וְהָיְתָ֨ה לָהֶ֧ם חׇק־עוֹלָ֛ם ל֥וֹ וּלְזַרְע֖וֹ לְדֹרֹתָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y se lavarán sus manos y sus pies, y no morirán; y será para ellos estatuto perpetuo, para él y para su descendencia por sus generaciones»."
     },
     {
       "num": 22,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 23,
       "he": "וְאַתָּ֣ה קַח־לְךָ֮ בְּשָׂמִ֣ים רֹאשׁ֒ מׇר־דְּרוֹר֙ חֲמֵ֣שׁ מֵא֔וֹת וְקִנְּמׇן־בֶּ֥שֶׂם מַחֲצִית֖וֹ חֲמִשִּׁ֣ים וּמָאתָ֑יִם וּקְנֵה־בֹ֖שֶׂם חֲמִשִּׁ֥ים וּמָאתָֽיִם׃",
-      "es": ""
+      "es": "«Y tú, toma para ti especias principales: mirra pura quinientos, y canela aromática la mitad de ello, doscientos cincuenta, y caña aromática doscientos cincuenta,"
     },
     {
       "num": 24,
       "he": "וְקִדָּ֕ה חֲמֵ֥שׁ מֵא֖וֹת בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ וְשֶׁ֥מֶן זַ֖יִת הִֽין׃",
-      "es": ""
+      "es": "y casia quinientos en shékel del santuario, y aceite de oliva un hin."
     },
     {
       "num": 25,
       "he": "וְעָשִׂ֣יתָ אֹת֗וֹ שֶׁ֚מֶן מִשְׁחַת־קֹ֔דֶשׁ רֹ֥קַח מִרְקַ֖חַת מַעֲשֵׂ֣ה רֹקֵ֑חַ שֶׁ֥מֶן מִשְׁחַת־קֹ֖דֶשׁ יִהְיֶֽה׃",
-      "es": ""
+      "es": "Y harás de ello aceite de unción sagrada, perfume de mezcla de perfumería, obra de perfumista; aceite de unción sagrada será."
     },
     {
       "num": 26,
       "he": "וּמָשַׁחְתָּ֥ ב֖וֹ אֶת־אֹ֣הֶל מוֹעֵ֑ד וְאֵ֖ת אֲר֥וֹן הָעֵדֻֽת׃",
-      "es": ""
+      "es": "Y ungirás con él la tienda de reunión y el arca del testimonio,"
     },
     {
       "num": 27,
       "he": "וְאֶת־הַשֻּׁלְחָן֙ וְאֶת־כׇּל־כֵּלָ֔יו וְאֶת־הַמְּנֹרָ֖ה וְאֶת־כֵּלֶ֑יהָ וְאֵ֖ת מִזְבַּ֥ח הַקְּטֹֽרֶת׃",
-      "es": ""
+      "es": "y la mesa y todos sus utensilios, y el candelabro y sus utensilios, y el altar del incienso,"
     },
     {
       "num": 28,
       "he": "וְאֶת־מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־כׇּל־כֵּלָ֑יו וְאֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃",
-      "es": ""
+      "es": "y el altar del holocausto y todos sus utensilios, y la pila y su base."
     },
     {
       "num": 29,
       "he": "וְקִדַּשְׁתָּ֣ אֹתָ֔ם וְהָי֖וּ קֹ֣דֶשׁ קׇֽדָשִׁ֑ים כׇּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִקְדָּֽשׁ׃",
-      "es": ""
+      "es": "Y los santificarás, y serán santísimos; todo lo que los toque quedará santificado."
     },
     {
       "num": 30,
       "he": "וְאֶת־אַהֲרֹ֥ן וְאֶת־בָּנָ֖יו תִּמְשָׁ֑ח וְקִדַּשְׁתָּ֥ אֹתָ֖ם לְכַהֵ֥ן לִֽי׃",
-      "es": ""
+      "es": "Y a Aharón y a sus hijos ungirás, y los santificarás para que me sirvan como sacerdotes."
     },
     {
       "num": 31,
       "he": "וְאֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר שֶׁ֠מֶן מִשְׁחַת־קֹ֨דֶשׁ יִהְיֶ֥ה זֶ֛ה לִ֖י לְדֹרֹתֵיכֶֽם׃",
-      "es": ""
+      "es": "Y a los hijos de Yisrael hablarás, diciendo: Aceite de unción sagrada será este para mí por vuestras generaciones."
     },
     {
       "num": 32,
       "he": "עַל־בְּשַׂ֤ר אָדָם֙ לֹ֣א יִיסָ֔ךְ וּ֨בְמַתְכֻּנְתּ֔וֹ לֹ֥א תַעֲשׂ֖וּ כָּמֹ֑הוּ קֹ֣דֶשׁ ה֔וּא קֹ֖דֶשׁ יִהְיֶ֥ה לָכֶֽם׃",
-      "es": ""
+      "es": "Sobre carne de hombre no será derramado, y conforme a su composición no haréis semejante a él; santo es, santo será para vosotros."
     },
     {
       "num": 33,
       "he": "אִ֚ישׁ אֲשֶׁ֣ר יִרְקַ֣ח כָּמֹ֔הוּ וַאֲשֶׁ֥ר יִתֵּ֛ן מִמֶּ֖נּוּ עַל־זָ֑ר וְנִכְרַ֖ת מֵעַמָּֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "El hombre que prepare semejante a él, y el que ponga de él sobre un extraño, será cortado de sus pueblos»."
     },
     {
       "num": 34,
       "he": "וַיֹּ֩אמֶר֩ יְהֹוָ֨ה אֶל־מֹשֶׁ֜ה קַח־לְךָ֣ סַמִּ֗ים נָטָ֤ף&thinsp;<small>׀</small>&thinsp;וּשְׁחֵ֙לֶת֙ וְחֶלְבְּנָ֔ה סַמִּ֖ים וּלְבֹנָ֣ה זַכָּ֑ה בַּ֥ד בְּבַ֖ד יִהְיֶֽה׃",
-      "es": ""
+      "es": "Y dijo el Eterno a Moshé: «Toma para ti especias: estacte y uña aromática y gálbano, especias y olíbano puro; parte por parte será."
     },
     {
       "num": 35,
       "he": "וְעָשִׂ֤יתָ אֹתָהּ֙ קְטֹ֔רֶת רֹ֖קַח מַעֲשֵׂ֣ה רוֹקֵ֑חַ מְמֻלָּ֖ח טָה֥וֹר קֹֽדֶשׁ׃",
-      "es": ""
+      "es": "Y harás de ello incienso, perfume, obra de perfumista, sazonado, puro, santo."
     },
     {
       "num": 36,
       "he": "וְשָֽׁחַקְתָּ֣ מִמֶּ֘נָּה֮ הָדֵק֒ וְנָתַתָּ֨ה מִמֶּ֜נָּה לִפְנֵ֤י הָעֵדֻת֙ בְּאֹ֣הֶל מוֹעֵ֔ד אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָׁ֑מָּה קֹ֥דֶשׁ קׇֽדָשִׁ֖ים תִּהְיֶ֥ה לָכֶֽם׃",
-      "es": ""
+      "es": "Y molerás de ello finamente, y pondrás de ello delante del testimonio en la tienda de reunión, donde me encontraré contigo allí; santísimo será para vosotros."
     },
     {
       "num": 37,
       "he": "וְהַקְּטֹ֙רֶת֙ אֲשֶׁ֣ר תַּעֲשֶׂ֔ה בְּמַ֨תְכֻּנְתָּ֔הּ לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם קֹ֛דֶשׁ תִּהְיֶ֥ה לְךָ֖ לַיהֹוָֽה׃",
-      "es": ""
+      "es": "Y el incienso que harás, conforme a su composición no haréis para vosotros; santo será para ti, para el Eterno."
     },
     {
       "num": 38,
       "he": "אִ֛ישׁ אֲשֶׁר־יַעֲשֶׂ֥ה כָמ֖וֹהָ לְהָרִ֣יחַ בָּ֑הּ וְנִכְרַ֖ת מֵעַמָּֽיו׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "El hombre que haga semejante a él para olerlo, será cortado de sus pueblos»."
     }
   ]
 }
