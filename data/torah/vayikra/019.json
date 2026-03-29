@@ -8,72 +8,75 @@
     {
       "num": 1,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 2,
       "he": "דַּבֵּ֞ר אֶל־כׇּל־עֲדַ֧ת בְּנֵי־יִשְׂרָאֵ֛ל וְאָמַרְתָּ֥ אֲלֵהֶ֖ם קְדֹשִׁ֣ים תִּהְי֑וּ כִּ֣י קָד֔וֹשׁ אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
-      "es": ""
+      "es": "«Habla a toda la congregación de los hijos de Yisrael y diles: Santos seréis, porque santo soy Yo, el Eterno, vuestro Elohim."
     },
     {
       "num": 3,
       "he": "אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת־שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
-      "es": ""
+      "es": "Cada uno a su madre y a su padre temeréis, y mis shabatot guardaréis; Yo soy el Eterno, vuestro Elohim.",
+      "nota": "shabatot — Plural hebreo de shabat; designa los días de reposo sabático."
     },
     {
       "num": 4,
       "he": "אַל־תִּפְנוּ֙ אֶל־הָ֣אֱלִילִ֔ם וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
-      "es": ""
+      "es": "No os volváis hacia los ídolos, y dioses de fundición no os haréis; Yo soy el Eterno, vuestro Elohim."
     },
     {
       "num": 5,
       "he": "וְכִ֧י תִזְבְּח֛וּ זֶ֥בַח שְׁלָמִ֖ים לַיהֹוָ֑ה לִֽרְצֹנְכֶ֖ם תִּזְבָּחֻֽהוּ׃",
-      "es": ""
+      "es": "Y cuando degolléis sacrificio de shelamim al Eterno, para vuestro beneplácito lo degollaréis.",
+      "nota": "shelamim — Término hebreo (שְׁלָמִים) que designa los sacrificios de paz o de plenitud, derivado de la raíz שׁלם (shalem, «completo, íntegro»). Se mantiene en hebreo por ser término técnico ritual."
     },
     {
       "num": 6,
       "he": "בְּי֧וֹם זִבְחֲכֶ֛ם יֵאָכֵ֖ל וּמִֽמׇּחֳרָ֑ת וְהַנּוֹתָר֙ עַד־י֣וֹם הַשְּׁלִישִׁ֔י בָּאֵ֖שׁ יִשָּׂרֵֽף׃",
-      "es": ""
+      "es": "En el día de vuestro sacrificio será comido y al día siguiente; y lo que quede hasta el día tercero, en el fuego será quemado."
     },
     {
       "num": 7,
       "he": "וְאִ֛ם הֵאָכֹ֥ל יֵאָכֵ֖ל בַּיּ֣וֹם הַשְּׁלִישִׁ֑י פִּגּ֥וּל ה֖וּא לֹ֥א יֵרָצֶֽה׃",
-      "es": ""
+      "es": "Y si de comer se come al día tercero, pigul es; no será aceptado.",
+      "nota": "pigul — Término hebreo (פִּגּוּל) que designa un sacrificio descalificado por intención de consumirlo fuera del tiempo prescrito; se mantiene en hebreo por ser término técnico ritual sin equivalente semántico exacto en español."
     },
     {
       "num": 8,
       "he": "וְאֹֽכְלָיו֙ עֲוֺנ֣וֹ יִשָּׂ֔א כִּֽי־אֶת־קֹ֥דֶשׁ יְהֹוָ֖ה חִלֵּ֑ל וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃",
-      "es": ""
+      "es": "Y el que lo coma, su iniquidad cargará, porque lo santo del Eterno profanó; y será cortada esa alma de sus pueblos."
     },
     {
       "num": 9,
       "he": "וּֽבְקֻצְרְכֶם֙ אֶת־קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֥א תְלַקֵּֽט׃",
-      "es": ""
+      "es": "Y cuando seguéis la siega de vuestra tierra, no acabarás de segar el rincón de tu campo, y el espigueo de tu siega no recogerás."
     },
     {
       "num": 10,
       "he": "וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
-      "es": ""
+      "es": "Y tu viña no rebuscarás, y el grano caído de tu viña no recogerás; para el pobre y para el forastero los dejarás; Yo soy el Eterno, vuestro Elohim."
     },
     {
       "num": 11,
       "he": "לֹ֖א תִּגְנֹ֑בוּ וְלֹא־תְכַחֲשׁ֥וּ וְלֹֽא־תְשַׁקְּר֖וּ אִ֥ישׁ בַּעֲמִיתֽוֹ׃",
-      "es": ""
+      "es": "No robaréis, y no negaréis, y no mentiréis cada uno a su prójimo."
     },
     {
       "num": 12,
       "he": "וְלֹֽא־תִשָּׁבְע֥וּ בִשְׁמִ֖י לַשָּׁ֑קֶר וְחִלַּלְתָּ֛ אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y no juraréis por mi nombre en falso, y profanarás el nombre de tu Elohim; Yo soy el Eterno."
     },
     {
       "num": 13,
       "he": "לֹֽא־תַעֲשֹׁ֥ק אֶת־רֵֽעֲךָ֖ וְלֹ֣א תִגְזֹ֑ל לֹֽא־תָלִ֞ין פְּעֻלַּ֥ת שָׂכִ֛יר אִתְּךָ֖ עַד־בֹּֽקֶר׃",
-      "es": ""
+      "es": "No oprimirás a tu prójimo y no robarás; no retendrás el salario del jornalero contigo hasta la mañana."
     },
     {
       "num": 14,
       "he": "לֹא־תְקַלֵּ֣ל חֵרֵ֔שׁ וְלִפְנֵ֣י עִוֵּ֔ר לֹ֥א תִתֵּ֖ן מִכְשֹׁ֑ל וְיָרֵ֥אתָ מֵּאֱלֹהֶ֖יךָ אֲנִ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "No maldecirás al sordo, y delante del ciego no pondrás tropiezo; y temerás de tu Elohim; Yo soy el Eterno.»"
     },
     {
       "num": 15,
