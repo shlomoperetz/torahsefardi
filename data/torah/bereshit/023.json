@@ -8,82 +8,85 @@
     {
       "num": 1,
       "he": "וַיִּהְיוּ֙ חַיֵּ֣י שָׂרָ֔ה מֵאָ֥ה שָׁנָ֛ה וְעֶשְׂרִ֥ים שָׁנָ֖ה וְשֶׁ֣בַע שָׁנִ֑ים שְׁנֵ֖י חַיֵּ֥י שָׂרָֽה׃",
-      "es": ""
+      "es": "Y fueron los años de vida de Sarah cien años y veinte años y siete años; los años de vida de Sarah.",
+      "nota": "שְׁנֵי חַיֵּי שָׂרָה — La repetición «los años de vida de Sarah» al final del versículo reproduce fielmente la estructura enfática del hebreo."
     },
     {
       "num": 2,
       "he": "וַתָּ֣מׇת שָׂרָ֗ה בְּקִרְיַ֥ת אַרְבַּ֛ע הִ֥וא חֶבְר֖וֹן בְּאֶ֣רֶץ כְּנָ֑עַן וַיָּבֹא֙ אַבְרָהָ֔ם לִסְפֹּ֥ד לְשָׂרָ֖ה וְלִבְ<small>כֹּ</small>תָֽהּ׃",
-      "es": ""
+      "es": "Y murió Sarah en Quiriat Arbá, que es Jevrón, en la tierra de Kenáan; y vino Avraham a lamentar a Sarah y a llorarla."
     },
     {
       "num": 3,
       "he": "וַיָּ֙קׇם֙ אַבְרָהָ֔ם מֵעַ֖ל פְּנֵ֣י מֵת֑וֹ וַיְדַבֵּ֥ר אֶל־בְּנֵי־חֵ֖ת לֵאמֹֽר׃",
-      "es": ""
+      "es": "Y se levantó Avraham de ante su muerta, y habló a los hijos de Jet, diciendo:"
     },
     {
       "num": 4,
       "he": "גֵּר־וְתוֹשָׁ֥ב אָנֹכִ֖י עִמָּכֶ֑ם תְּנ֨וּ לִ֤י אֲחֻזַּת־קֶ֙בֶר֙ עִמָּכֶ֔ם וְאֶקְבְּרָ֥ה מֵתִ֖י מִלְּפָנָֽי׃",
-      "es": ""
+      "es": "«Forastero y residente soy yo entre vosotros; dadme posesión de sepultura entre vosotros, y sepultaré a mi muerta de delante de mí»."
     },
     {
       "num": 5,
       "he": "וַיַּעֲנ֧וּ בְנֵי־חֵ֛ת אֶת־אַבְרָהָ֖ם לֵאמֹ֥ר לֽוֹ׃",
-      "es": ""
+      "es": "Y respondieron los hijos de Jet a Avraham, diciéndole:"
     },
     {
       "num": 6,
       "he": "שְׁמָעֵ֣נוּ&thinsp;<b>׀</b> אֲדֹנִ֗י נְשִׂ֨יא אֱלֹהִ֤ים אַתָּה֙ בְּתוֹכֵ֔נוּ בְּמִבְחַ֣ר קְבָרֵ֔ינוּ קְבֹ֖ר אֶת־מֵתֶ֑ךָ אִ֣ישׁ מִמֶּ֔נּוּ אֶת־קִבְר֛וֹ לֹֽא־יִכְלֶ֥ה מִמְּךָ֖ מִקְּבֹ֥ר מֵתֶֽךָ׃",
-      "es": ""
+      "es": "«Escúchanos, señor nuestro; príncipe de Elohim eres tú en medio de nosotros. En lo mejor de nuestras sepulturas sepulta a tu muerta; ninguno de nosotros te negará su sepultura para sepultar a tu muerta».",
+      "nota": "נְשִׂיא אֱלֹהִים — «Príncipe de Elohim»: expresión que denota un rango de grandeza excepcional; Elohim se mantiene conforme a las normas establecidas."
     },
     {
       "num": 7,
       "he": "וַיָּ֧קׇם אַבְרָהָ֛ם וַיִּשְׁתַּ֥חוּ לְעַם־הָאָ֖רֶץ לִבְנֵי־חֵֽת׃",
-      "es": ""
+      "es": "Y se levantó Avraham y se inclinó ante el pueblo de la tierra, ante los hijos de Jet."
     },
     {
       "num": 8,
       "he": "וַיְדַבֵּ֥ר אִתָּ֖ם לֵאמֹ֑ר אִם־יֵ֣שׁ אֶֽת־נַפְשְׁכֶ֗ם לִקְבֹּ֤ר אֶת־מֵתִי֙ מִלְּפָנַ֔י שְׁמָע֕וּנִי וּפִגְעוּ־לִ֖י בְּעֶפְר֥וֹן בֶּן־צֹֽחַר׃",
-      "es": ""
+      "es": "Y habló con ellos, diciendo: «Si está en vuestra voluntad que yo sepulte a mi muerta de delante de mí, escuchadme e interceded por mí ante Efrón hijo de Tsójar,"
     },
     {
       "num": 9,
       "he": "וְיִתֶּן־לִ֗י אֶת־מְעָרַ֤ת הַמַּכְפֵּלָה֙ אֲשֶׁר־ל֔וֹ אֲשֶׁ֖ר בִּקְצֵ֣ה שָׂדֵ֑הוּ בְּכֶ֨סֶף מָלֵ֜א יִתְּנֶ֥נָּה לִּ֛י בְּתוֹכְכֶ֖ם לַאֲחֻזַּת־קָֽבֶר׃",
-      "es": ""
+      "es": "y que me dé la cueva de Majpelá que es suya, que está al extremo de su campo; por plata plena que me la dé en medio de vosotros, como posesión de sepultura».",
+      "nota": "Majpelá — Nombre propio de la cueva; del hebreo מַכְפֵּלָה, relacionado con la raíz כפל (doblar, duplicar), posiblemente aludiendo a una cueva doble o a su estructura."
     },
     {
       "num": 10,
       "he": "וְעֶפְר֥וֹן יֹשֵׁ֖ב בְּת֣וֹךְ בְּנֵי־חֵ֑ת וַיַּ֩עַן֩ עֶפְר֨וֹן הַחִתִּ֤י אֶת־אַבְרָהָם֙ בְּאׇזְנֵ֣י בְנֵי־חֵ֔ת לְכֹ֛ל בָּאֵ֥י שַֽׁעַר־עִיר֖וֹ לֵאמֹֽר׃",
-      "es": ""
+      "es": "Y Efrón estaba sentado en medio de los hijos de Jet; y respondió Efrón el hitita a Avraham a oídos de los hijos de Jet, de todos los que entraban por la puerta de su ciudad, diciendo:"
     },
     {
       "num": 11,
       "he": "לֹֽא־אֲדֹנִ֣י שְׁמָעֵ֔נִי הַשָּׂדֶה֙ נָתַ֣תִּי לָ֔ךְ וְהַמְּעָרָ֥ה אֲשֶׁר־בּ֖וֹ לְךָ֣ נְתַתִּ֑יהָ לְעֵינֵ֧י בְנֵי־עַמִּ֛י נְתַתִּ֥יהָ לָּ֖ךְ קְבֹ֥ר מֵתֶֽךָ׃",
-      "es": ""
+      "es": "«No, señor mío, escúchame: el campo te lo he dado, y la cueva que hay en él, a ti te la he dado; ante los ojos de los hijos de mi pueblo te la he dado. Sepulta a tu muerta»."
     },
     {
       "num": 12,
       "he": "וַיִּשְׁתַּ֙חוּ֙ אַבְרָהָ֔ם לִפְנֵ֖י עַ֥ם הָאָֽרֶץ׃",
-      "es": ""
+      "es": "Y se inclinó Avraham ante el pueblo de la tierra."
     },
     {
       "num": 13,
       "he": "וַיְדַבֵּ֨ר אֶל־עֶפְר֜וֹן בְּאׇזְנֵ֤י עַם־הָאָ֙רֶץ֙ לֵאמֹ֔ר אַ֛ךְ אִם־אַתָּ֥ה ל֖וּ שְׁמָעֵ֑נִי נָתַ֜תִּי כֶּ֤סֶף הַשָּׂדֶה֙ קַ֣ח מִמֶּ֔נִּי וְאֶקְבְּרָ֥ה אֶת־מֵתִ֖י שָֽׁמָּה׃",
-      "es": ""
+      "es": "Y habló a Efrón a oídos del pueblo de la tierra, diciendo: «Pero si tú, por favor, escúchame: he dado la plata del campo; tómala de mí, y sepultaré a mi muerta allí»."
     },
     {
       "num": 14,
       "he": "וַיַּ֧עַן עֶפְר֛וֹן אֶת־אַבְרָהָ֖ם לֵאמֹ֥ר לֽוֹ׃",
-      "es": ""
+      "es": "Y respondió Efrón a Avraham, diciéndole:"
     },
     {
       "num": 15,
       "he": "אֲדֹנִ֣י שְׁמָעֵ֔נִי אֶ֩רֶץ֩ אַרְבַּ֨ע מֵאֹ֧ת שֶֽׁקֶל־כֶּ֛סֶף בֵּינִ֥י וּבֵֽינְךָ֖ מַה־הִ֑וא וְאֶת־מֵתְךָ֖ קְבֹֽר׃",
-      "es": ""
+      "es": "«Señor mío, escúchame: una tierra de cuatrocientos siclos de plata, entre tú y yo, ¿qué es eso? Sepulta a tu muerta»."
     },
     {
       "num": 16,
       "he": "וַיִּשְׁמַ֣ע אַבְרָהָם֮ אֶל־עֶפְרוֹן֒ וַיִּשְׁקֹ֤ל אַבְרָהָם֙ לְעֶפְרֹ֔ן אֶת־הַכֶּ֕סֶף אֲשֶׁ֥ר דִּבֶּ֖ר בְּאׇזְנֵ֣י בְנֵי־חֵ֑ת אַרְבַּ֤ע מֵאוֹת֙ שֶׁ֣קֶל כֶּ֔סֶף עֹבֵ֖ר לַסֹּחֵֽר׃",
-      "es": ""
+      "es": "Y escuchó Avraham a Efrón, y pesó Avraham para Efrón la plata que había dicho a oídos de los hijos de Jet: cuatrocientos siclos de plata, corriente entre mercaderes."
     },
     {
       "num": 17,
