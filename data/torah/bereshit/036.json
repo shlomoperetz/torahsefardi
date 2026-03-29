@@ -103,122 +103,125 @@
     {
       "num": 20,
       "he": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֥וֹן וַעֲנָֽה׃",
-      "es": ""
+      "es": "Estos son los hijos de Seír el jorí, habitantes de la tierra: Lotán y Shoval y Tsivón y Aná.",
+      "nota": "jorí — Término hebreo (חֹרִי) que designa a los horeos, pueblo troglodita o habitantes de cuevas que residía en la región de Seír antes de los edomitas."
     },
     {
       "num": 21,
       "he": "וְדִשׁ֥וֹן וְאֵ֖צֶר וְדִישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י בְּנֵ֥י שֵׂעִ֖יר בְּאֶ֥רֶץ אֱדֽוֹם׃",
-      "es": ""
+      "es": "Y Dishón y Étser y Dishán; estos son los jefes del jorí, hijos de Seír, en la tierra de Edom."
     },
     {
       "num": 22,
       "he": "וַיִּהְי֥וּ בְנֵי־לוֹטָ֖ן חֹרִ֣י וְהֵימָ֑ם וַאֲח֥וֹת לוֹטָ֖ן תִּמְנָֽע׃",
-      "es": ""
+      "es": "Y fueron los hijos de Lotán: Jorí y Hemam; y la hermana de Lotán era Timná."
     },
     {
       "num": 23,
       "he": "וְאֵ֙לֶּה֙ בְּנֵ֣י שׁוֹבָ֔ל עַלְוָ֥ן וּמָנַ֖חַת וְעֵיבָ֑ל שְׁפ֖וֹ וְאוֹנָֽם׃",
-      "es": ""
+      "es": "Y estos son los hijos de Shoval: Alván y Manájat y Eval, Shefó y Onam."
     },
     {
       "num": 24,
       "he": "וְאֵ֥לֶּה בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם֙ בַּמִּדְבָּ֔ר בִּרְעֹת֥וֹ אֶת־הַחֲמֹרִ֖ים לְצִבְע֥וֹן אָבִֽיו׃",
-      "es": ""
+      "es": "Y estos son los hijos de Tsivón: Ayá y Aná; este es el Aná que halló los yemim en el desierto cuando apacentaba los asnos de Tsivón, su padre.",
+      "nota": "yemim — Término hebreo (יֵמִם) de significado incierto y debatido; se ha interpretado como aguas termales, mulas u otras criaturas. Se mantiene en hebreo por falta de correspondencia unívoca en español."
     },
     {
       "num": 25,
       "he": "וְאֵ֥לֶּה בְנֵֽי־עֲנָ֖ה דִּשֹׁ֑ן וְאׇהֳלִיבָמָ֖ה בַּת־עֲנָֽה׃",
-      "es": ""
+      "es": "Y estos son los hijos de Aná: Dishón y Oholivamá hija de Aná."
     },
     {
       "num": 26,
       "he": "וְאֵ֖לֶּה בְּנֵ֣י דִישָׁ֑ן חֶמְדָּ֥ן וְאֶשְׁבָּ֖ן וְיִתְרָ֥ן וּכְרָֽן׃",
-      "es": ""
+      "es": "Y estos son los hijos de Dishán: Jemdán y Eshbán y Yitrán y Kerán."
     },
     {
       "num": 27,
       "he": "אֵ֖לֶּה בְּנֵי־אֵ֑צֶר בִּלְהָ֥ן וְזַעֲוָ֖ן וַעֲקָֽן׃",
-      "es": ""
+      "es": "Estos son los hijos de Étser: Bilhán y Zaaván y Akán."
     },
     {
       "num": 28,
       "he": "אֵ֥לֶּה בְנֵֽי־דִישָׁ֖ן ע֥וּץ וַאֲרָֽן׃",
-      "es": ""
+      "es": "Estos son los hijos de Dishán: Uts y Arán."
     },
     {
       "num": 29,
       "he": "אֵ֖לֶּה אַלּוּפֵ֣י הַחֹרִ֑י אַלּ֤וּף לוֹטָן֙ אַלּ֣וּף שׁוֹבָ֔ל אַלּ֥וּף צִבְע֖וֹן אַלּ֥וּף עֲנָֽה׃",
-      "es": ""
+      "es": "Estos son los jefes del jorí: jefe Lotán, jefe Shoval, jefe Tsivón, jefe Aná."
     },
     {
       "num": 30,
       "he": "אַלּ֥וּף דִּשֹׁ֛ן אַלּ֥וּף אֵ֖צֶר אַלּ֣וּף דִּישָׁ֑ן אֵ֣לֶּה אַלּוּפֵ֧י הַחֹרִ֛י לְאַלֻּפֵיהֶ֖ם בְּאֶ֥רֶץ שֵׂעִֽיר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Jefe Dishón, jefe Étser, jefe Dishán; estos son los jefes del jorí, según sus jefaturas, en la tierra de Seír."
     },
     {
       "num": 31,
       "he": "וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל׃",
-      "es": ""
+      "es": "Y estos son los reyes que reinaron en la tierra de Edom, antes de que reinara rey alguno sobre los hijos de Yisrael."
     },
     {
       "num": 32,
       "he": "וַיִּמְלֹ֣ךְ בֶּאֱד֔וֹם בֶּ֖לַע בֶּן־בְּע֑וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה׃",
-      "es": ""
+      "es": "Y reinó en Edom Béla hijo de Beor, y el nombre de su ciudad era Dinhavá."
     },
     {
       "num": 33,
       "he": "וַיָּ֖מׇת בָּ֑לַע וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו יוֹבָ֥ב בֶּן־זֶ֖רַח מִבׇּצְרָֽה׃",
-      "es": ""
+      "es": "Y murió Béla, y reinó en su lugar Yovav hijo de Zéraj, de Botsrá."
     },
     {
       "num": 34,
       "he": "וַיָּ֖מׇת יוֹבָ֑ב וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו חֻשָׁ֖ם מֵאֶ֥רֶץ הַתֵּימָנִֽי׃",
-      "es": ""
+      "es": "Y murió Yovav, y reinó en su lugar Jushám, de la tierra del teimaní.",
+      "nota": "teimaní — Gentilicio hebreo (הַתֵּימָנִי) que designa al habitante de Temán, región del sur de Edom."
     },
     {
       "num": 35,
       "he": "וַיָּ֖מׇת חֻשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־בְּדַ֗ד הַמַּכֶּ֤ה אֶת־מִדְיָן֙ בִּשְׂדֵ֣ה מוֹאָ֔ב וְשֵׁ֥ם עִיר֖וֹ עֲוִֽית׃",
-      "es": ""
+      "es": "Y murió Jushám, y reinó en su lugar Hadad hijo de Bedad, el que derrotó a Midián en el campo de Moav, y el nombre de su ciudad era Avit."
     },
     {
       "num": 36,
       "he": "וַיָּ֖מׇת הֲדָ֑ד וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שַׂמְלָ֖ה מִמַּשְׂרֵקָֽה׃",
-      "es": ""
+      "es": "Y murió Hadad, y reinó en su lugar Samlá, de Masreká."
     },
     {
       "num": 37,
       "he": "וַיָּ֖מׇת שַׂמְלָ֑ה וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו שָׁא֖וּל מֵרְחֹב֥וֹת הַנָּהָֽר׃",
-      "es": ""
+      "es": "Y murió Samlá, y reinó en su lugar Shaúl, de Rejovot del río."
     },
     {
       "num": 38,
       "he": "וַיָּ֖מׇת שָׁא֑וּל וַיִּמְלֹ֣ךְ תַּחְתָּ֔יו בַּ֥עַל חָנָ֖ן בֶּן־עַכְבּֽוֹר׃",
-      "es": ""
+      "es": "Y murió Shaúl, y reinó en su lugar Báal Janán hijo de Ajbor."
     },
     {
       "num": 39,
       "he": "וַיָּ֘מׇת֮ בַּ֣עַל חָנָ֣ן בֶּן־עַכְבּוֹר֒ וַיִּמְלֹ֤ךְ תַּחְתָּיו֙ הֲדַ֔ר וְשֵׁ֥ם עִיר֖וֹ פָּ֑עוּ וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵֽיטַבְאֵל֙ בַּת־מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב׃",
-      "es": ""
+      "es": "Y murió Báal Janán hijo de Ajbor, y reinó en su lugar Hadar, y el nombre de su ciudad era Paú, y el nombre de su esposa era Mehetavel hija de Matred, hija de Me Zahav."
     },
     {
       "num": 40,
       "he": "וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙ לְמִשְׁפְּחֹתָ֔ם לִמְקֹמֹתָ֖ם בִּשְׁמֹתָ֑ם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת׃",
-      "es": ""
+      "es": "Y estos son los nombres de los jefes de Esav, según sus familias, según sus lugares, por sus nombres: jefe Timná, jefe Alvá, jefe Yetet."
     },
     {
       "num": 41,
       "he": "אַלּ֧וּף אׇהֳלִיבָמָ֛ה אַלּ֥וּף אֵלָ֖ה אַלּ֥וּף פִּינֹֽן׃",
-      "es": ""
+      "es": "Jefe Oholivamá, jefe Elá, jefe Pinón."
     },
     {
       "num": 42,
       "he": "אַלּ֥וּף קְנַ֛ז אַלּ֥וּף תֵּימָ֖ן אַלּ֥וּף מִבְצָֽר׃",
-      "es": ""
+      "es": "Jefe Kenaz, jefe Temán, jefe Mivtsar."
     },
     {
       "num": 43,
       "he": "אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה&thinsp;<b>׀</b> אַלּוּפֵ֣י אֱד֗וֹם לְמֹֽשְׁבֹתָם֙ בְּאֶ֣רֶץ אֲחֻזָּתָ֔ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֽוֹם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Jefe Magdiel, jefe Iram; estos son los jefes de Edom, según sus moradas, en la tierra de su posesión; este es Esav, padre de Edom."
     }
   ]
 }
