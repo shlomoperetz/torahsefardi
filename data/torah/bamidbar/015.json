@@ -88,52 +88,54 @@
     {
       "num": 17,
       "he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
-      "es": ""
+      "es": "Y habló el Eterno a Moshé, diciendo:"
     },
     {
       "num": 18,
       "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם בְּבֹֽאֲכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֛י מֵבִ֥יא אֶתְכֶ֖ם שָֽׁמָּה׃",
-      "es": ""
+      "es": "«Habla a los hijos de Yisrael y diles: cuando lleguéis a la tierra a la cual yo os llevo,"
     },
     {
       "num": 19,
       "he": "וְהָיָ֕ה בַּאֲכׇלְכֶ֖ם מִלֶּ֣חֶם הָאָ֑רֶץ תָּרִ֥ימוּ תְרוּמָ֖ה לַיהֹוָֽה׃",
-      "es": ""
+      "es": "y sea que al comer del pan de la tierra, apartaréis terumá para el Eterno.",
+      "nota": "terumá — Ofrenda elevada o contribución separada; término hebreo que designa una porción apartada voluntariamente para un fin sagrado. Se mantiene en hebreo por su carácter técnico ritual."
     },
     {
       "num": 20,
       "he": "רֵאשִׁית֙ עֲרִסֹ֣תֵכֶ֔ם חַלָּ֖ה תָּרִ֣ימוּ תְרוּמָ֑ה כִּתְרוּמַ֣ת גֹּ֔רֶן כֵּ֖ן תָּרִ֥ימוּ אֹתָֽהּ׃",
-      "es": ""
+      "es": "De las primicias de vuestras masas, una jalá apartaréis como terumá; como la terumá de la era, así la apartaréis.",
+      "nota": "terumá — Véase nota al versículo 3."
     },
     {
       "num": 21,
       "he": "מֵרֵאשִׁית֙ עֲרִסֹ֣תֵיכֶ֔ם תִּתְּנ֥וּ לַיהֹוָ֖ה תְּרוּמָ֑ה לְדֹרֹ֖תֵיכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "De las primicias de vuestras masas daréis al Eterno terumá, por vuestras generaciones."
     },
     {
       "num": 22,
       "he": "וְכִ֣י תִשְׁגּ֔וּ וְלֹ֣א תַעֲשׂ֔וּ אֵ֥ת כׇּל־הַמִּצְוֺ֖ת הָאֵ֑לֶּה אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה אֶל־מֹשֶֽׁה׃",
-      "es": ""
+      "es": "Y cuando erréis y no cumpláis todos estos mandamientos que habló el Eterno a Moshé,"
     },
     {
       "num": 23,
       "he": "אֵת֩ כׇּל־אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֲלֵיכֶ֖ם בְּיַד־מֹשֶׁ֑ה מִן־הַיּ֞וֹם אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה וָהָ֖לְאָה לְדֹרֹתֵיכֶֽם׃",
-      "es": ""
+      "es": "todo lo que ordenó el Eterno a vosotros por mano de Moshé, desde el día que ordenó el Eterno y en adelante, por vuestras generaciones,"
     },
     {
       "num": 24,
       "he": "וְהָיָ֗ה אִ֣ם מֵעֵינֵ֣י הָעֵדָה֮ נֶעֶשְׂתָ֣ה לִשְׁגָגָה֒ וְעָשׂ֣וּ כׇל־הָעֵדָ֡ה פַּ֣ר בֶּן־בָּקָר֩ אֶחָ֨ד לְעֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה וּמִנְחָת֥וֹ וְנִסְכּ֖וֹ כַּמִּשְׁפָּ֑ט וּשְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽת׃",
-      "es": ""
+      "es": "y sea que si de los ojos de la congregación fue hecho por inadvertencia, hará toda la congregación un novillo hijo de vacada, uno, como holocausto de olor grato para el Eterno, y su ofrenda vegetal y su libación conforme a la norma, y un macho cabrío uno como ofrenda de pecado."
     },
     {
       "num": 25,
       "he": "וְכִפֶּ֣ר הַכֹּהֵ֗ן עַֽל־כׇּל־עֲדַ֛ת בְּנֵ֥י יִשְׂרָאֵ֖ל וְנִסְלַ֣ח לָהֶ֑ם כִּֽי־שְׁגָגָ֣ה הִ֔וא וְהֵם֩ הֵבִ֨יאוּ אֶת־קׇרְבָּנָ֜ם אִשֶּׁ֣ה לַֽיהֹוָ֗ה וְחַטָּאתָ֛ם לִפְנֵ֥י יְהֹוָ֖ה עַל־שִׁגְגָתָֽם׃",
-      "es": ""
+      "es": "Y expiará el sacerdote sobre toda la congregación de los hijos de Yisrael, y les será perdonado, pues inadvertencia fue, y ellos trajeron su ofrenda, ofrenda ígnea para el Eterno, y su ofrenda de pecado ante el Eterno, por su inadvertencia."
     },
     {
       "num": 26,
       "he": "וְנִסְלַ֗ח לְכׇל־עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְלַגֵּ֖ר הַגָּ֣ר בְּתוֹכָ֑ם כִּ֥י לְכׇל־הָעָ֖ם בִּשְׁגָגָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y será perdonado a toda la congregación de los hijos de Yisrael y al forastero que mora en medio de ellos, pues a todo el pueblo fue por inadvertencia»."
     },
     {
       "num": 27,
