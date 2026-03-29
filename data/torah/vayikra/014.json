@@ -72,42 +72,43 @@
     {
       "num": 13,
       "he": "וְשָׁחַ֣ט אֶת־הַכֶּ֗בֶשׂ בִּ֠מְק֠וֹם אֲשֶׁ֨ר יִשְׁחַ֧ט אֶת־הַֽחַטָּ֛את וְאֶת־הָעֹלָ֖ה בִּמְק֣וֹם הַקֹּ֑דֶשׁ כִּ֡י כַּ֠חַטָּ֠את הָאָשָׁ֥ם הוּא֙ לַכֹּהֵ֔ן קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הֽוּא׃",
-      "es": ""
+      "es": "Y degollará el cordero en el lugar donde se degüella la ofrenda por el pecado y la ofrenda de ascensión, en el lugar santo; pues como la ofrenda por el pecado, la ofrenda de culpa es del sacerdote, santidad de santidades es."
     },
     {
       "num": 14,
       "he": "וְלָקַ֣ח הַכֹּהֵן֮ מִדַּ֣ם הָאָשָׁם֒ וְנָתַן֙ הַכֹּהֵ֔ן עַל־תְּנ֛וּךְ אֹ֥זֶן הַמִּטַּהֵ֖ר הַיְמָנִ֑ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
-      "es": ""
+      "es": "Y tomará el sacerdote de la sangre de la ofrenda de culpa, y pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho."
     },
     {
       "num": 15,
       "he": "וְלָקַ֥ח הַכֹּהֵ֖ן מִלֹּ֣ג הַשָּׁ֑מֶן וְיָצַ֛ק עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
-      "es": ""
+      "es": "Y tomará el sacerdote del log de aceite, y verterá sobre la palma izquierda del sacerdote.",
+      "nota": "log — Unidad de medida de líquidos en el sistema hebreo, equivalente aproximadamente a medio litro; se mantiene en hebreo por ser término técnico sin equivalente exacto en español."
     },
     {
       "num": 16,
       "he": "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית וְהִזָּ֨ה מִן־הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y mojará el sacerdote su dedo derecho del aceite que está sobre su palma izquierda, y rociará del aceite con su dedo siete veces ante el Eterno."
     },
     {
       "num": 17,
       "he": "וּמִיֶּ֨תֶר הַשֶּׁ֜מֶן אֲשֶׁ֣ר עַל־כַּפּ֗וֹ יִתֵּ֤ן הַכֹּהֵן֙ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית עַ֖ל דַּ֥ם הָאָשָֽׁם׃",
-      "es": ""
+      "es": "Y del resto del aceite que está sobre su palma, pondrá el sacerdote sobre el lóbulo de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho, sobre la sangre de la ofrenda de culpa."
     },
     {
       "num": 18,
       "he": "וְהַנּוֹתָ֗ר בַּשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y lo que quede del aceite que está sobre la palma del sacerdote, lo pondrá sobre la cabeza del que se purifica; y expiará por él el sacerdote ante el Eterno."
     },
     {
       "num": 19,
       "he": "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־הַ֣חַטָּ֔את וְכִפֶּ֕ר עַל־הַמִּטַּהֵ֖ר מִטֻּמְאָת֑וֹ וְאַחַ֖ר יִשְׁחַ֥ט אֶת־הָעֹלָֽה׃",
-      "es": ""
+      "es": "Y hará el sacerdote la ofrenda por el pecado, y expiará por el que se purifica de su impureza; y después degollará la ofrenda de ascensión."
     },
     {
       "num": 20,
       "he": "וְהֶעֱלָ֧ה הַכֹּהֵ֛ן אֶת־הָעֹלָ֥ה וְאֶת־הַמִּנְחָ֖ה הַמִּזְבֵּ֑חָה וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן וְטָהֵֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y hará subir el sacerdote la ofrenda de ascensión y la ofrenda vegetal sobre el altar; y expiará por él el sacerdote, y quedará puro."
     },
     {
       "num": 21,
