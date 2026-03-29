@@ -8,52 +8,53 @@
     {
       "num": 1,
       "he": "אֵ֠לֶּה הַֽחֻקִּ֣ים וְהַמִּשְׁפָּטִים֮ אֲשֶׁ֣ר תִּשְׁמְר֣וּן לַעֲשׂוֹת֒ בָּאָ֕רֶץ אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֜ה אֱלֹהֵ֧י אֲבֹתֶ֛יךָ לְךָ֖ לְרִשְׁתָּ֑הּ כׇּ֨ל־הַיָּמִ֔ים אֲשֶׁר־אַתֶּ֥ם חַיִּ֖ים עַל־הָאֲדָמָֽה׃",
-      "es": ""
+      "es": "Estos son los estatutos y los juicios que guardaréis para cumplir en la tierra que dio el Eterno, Elohim de tus padres, a ti para poseerla, todos los días que vosotros vivís sobre la tierra."
     },
     {
       "num": 2,
       "he": "אַבֵּ֣ד תְּ֠אַבְּד֠וּן אֶֽת־כׇּל־הַמְּקֹמ֞וֹת אֲשֶׁ֧ר עָֽבְדוּ־שָׁ֣ם הַגּוֹיִ֗ם אֲשֶׁ֥ר אַתֶּ֛ם יֹרְשִׁ֥ים אֹתָ֖ם אֶת־אֱלֹהֵיהֶ֑ם עַל־הֶהָרִ֤ים הָֽרָמִים֙ וְעַל־הַגְּבָע֔וֹת וְתַ֖חַת כׇּל־עֵ֥ץ רַעֲנָֽן׃",
-      "es": ""
+      "es": "Destruir destruiréis todos los lugares donde sirvieron allí las naciones, a las que vosotros desposeeréis, a sus dioses, sobre los montes altos y sobre las colinas y debajo de todo árbol frondoso."
     },
     {
       "num": 3,
       "he": "וְנִתַּצְתֶּ֣ם אֶת־מִזְבְּחֹתָ֗ם וְשִׁבַּרְתֶּם֙ אֶת־מַצֵּ֣בֹתָ֔ם וַאֲשֵֽׁרֵיהֶם֙ תִּשְׂרְפ֣וּן בָּאֵ֔שׁ וּפְסִילֵ֥י אֱלֹֽהֵיהֶ֖ם תְּגַדֵּע֑וּן וְאִבַּדְתֶּ֣ם אֶת־שְׁמָ֔ם מִן־הַמָּק֖וֹם הַהֽוּא׃",
-      "es": ""
+      "es": "Y derribaréis sus altares, y quebraréis sus estelas, y sus asherás quemaréis en el fuego, y las imágenes talladas de sus dioses talaréis, y destruiréis su nombre de aquel lugar."
     },
     {
       "num": 4,
       "he": "לֹֽא־תַעֲשׂ֣וּן כֵּ֔ן לַיהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
-      "es": ""
+      "es": "No haréis así al Eterno vuestro Elohim."
     },
     {
       "num": 5,
       "he": "כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ מִכׇּל־שִׁבְטֵיכֶ֔ם לָשׂ֥וּם אֶת־שְׁמ֖וֹ שָׁ֑ם לְשִׁכְנ֥וֹ תִדְרְשׁ֖וּ וּבָ֥אתָ שָּֽׁמָּה׃",
-      "es": ""
+      "es": "Sino al lugar que escoja el Eterno vuestro Elohim de todas vuestras tribus, para poner su nombre allí, a su morada buscaréis y allá vendrás."
     },
     {
       "num": 6,
       "he": "וַהֲבֵאתֶ֣ם שָׁ֗מָּה עֹלֹֽתֵיכֶם֙ וְזִבְחֵיכֶ֔ם וְאֵת֙ מַעְשְׂרֹ֣תֵיכֶ֔ם וְאֵ֖ת תְּרוּמַ֣ת יֶדְכֶ֑ם וְנִדְרֵיכֶם֙ וְנִדְבֹ֣תֵיכֶ֔ם וּבְכֹרֹ֥ת בְּקַרְכֶ֖ם וְצֹאנְכֶֽם׃",
-      "es": ""
+      "es": "Y traeréis allá vuestros holocaustos y vuestros sacrificios, y vuestros diezmos, y la terumá de vuestra mano, y vuestros votos y vuestras ofrendas voluntarias, y los primogénitos de vuestro ganado vacuno y de vuestro rebaño.",
+      "nota": "TERUMÁ — Ofrenda elevada o contribución separada; término hebreo que designa una porción apartada voluntariamente para un fin sagrado. Se mantiene en hebreo por su carácter técnico ritual."
     },
     {
       "num": 7,
       "he": "וַאֲכַלְתֶּם־שָׁ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם וּשְׂמַחְתֶּ֗ם בְּכֹל֙ מִשְׁלַ֣ח יֶדְכֶ֔ם אַתֶּ֖ם וּבָתֵּיכֶ֑ם אֲשֶׁ֥ר בֵּֽרַכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
-      "es": ""
+      "es": "Y comeréis allí delante del Eterno vuestro Elohim, y os alegraréis en toda obra de vuestra mano, vosotros y vuestras casas, con lo que te bendijo el Eterno tu Elohim."
     },
     {
       "num": 8,
       "he": "לֹ֣א תַעֲשׂ֔וּן כְּ֠כֹ֠ל אֲשֶׁ֨ר אֲנַ֧חְנוּ עֹשִׂ֛ים פֹּ֖ה הַיּ֑וֹם אִ֖ישׁ כׇּל־הַיָּשָׁ֥ר בְּעֵינָֽיו׃",
-      "es": ""
+      "es": "No haréis como todo lo que nosotros hacemos aquí hoy, cada uno lo recto a sus ojos."
     },
     {
       "num": 9,
       "he": "כִּ֥י לֹא־בָאתֶ֖ם עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּחֲלָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
-      "es": ""
+      "es": "Porque no habéis llegado hasta ahora al reposo y a la heredad que el Eterno tu Elohim te da."
     },
     {
       "num": 10,
       "he": "וַעֲבַרְתֶּם֮ אֶת־הַיַּרְדֵּן֒ וִֽישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֵיכֶ֖ם מַנְחִ֣יל אֶתְכֶ֑ם וְהֵנִ֨יחַ לָכֶ֧ם מִכׇּל־אֹיְבֵיכֶ֛ם מִסָּבִ֖יב וִֽישַׁבְתֶּם־בֶּֽטַח׃",
-      "es": ""
+      "es": "Y cruzaréis el Yardén y habitaréis en la tierra que el Eterno vuestro Elohim os da en heredad, y os dará descanso de todos vuestros enemigos de alrededor, y habitaréis seguros."
     },
     {
       "num": 11,
