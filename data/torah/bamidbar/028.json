@@ -83,82 +83,83 @@
     {
       "num": 16,
       "he": "וּבַחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֑דֶשׁ פֶּ֖סַח לַיהֹוָֽה׃",
-      "es": ""
+      "es": "Y en el mes primero, en el día catorce del mes, es pésaj para el Eterno."
     },
     {
       "num": 17,
       "he": "וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר י֛וֹם לַחֹ֥דֶשׁ הַזֶּ֖ה חָ֑ג שִׁבְעַ֣ת יָמִ֔ים מַצּ֖וֹת יֵאָכֵֽל׃",
-      "es": ""
+      "es": "Y en el día quince de este mes, fiesta; siete días matsot se comerán.",
+      "nota": "matsot — Plural de matsá, pan ázimo o sin leudar; se mantiene en hebreo por ser término técnico ritual de uso extendido."
     },
     {
       "num": 18,
       "he": "בַּיּ֥וֹם הָרִאשׁ֖וֹן מִקְרָא־קֹ֑דֶשׁ כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃",
-      "es": ""
+      "es": "En el día primero, convocación santa; toda labor de trabajo no haréis."
     },
     {
       "num": 19,
       "he": "וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה עֹלָה֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם וְאַ֣יִל אֶחָ֑ד וְשִׁבְעָ֤ה כְבָשִׂים֙ בְּנֵ֣י שָׁנָ֔ה תְּמִימִ֖ם יִהְי֥וּ לָכֶֽם׃",
-      "es": ""
+      "es": "Y ofreceréis ofrenda ígnea, holocausto para el Eterno: novillos hijos de ganado vacuno, dos, y un carnero uno, y siete corderos hijos de un año; íntegros serán para vosotros."
     },
     {
       "num": 20,
       "he": "וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֨ה עֶשְׂרֹנִ֜ים לַפָּ֗ר וּשְׁנֵ֧י עֶשְׂרֹנִ֛ים לָאַ֖יִל תַּעֲשֽׂוּ׃",
-      "es": ""
+      "es": "Y su ofrenda vegetal, flor de harina amasada con aceite: tres décimas para el novillo y dos décimas para el carnero haréis."
     },
     {
       "num": 21,
       "he": "עִשָּׂר֤וֹן עִשָּׂרוֹן֙ תַּעֲשֶׂ֔ה לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃",
-      "es": ""
+      "es": "Una décima, una décima harás para cada cordero uno, para los siete corderos."
     },
     {
       "num": 22,
       "he": "וּשְׂעִ֥יר חַטָּ֖את אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃",
-      "es": ""
+      "es": "Y un macho cabrío de expiación, uno, para expiar por vosotros."
     },
     {
       "num": 23,
       "he": "מִלְּבַד֙ עֹלַ֣ת הַבֹּ֔קֶר אֲשֶׁ֖ר לְעֹלַ֣ת הַתָּמִ֑יד תַּעֲשׂ֖וּ אֶת־אֵֽלֶּה׃",
-      "es": ""
+      "es": "Aparte del holocausto de la mañana, que es del holocausto continuo, haréis estas cosas."
     },
     {
       "num": 24,
       "he": "כָּאֵ֜לֶּה תַּעֲשׂ֤וּ לַיּוֹם֙ שִׁבְעַ֣ת יָמִ֔ים לֶ֛חֶם אִשֵּׁ֥ה רֵֽיחַ־נִיחֹ֖חַ לַיהֹוָ֑ה עַל־עוֹלַ֧ת הַתָּמִ֛יד יֵעָשֶׂ֖ה וְנִסְכּֽוֹ׃",
-      "es": ""
+      "es": "Como estas ofreceréis cada día, siete días, alimento de ofrenda ígnea, aroma grato para el Eterno; sobre el holocausto continuo se hará, y su libación."
     },
     {
       "num": 25,
       "he": "וּבַיּוֹם֙ הַשְּׁבִיעִ֔י מִקְרָא־קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y en el día séptimo, convocación santa será para vosotros; toda labor de trabajo no haréis."
     },
     {
       "num": 26,
       "he": "וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהֹוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃",
-      "es": ""
+      "es": "Y en el día de las primicias, cuando ofrezcáis ofrenda vegetal nueva para el Eterno, en vuestras semanas, convocación santa será para vosotros; toda labor de trabajo no haréis."
     },
     {
       "num": 27,
       "he": "וְהִקְרַבְתֶּ֨ם עוֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם אַ֣יִל אֶחָ֑ד שִׁבְעָ֥ה כְבָשִׂ֖ים בְּנֵ֥י שָׁנָֽה׃",
-      "es": ""
+      "es": "Y ofreceréis holocausto como aroma grato para el Eterno: novillos hijos de ganado vacuno, dos, un carnero uno, siete corderos hijos de un año."
     },
     {
       "num": 28,
       "he": "וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֣ר הָֽאֶחָ֔ד שְׁנֵי֙ עֶשְׂרֹנִ֔ים לָאַ֖יִל הָאֶחָֽד׃",
-      "es": ""
+      "es": "Y su ofrenda vegetal, flor de harina amasada con aceite: tres décimas para cada novillo uno, dos décimas para el carnero uno."
     },
     {
       "num": 29,
       "he": "עִשָּׂרוֹן֙ עִשָּׂר֔וֹן לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃",
-      "es": ""
+      "es": "Una décima, una décima para cada cordero uno, para los siete corderos."
     },
     {
       "num": 30,
       "he": "שְׂעִ֥יר עִזִּ֖ים אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃",
-      "es": ""
+      "es": "Un macho cabrío de cabras, uno, para expiar por vosotros."
     },
     {
       "num": 31,
       "he": "מִלְּבַ֞ד עֹלַ֧ת הַתָּמִ֛יד וּמִנְחָת֖וֹ תַּעֲשׂ֑וּ תְּמִימִ֥ם יִהְיוּ־לָכֶ֖ם וְנִסְכֵּיהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Aparte del holocausto continuo y su ofrenda vegetal haréis; íntegros serán para vosotros, y sus libaciones."
     }
   ]
 }
