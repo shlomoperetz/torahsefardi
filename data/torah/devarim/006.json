@@ -23,112 +23,115 @@
     {
       "num": 4,
       "he": "שְׁמַ֖<big>ע</big> יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה&thinsp;<small>׀</small>&thinsp;אֶחָֽ<big>ד</big>׃",
-      "es": ""
+      "es": "Escucha, Yisrael: el Eterno es nuestro Elohim, el Eterno es uno."
     },
     {
       "num": 5,
       "he": "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּכׇל־לְבָבְךָ֥ וּבְכׇל־נַפְשְׁךָ֖ וּבְכׇל־מְאֹדֶֽךָ׃",
-      "es": ""
+      "es": "Y amarás al Eterno tu Elohim con todo tu corazón, y con toda tu alma, y con toda tu fuerza."
     },
     {
       "num": 6,
       "he": "וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם עַל־לְבָבֶֽךָ׃",
-      "es": ""
+      "es": "Y serán estas palabras que yo te ordeno hoy sobre tu corazón."
     },
     {
       "num": 7,
       "he": "וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֙ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשׇׁכְבְּךָ֖ וּבְקוּמֶֽךָ׃",
-      "es": ""
+      "es": "Y las repetirás a tus hijos, y hablarás de ellas estando sentado en tu casa, y andando por el camino, y al acostarte, y al levantarte."
     },
     {
       "num": 8,
       "he": "וּקְשַׁרְתָּ֥ם לְא֖וֹת עַל־יָדֶ֑ךָ וְהָי֥וּ לְטֹטָפֹ֖ת בֵּ֥ין עֵינֶֽיךָ׃",
-      "es": ""
+      "es": "Y las atarás como señal sobre tu mano, y serán por totafot entre tus ojos.",
+      "nota": "totafot — Término hebreo (טוֹטָפֹת) de significado debatido; la tradición lo identifica con las filacterias (tefilín) colocadas sobre la frente. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 9,
       "he": "וּכְתַבְתָּ֛ם עַל־מְזֻז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y las escribirás sobre las mezuzot de tu casa y en tus portones.",
+      "nota": "mezuzot — Plural de mezuzá, literalmente «jambas» o «postes de la puerta»; término hebreo que en la tradición designa también el pergamino ritual fijado en los marcos de las puertas. Se mantiene en hebreo por su carácter técnico ritual de uso extendido."
     },
     {
       "num": 10,
       "he": "וְהָיָ֞ה כִּ֥י יְבִיאֲךָ֣&thinsp;<b>׀</b> יְהֹוָ֣ה אֱלֹהֶ֗יךָ אֶל־הָאָ֜רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע לַאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָ֣תֶת לָ֑ךְ עָרִ֛ים גְּדֹלֹ֥ת וְטֹבֹ֖ת אֲשֶׁ֥ר לֹא־בָנִֽיתָ׃",
-      "es": ""
+      "es": "Y será cuando te traiga el Eterno tu Elohim a la tierra que juró a tus padres, a Avraham, a Yitsjak y a Yaakov, darte: ciudades grandes y buenas que no edificaste,"
     },
     {
       "num": 11,
       "he": "וּבָ֨תִּ֜ים מְלֵאִ֣ים כׇּל־טוּב֮ אֲשֶׁ֣ר לֹא־מִלֵּ֒אתָ֒ וּבֹרֹ֤ת חֲצוּבִים֙ אֲשֶׁ֣ר לֹא־חָצַ֔בְתָּ כְּרָמִ֥ים וְזֵיתִ֖ים אֲשֶׁ֣ר לֹא־נָטָ֑עְתָּ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ׃",
-      "es": ""
+      "es": "y casas llenas de todo bien que no llenaste, y cisternas cavadas que no cavaste, viñas y olivares que no plantaste; y comerás y te saciarás."
     },
     {
       "num": 12,
       "he": "הִשָּׁ֣מֶר לְךָ֔ פֶּן־תִּשְׁכַּ֖ח אֶת־יְהֹוָ֑ה אֲשֶׁ֧ר הוֹצִֽיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃",
-      "es": ""
+      "es": "Guárdate, no sea que olvides al Eterno, que te sacó de la tierra de Mitsráyim, de la casa de esclavos."
     },
     {
       "num": 13,
       "he": "אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א וְאֹת֣וֹ תַעֲבֹ֑ד וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃",
-      "es": ""
+      "es": "Al Eterno tu Elohim temerás, y a Él servirás, y por su nombre jurarás."
     },
     {
       "num": 14,
       "he": "לֹ֣א תֵֽלְכ֔וּן אַחֲרֵ֖י אֱלֹהִ֣ים אֲחֵרִ֑ים מֵאֱלֹהֵי֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר סְבִיבוֹתֵיכֶֽם׃",
-      "es": ""
+      "es": "No iréis tras dioses ajenos, de los dioses de los pueblos que están en vuestro derredor."
     },
     {
       "num": 15,
       "he": "כִּ֣י אֵ֥ל קַנָּ֛א יְהֹוָ֥ה אֱלֹהֶ֖יךָ בְּקִרְבֶּ֑ךָ פֶּן־יֶ֠חֱרֶ֠ה אַף־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בָּ֔ךְ וְהִשְׁמִ֣ידְךָ֔ מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Porque Dios celoso es el Eterno tu Elohim en medio de ti; no sea que se encienda la ira del Eterno tu Elohim contra ti, y te destruya de sobre la faz de la tierra."
     },
     {
       "num": 16,
       "he": "לֹ֣א תְנַסּ֔וּ אֶת־יְהֹוָ֖ה אֱלֹהֵיכֶ֑ם כַּאֲשֶׁ֥ר נִסִּיתֶ֖ם בַּמַּסָּֽה׃",
-      "es": ""
+      "es": "No tentaréis al Eterno vuestro Elohim, como lo tentasteis en Masá.",
+      "nota": "Masá — Nombre del lugar derivado de la raíz hebrea נסה (tentar, probar); significa «tentación» o «prueba», vinculado al episodio en que los hijos de Yisrael tentaron al Eterno."
     },
     {
       "num": 17,
       "he": "שָׁמ֣וֹר תִּשְׁמְר֔וּן אֶת־מִצְוֺ֖ת יְהֹוָ֣ה אֱלֹהֵיכֶ֑ם וְעֵדֹתָ֥יו וְחֻקָּ֖יו אֲשֶׁ֥ר צִוָּֽךְ׃",
-      "es": ""
+      "es": "Guardar guardaréis los mandamientos del Eterno vuestro Elohim, y sus testimonios y sus estatutos que te ordenó."
     },
     {
       "num": 18,
       "he": "וְעָשִׂ֛יתָ הַיָּשָׁ֥ר וְהַטּ֖וֹב בְּעֵינֵ֣י יְהֹוָ֑ה לְמַ֙עַן֙ יִ֣יטַב לָ֔ךְ וּבָ֗אתָ וְיָֽרַשְׁתָּ֙ אֶת־הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁר־נִשְׁבַּ֥ע יְהֹוָ֖ה לַאֲבֹתֶֽיךָ׃",
-      "es": ""
+      "es": "Y harás lo recto y lo bueno a los ojos del Eterno, para que te vaya bien, y entres y heredes la tierra buena que juró el Eterno a tus padres,"
     },
     {
       "num": 19,
       "he": "לַהֲדֹ֥ף אֶת־כׇּל־אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "para expulsar a todos tus enemigos de delante de ti, como habló el Eterno."
     },
     {
       "num": 20,
       "he": "כִּֽי־יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֑ר מָ֣ה הָעֵדֹ֗ת וְהַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהֹוָ֥ה אֱלֹהֵ֖ינוּ אֶתְכֶֽם׃",
-      "es": ""
+      "es": "Cuando te pregunte tu hijo mañana, diciendo: «¿Qué son los testimonios, y los estatutos, y los juicios que ordenó el Eterno nuestro Elohim a vosotros?»,"
     },
     {
       "num": 21,
       "he": "וְאָמַרְתָּ֣ לְבִנְךָ֔ עֲבָדִ֛ים הָיִ֥ינוּ לְפַרְעֹ֖ה בְּמִצְרָ֑יִם וַיֹּצִיאֵ֧נוּ יְהֹוָ֛ה מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃",
-      "es": ""
+      "es": "dirás a tu hijo: «Esclavos fuimos de Paró en Mitsráyim, y nos sacó el Eterno de Mitsráyim con mano fuerte."
     },
     {
       "num": 22,
       "he": "וַיִּתֵּ֣ן יְהֹוָ֡ה אוֹתֹ֣ת וּ֠מֹפְתִ֠ים גְּדֹלִ֨ים וְרָעִ֧ים&thinsp;<small>׀</small>&thinsp;בְּמִצְרַ֛יִם בְּפַרְעֹ֥ה וּבְכׇל־בֵּית֖וֹ לְעֵינֵֽינוּ׃",
-      "es": ""
+      "es": "Y dio el Eterno señales y prodigios grandes y terribles en Mitsráyim, contra Paró y contra toda su casa, ante nuestros ojos."
     },
     {
       "num": 23,
       "he": "וְאוֹתָ֖נוּ הוֹצִ֣יא מִשָּׁ֑ם לְמַ֙עַן֙ הָבִ֣יא אֹתָ֔נוּ לָ֤תֶת לָ֙נוּ֙ אֶת־הָאָ֔רֶץ אֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֵֽינוּ׃",
-      "es": ""
+      "es": "Y a nosotros nos sacó de allí, para traernos, para darnos la tierra que juró a nuestros padres."
     },
     {
       "num": 24,
       "he": "וַיְצַוֵּ֣נוּ יְהֹוָ֗ה לַעֲשׂוֹת֙ אֶת־כׇּל־הַחֻקִּ֣ים הָאֵ֔לֶּה לְיִרְאָ֖ה אֶת־יְהֹוָ֣ה אֱלֹהֵ֑ינוּ לְט֥וֹב לָ֙נוּ֙ כׇּל־הַיָּמִ֔ים לְחַיֹּתֵ֖נוּ כְּהַיּ֥וֹם הַזֶּֽה׃",
-      "es": ""
+      "es": "Y nos ordenó el Eterno cumplir todos estos estatutos, para temer al Eterno nuestro Elohim, para bien nuestro todos los días, para mantenernos con vida como en este día."
     },
     {
       "num": 25,
       "he": "וּצְדָקָ֖ה תִּֽהְיֶה־לָּ֑נוּ כִּֽי־נִשְׁמֹ֨ר לַעֲשׂ֜וֹת אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֗את לִפְנֵ֛י יְהֹוָ֥ה אֱלֹהֵ֖ינוּ כַּאֲשֶׁ֥ר צִוָּֽנוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y justicia será para nosotros, si guardamos para cumplir todo este mandamiento delante del Eterno nuestro Elohim, como nos ordenó»."
     }
   ]
 }
