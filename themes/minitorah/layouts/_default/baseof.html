@@ -16,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@100..900&family=Assistant:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/torah.css" | relURL }}?v={{ now.Unix }}">
+    <script>(function(){try{var t=localStorage.getItem('theme');var dark=t?t==='dark':window.matchMedia('(prefers-color-scheme:dark)').matches;if(dark)document.documentElement.classList.add('dark-mode');}catch(e){}})();</script>
   </head>
   <body class="{{ if .IsHome }}is-landing{{ end }}">
 

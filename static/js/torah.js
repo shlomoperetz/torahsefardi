@@ -20,7 +20,7 @@ function toggleDarkMode(){
 
 function adjustFont(n){
   var r=document.documentElement;
-  var c=parseInt(getComputedStyle(r).getPropertyValue('--font'))||22;
+  var c=parseInt(getComputedStyle(r).getPropertyValue('--font'))||30;
   var v=Math.min(Math.max(c+n*2,16),36);
   r.style.setProperty('--font',v+'px');
   localStorage.setItem('fontSize',v);
