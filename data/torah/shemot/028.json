@@ -8,62 +8,66 @@
     {
       "num": 1,
       "he": "וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶ֩יךָ֩ אֶת־אַהֲרֹ֨ן אָחִ֜יךָ וְאֶת־בָּנָ֣יו אִתּ֗וֹ מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־לִ֑י אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃",
-      "es": ""
+      "es": "Y tú acercarás a ti a Aharón tu hermano y a sus hijos con él, de en medio de los hijos de Yisrael, para que me sirvan como sacerdotes: Aharón, Nadav y Avihú, Elazar e Itamar, hijos de Aharón."
     },
     {
       "num": 2,
       "he": "וְעָשִׂ֥יתָ בִגְדֵי־קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ לְכָב֖וֹד וּלְתִפְאָֽרֶת׃",
-      "es": ""
+      "es": "Y harás vestiduras sagradas para Aharón tu hermano, para honra y para hermosura."
     },
     {
       "num": 3,
       "he": "וְאַתָּ֗ה תְּדַבֵּר֙ אֶל־כׇּל־חַכְמֵי־לֵ֔ב אֲשֶׁ֥ר מִלֵּאתִ֖יו ר֣וּחַ חׇכְמָ֑ה וְעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַהֲרֹ֛ן לְקַדְּשׁ֖וֹ לְכַהֲנוֹ־לִֽי׃",
-      "es": ""
+      "es": "Y tú hablarás a todos los sabios de corazón, a quienes llené de espíritu de sabiduría, y harán las vestiduras de Aharón para consagrarlo, para que me sirva como sacerdote."
     },
     {
       "num": 4,
       "he": "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט וְעָשׂ֨וּ בִגְדֵי־קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־לִֽי׃",
-      "es": ""
+      "es": "Y estas son las vestiduras que harán: el jóshen, y el efod, y el manto, y la túnica bordada, el turbante y el cinturón; y harán vestiduras sagradas para Aharón tu hermano y para sus hijos, para que me sirvan como sacerdotes.",
+      "nota": "efod — Término hebreo (אֵפוֹד) que designa una prenda sacerdotal superior, especie de delantal o chaleco ritual. Se mantiene en hebreo por ser término técnico sin equivalente exacto en español."
     },
     {
       "num": 5,
       "he": "וְהֵם֙ יִקְח֣וּ אֶת־הַזָּהָ֔ב וְאֶת־הַתְּכֵ֖לֶת וְאֶת־הָֽאַרְגָּמָ֑ן וְאֶת־תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־הַשֵּֽׁשׁ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y ellos tomarán el oro, y el azul, y la púrpura, y el toláat shaní, y el lino.",
+      "nota": "toláat shaní — Véase nota al versículo 16."
     },
     {
       "num": 6,
       "he": "וְעָשׂ֖וּ אֶת־הָאֵפֹ֑ד זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃",
-      "es": ""
+      "es": "Y harán el efod de oro, azul y púrpura, toláat shaní y lino torzal, obra de artífice.",
+      "nota": "toláat shaní — Véase nota al versículo 16."
     },
     {
       "num": 7,
       "he": "שְׁתֵּ֧י כְתֵפֹ֣ת חֹֽבְרֹ֗ת יִֽהְיֶה־לּ֛וֹ אֶל־שְׁנֵ֥י קְצוֹתָ֖יו וְחֻבָּֽר׃",
-      "es": ""
+      "es": "Dos hombreras unidas tendrá en sus dos extremos, y será unido."
     },
     {
       "num": 8,
       "he": "וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
-      "es": ""
+      "es": "Y el cinto de su efod que está sobre él, conforme a su hechura, de él será: oro, azul y púrpura, y toláat shaní, y lino torzal.",
+      "nota": "toláat shaní — Véase nota al versículo 16."
     },
     {
       "num": 9,
       "he": "וְלָ֣קַחְתָּ֔ אֶת־שְׁתֵּ֖י אַבְנֵי־שֹׁ֑הַם וּפִתַּחְתָּ֣ עֲלֵיהֶ֔ם שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
-      "es": ""
+      "es": "Y tomarás las dos piedras de ónice, y grabarás sobre ellas los nombres de los hijos de Yisrael."
     },
     {
       "num": 10,
       "he": "שִׁשָּׁה֙ מִשְּׁמֹתָ֔ם עַ֖ל הָאֶ֣בֶן הָאֶחָ֑ת וְאֶת־שְׁמ֞וֹת הַשִּׁשָּׁ֧ה הַנּוֹתָרִ֛ים עַל־הָאֶ֥בֶן הַשֵּׁנִ֖ית כְּתוֹלְדֹתָֽם׃",
-      "es": ""
+      "es": "Seis de sus nombres sobre la primera piedra, y los nombres de los seis restantes sobre la segunda piedra, conforme a su orden de nacimiento."
     },
     {
       "num": 11,
       "he": "מַעֲשֵׂ֣ה חָרַשׁ֮ אֶ֒בֶן֒ פִּתּוּחֵ֣י חֹתָ֗ם תְּפַתַּח֙ אֶת־שְׁתֵּ֣י הָאֲבָנִ֔ים עַל־שְׁמֹ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל מֻסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
-      "es": ""
+      "es": "Obra de artífice de piedra, grabados de sello, grabarás las dos piedras con los nombres de los hijos de Yisrael; engastadas en monturas de oro las harás."
     },
     {
       "num": 12,
       "he": "וְשַׂמְתָּ֞ אֶת־שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־שְׁמוֹתָ֜ם לִפְנֵ֧י יְהֹוָ֛ה עַל־שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y pondrás las dos piedras sobre las hombreras del efod, piedras de recordación para los hijos de Yisrael; y llevará Aharón sus nombres ante el Eterno sobre sus dos hombros como recordación."
     },
     {
       "num": 13,
