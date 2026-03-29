@@ -113,62 +113,64 @@
     {
       "num": 21,
       "he": "וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒ וְ֠לָקַ֠ח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃",
-      "es": ""
+      "es": "Y si es pobre y su mano no alcanza, tomará un cordero como ofrenda de culpa para mecerlo, para expiar sobre él, y un décimo de efá de harina fina mezclada con aceite como ofrenda vegetal, y un log de aceite.",
+      "nota": "log — Unidad de medida de líquidos del sistema hebreo, equivalente aproximadamente a medio litro; se mantiene en hebreo por ser término técnico sin correspondencia unívoca en español."
     },
     {
       "num": 22,
       "he": "וּשְׁתֵּ֣י תֹרִ֗ים א֤וֹ שְׁנֵי֙ בְּנֵ֣י יוֹנָ֔ה אֲשֶׁ֥ר תַּשִּׂ֖יג יָד֑וֹ וְהָיָ֤ה אֶחָד֙ חַטָּ֔את וְהָאֶחָ֖ד עֹלָֽה׃",
-      "es": ""
+      "es": "Y dos tórtolas o dos pichones de paloma, según lo que alcance su mano; y será uno ofrenda por pecado y el otro holocausto."
     },
     {
       "num": 23,
       "he": "וְהֵבִ֨יא אֹתָ֜ם בַּיּ֧וֹם הַשְּׁמִינִ֛י לְטׇהֳרָת֖וֹ אֶל־הַכֹּהֵ֑ן אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y los traerá al día octavo de su purificación al sacerdote, a la entrada de la tienda de reunión, delante del Eterno."
     },
     {
       "num": 24,
       "he": "וְלָקַ֧ח הַכֹּהֵ֛ן אֶת־כֶּ֥בֶשׂ הָאָשָׁ֖ם וְאֶת־לֹ֣ג הַשָּׁ֑מֶן וְהֵנִ֨יף אֹתָ֧ם הַכֹּהֵ֛ן תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y tomará el sacerdote el cordero de la ofrenda de culpa y el log de aceite, y los mecerá el sacerdote como ofrenda mecida delante del Eterno."
     },
     {
       "num": 25,
       "he": "וְשָׁחַט֮ אֶת־כֶּ֣בֶשׂ הָֽאָשָׁם֒ וְלָקַ֤ח הַכֹּהֵן֙ מִדַּ֣ם הָֽאָשָׁ֔ם וְנָתַ֛ן עַל־תְּנ֥וּךְ אֹֽזֶן־הַמִּטַּהֵ֖ר הַיְמָנִ֑ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
-      "es": ""
+      "es": "Y degollará el cordero de la ofrenda de culpa, y tomará el sacerdote de la sangre de la ofrenda de culpa y pondrá sobre el lóbulo de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho."
     },
     {
       "num": 26,
       "he": "וּמִן־הַשֶּׁ֖מֶן יִצֹ֣ק הַכֹּהֵ֑ן עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
-      "es": ""
+      "es": "Y del aceite verterá el sacerdote sobre la palma izquierda del sacerdote."
     },
     {
       "num": 27,
       "he": "וְהִזָּ֤ה הַכֹּהֵן֙ בְּאֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y rociará el sacerdote con su dedo derecho del aceite que está sobre su palma izquierda, siete veces delante del Eterno."
     },
     {
       "num": 28,
       "he": "וְנָתַ֨ן הַכֹּהֵ֜ן מִן־הַשֶּׁ֣מֶן&thinsp;<b>׀</b> אֲשֶׁ֣ר עַל־כַּפּ֗וֹ עַל־תְּנ֞וּךְ אֹ֤זֶן הַמִּטַּהֵר֙ הַיְמָנִ֔ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִ֑ית עַל־מְק֖וֹם דַּ֥ם הָאָשָֽׁם׃",
-      "es": ""
+      "es": "Y pondrá el sacerdote del aceite que está sobre su palma sobre el lóbulo de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho, sobre el lugar de la sangre de la ofrenda de culpa."
     },
     {
       "num": 29,
       "he": "וְהַנּוֹתָ֗ר מִן־הַשֶּׁ֙מֶן֙ אֲשֶׁר֙ עַל־כַּ֣ף הַכֹּהֵ֔ן יִתֵּ֖ן עַל־רֹ֣אשׁ הַמִּטַּהֵ֑ר לְכַפֵּ֥ר עָלָ֖יו לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Y lo que quede del aceite que está sobre la palma del sacerdote, lo pondrá sobre la cabeza del que se purifica, para expiar sobre él delante del Eterno."
     },
     {
       "num": 30,
       "he": "וְעָשָׂ֤ה אֶת־הָֽאֶחָד֙ מִן־הַתֹּרִ֔ים א֖וֹ מִן־בְּנֵ֣י הַיּוֹנָ֑ה מֵאֲשֶׁ֥ר תַּשִּׂ֖יג יָדֽוֹ׃",
-      "es": ""
+      "es": "Y ofrecerá una de las tórtolas o de los pichones de paloma, de lo que alcance su mano."
     },
     {
       "num": 31,
       "he": "אֵ֣ת אֲשֶׁר־תַּשִּׂ֞יג יָד֗וֹ אֶת־הָאֶחָ֥ד חַטָּ֛את וְאֶת־הָאֶחָ֥ד עֹלָ֖ה עַל־הַמִּנְחָ֑ה וְכִפֶּ֧ר הַכֹּהֵ֛ן עַ֥ל הַמִּטַּהֵ֖ר לִפְנֵ֥י יְהֹוָֽה׃",
-      "es": ""
+      "es": "Lo que alcance su mano, una como ofrenda por pecado y la otra como holocausto, junto con la ofrenda vegetal; y expiará el sacerdote sobre el que se purifica delante del Eterno."
     },
     {
       "num": 32,
       "he": "זֹ֣את תּוֹרַ֔ת אֲשֶׁר־בּ֖וֹ נֶ֣גַע צָרָ֑עַת אֲשֶׁ֛ר לֹֽא־תַשִּׂ֥יג יָד֖וֹ בְּטׇהֳרָתֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Esta es la ley de aquel en quien hay llaga de tsaráat, cuya mano no alcanza para su purificación.",
+      "nota": "tsaráat — Término hebreo (צָרַעַת) que designa una afección cutánea de naturaleza ritual, frecuentemente traducida como «lepra» aunque no corresponde a la lepra clínica moderna. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 33,
