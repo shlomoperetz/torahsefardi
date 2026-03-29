@@ -219,62 +219,64 @@
     {
       "num": 43,
       "he": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ֜י וְהַבָּנִ֤ים בָּנַי֙ וְהַצֹּ֣אן צֹאנִ֔י וְכֹ֛ל אֲשֶׁר־אַתָּ֥ה רֹאֶ֖ה לִי־ה֑וּא וְלִבְנֹתַ֞י מָֽה־אֶעֱשֶׂ֤ה לָאֵ֙לֶּה֙ הַיּ֔וֹם א֥וֹ לִבְנֵיהֶ֖ן אֲשֶׁ֥ר יָלָֽדוּ׃",
-      "es": ""
+      "es": "Y respondió Laván y dijo a Yaakov: «Las hijas son mis hijas, y los hijos son mis hijos, y el rebaño es mi rebaño, y todo lo que tú ves, mío es. Y a mis hijas, ¿qué haré a estas hoy, o a sus hijos que han dado a luz?"
     },
     {
       "num": 44,
       "he": "וְעַתָּ֗ה לְכָ֛ה נִכְרְתָ֥ה בְרִ֖ית אֲנִ֣י וָאָ֑תָּה וְהָיָ֥ה לְעֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃",
-      "es": ""
+      "es": "Y ahora, ven, hagamos un pacto, yo y tú, y que sea por testigo entre mí y entre ti»."
     },
     {
       "num": 45,
       "he": "וַיִּקַּ֥ח יַעֲקֹ֖ב אָ֑בֶן וַיְרִימֶ֖הָ מַצֵּבָֽה׃",
-      "es": ""
+      "es": "Y tomó Yaakov una piedra y la levantó como estela."
     },
     {
       "num": 46,
       "he": "וַיֹּ֨אמֶר יַעֲקֹ֤ב לְאֶחָיו֙ לִקְט֣וּ אֲבָנִ֔ים וַיִּקְח֥וּ אֲבָנִ֖ים וַיַּֽעֲשׂוּ־גָ֑ל וַיֹּ֥אכְלוּ שָׁ֖ם עַל־הַגָּֽל׃",
-      "es": ""
+      "es": "Y dijo Yaakov a sus hermanos: «Recoged piedras». Y tomaron piedras e hicieron un montón, y comieron allí sobre el montón."
     },
     {
       "num": 47,
       "he": "וַיִּקְרָא־ל֣וֹ לָבָ֔ן יְגַ֖ר שָׂהֲדוּתָ֑א וְיַֽעֲקֹ֔ב קָ֥רָא ל֖וֹ גַּלְעֵֽד׃",
-      "es": ""
+      "es": "Y lo llamó Laván Yegar Sahadutá, y Yaakov lo llamó Galed.",
+      "nota": "GALED — Nombre hebreo (גַּלְעֵד) que significa «montón del testimonio», compuesto de gal (montón) y ed (testigo)."
     },
     {
       "num": 48,
       "he": "וַיֹּ֣אמֶר לָבָ֔ן הַגַּ֨ל הַזֶּ֥ה עֵ֛ד בֵּינִ֥י וּבֵינְךָ֖ הַיּ֑וֹם עַל־כֵּ֥ן קָרָֽא־שְׁמ֖וֹ גַּלְעֵֽד׃",
-      "es": ""
+      "es": "Y dijo Laván: «Este montón es testigo entre mí y entre ti hoy»; por eso llamó su nombre Galed."
     },
     {
       "num": 49,
       "he": "וְהַמִּצְפָּה֙ אֲשֶׁ֣ר אָמַ֔ר יִ֥צֶף יְהֹוָ֖ה בֵּינִ֣י וּבֵינֶ֑ךָ כִּ֥י נִסָּתֵ֖ר אִ֥ישׁ מֵרֵעֵֽהוּ׃",
-      "es": ""
+      "es": "Y la Mitspá, pues dijo: «Que vigile el Eterno entre mí y entre ti, cuando estemos ocultos el uno del otro.",
+      "nota": "MITSPÁ — Nombre del lugar derivado de la raíz hebrea צפה (vigilar, observar); significa «atalaya» o «lugar de vigía», vinculado a la expresión «que vigile el Eterno»."
     },
     {
       "num": 50,
       "he": "אִם־תְּעַנֶּ֣ה אֶת־בְּנֹתַ֗י וְאִם־תִּקַּ֤ח נָשִׁים֙ עַל־בְּנֹתַ֔י אֵ֥ין אִ֖ישׁ עִמָּ֑נוּ רְאֵ֕ה אֱלֹהִ֥ים עֵ֖ד בֵּינִ֥י וּבֵינֶֽךָ׃",
-      "es": ""
+      "es": "Si afligieres a mis hijas, y si tomares mujeres además de mis hijas, no hay hombre con nosotros; mira, Elohim es testigo entre mí y entre ti»."
     },
     {
       "num": 51,
       "he": "וַיֹּ֥אמֶר לָבָ֖ן לְיַעֲקֹ֑ב הִנֵּ֣ה&thinsp;<b>׀</b> הַגַּ֣ל הַזֶּ֗ה וְהִנֵּה֙ הַמַּצֵּבָ֔ה אֲשֶׁ֥ר יָרִ֖יתִי בֵּינִ֥י וּבֵינֶֽךָ׃",
-      "es": ""
+      "es": "Y dijo Laván a Yaakov: «He aquí este montón, y he aquí la estela que he erigido entre mí y entre ti."
     },
     {
       "num": 52,
       "he": "עֵ֚ד הַגַּ֣ל הַזֶּ֔ה וְעֵדָ֖ה הַמַּצֵּבָ֑ה אִם־אָ֗נִי לֹֽא־אֶעֱבֹ֤ר אֵלֶ֙יךָ֙ אֶת־הַגַּ֣ל הַזֶּ֔ה וְאִם־אַ֠תָּ֠ה לֹא־תַעֲבֹ֨ר אֵלַ֜י אֶת־הַגַּ֥ל הַזֶּ֛ה וְאֶת־הַמַּצֵּבָ֥ה הַזֹּ֖את לְרָעָֽה׃",
-      "es": ""
+      "es": "Testigo es este montón, y testigo es la estela: que yo no pasaré hacia ti más allá de este montón, y que tú no pasarás hacia mí más allá de este montón y de esta estela, para mal."
     },
     {
       "num": 53,
       "he": "אֱלֹהֵ֨י אַבְרָהָ֜ם וֵֽאלֹהֵ֤י נָחוֹר֙ יִשְׁפְּט֣וּ בֵינֵ֔ינוּ אֱלֹהֵ֖י אֲבִיהֶ֑ם וַיִּשָּׁבַ֣ע יַעֲקֹ֔ב בְּפַ֖חַד אָבִ֥יו יִצְחָֽק׃",
-      "es": ""
+      "es": "El Elohim de Avraham y el Elohim de Najor juzguen entre nosotros, el Elohim de su padre». Y juró Yaakov por el Temor de su padre Yitsjak."
     },
     {
       "num": 54,
       "he": "וַיִּזְבַּ֨ח יַעֲקֹ֥ב זֶ֙בַח֙ בָּהָ֔ר וַיִּקְרָ֥א לְאֶחָ֖יו לֶאֱכׇל־לָ֑חֶם וַיֹּ֣אכְלוּ לֶ֔חֶם וַיָּלִ֖ינוּ בָּהָֽר׃",
-      "es": ""
+      "es": "Y ofreció Yaakov un sacrificio en el monte, y llamó a sus hermanos a comer pan; y comieron pan y pasaron la noche en el monte."
     }
   ]
 }
