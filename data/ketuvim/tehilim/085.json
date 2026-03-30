@@ -8,72 +8,74 @@
     {
       "num": 1,
       "he": "לַמְנַצֵּ֬חַ&thinsp;<small>׀</small>&thinsp;לִבְנֵי־קֹ֬רַח מִזְמֽוֹר׃",
-      "es": ""
+      "es": "Al director; de los hijos de Córaj, mizmor.",
+      "nota": "mizmor — Término hebreo que designa un cántico o composición musical de carácter litúrgico; se mantiene sin traducir por su uso técnico extendido."
     },
     {
       "num": 2,
       "he": "רָצִ֣יתָ יְהֹוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(שבות)</span> <span class=\"mam-kq-q\">[שְׁבִ֣ית]</span></span> יַעֲקֹֽב׃",
-      "es": ""
+      "es": "Favoreciste, oh Eterno, a tu tierra; restauraste la cautividad de Yaakov."
     },
     {
       "num": 3,
       "he": "נָ֭שָׂאתָ עֲוֺ֣ן עַמֶּ֑ךָ כִּסִּ֖יתָ כׇל־חַטָּאתָ֣ם סֶֽלָה׃",
-      "es": ""
+      "es": "Perdonaste la iniquidad de tu pueblo, cubriste todo su pecado, selah.",
+      "nota": "selah — Término hebreo de significado incierto; se ha interpretado como indicación musical, pausa litúrgica o señal de elevación en el canto. Se mantiene sin traducir por falta de equivalente semántico exacto en español."
     },
     {
       "num": 4,
       "he": "אָסַ֥פְתָּ כׇל־עֶבְרָתֶ֑ךָ הֱ֝שִׁיב֗וֹתָ מֵחֲר֥וֹן אַפֶּֽךָ׃",
-      "es": ""
+      "es": "Recogiste toda tu indignación, te apartaste del ardor de tu ira."
     },
     {
       "num": 5,
       "he": "שׁ֭וּבֵנוּ אֱלֹהֵ֣י יִשְׁעֵ֑נוּ וְהָפֵ֖ר כַּעַסְךָ֣ עִמָּֽנוּ׃",
-      "es": ""
+      "es": "Restáuranos, Elohim de nuestra salvación, y anula tu enojo contra nosotros."
     },
     {
       "num": 6,
       "he": "הַלְעוֹלָ֥ם תֶּאֱנַף־בָּ֑נוּ תִּמְשֹׁ֥ךְ אַ֝פְּךָ֗ לְדֹ֣ר וָדֹֽר׃",
-      "es": ""
+      "es": "¿Acaso para siempre te airarás con nosotros? ¿Extenderás tu ira de generación en generación?"
     },
     {
       "num": 7,
       "he": "הֲֽלֹא־אַ֭תָּה תָּשׁ֣וּב תְּחַיֵּ֑נוּ וְ֝עַמְּךָ֗ יִשְׂמְחוּ־בָֽךְ׃",
-      "es": ""
+      "es": "¿No volverás tú a darnos vida, para que tu pueblo se regocije en ti?"
     },
     {
       "num": 8,
       "he": "הַרְאֵ֣נוּ יְהֹוָ֣ה חַסְדֶּ֑ךָ וְ֝יֶשְׁעֲךָ֗ תִּתֶּן־לָֽנוּ׃",
-      "es": ""
+      "es": "Muéstranos, oh Eterno, tu bondad, y danos tu salvación."
     },
     {
       "num": 9,
       "he": "אֶשְׁמְעָ֗ה מַה־יְדַבֵּר֮ הָאֵ֢ל&thinsp;<small>׀</small>&thinsp;יְ֫הֹוָ֥ה כִּ֤י&thinsp;<b>׀</b> יְדַבֵּ֬ר שָׁל֗וֹם אֶל־עַמּ֥וֹ וְאֶל־חֲסִידָ֑יו וְאַל־יָשׁ֥וּבוּ לְכִסְלָֽה׃",
-      "es": ""
+      "es": "Escucharé lo que hablará el Dios, el Eterno, pues hablará paz a su pueblo y a sus fieles, mas que no vuelvan a la necedad."
     },
     {
       "num": 10,
       "he": "אַ֤ךְ קָר֣וֹב לִירֵאָ֣יו יִשְׁע֑וֹ לִשְׁכֹּ֖ן כָּב֣וֹד בְּאַרְצֵֽנוּ׃",
-      "es": ""
+      "es": "Ciertamente cercana está su salvación a los que le temen, para que habite la gloria en nuestra tierra."
     },
     {
       "num": 11,
       "he": "חֶסֶד־וֶאֱמֶ֥ת נִפְגָּ֑שׁוּ צֶ֖דֶק וְשָׁל֣וֹם נָשָֽׁקוּ׃",
-      "es": ""
+      "es": "Bondad y verdad se encontraron; justicia y paz se besaron."
     },
     {
       "num": 12,
       "he": "אֱ֭מֶת מֵאֶ֣רֶץ תִּצְמָ֑ח וְ֝צֶ֗דֶק מִשָּׁמַ֥יִם נִשְׁקָֽף׃",
-      "es": ""
+      "es": "La verdad brotará de la tierra, y la justicia mirará desde los cielos."
     },
     {
       "num": 13,
       "he": "גַּם־יְ֭הֹוָה יִתֵּ֣ן הַטּ֑וֹב וְ֝אַרְצֵ֗נוּ תִּתֵּ֥ן יְבוּלָֽהּ׃",
-      "es": ""
+      "es": "También el Eterno dará el bien, y nuestra tierra dará su fruto."
     },
     {
       "num": 14,
       "he": "צֶ֭דֶק לְפָנָ֣יו יְהַלֵּ֑ךְ וְיָשֵׂ֖ם לְדֶ֣רֶךְ פְּעָמָֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "La justicia irá delante de él, y dispondrá sus pasos por el camino."
     }
   ]
 }

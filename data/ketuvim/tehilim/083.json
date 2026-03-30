@@ -8,97 +8,99 @@
     {
       "num": 1,
       "he": "שִׁ֖יר מִזְמ֣וֹר לְאָסָֽף׃",
-      "es": ""
+      "es": "Canto, mizmor de Asaf.",
+      "nota": "mizmor — Composición musical de carácter litúrgico; término técnico del repertorio de Tehilim que se mantiene en hebreo por falta de equivalente exacto en español."
     },
     {
       "num": 2,
       "he": "אֱלֹהִ֥ים אַל־דֳּמִי־לָ֑ךְ אַל־תֶּחֱרַ֖שׁ וְאַל־תִּשְׁקֹ֣ט אֵֽל׃",
-      "es": ""
+      "es": "Elohim, no guardes silencio; no enmudezcas ni te quedes quieto, oh Dios."
     },
     {
       "num": 3,
       "he": "כִּֽי־הִנֵּ֣ה א֭וֹיְבֶיךָ יֶהֱמָי֑וּן וּ֝מְשַׂנְאֶ֗יךָ נָ֣שְׂאוּ רֹֽאשׁ׃",
-      "es": ""
+      "es": "Porque he aquí que tus enemigos se alborotan, y los que te aborrecen han alzado la cabeza."
     },
     {
       "num": 4,
       "he": "עַֽל־עַ֭מְּךָ יַעֲרִ֣ימוּ ס֑וֹד וְ֝יִתְיָעֲצ֗וּ עַל־צְפוּנֶֽיךָ׃",
-      "es": ""
+      "es": "Contra tu pueblo traman astutamente consejo, y conspiran contra tus protegidos."
     },
     {
       "num": 5,
       "he": "אָמְר֗וּ לְ֭כוּ וְנַכְחִידֵ֣ם מִגּ֑וֹי וְלֹֽא־יִזָּכֵ֖ר שֵֽׁם־יִשְׂרָאֵ֣ל עֽוֹד׃",
-      "es": ""
+      "es": "Dijeron: «Venid, y destruyámoslos como nación, y no sea recordado más el nombre de Yisrael»."
     },
     {
       "num": 6,
       "he": "כִּ֤י נוֹעֲצ֣וּ לֵ֣ב יַחְדָּ֑ו עָ֝לֶ֗יךָ בְּרִ֣ית יִכְרֹֽתוּ׃",
-      "es": ""
+      "es": "Porque se han concertado de corazón a una; contra ti han pactado alianza:"
     },
     {
       "num": 7,
       "he": "אׇהֳלֵ֣י אֱ֭דוֹם וְיִשְׁמְעֵאלִ֗ים מוֹאָ֥ב וְהַגְרִֽים׃",
-      "es": ""
+      "es": "las tiendas de Edom y los yishmeelitas, Moav y los hagritas,"
     },
     {
       "num": 8,
       "he": "גְּבָ֣ל וְ֭עַמּוֹן וַעֲמָלֵ֑ק פְּ֝לֶ֗שֶׁת עִם־יֹ֥שְׁבֵי צֽוֹר׃",
-      "es": ""
+      "es": "Gueval y Amón y Amalec, Peleshet con los habitantes de Tsor."
     },
     {
       "num": 9,
       "he": "גַּם־אַ֭שּׁוּר נִלְוָ֣ה עִמָּ֑ם הָ֤יֽוּ<span class=\"mam-implicit-maqaf\">־</span>זְר֖וֹעַ לִבְנֵי־ל֣וֹט סֶֽלָה׃",
-      "es": ""
+      "es": "También Ashur se ha unido con ellos; han sido brazo para los hijos de Lot. Selah.",
+      "nota": "selah — Indicación litúrgica o musical de significado incierto; posiblemente señala una pausa, un interludio o una elevación en el canto."
     },
     {
       "num": 10,
       "he": "עֲשֵֽׂה־לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֽׁוֹן׃",
-      "es": ""
+      "es": "Haz con ellos como con Midyán, como con Siserá, como con Yavín en el arroyo de Quishón,"
     },
     {
       "num": 11,
       "he": "נִשְׁמְד֥וּ בְֽעֵין־דֹּ֑אר הָ֥יוּ דֹ֝֗מֶן לָאֲדָמָֽה׃",
-      "es": ""
+      "es": "que fueron destruidos en Ein Dor; fueron como estiércol para la tierra."
     },
     {
       "num": 12,
       "he": "שִׁיתֵ֣מוֹ נְ֭דִיבֵימוֹ כְּעֹרֵ֣ב וְכִזְאֵ֑ב וּֽכְזֶ֥בַח וּ֝כְצַלְמֻנָּ֗ע כׇּל־נְסִיכֵֽימוֹ׃",
-      "es": ""
+      "es": "Haz a sus nobles como a Orev y como a Zeev, y como a Zévaj y como a Tsalmuná a todos sus príncipes,"
     },
     {
       "num": 13,
       "he": "אֲשֶׁ֣ר אָ֭מְרוּ נִ֣ירְשָׁה לָּ֑נוּ אֵ֝֗ת נְא֣וֹת אֱלֹהִֽים׃",
-      "es": ""
+      "es": "que dijeron: «Tomemos posesión para nosotros de las moradas de Elohim»."
     },
     {
       "num": 14,
       "he": "אֱֽלֹהַ֗י שִׁיתֵ֥מוֹ כַגַּלְגַּ֑ל כְּ֝קַ֗שׁ לִפְנֵי־רֽוּחַ׃",
-      "es": ""
+      "es": "Elohim mío, hazlos como torbellino, como paja ante el viento."
     },
     {
       "num": 15,
       "he": "כְּאֵ֥שׁ תִּבְעַר־יָ֑עַר וּ֝כְלֶהָבָ֗ה תְּלַהֵ֥ט הָרִֽים׃",
-      "es": ""
+      "es": "Como fuego que abrasa el bosque, y como llama que inflama los montes,"
     },
     {
       "num": 16,
       "he": "כֵּ֭ן תִּרְדְּפֵ֣ם בְּסַעֲרֶ֑ךָ וּבְסוּפָתְךָ֥ תְבַהֲלֵֽם׃",
-      "es": ""
+      "es": "así persíguelos con tu tempestad, y con tu tormenta aterrorízalos."
     },
     {
       "num": 17,
       "he": "מַלֵּ֣א פְנֵיהֶ֣ם קָל֑וֹן וִיבַקְשׁ֖וּ שִׁמְךָ֣ יְהֹוָֽה׃",
-      "es": ""
+      "es": "Llena sus rostros de ignominia, para que busquen tu nombre, oh Eterno."
     },
     {
       "num": 18,
       "he": "יֵבֹ֖שׁוּ וְיִבָּהֲל֥וּ עֲדֵי־עַ֗ד וְֽיַחְפְּר֥וּ וְיֹאבֵֽדוּ׃",
-      "es": ""
+      "es": "Sean avergonzados y aterrados para siempre; sean humillados y perezcan."
     },
     {
       "num": 19,
       "he": "וְֽיֵדְע֗וּ כִּי־אַתָּ֬ה שִׁמְךָ֣ יְהֹוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־כׇּל־הָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y sepan que tú, cuyo nombre es el Eterno, solo tú eres el Altísimo sobre toda la tierra."
     }
   ]
 }

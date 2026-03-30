@@ -8,32 +8,36 @@
     {
       "num": 1,
       "he": "הַ֥לְלוּ<span class=\"mam-implicit-maqaf\">־</span>יָ֨הּ&thinsp;<b>׀</b> הַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃",
-      "es": ""
+      "es": "¡Haleluyah! Alabad a Dios en su santuario, alabadlo en el firmamento de su poder.",
+      "nota": "Haleluyah — exclamación litúrgica hebrea que significa «alabad a Yah»; Yah es forma abreviada del nombre divino."
     },
     {
       "num": 2,
       "he": "הַלְל֥וּהוּ בִגְבוּרֹתָ֑יו הַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃",
-      "es": ""
+      "es": "Alabadlo por sus proezas, alabadlo conforme a la inmensidad de su grandeza."
     },
     {
       "num": 3,
       "he": "הַ֭לְלוּהוּ בְּתֵ֣קַע שׁוֹפָ֑ר הַ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃",
-      "es": ""
+      "es": "Alabadlo con toque de shofar, alabadlo con nebel y kinor.",
+      "nota": "shofar — cuerno de carnero utilizado en contextos rituales y litúrgicos. nebel — instrumento de cuerda, generalmente identificado como arpa o lira de gran tamaño. kinor — instrumento de cuerda, generalmente identificado como lira."
     },
     {
       "num": 4,
       "he": "הַ֭לְלוּהוּ בְּתֹ֣ף וּמָח֑וֹל הַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעֻגָֽב׃",
-      "es": ""
+      "es": "Alabadlo con pandero y danza, alabadlo con cuerdas y ugav.",
+      "nota": "ugav — instrumento musical de viento, de identificación incierta; se mantiene en hebreo por falta de correspondencia exacta en español."
     },
     {
       "num": 5,
       "he": "הַלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃",
-      "es": ""
+      "es": "Alabadlo con címbalos sonoros, alabadlo con címbalos de aclamación."
     },
     {
       "num": 6,
       "he": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
-      "es": ""
+      "es": "Todo lo que respira alabe a Yah. ¡Haleluyah!",
+      "nota": "Yah — forma abreviada del nombre divino יהוה."
     }
   ]
 }

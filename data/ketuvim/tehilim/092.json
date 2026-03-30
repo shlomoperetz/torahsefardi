@@ -8,82 +8,85 @@
     {
       "num": 1,
       "he": "מִזְמ֥וֹר שִׁ֗יר לְי֣וֹם הַשַּׁבָּֽת׃",
-      "es": ""
+      "es": "Mizmor, cántico para el día del shabat.",
+      "nota": "SHABAT — El día séptimo de descanso; se mantiene en hebreo por ser término ritual de uso extendido."
     },
     {
       "num": 2,
       "he": "ט֗וֹב לְהֹד֥וֹת לַיהֹוָ֑ה וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן׃",
-      "es": ""
+      "es": "Bueno es dar gracias al Eterno, y cantar salmos a tu nombre, oh Altísimo;"
     },
     {
       "num": 3,
       "he": "לְהַגִּ֣יד בַּבֹּ֣קֶר חַסְדֶּ֑ךָ וֶ֝אֱמ֥וּנָתְךָ֗ בַּלֵּילֽוֹת׃",
-      "es": ""
+      "es": "proclamar por la mañana tu bondad, y tu fidelidad en las noches;"
     },
     {
       "num": 4,
       "he": "עֲֽלֵי־עָ֭שׂוֹר וַעֲלֵי־נָ֑בֶל עֲלֵ֖י הִגָּי֣וֹן בְּכִנּֽוֹר׃",
-      "es": ""
+      "es": "con el instrumento de diez cuerdas y con el nével, con la meditación del kinor.",
+      "nota": "KINOR — Instrumento musical de cuerdas, generalmente identificado como lira; se mantiene en hebreo por falta de correspondencia unívoca en español."
     },
     {
       "num": 5,
       "he": "כִּ֤י שִׂמַּחְתַּ֣נִי יְהֹוָ֣ה בְּפׇעֳלֶ֑ךָ בְּֽמַעֲשֵׂ֖י יָדֶ֣יךָ אֲרַנֵּֽן׃",
-      "es": ""
+      "es": "Porque me has alegrado, oh Eterno, con tu obra; en las obras de tus manos me regocijo."
     },
     {
       "num": 6,
       "he": "מַה־גָּדְל֣וּ מַעֲשֶׂ֣יךָ יְהֹוָ֑ה מְ֝אֹ֗ד עָמְק֥וּ מַחְשְׁבֹתֶֽיךָ׃",
-      "es": ""
+      "es": "¡Cuán grandes son tus obras, oh Eterno! ¡Muy profundos son tus pensamientos!"
     },
     {
       "num": 7,
       "he": "אִֽישׁ־בַּ֭עַר לֹ֣א יֵדָ֑ע וּ֝כְסִ֗יל לֹא־יָבִ֥ין אֶת־זֹֽאת׃",
-      "es": ""
+      "es": "El hombre necio no sabe, y el insensato no entiende esto:"
     },
     {
       "num": 8,
       "he": "בִּפְרֹ֤חַ רְשָׁעִ֨ים&thinsp;<b>׀</b> כְּמ֥וֹ־עֵ֗שֶׂב וַ֭יָּצִיצוּ כׇּל־פֹּ֣עֲלֵי אָ֑וֶן לְהִשָּׁמְדָ֥ם עֲדֵי־עַֽד׃",
-      "es": ""
+      "es": "cuando florecen los malvados como la hierba, y brotan todos los que obran iniquidad, es para ser destruidos por siempre jamás."
     },
     {
       "num": 9,
       "he": "וְאַתָּ֥ה מָר֗וֹם לְעֹלָ֥ם יְהֹוָֽה׃",
-      "es": ""
+      "es": "Pero tú eres excelso eternamente, oh Eterno."
     },
     {
       "num": 10,
       "he": "כִּ֤י הִנֵּ֪ה אֹיְבֶ֡יךָ יְֽהֹוָ֗ה כִּֽי־הִנֵּ֣ה אֹיְבֶ֣יךָ יֹאבֵ֑דוּ יִ֝תְפָּרְד֗וּ כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃",
-      "es": ""
+      "es": "Porque he aquí, tus enemigos, oh Eterno, porque he aquí, tus enemigos perecerán; serán dispersados todos los que obran iniquidad."
     },
     {
       "num": 11,
       "he": "וַתָּ֣רֶם כִּרְאֵ֣ים קַרְנִ֑י בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַעֲנָֽן׃",
-      "es": ""
+      "es": "Pero tú has exaltado mi cuerno como el del reém; he sido ungido con aceite fresco.",
+      "nota": "REÉM — Término hebreo (רְאֵם) que designa un animal de gran cornamenta, generalmente identificado como el uro o buey salvaje extinto; se mantiene en hebreo por falta de correspondencia unívoca en español."
     },
     {
       "num": 12,
       "he": "וַתַּבֵּ֥ט עֵינִ֗י בְּשׁ֫וּרָ֥י בַּקָּמִ֖ים עָלַ֥י מְרֵעִ֗ים תִּשְׁמַ֥עְנָה אׇזְנָֽי׃",
-      "es": ""
+      "es": "Y ha mirado mi ojo a los que me acechan; de los malhechores que se alzan contra mí, han oído mis oídos."
     },
     {
       "num": 13,
       "he": "צַ֭דִּיק כַּתָּמָ֣ר יִפְרָ֑ח כְּאֶ֖רֶז בַּלְּבָנ֣וֹן יִשְׂגֶּֽה׃",
-      "es": ""
+      "es": "El justo florecerá como la palmera, como el cedro en el Levanón crecerá."
     },
     {
       "num": 14,
       "he": "שְׁ֭תוּלִים בְּבֵ֣ית יְהֹוָ֑ה בְּחַצְר֖וֹת אֱלֹהֵ֣ינוּ יַפְרִֽיחוּ׃",
-      "es": ""
+      "es": "Plantados en la casa del Eterno, en los atrios de nuestro Elohim florecerán."
     },
     {
       "num": 15,
       "he": "ע֭וֹד יְנוּב֣וּן בְּשֵׂיבָ֑ה דְּשֵׁנִ֖ים וְֽרַעֲנַנִּ֣ים יִהְיֽוּ׃",
-      "es": ""
+      "es": "Aún en la vejez darán fruto, lozanos y verdes serán;"
     },
     {
       "num": 16,
       "he": "לְ֭הַגִּיד כִּֽי־יָשָׁ֣ר יְהֹוָ֑ה צ֝וּרִ֗י וְֽלֹא־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[עַוְלָ֥תָה]</span> <span class=\"mam-kq-k\">(עלתה)</span></span> בּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "para proclamar que recto es el Eterno, mi Roca, y que no hay injusticia en Él."
     }
   ]
 }
