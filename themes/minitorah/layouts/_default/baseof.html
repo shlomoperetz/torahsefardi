@@ -38,12 +38,14 @@
               <button class="tnav-lang-opt" data-lang="he">עב <span>עברית</span></button>
             </div>
           </div>
-          <div class="tnav-group">
-            <div class="tnav-view-wrap">
-              <button class="tnav-btn tnav-view active" id="btnHe" onclick="toggleView('he')" title="Hebreo">עב</button>
-              <button class="tnav-btn tnav-view active" id="btnEs" onclick="toggleView('es')" title="Español">ES</button>
-              <div class="tnav-sep"></div>
+          <div class="tnav-view-wrap">
+            <div class="view-pill">
+              <button id="btnHe" onclick="toggleView('he')" class="vp-btn active" title="Solo hebreo">עב</button>
+              <button id="btnEs" onclick="toggleView('es')" class="vp-btn active" title="Solo español">ES</button>
             </div>
+          </div>
+
+          <div class="tnav-group">
             <button class="tnav-btn" onclick="adjustFont(1)"  title="Aumentar texto">A+</button>
             <button class="tnav-btn" onclick="adjustFont(-1)" title="Reducir texto">A−</button>
             <div class="tnav-sep"></div>
