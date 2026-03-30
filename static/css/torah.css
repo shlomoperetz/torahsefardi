@@ -270,26 +270,27 @@ body.hide-es .verse-es { display: none; }
 .esta-semana {
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: 16px;
-  padding: 2rem 1.5rem 1.6rem;
+  border-top: 3px solid var(--gold);
+  border-radius: 14px;
+  padding: 1.8rem 1.5rem 1.5rem;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 6px;
+  gap: 4px;
 }
 .esm-eyebrow {
   font-family: var(--ui-font);
-  font-size: 0.55em;
+  font-size: 0.52em;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.16em;
   color: var(--gold);
-  opacity: 0.75;
-  margin-bottom: 4px;
+  opacity: 0.8;
+  margin-bottom: 8px;
 }
 .esm-he {
   font-family: var(--he-font);
-  font-size: 2.6em;
+  font-size: 2.8em;
   color: var(--gold);
   line-height: 1.1;
   direction: rtl;
@@ -297,29 +298,34 @@ body.hide-es .verse-es { display: none; }
 }
 .esm-nombre {
   font-family: var(--ui-font);
-  font-size: 0.7em;
-  font-weight: 600;
+  font-size: 0.62em;
+  font-weight: 500;
   color: var(--muted);
-  opacity: 0.7;
-  margin-bottom: 8px;
+  opacity: 0.6;
+  margin-top: 2px;
+  margin-bottom: 4px;
 }
 .esm-actions {
   display: flex;
   gap: 10px;
-  margin-top: 10px;
+  margin-top: 14px;
   flex-wrap: wrap;
   justify-content: center;
+  width: 100%;
 }
 .esm-btn {
   font-family: var(--ui-font);
   font-size: 0.6em;
   font-weight: 600;
-  padding: 10px 22px;
+  padding: 11px 0;
   border-radius: 10px;
   text-decoration: none;
   transition: opacity 0.15s, transform 0.1s;
+  flex: 1;
+  min-width: 120px;
+  text-align: center;
 }
-.esm-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+.esm-btn:hover { opacity: 0.85; transform: translateY(-1px); text-decoration: none; }
 .esm-btn-main {
   background: var(--gold);
   color: #1a1508;
