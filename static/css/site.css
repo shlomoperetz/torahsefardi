@@ -64,16 +64,28 @@ a:hover { text-decoration: underline; }
 
 /* ===== SITE HEADER WRAPPER ===== */
 .site-header {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 200;
   transition: top 0.28s ease;
 }
 .site-header.hide-header {
   top: calc(-1 * (var(--topbar-h) + var(--subbar-h)));
 }
-body.is-landing .site-header.hide-header {
+body.is-landing .site-header.hide-header,
+html.lang-he .site-header.hide-header {
   top: calc(-1 * var(--topbar-h));
+}
+
+/* Compensar el header fixed */
+main.main-content {
+  padding-top: calc(var(--topbar-h) + var(--subbar-h));
+}
+body.is-landing main.main-content,
+html.lang-he main.main-content {
+  padding-top: var(--topbar-h);
 }
 
 /* ===== TOPBAR ===== */
