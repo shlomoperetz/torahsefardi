@@ -453,7 +453,6 @@ body.is-landing .tnav-view-wrap {
 @media (max-width: 600px) {
   .tnav-fs-btn { display: none; }
   .tnav-fs-mobile { display: block; }
-  .brand-byline { display: none; }
 }
 
 /* ===== MODO HEBREO ===== */
