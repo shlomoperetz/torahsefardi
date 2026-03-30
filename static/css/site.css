@@ -67,11 +67,13 @@ a:hover { text-decoration: underline; }
   position: sticky;
   top: 0;
   z-index: 200;
-  transform: translateY(0);
-  transition: transform 0.28s ease;
+  transition: top 0.28s ease;
 }
 .site-header.hide-header {
-  transform: translateY(-100%);
+  top: calc(-1 * (var(--topbar-h) + var(--subbar-h)));
+}
+body.is-landing .site-header.hide-header {
+  top: calc(-1 * var(--topbar-h));
 }
 
 /* ===== TOPBAR ===== */
