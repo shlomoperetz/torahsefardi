@@ -8,87 +8,91 @@
     {
       "num": 1,
       "he": "אֲנִי֙ חֲבַצֶּ֣לֶת הַשָּׁר֔וֹן שׁוֹשַׁנַּ֖ת הָעֲמָקִֽים׃",
-      "es": ""
+      "es": "Yo soy la javatsélet del Sharón, la azucena de los valles.",
+      "nota": "javatsélet — Término hebreo (חֲבַצֶּלֶת) que designa una flor cuya identificación exacta es debatida; se ha interpretado como narciso, azafrán o rosa. Se mantiene en hebreo por falta de correspondencia unívoca en español."
     },
     {
       "num": 2,
       "he": "כְּשֽׁוֹשַׁנָּה֙ בֵּ֣ין הַחוֹחִ֔ים כֵּ֥ן רַעְיָתִ֖י בֵּ֥ין הַבָּנֽוֹת׃",
-      "es": ""
+      "es": "Como azucena entre los espinos, así es mi amada entre las doncellas."
     },
     {
       "num": 3,
       "he": "כְּתַפּ֙וּחַ֙ בַּעֲצֵ֣י הַיַּ֔עַר כֵּ֥ן דּוֹדִ֖י בֵּ֣ין הַבָּנִ֑ים בְּצִלּוֹ֙ חִמַּ֣דְתִּי וְיָשַׁ֔בְתִּי וּפִרְי֖וֹ מָת֥וֹק לְחִכִּֽי׃",
-      "es": ""
+      "es": "Como manzano entre los árboles del bosque, así es mi amado entre los jóvenes; a su sombra deseé y me senté, y su fruto es dulce a mi paladar."
     },
     {
       "num": 4,
       "he": "הֱבִיאַ֙נִי֙ אֶל־בֵּ֣ית הַיָּ֔יִן וְדִגְל֥וֹ עָלַ֖י אַהֲבָֽה׃",
-      "es": ""
+      "es": "Me llevó a la casa del vino, y su estandarte sobre mí es amor."
     },
     {
       "num": 5,
       "he": "סַמְּכ֙וּנִי֙ בָּאֲשִׁישׁ֔וֹת רַפְּד֖וּנִי בַּתַּפּוּחִ֑ים כִּי־חוֹלַ֥ת אַהֲבָ֖ה אָֽנִי׃",
-      "es": ""
+      "es": "Sostenedme con tortas de pasas, recostadme entre manzanas, pues enferma de amor estoy."
     },
     {
       "num": 6,
       "he": "שְׂמֹאלוֹ֙ תַּ֣חַת לְרֹאשִׁ֔י וִימִינ֖וֹ תְּחַבְּקֵֽנִי׃",
-      "es": ""
+      "es": "Su izquierda bajo mi cabeza, y su derecha me abraza."
     },
     {
       "num": 7,
       "he": "הִשְׁבַּ֨עְתִּי אֶתְכֶ֜ם בְּנ֤וֹת יְרוּשָׁלַ֙͏ִם֙ בִּצְבָא֔וֹת א֖וֹ בְּאַיְל֣וֹת הַשָּׂדֶ֑ה אִם־תָּעִ֧ירוּ&thinsp;<small>׀</small>&thinsp;וְֽאִם־תְּע֥וֹרְר֛וּ אֶת־הָאַהֲבָ֖ה עַ֥ד שֶׁתֶּחְפָּֽץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Os conjuro, hijas de Yerushaláyim, por las gacelas o por las ciervas del campo: no despertéis ni desveléis al amor hasta que él quiera.",
+      "nota": "La expresión «por las gacelas o por las ciervas del campo» (בִּצְבָאוֹת אוֹ בְּאַיְלוֹת הַשָּׂדֶה) constituye una fórmula de adjuración poética; el término צְבָאוֹת aquí no es el nombre divino Tsevaot, sino el plural de צְבִי (gacela)."
     },
     {
       "num": 8,
       "he": "ק֣וֹל דּוֹדִ֔י הִנֵּה־זֶ֖ה בָּ֑א מְדַלֵּג֙ עַל־הֶ֣הָרִ֔ים מְקַפֵּ֖ץ עַל־הַגְּבָעֽוֹת׃",
-      "es": ""
+      "es": "¡La voz de mi amado! Helo aquí que viene, saltando sobre los montes, brincando sobre las colinas."
     },
     {
       "num": 9,
       "he": "דּוֹמֶ֤ה דוֹדִי֙ לִצְבִ֔י א֖וֹ לְעֹ֣פֶר הָאַיָּלִ֑ים הִנֵּה־זֶ֤ה עוֹמֵד֙ אַחַ֣ר כׇּתְלֵ֔נוּ מַשְׁגִּ֙יחַ֙ מִן־הַֽחַלֹּנ֔וֹת מֵצִ֖יץ מִן־הַחֲרַכִּֽים׃",
-      "es": ""
+      "es": "Semejante es mi amado a una gacela o a un cervatillo de ciervos. Helo aquí que está de pie tras nuestra pared, atisbando por las ventanas, asomándose por las celosías."
     },
     {
       "num": 10,
       "he": "עָנָ֥ה דוֹדִ֖י וְאָ֣מַר לִ֑י ק֥וּמִי לָ֛ךְ רַעְיָתִ֥י יָפָתִ֖י וּלְכִי־לָֽךְ׃",
-      "es": ""
+      "es": "Respondió mi amado y me dijo: «Levántate, amada mía, hermosa mía, y ven."
     },
     {
       "num": 11,
       "he": "כִּֽי־הִנֵּ֥ה הַסְּתָ֖ו עָבָ֑ר הַגֶּ֕שֶׁם חָלַ֖ף הָלַ֥ךְ לֽוֹ׃",
-      "es": ""
+      "es": "Pues he aquí que el invierno ha pasado, la lluvia cesó y se fue."
     },
     {
       "num": 12,
       "he": "הַנִּצָּנִים֙ נִרְא֣וּ בָאָ֔רֶץ עֵ֥ת הַזָּמִ֖יר הִגִּ֑יעַ וְק֥וֹל הַתּ֖וֹר נִשְׁמַ֥ע בְּאַרְצֵֽנוּ׃",
-      "es": ""
+      "es": "Los brotes aparecen en la tierra, el tiempo de la poda ha llegado, y la voz de la tórtola se oye en nuestra tierra.",
+      "nota": "zamír — Término hebreo (זָמִיר) de doble sentido: puede significar «poda» (de las viñas) o «canto» (de las aves); ambas acepciones son válidas en el contexto primaveral."
     },
     {
       "num": 13,
       "he": "הַתְּאֵנָה֙ חָנְטָ֣ה פַגֶּ֔יהָ וְהַגְּפָנִ֥ים&thinsp;<small>׀</small>&thinsp;סְמָדַ֖ר נָ֣תְנוּ רֵ֑יחַ ק֥וּמִי <span class=\"mam-kq\"><span class=\"mam-kq-k\">(לכי)</span> <span class=\"mam-kq-q\">[לָ֛ךְ]</span></span> רַעְיָתִ֥י יָפָתִ֖י וּלְכִי־לָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "La higuera ha madurado sus higos tempranos, y las vides en flor exhalan fragancia. Levántate, amada mía, hermosa mía, y ven»."
     },
     {
       "num": 14,
       "he": "יוֹנָתִ֞י בְּחַגְוֵ֣י הַסֶּ֗לַע בְּסֵ֙תֶר֙ הַמַּדְרֵגָ֔ה הַרְאִ֙ינִי֙ אֶת־מַרְאַ֔יִךְ הַשְׁמִיעִ֖נִי אֶת־קוֹלֵ֑ךְ כִּֽי־קוֹלֵ֥ךְ עָרֵ֖ב וּמַרְאֵ֥יךְ נָאוֶֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "«Paloma mía, en las hendiduras de la roca, en lo oculto de la escarpadura, muéstrame tu semblante, hazme oír tu voz; pues tu voz es dulce, y tu semblante hermoso»."
     },
     {
       "num": 15,
       "he": "אֶֽחֱזוּ־לָ֙נוּ֙ שֻֽׁעָלִ֔ים שֻׁעָלִ֥ים קְטַנִּ֖ים מְחַבְּלִ֣ים כְּרָמִ֑ים וּכְרָמֵ֖ינוּ סְמָדַֽר׃",
-      "es": ""
+      "es": "Atrapadnos las zorras, las zorras pequeñas que arruinan las viñas, pues nuestras viñas están en flor."
     },
     {
       "num": 16,
       "he": "דּוֹדִ֥י לִי֙ וַאֲנִ֣י ל֔וֹ הָרֹעֶ֖ה בַּשּׁוֹשַׁנִּֽים׃",
-      "es": ""
+      "es": "Mi amado es mío y yo soy suya; él pastorea entre las azucenas."
     },
     {
       "num": 17,
       "he": "עַ֤ד שֶׁיָּפ֙וּחַ֙ הַיּ֔וֹם וְנָ֖סוּ הַצְּלָלִ֑ים סֹב֩ דְּמֵה־לְךָ֨ דוֹדִ֜י לִצְבִ֗י א֛וֹ לְעֹ֥פֶר הָאַיָּלִ֖ים עַל־הָ֥רֵי בָֽתֶר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Hasta que sople el día y huyan las sombras, vuélvete, sé semejante, amado mío, a una gacela o a un cervatillo de ciervos, sobre los montes de Béter.",
+      "nota": "Béter — Nombre de lugar (בָּתֶר) cuyo significado literal es «hendidura» o «separación»; su identificación geográfica es incierta."
     }
   ]
 }
