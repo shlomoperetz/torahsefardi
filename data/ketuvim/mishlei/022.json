@@ -8,147 +8,150 @@
     {
       "num": 1,
       "he": "נִבְחָ֣ר שֵׁ֭ם מֵעֹ֣שֶׁר רָ֑ב מִכֶּ֥סֶף וּ֝מִזָּהָ֗ב חֵ֣ן טֽוֹב׃",
-      "es": ""
+      "es": "Más escogido es el buen nombre que las grandes riquezas; mejor que la plata y el oro es la gracia."
     },
     {
       "num": 2,
       "he": "עָשִׁ֣יר וָרָ֣שׁ נִפְגָּ֑שׁוּ עֹשֵׂ֖ה כֻלָּ֣ם יְהֹוָֽה׃",
-      "es": ""
+      "es": "El rico y el pobre se encuentran; a todos ellos los hizo el Eterno."
     },
     {
       "num": 3,
       "he": "עָר֤וּם&thinsp;<b>׀</b> רָאָ֣ה רָעָ֣ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויסתר)</span> <span class=\"mam-kq-q\">[וְנִסְתָּ֑ר]</span></span> וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ׃",
-      "es": ""
+      "es": "El sagaz ve el mal y se oculta, mas los ingenuos pasan adelante y son castigados.",
+      "nota": "**sagaz** — Heb. עָרוּם (arum), «prudente, astuto»; designa al hombre perspicaz que anticipa el peligro."
     },
     {
       "num": 4,
       "he": "עֵ֣קֶב עֲ֭נָוָה יִרְאַ֣ת יְהֹוָ֑ה עֹ֖שֶׁר וְכָב֣וֹד וְחַיִּֽים׃",
-      "es": ""
+      "es": "El fruto de la humildad es el temor del Eterno: riqueza, honra y vida."
     },
     {
       "num": 5,
       "he": "צִנִּ֣ים פַּ֭חִים בְּדֶ֣רֶךְ עִקֵּ֑שׁ שׁוֹמֵ֥ר נַ֝פְשׁ֗וֹ יִרְחַ֥ק מֵהֶֽם׃",
-      "es": ""
+      "es": "Espinas y trampas hay en el camino del perverso; quien guarda su alma se alejará de ellos."
     },
     {
       "num": 6,
       "he": "חֲנֹ֣ךְ לַ֭נַּעַר עַל־פִּ֣י דַרְכּ֑וֹ גַּ֥ם כִּי־יַ֝זְקִ֗ין לֹא־יָס֥וּר מִמֶּֽנָּה׃",
-      "es": ""
+      "es": "Educa al joven conforme a su camino; aun cuando envejezca, no se apartará de él."
     },
     {
       "num": 7,
       "he": "עָ֭שִׁיר בְּרָשִׁ֣ים יִמְשׁ֑וֹל וְעֶ֥בֶד לֹ֝וֶ֗ה לְאִ֣ישׁ מַלְוֶֽה׃",
-      "es": ""
+      "es": "El rico domina sobre los pobres, y el que toma prestado es siervo del que presta."
     },
     {
       "num": 8,
       "he": "זוֹרֵ֣עַ עַ֭וְלָה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(יקצור)</span> <span class=\"mam-kq-q\">[יִקְצׇר־]</span></span>אָ֑וֶן וְשֵׁ֖בֶט עֶבְרָת֣וֹ יִכְלֶֽה׃",
-      "es": ""
+      "es": "El que siembra injusticia cosechará iniquidad, y la vara de su furor se acabará."
     },
     {
       "num": 9,
       "he": "טֽוֹב־עַ֭יִן ה֣וּא יְבֹרָ֑ךְ כִּֽי־נָתַ֖ן מִלַּחְמ֣וֹ לַדָּֽל׃",
-      "es": ""
+      "es": "El de ojo generoso, él será bendecido, porque dio de su pan al menesteroso."
     },
     {
       "num": 10,
       "he": "גָּ֣רֵֽשׁ לֵ֭ץ וְיֵצֵ֣א מָד֑וֹן וְ֝יִשְׁבֹּ֗ת דִּ֣ין וְקָלֽוֹן׃",
-      "es": ""
+      "es": "Expulsa al burlador y saldrá la contienda, y cesarán el pleito y la afrenta."
     },
     {
       "num": 11,
       "he": "אֹהֵ֥ב <span class=\"mam-kq\"><span class=\"mam-kq-k\">(טהור)</span> <span class=\"mam-kq-q\">[טְהׇר־]</span></span>לֵ֑ב חֵ֥ן שְׂ֝פָתָ֗יו רֵעֵ֥הוּ מֶֽלֶךְ׃",
-      "es": ""
+      "es": "El que ama la pureza de corazón, la gracia hay en sus labios: el rey será su amigo."
     },
     {
       "num": 12,
       "he": "עֵינֵ֣י יְ֭הֹוָה נָ֣צְרוּ דָ֑עַת וַ֝יְסַלֵּ֗ף דִּבְרֵ֥י בֹגֵֽד׃",
-      "es": ""
+      "es": "Los ojos del Eterno guardan el conocimiento, mas Él trastorna las palabras del traidor."
     },
     {
       "num": 13,
       "he": "אָמַ֣ר עָ֭צֵל אֲרִ֣י בַח֑וּץ בְּת֥וֹךְ רְ֝חֹב֗וֹת אֵרָצֵֽחַ׃",
-      "es": ""
+      "es": "Dice el perezoso: «¡Un león hay afuera! ¡En medio de las plazas seré muerto!»."
     },
     {
       "num": 14,
       "he": "שׁוּחָ֣ה עֲ֭מֻקָּה פִּ֣י זָר֑וֹת זְע֥וּם יְ֝הֹוָ֗ה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(יפול)</span> <span class=\"mam-kq-q\">[יִפׇּל־]</span></span>שָֽׁם׃",
-      "es": ""
+      "es": "Fosa profunda es la boca de las mujeres extrañas; aquel contra quien se aíra el Eterno caerá allí."
     },
     {
       "num": 15,
       "he": "אִ֭וֶּלֶת קְשׁוּרָ֣ה בְלֶב־נָ֑עַר שֵׁ֥בֶט מ֝וּסָ֗ר יַרְחִיקֶ֥נָּה מִמֶּֽנּוּ׃",
-      "es": ""
+      "es": "La necedad está atada al corazón del joven; la vara de la disciplina la alejará de él."
     },
     {
       "num": 16,
       "he": "עֹ֣שֵֽׁק דָּ֭ל לְהַרְבּ֣וֹת ל֑וֹ נֹתֵ֥ן לְ֝עָשִׁ֗יר אַךְ־לְמַחְסֽוֹר׃",
-      "es": ""
+      "es": "El que oprime al pobre para acrecentar lo suyo, y el que da al rico, solo llegará a la carencia."
     },
     {
       "num": 17,
       "he": "הַ֥ט אׇזְנְךָ֗ וּ֭שְׁמַע דִּבְרֵ֣י חֲכָמִ֑ים וְ֝לִבְּךָ֗ תָּשִׁ֥ית לְדַעְתִּֽי׃",
-      "es": ""
+      "es": "Inclina tu oído y escucha las palabras de los sabios, y aplica tu corazón a mi conocimiento."
     },
     {
       "num": 18,
       "he": "כִּֽי־נָ֭עִים כִּֽי־תִשְׁמְרֵ֣ם בְּבִטְנֶ֑ךָ יִכֹּ֥נוּ יַ֝חְדָּ֗ו עַל־שְׂפָתֶֽיךָ׃",
-      "es": ""
+      "es": "Pues es cosa agradable si las guardas en tu interior; se dispondrán a una sobre tus labios."
     },
     {
       "num": 19,
       "he": "לִֽהְי֣וֹת בַּ֭יהֹוָה מִבְטַחֶ֑ךָ הוֹדַעְתִּ֖יךָ הַיּ֣וֹם אַף־אָֽתָּה׃",
-      "es": ""
+      "es": "Para que en el Eterno sea tu confianza, te las he dado a conocer hoy, sí, a ti."
     },
     {
       "num": 20,
       "he": "הֲלֹ֤א כָתַ֣בְתִּֽי לְ֭ךָ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(שלשום)</span> <span class=\"mam-kq-q\">[שָׁלִישִׁ֑ים]</span></span> בְּמֹ֖עֵצ֣וֹת וָדָֽעַת׃",
-      "es": ""
+      "es": "¿Acaso no te he escrito cosas excelentes, con consejos y conocimiento,",
+      "nota": "**cosas excelentes** — Heb. שָׁלִישִׁים (shalishim), término de interpretación debatida; se ha entendido como «treinta dichos» o «cosas excelentes, importantes»."
     },
     {
       "num": 21,
       "he": "לְהֽוֹדִיעֲךָ֗ קֹ֭שְׁטְ אִמְרֵ֣י אֱמֶ֑ת לְהָשִׁ֥יב אֲמָרִ֥ים אֱ֝מֶ֗ת לְשֹׁלְחֶֽיךָ׃",
-      "es": ""
+      "es": "para hacerte saber la certeza de las palabras de verdad, a fin de que puedas responder palabras de verdad a quienes te envían?"
     },
     {
       "num": 22,
       "he": "אַֽל־תִּגְזׇל־דָּ֭ל כִּ֣י דַל־ה֑וּא וְאַל־תְּדַכֵּ֖א עָנִ֣י בַשָּֽׁעַר׃",
-      "es": ""
+      "es": "No despojes al pobre porque es pobre, ni aplastes al afligido en la puerta."
     },
     {
       "num": 23,
       "he": "כִּֽי־יְ֭הֹוָה יָרִ֣יב רִיבָ֑ם וְקָבַ֖ע אֶת־קֹבְעֵיהֶ֣ם נָֽפֶשׁ׃",
-      "es": ""
+      "es": "Porque el Eterno defenderá su causa, y despojará el alma de quienes los despojan."
     },
     {
       "num": 24,
       "he": "אַל־תִּ֭תְרַע אֶת־בַּ֣עַל אָ֑ף וְאֶת־אִ֥ישׁ חֵ֝מ֗וֹת לֹ֣א תָבֽוֹא׃",
-      "es": ""
+      "es": "No te acompañes del hombre iracundo, ni vayas con el hombre de furores,"
     },
     {
       "num": 25,
       "he": "פֶּן־תֶּאֱלַ֥ף <span class=\"mam-kq-trivial\">אֹרְחֹתָ֑ו</span> וְלָקַחְתָּ֖ מוֹקֵ֣שׁ לְנַפְשֶֽׁךָ׃",
-      "es": ""
+      "es": "no sea que aprendas sus caminos y tomes trampa para tu alma."
     },
     {
       "num": 26,
       "he": "אַל־תְּהִ֥י בְתֹֽקְעֵי־כָ֑ף בַּ֝עֹרְבִ֗ים מַשָּׁאֽוֹת׃",
-      "es": ""
+      "es": "No estés entre los que estrechan la mano, entre los que salen fiadores de deudas."
     },
     {
       "num": 27,
       "he": "אִם־אֵֽין־לְךָ֥ לְשַׁלֵּ֑ם לָ֥מָּה יִקַּ֥ח מִ֝שְׁכָּבְךָ֗ מִתַּחְתֶּֽיךָ׃",
-      "es": ""
+      "es": "Si no tienes con qué pagar, ¿por qué habrán de quitar tu lecho de debajo de ti?"
     },
     {
       "num": 28,
       "he": "אַל־תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם אֲשֶׁ֖ר עָשׂ֣וּ אֲבוֹתֶֽיךָ׃",
-      "es": ""
+      "es": "No muevas el lindero antiguo que hicieron tus padres."
     },
     {
       "num": 29,
       "he": "חָזִ֡יתָ אִ֤ישׁ&thinsp;<b>׀</b> מָ֘הִ֤יר בִּמְלַאכְתּ֗וֹ לִֽפְנֵי־מְלָכִ֥ים יִתְיַצָּ֑ב בַּל־יִ֝תְיַצֵּ֗ב לִפְנֵ֥י חֲשֻׁכִּֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "¿Has visto hombre diligente en su labor? Ante reyes se presentará; no se presentará ante los oscuros.",
+      "nota": "**oscuros** — Heb. חֲשֻׁכִּים (jashujim), «gente oscura, insignificante»; designa a personas de baja condición, en contraste con los reyes."
     }
   ]
 }
