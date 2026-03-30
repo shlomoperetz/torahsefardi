@@ -8,92 +8,94 @@
     {
       "num": 1,
       "he": "דִּבְרֵי֙ קֹהֶ֣לֶת בֶּן־דָּוִ֔ד מֶ֖לֶךְ בִּירוּשָׁלָֽ͏ִם׃",
-      "es": ""
+      "es": "Palabras de Kohélet, hijo de David, rey en Yerushaláyim.",
+      "nota": "Kohélet — Término hebreo (קֹהֶלֶת) derivado de la raíz קהל (congregar); designa al que congrega o habla ante la asamblea. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 2,
       "he": "הֲבֵ֤ל הֲבָלִים֙ אָמַ֣ר קֹהֶ֔לֶת הֲבֵ֥ל הֲבָלִ֖ים הַכֹּ֥ל הָֽבֶל׃",
-      "es": ""
+      "es": "Hével havalim, dijo Kohélet, hével havalim, todo es hével.",
+      "nota": "hével — Heb. הֶבֶל, literalmente «soplo», «vapor»; designa lo efímero, vano e insustancial. Se mantiene en hebreo por su amplitud semántica irreductible a un solo término español."
     },
     {
       "num": 3,
       "he": "מַה־יִּתְר֖וֹן לָֽאָדָ֑ם בְּכׇ֨ל־עֲמָל֔וֹ שֶֽׁיַּעֲמֹ֖ל תַּ֥חַת הַשָּֽׁמֶשׁ׃",
-      "es": ""
+      "es": "¿Qué provecho tiene el hombre en todo su afán con que se afana bajo el sol?"
     },
     {
       "num": 4,
       "he": "דּ֤וֹר הֹלֵךְ֙ וְד֣וֹר בָּ֔א וְהָאָ֖רֶץ לְעוֹלָ֥ם עֹמָֽדֶת׃",
-      "es": ""
+      "es": "Una generación va y otra generación viene, mas la tierra por siempre permanece."
     },
     {
       "num": 5,
       "he": "וְזָרַ֥ח הַשֶּׁ֖מֶשׁ וּבָ֣א הַשָּׁ֑מֶשׁ וְאֶ֨ל־מְקוֹמ֔וֹ שׁוֹאֵ֛ף זוֹרֵ֥חַֽ ה֖וּא שָֽׁם׃",
-      "es": ""
+      "es": "Sale el sol y se pone el sol, y hacia su lugar anhela; allí vuelve a salir."
     },
     {
       "num": 6,
       "he": "הוֹלֵךְ֙ אֶל־דָּר֔וֹם וְסוֹבֵ֖ב אֶל־צָפ֑וֹן סוֹבֵ֤ב&thinsp;<small>׀</small>&thinsp;סֹבֵב֙ הוֹלֵ֣ךְ הָר֔וּחַ וְעַל־סְבִיבֹתָ֖יו שָׁ֥ב הָרֽוּחַ׃",
-      "es": ""
+      "es": "Va hacia el sur y gira hacia el norte; gira y gira va el viento, y sobre sus giros retorna el viento."
     },
     {
       "num": 7,
       "he": "כׇּל־הַנְּחָלִים֙ הֹלְכִ֣ים אֶל־הַיָּ֔ם וְהַיָּ֖ם אֵינֶ֣נּוּ מָלֵ֑א אֶל־מְק֗וֹם שֶׁ֤הַנְּחָלִים֙ הֹֽלְכִ֔ים שָׁ֛ם הֵ֥ם שָׁבִ֖ים לָלָֽכֶת׃",
-      "es": ""
+      "es": "Todos los arroyos van al mar, y el mar no se llena; al lugar adonde los arroyos van, allí vuelven a ir."
     },
     {
       "num": 8,
       "he": "כׇּל־הַדְּבָרִ֣ים יְגֵעִ֔ים לֹא־יוּכַ֥ל אִ֖ישׁ לְדַבֵּ֑ר לֹא־תִשְׂבַּ֥ע עַ֙יִן֙ לִרְא֔וֹת וְלֹא־תִמָּלֵ֥א אֹ֖זֶן מִשְּׁמֹֽעַ׃",
-      "es": ""
+      "es": "Todas las cosas son fatigosas, no puede el hombre expresarlo; no se sacia el ojo de ver, ni se llena el oído de oír."
     },
     {
       "num": 9,
       "he": "מַה־שֶּֽׁהָיָה֙ ה֣וּא שֶׁיִּהְיֶ֔ה וּמַה־שֶּׁנַּֽעֲשָׂ֔ה ה֖וּא שֶׁיֵּעָשֶׂ֑ה וְאֵ֥ין כׇּל־חָדָ֖שׁ תַּ֥חַת הַשָּֽׁמֶשׁ׃",
-      "es": ""
+      "es": "Lo que fue, eso será; y lo que se hizo, eso se hará; y no hay nada nuevo bajo el sol."
     },
     {
       "num": 10,
       "he": "יֵ֥שׁ דָּבָ֛ר שֶׁיֹּאמַ֥ר רְאֵה־זֶ֖ה חָדָ֣שׁ ה֑וּא כְּבָר֙ הָיָ֣ה לְעֹֽלָמִ֔ים אֲשֶׁ֥ר הָיָ֖ה מִלְּפָנֵֽנוּ׃",
-      "es": ""
+      "es": "Hay algo de lo que se diga: «Mira, esto es nuevo»; ya fue en las edades que fueron antes de nosotros."
     },
     {
       "num": 11,
       "he": "אֵ֥ין זִכְר֖וֹן לָרִאשֹׁנִ֑ים וְגַ֨ם לָאַחֲרֹנִ֜ים שֶׁיִּהְי֗וּ לֹֽא־יִהְיֶ֤ה לָהֶם֙ זִכָּר֔וֹן עִ֥ם שֶׁיִּהְי֖וּ לָאַחֲרֹנָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "No hay memoria de los primeros, y también de los últimos que vendrán no habrá memoria de ellos entre los que vengan después."
     },
     {
       "num": 12,
       "he": "אֲנִ֣י קֹהֶ֗לֶת הָיִ֥יתִי מֶ֛לֶךְ עַל־יִשְׂרָאֵ֖ל בִּירוּשָׁלָֽ͏ִם׃",
-      "es": ""
+      "es": "Yo, Kohélet, fui rey sobre Yisrael en Yerushaláyim."
     },
     {
       "num": 13,
       "he": "וְנָתַ֣תִּי אֶת־לִבִּ֗י לִדְר֤וֹשׁ וְלָתוּר֙ בַּֽחׇכְמָ֔ה עַ֛ל כׇּל־אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם ה֣וּא&thinsp;<b>׀</b> עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃",
-      "es": ""
+      "es": "Y dispuse mi corazón a inquirir y a explorar con sabiduría acerca de todo lo que se hace bajo los cielos; es una penosa ocupación que Elohim ha dado a los hijos del hombre para que se afanen en ella."
     },
     {
       "num": 14,
       "he": "רָאִ֙יתִי֙ אֶת־כׇּל־הַֽמַּעֲשִׂ֔ים שֶֽׁנַּעֲשׂ֖וּ תַּ֣חַת הַשָּׁ֑מֶשׁ וְהִנֵּ֥ה הַכֹּ֛ל הֶ֖בֶל וּרְע֥וּת רֽוּחַ׃",
-      "es": ""
+      "es": "Vi todas las obras que se hacen bajo el sol, y he aquí que todo es hével y aflicción de espíritu."
     },
     {
       "num": 15,
       "he": "מְעֻוָּ֖ת לֹא־יוּכַ֣ל לִתְקֹ֑ן וְחֶסְר֖וֹן לֹא־יוּכַ֥ל לְהִמָּנֽוֹת׃",
-      "es": ""
+      "es": "Lo torcido no puede enderezarse, y lo que falta no puede contarse."
     },
     {
       "num": 16,
       "he": "דִּבַּ֨רְתִּי אֲנִ֤י עִם־לִבִּי֙ לֵאמֹ֔ר אֲנִ֗י הִנֵּ֨ה הִגְדַּ֤לְתִּי וְהוֹסַ֙פְתִּי֙ חׇכְמָ֔ה עַ֛ל כׇּל־אֲשֶׁר־הָיָ֥ה לְפָנַ֖י עַל־יְרוּשָׁלָ֑͏ִם וְלִבִּ֛י רָאָ֥ה הַרְבֵּ֖ה חׇכְמָ֥ה וָדָֽעַת׃",
-      "es": ""
+      "es": "Hablé yo con mi corazón diciendo: «Yo, he aquí que he engrandecido y acrecentado sabiduría sobre todos los que fueron antes de mí sobre Yerushaláyim, y mi corazón ha visto mucha sabiduría y conocimiento»."
     },
     {
       "num": 17,
       "he": "וָאֶתְּנָ֤ה לִבִּי֙ לָדַ֣עַת חׇכְמָ֔ה וְדַ֥עַת הוֹלֵלֹ֖ת וְשִׂכְל֑וּת יָדַ֕עְתִּי שֶׁגַּם־זֶ֥ה ה֖וּא רַעְי֥וֹן רֽוּחַ׃",
-      "es": ""
+      "es": "Y dispuse mi corazón a conocer sabiduría, y a conocer locura y necedad; comprendí que también esto es aflicción de espíritu."
     },
     {
       "num": 18,
       "he": "כִּ֛י בְּרֹ֥ב חׇכְמָ֖ה רׇב־כָּ֑עַס וְיוֹסִ֥יף דַּ֖עַת יוֹסִ֥יף מַכְאֽוֹב׃",
-      "es": ""
+      "es": "Porque en mucha sabiduría hay mucho enojo, y quien añade conocimiento añade dolor."
     }
   ]
 }
