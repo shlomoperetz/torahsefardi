@@ -62,11 +62,23 @@ a:hover { text-decoration: underline; }
   unicode-bidi: plaintext;
 }
 
-/* ===== TOPBAR ===== */
-header.topbar {
+/* ===== SITE HEADER WRAPPER ===== */
+.site-header {
   position: sticky;
   top: 0;
   z-index: 200;
+  transform: translateY(0);
+  transition: transform 0.28s ease;
+}
+.site-header.hide-header {
+  transform: translateY(-100%);
+}
+
+/* ===== TOPBAR ===== */
+header.topbar {
+  position: relative;
+  top: auto;
+  z-index: auto;
   height: var(--topbar-h);
   background: color-mix(in srgb, var(--bg) 90%, transparent);
   backdrop-filter: blur(18px);
@@ -378,9 +390,9 @@ nav.bottombar .bbtn {
 
 /* ===== SUBBAR: selector de vista עב / ES ===== */
 .subbar {
-  position: sticky;
-  top: var(--topbar-h);
-  z-index: 190;
+  position: relative;
+  top: auto;
+  z-index: auto;
   height: var(--subbar-h);
   background: color-mix(in srgb, var(--bg) 94%, transparent);
   backdrop-filter: blur(12px);

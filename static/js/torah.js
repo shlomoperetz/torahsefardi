@@ -1,4 +1,28 @@
 // TORAH.JS
+
+// ── Auto-hide header: ocultar al bajar, mostrar al subir ──
+(function(){
+  var hdr=document.getElementById('site-header');
+  if(!hdr)return;
+  var lastY=0,ticking=false;
+  window.addEventListener('scroll',function(){
+    if(ticking)return;
+    ticking=true;
+    requestAnimationFrame(function(){
+      var y=window.scrollY||window.pageYOffset;
+      if(y<=10){
+        hdr.classList.remove('hide-header');
+      } else if(y<lastY-4){
+        hdr.classList.remove('hide-header');
+      } else if(y>lastY+4){
+        hdr.classList.add('hide-header');
+      }
+      lastY=y;
+      ticking=false;
+    });
+  },{passive:true});
+})();
+
 (function(){
   var t=localStorage.getItem('theme');
   var dark=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;
