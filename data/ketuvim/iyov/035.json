@@ -8,82 +8,85 @@
     {
       "num": 1,
       "he": "וַיַּ֥עַן אֱלִיה֗וּ וַיֹּאמַֽר׃",
-      "es": ""
+      "es": "Respondió Elihú y dijo:"
     },
     {
       "num": 2,
       "he": "הֲ֭זֹאת חָשַׁ֣בְתָּ לְמִשְׁפָּ֑ט אָ֝מַ֗רְתָּ צִדְקִ֥י מֵאֵֽל׃",
-      "es": ""
+      "es": "«¿Esto consideras justo? Dijiste: \"Mi justicia es mayor que la de Dios\".",
+      "nota": "ELOHIM — Aquí el hebreo usa אֵל (El), forma abreviada del nombre divino que designa a Dios en su atributo de poder."
     },
     {
       "num": 3,
       "he": "כִּֽי־תֹ֭אמַר מַה־יִּסְכׇּן־לָ֑ךְ מָה־אֹ֝עִ֗יל מֵחַטָּאתִֽי׃",
-      "es": ""
+      "es": "Pues dices: \"¿Qué provecho me trae? ¿Qué gano más que si pecara?\""
     },
     {
       "num": 4,
       "he": "אֲ֭נִי אֲשִֽׁיבְךָ֣ מִלִּ֑ין וְֽאֶת־רֵעֶ֥יךָ עִמָּֽךְ׃",
-      "es": ""
+      "es": "Yo te responderé con palabras, y a tus compañeros contigo."
     },
     {
       "num": 5,
       "he": "הַבֵּ֣ט שָׁמַ֣יִם וּרְאֵ֑ה וְשׁ֥וּר שְׁ֝חָקִ֗ים גָּבְה֥וּ מִמֶּֽךָּ׃",
-      "es": ""
+      "es": "Mira a los cielos y observa, contempla las nubes, cuán altas están sobre ti."
     },
     {
       "num": 6,
       "he": "אִם־חָ֭טָאתָ מַה־תִּפְעׇל־בּ֑וֹ וְרַבּ֥וּ פְ֝שָׁעֶ֗יךָ מַה־תַּֽעֲשֶׂה־לּֽוֹ׃",
-      "es": ""
+      "es": "Si pecas, ¿qué le haces a Él? Si se multiplican tus transgresiones, ¿qué le causas?"
     },
     {
       "num": 7,
       "he": "אִם־צָ֭דַקְתָּ מַה־תִּתֶּן־ל֑וֹ א֥וֹ מַה־מִּיָּדְךָ֥ יִקָּֽח׃",
-      "es": ""
+      "es": "Si eres justo, ¿qué le das? ¿O qué recibe Él de tu mano?"
     },
     {
       "num": 8,
       "he": "לְאִישׁ־כָּמ֥וֹךָ רִשְׁעֶ֑ךָ וּלְבֶן־אָ֝דָ֗ם צִדְקָתֶֽךָ׃",
-      "es": ""
+      "es": "A un hombre como tú afecta tu maldad, y a un hijo de hombre, tu justicia."
     },
     {
       "num": 9,
       "he": "מֵ֭רֹב עֲשׁוּקִ֣ים יַזְעִ֑יקוּ יְשַׁוְּע֖וּ מִזְּר֣וֹעַ רַבִּֽים׃",
-      "es": ""
+      "es": "Por la multitud de opresiones claman, piden auxilio ante el brazo de los poderosos."
     },
     {
       "num": 10,
       "he": "וְֽלֹא־אָמַ֗ר אַ֭יֵּה אֱל֣וֹהַּ עֹשָׂ֑י נֹתֵ֖ן זְמִר֣וֹת בַּלָּֽיְלָה׃",
-      "es": ""
+      "es": "Pero nadie dice: \"¿Dónde está Elóah, mi Hacedor, el que concede cantos en la noche,",
+      "nota": "ELÓAH — Forma singular del nombre divino (אֱלוֹהַּ), frecuente en el libro de Iyov, que designa a Dios."
     },
     {
       "num": 11,
       "he": "מַ֭לְּפֵנוּ מִבַּהֲמ֣וֹת אָ֑רֶץ וּמֵע֖וֹף הַשָּׁמַ֣יִם יְחַכְּמֵֽנוּ׃",
-      "es": ""
+      "es": "el que nos enseña más que a las bestias de la tierra, y nos hace más sabios que las aves del cielo?\""
     },
     {
       "num": 12,
       "he": "שָׁ֣ם יִ֭צְעֲקוּ וְלֹ֣א יַעֲנֶ֑ה מִ֝פְּנֵ֗י גְּא֣וֹן רָעִֽים׃",
-      "es": ""
+      "es": "Allí claman, pero Él no responde, a causa de la soberbia de los malvados."
     },
     {
       "num": 13,
       "he": "אַךְ־שָׁ֭וְא לֹא־יִשְׁמַ֥ע&thinsp;<small>׀</small>&thinsp;אֵ֑ל וְ֝שַׁדַּ֗י לֹ֣א יְשׁוּרֶֽנָּה׃",
-      "es": ""
+      "es": "Ciertamente, vanidad no escucha Dios, y Shaday no la atiende.",
+      "nota": "SHADAY — Nombre divino שַׁדַּי, que designa a Dios en su atributo de poder omnipotente."
     },
     {
       "num": 14,
       "he": "אַ֣ף כִּֽי־תֹ֭אמַר לֹ֣א תְשׁוּרֶ֑נּוּ דִּ֥ין לְ֝פָנָ֗יו וּתְח֥וֹלֵֽל לֽוֹ׃",
-      "es": ""
+      "es": "¡Cuánto menos cuando dices que no lo percibes! El juicio está ante Él: espera en Él."
     },
     {
       "num": 15,
       "he": "וְעַתָּ֗ה כִּי־אַ֭יִן פָּקַ֣ד אַפּ֑וֹ וְלֹֽא־יָדַ֖ע בַּפַּ֣שׁ מְאֹֽד׃",
-      "es": ""
+      "es": "Y ahora, porque Su ira no castiga, y no conoce bien la transgresión,"
     },
     {
       "num": 16,
       "he": "וְ֭אִיּוֹב הֶ֣בֶל יִפְצֶה־פִּ֑יהוּ בִּבְלִי־דַ֝֗עַת מִלִּ֥ין יַכְבִּֽר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Iyov abre su boca en vano, sin conocimiento multiplica palabras»."
     }
   ]
 }

@@ -8,132 +8,134 @@
     {
       "num": 1,
       "he": "אַֽחֲרֵי־כֵ֗ן פָּתַ֤ח אִיּוֹב֙ אֶת־פִּ֔יהוּ וַיְקַלֵּ֖ל אֶת־יוֹמֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Después de esto, abrió Iyov su boca y maldijo su día."
     },
     {
       "num": 2,
       "he": "וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃",
-      "es": ""
+      "es": "Y respondió Iyov y dijo:"
     },
     {
       "num": 3,
       "he": "יֹ֣אבַד י֭וֹם אִוָּ֣לֶד בּ֑וֹ וְהַלַּ֥יְלָה אָ֝מַ֗ר הֹ֣רָה גָֽבֶר׃",
-      "es": ""
+      "es": "«¡Perezca el día en que nací, y la noche que dijo: \"Un varón ha sido concebido\"!"
     },
     {
       "num": 4,
       "he": "הַיּ֥וֹם הַה֗וּא יְֽהִ֫י<span class=\"mam-implicit-maqaf\">־</span>חֹ֥שֶׁךְ אַֽל־יִדְרְשֵׁ֣הוּ אֱל֣וֹהַּ מִמַּ֑עַל וְאַל־תּוֹפַ֖ע עָלָ֣יו נְהָרָֽה׃",
-      "es": ""
+      "es": "Aquel día, sea tinieblas; no lo busque Elóah desde lo alto, ni resplandezca sobre él la luz."
     },
     {
       "num": 5,
       "he": "יִגְאָלֻ֡הוּ חֹ֣שֶׁךְ וְ֭צַלְמָוֶת תִּשְׁכׇּן־עָלָ֣יו עֲנָנָ֑ה יְ֝בַעֲתֻ֗הוּ כִּֽמְרִ֥ירֵי יֽוֹם׃",
-      "es": ""
+      "es": "Reclamenlo la oscuridad y la sombra de muerte; more sobre él la nube, aterroricenlo los que oscurecen el día.",
+      "nota": "sombra de muerte — Heb. צַלְמָוֶת (tsalmávet); expresión que designa oscuridad profunda y mortal, asociada al sheol y a la angustia extrema."
     },
     {
       "num": 6,
       "he": "הַלַּ֥יְלָה הַהוּא֮ יִקָּחֵ֢ה֫וּ אֹ֥פֶל אַל־יִ֭חַדְּ בִּימֵ֣י שָׁנָ֑ה בְּמִסְפַּ֥ר יְ֝רָחִ֗ים אַל־יָבֹֽא׃",
-      "es": ""
+      "es": "Aquella noche, ¡apodérese de ella la lobreguez! No se cuente entre los días del año, en el número de los meses no entre."
     },
     {
       "num": 7,
       "he": "הִנֵּ֤ה הַלַּ֣יְלָה הַ֭הוּא יְהִ֣י גַלְמ֑וּד אַל־תָּב֖וֹא רְנָנָ֣ה בֽוֹ׃",
-      "es": ""
+      "es": "He aquí, aquella noche sea estéril; no venga en ella canto de júbilo."
     },
     {
       "num": 8,
       "he": "יִקְּבֻ֥הוּ אֹֽרְרֵי־י֑וֹם הָ֝עֲתִידִ֗ים עֹרֵ֥ר לִוְיָתָֽן׃",
-      "es": ""
+      "es": "Maldíganla los que maldicen el día, los que están prontos a despertar al livyatán.",
+      "nota": "livyatán — Heb. לִוְיָתָן; criatura marina primordial de proporciones míticas; su naturaleza exacta es debatida. Se mantiene en hebreo por falta de equivalente semántico exacto en español."
     },
     {
       "num": 9,
       "he": "יֶחְשְׁכוּ֮ כּוֹכְבֵ֢י נִ֫שְׁפּ֥וֹ יְקַו־לְא֥וֹר וָאַ֑יִן וְאַל־יִ֝רְאֶ֗ה בְּעַפְעַפֵּי־שָֽׁחַר׃",
-      "es": ""
+      "es": "Oscurézcanse las estrellas de su alba; espere la luz, y no venga, y no vea los párpados de la aurora."
     },
     {
       "num": 10,
       "he": "כִּ֤י לֹ֣א סָ֭גַר דַּלְתֵ֣י בִטְנִ֑י וַיַּסְתֵּ֥ר עָ֝מָ֗ל מֵעֵינָֽי׃",
-      "es": ""
+      "es": "Porque no cerró las puertas del vientre que me llevó, ni escondió el sufrimiento de mis ojos."
     },
     {
       "num": 11,
       "he": "לָ֤מָּה לֹּ֣א מֵרֶ֣חֶם אָמ֑וּת מִבֶּ֖טֶן יָצָ֣אתִי וְאֶגְוָֽע׃",
-      "es": ""
+      "es": "¿Por qué no morí desde la matriz? ¿Por qué no expiré al salir del vientre?"
     },
     {
       "num": 12,
       "he": "מַ֭דּוּעַ קִדְּמ֣וּנִי בִרְכָּ֑יִם וּמַה־שָּׁ֝דַ֗יִם כִּ֣י אִינָֽק׃",
-      "es": ""
+      "es": "¿Por qué me recibieron rodillas? ¿Y por qué pechos, para que mamara?"
     },
     {
       "num": 13,
       "he": "כִּֽי־עַ֭תָּה שָׁכַ֣בְתִּי וְאֶשְׁק֑וֹט יָ֝שַׁ֗נְתִּי אָ֤ז&thinsp;<b>׀</b> יָנ֬וּחַֽ לִֽי׃",
-      "es": ""
+      "es": "Pues ahora estaría acostado y en calma, dormiría; entonces tendría reposo,"
     },
     {
       "num": 14,
       "he": "עִם־מְ֭לָכִים וְיֹ֣עֲצֵי אָ֑רֶץ הַבֹּנִ֖ים חֳרָב֣וֹת לָֽמוֹ׃",
-      "es": ""
+      "es": "con reyes y consejeros de la tierra, los que edificaron ruinas para sí,"
     },
     {
       "num": 15,
       "he": "א֣וֹ עִם־שָׂ֭רִים זָהָ֣ב לָהֶ֑ם הַֽמְמַלְאִ֖ים בָּתֵּיהֶ֣ם כָּֽסֶף׃",
-      "es": ""
+      "es": "o con príncipes que tenían oro, los que llenaban de plata sus casas."
     },
     {
       "num": 16,
       "he": "א֤וֹ כְנֵ֣פֶל טָ֭מוּן לֹ֣א אֶהְיֶ֑ה כְּ֝עֹלְלִ֗ים לֹא־רָ֥אוּ אֽוֹר׃",
-      "es": ""
+      "es": "O como aborto oculto, no existiría, como criaturas que no vieron la luz."
     },
     {
       "num": 17,
       "he": "שָׁ֣ם רְ֭שָׁעִים חָ֣דְלוּ רֹ֑גֶז וְשָׁ֥ם יָ֝נ֗וּחוּ יְגִ֣יעֵי כֹֽחַ׃",
-      "es": ""
+      "es": "Allí los malvados cesan de agitar, y allí reposan los fatigados de fuerza."
     },
     {
       "num": 18,
       "he": "יַ֭חַד אֲסִירִ֣ים שַׁאֲנָ֑נוּ לֹ֥א שָׁ֝מְע֗וּ ק֣וֹל נֹגֵֽשׂ׃",
-      "es": ""
+      "es": "Juntos los cautivos están en calma; no oyen la voz del opresor."
     },
     {
       "num": 19,
       "he": "קָטֹ֣ן וְ֭גָדוֹל שָׁ֣ם ה֑וּא וְ֝עֶ֗בֶד חׇפְשִׁ֥י מֵאֲדֹנָֽיו׃",
-      "es": ""
+      "es": "Pequeño y grande, allí son iguales, y el siervo es libre de su señor."
     },
     {
       "num": 20,
       "he": "לָ֤מָּה יִתֵּ֣ן לְעָמֵ֣ל א֑וֹר וְ֝חַיִּ֗ים לְמָ֣רֵי נָֽפֶשׁ׃",
-      "es": ""
+      "es": "¿Por qué da luz al que sufre, y vida a los amargados de alma,"
     },
     {
       "num": 21,
       "he": "הַֽמְחַכִּ֣ים לַמָּ֣וֶת וְאֵינֶ֑נּוּ וַֽ֝יַּחְפְּרֻ֗הוּ מִמַּטְמוֹנִֽים׃",
-      "es": ""
+      "es": "los que esperan la muerte y no viene, y la buscan más que a tesoros escondidos,"
     },
     {
       "num": 22,
       "he": "הַשְּׂמֵחִ֥ים אֱלֵי־גִ֑יל יָ֝שִׂ֗ישׂוּ כִּ֣י יִמְצְאוּ־קָֽבֶר׃",
-      "es": ""
+      "es": "los que se alegran con regocijo, se gozan cuando hallan la sepultura?"
     },
     {
       "num": 23,
       "he": "לְ֭גֶבֶר אֲשֶׁר־דַּרְכּ֣וֹ נִסְתָּ֑רָה וַיָּ֖סֶךְ אֱל֣וֹהַּ בַּעֲדֽוֹ׃",
-      "es": ""
+      "es": "¿Por qué dar luz al hombre cuyo camino está oculto, a quien Elóah ha cercado por todos lados?"
     },
     {
       "num": 24,
       "he": "כִּֽי־לִפְנֵ֣י לַ֭חְמִי אַנְחָתִ֣י תָבֹ֑א וַֽיִּתְּכ֥וּ כַ֝מַּ֗יִם שַׁאֲגֹתָֽי׃",
-      "es": ""
+      "es": "Pues antes de mi pan viene mi gemido, y se derraman como aguas mis rugidos."
     },
     {
       "num": 25,
       "he": "כִּ֤י פַ֣חַד פָּ֭חַדְתִּי וַיֶּאֱתָיֵ֑נִי וַאֲשֶׁ֥ר יָ֝גֹ֗רְתִּי יָ֣בֹא לִֽי׃",
-      "es": ""
+      "es": "Porque el temor que temí me ha sobrevenido, y lo que me espantaba me ha alcanzado."
     },
     {
       "num": 26,
       "he": "לֹ֤א שָׁלַ֨וְתִּי&thinsp;<b>׀</b> וְלֹ֖א שָׁקַ֥טְתִּי וְֽלֹא־נָ֗חְתִּי וַיָּ֥בֹא רֹֽגֶז׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "No tuve sosiego, ni quietud, ni reposo, y vino la turbación»."
     }
   ]
 }
