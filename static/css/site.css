@@ -411,6 +411,11 @@ body.is-landing .tnav-view-wrap {
   display: none;
 }
 
+/* ===== MÓVIL: ocultar A+/A− (pinch-to-zoom disponible) ===== */
+@media (max-width: 600px) {
+  .tnav-fontsize-wrap { display: none; }
+}
+
 /* ===== MODO HEBREO ===== */
 html.lang-he .landing-wrap { direction: rtl; }
 html.lang-he .landing-books { direction: rtl; }
