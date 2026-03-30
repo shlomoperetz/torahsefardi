@@ -88,5 +88,20 @@
       "primera_he": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־תֵּ֠ימ...",
       "primera_es": "Y harás el atrio del mishkán; para el lado del néguev, hacia el sur, cortinas pa..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 5:26 – 6:13",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 5,
+        "v_start": 26,
+        "ch_end": 6,
+        "v_end": 13
+      }
+    ]
+  }
 }

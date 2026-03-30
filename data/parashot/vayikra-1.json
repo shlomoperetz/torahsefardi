@@ -88,5 +88,20 @@
       "primera_he": "וְאִם־לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣...",
       "primera_es": "Y si su mano no alcanzare para dos tórtolas o para dos pichones de paloma, traer..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 43:21 – 44:23",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 43,
+        "v_start": 21,
+        "ch_end": 44,
+        "v_end": 23
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 46:13–28",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 46,
+        "v_start": 13,
+        "ch_end": 46,
+        "v_end": 28
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "וְאֶ֨ת־זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ...",
       "primera_es": "Y con varón no te acostarás como se acuesta con mujer; abominación es."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yejezkel 22:1–19",
+    "libro": "yehezkel",
+    "libro_nombre": "Yejezkel",
+    "libro_he": "יְחֶזְקֵאל",
+    "ranges": [
+      {
+        "libro": "yehezkel",
+        "ch_start": 22,
+        "v_start": 1,
+        "ch_end": 22,
+        "v_end": 19
+      }
+    ]
+  }
 }

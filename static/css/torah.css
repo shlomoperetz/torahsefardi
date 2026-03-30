@@ -855,3 +855,56 @@ h1.landing-main-title {
 .tile-sub-parasha {
   font-style: italic;
 }
+
+/* ── Haftará card en página de parasha ─────────────────────────────────── */
+.haftara-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 18px;
+  padding: 14px 18px;
+  border-radius: 12px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  color: var(--text);
+  transition: background 0.15s, border-color 0.15s;
+}
+.haftara-card:hover {
+  background: var(--hover-bg);
+  border-color: var(--gold);
+}
+.haftara-card-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 48px;
+  gap: 2px;
+}
+.haftara-he {
+  font-family: var(--he-font);
+  font-size: 0.95em;
+  color: var(--gold);
+  direction: rtl;
+  line-height: 1.2;
+}
+.haftara-label {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  opacity: 0.55;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.haftara-libro {
+  font-family: var(--ui-font);
+  font-size: 0.6em;
+  font-weight: 600;
+  opacity: 0.7;
+  flex: 1;
+}
+.haftara-ref {
+  font-family: var(--ui-font);
+  font-size: 0.6em;
+  opacity: 0.55;
+  margin-left: auto;
+}

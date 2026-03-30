@@ -88,5 +88,20 @@
       "primera_he": "לֹא־תַעֲשֹׁ֥ק שָׂכִ֖יר עָנִ֣י וְאֶבְי֑וֹן מֵאַחֶ֕יךָ א֧וֹ מִ...",
       "primera_es": "No oprimirás a jornalero pobre y necesitado, de tus hermanos o de tu forastero q..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 54:1–10",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 54,
+        "v_start": 1,
+        "ch_end": 54,
+        "v_end": 10
+      }
+    ]
+  }
 }

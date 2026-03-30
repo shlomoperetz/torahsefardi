@@ -88,5 +88,20 @@
       "primera_he": "רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֙יךָ֙ הַיּ֔וֹם אֶת־הַֽחַיִּ֖ים וְאֶת־...",
       "primera_es": "Mira, he puesto delante de ti hoy la vida y el bien, y la muerte y el mal."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 61:10 – 63:9",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 61,
+        "v_start": 10,
+        "ch_end": 63,
+        "v_end": 9
+      }
+    ]
+  }
 }

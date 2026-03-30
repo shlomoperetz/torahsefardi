@@ -88,5 +88,20 @@
       "primera_he": "וַיֹּ֤אמֶר אֲלֵיהֶם֙ מֹשֶׁ֔ה אִֽם־תַּעֲשׂ֖וּן אֶת־הַדָּבָ֣ר ...",
       "primera_es": "Y dijo Moshé a ellos: «Si hacéis esta cosa, si os armáis delante del Eterno para..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 1:1 – 2:3",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 3
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "כִּֽי־תִקְרַ֣ב אֶל־עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵל...",
       "primera_es": "Cuando te acerques a una ciudad para combatir contra ella, la convocarás a la pa..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 51:12 – 52:12",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 51,
+        "v_start": 12,
+        "ch_end": 52,
+        "v_end": 12
+      }
+    ]
+  }
 }

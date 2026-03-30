@@ -88,5 +88,20 @@
       "primera_he": "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־נִכְמְר֤וּ רַחֲמָיו֙ אֶל־אָחִ֔יו וַ...",
       "primera_es": "Y se apresuró Yosef, porque se conmovieron sus entrañas hacia su hermano, y busc..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 3:15 – 4:1",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 3,
+        "v_start": 15,
+        "ch_end": 4,
+        "v_end": 1
+      }
+    ]
+  }
 }

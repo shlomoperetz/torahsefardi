@@ -88,5 +88,20 @@
       "primera_he": "וְלֹ֤א תֵֽלְכוּ֙ בְּחֻקֹּ֣ת הַגּ֔וֹי אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖...",
       "primera_es": "Y no andaréis en las costumbres de la nación que yo envío de delante de vosotros..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Amós 9:7–15",
+    "libro": "amos",
+    "libro_nombre": "Amós",
+    "libro_he": "עָמוֹס",
+    "ranges": [
+      {
+        "libro": "amos",
+        "ch_start": 9,
+        "v_start": 7,
+        "ch_end": 9,
+        "v_end": 15
+      }
+    ]
+  }
 }

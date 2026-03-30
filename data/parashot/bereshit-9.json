@@ -88,5 +88,20 @@
       "primera_he": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָ֥טְא֛וּ מַשְׁקֵ֥ה מ...",
       "primera_es": "Y sucedió después de estas cosas que pecaron el copero del rey de Mitsráyim y el..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Amós 2:6 – 3:8",
+    "libro": "amos",
+    "libro_nombre": "Amós",
+    "libro_he": "עָמוֹס",
+    "ranges": [
+      {
+        "libro": "amos",
+        "ch_start": 2,
+        "v_start": 6,
+        "ch_end": 3,
+        "v_end": 8
+      }
+    ]
+  }
 }

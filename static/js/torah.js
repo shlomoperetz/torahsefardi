@@ -501,10 +501,79 @@ if(document.readyState==='loading'){
   initTorahPage();
 }
 
-// Run parasha de la semana highlight + aliyah page init after DOM ready
+// Haftara verse loader
+async function initHaftaraPage(){
+  var ctx=window.HAFTARA_CTX;
+  if(typeof ctx==='string'){try{ctx=JSON.parse(ctx);}catch(e){ctx=null;}}
+  if(!ctx||!ctx.ranges)return;
+
+  // Update topbar crumb
+  var crumb=document.getElementById('topbar-crumb');
+  if(crumb){
+    crumb.innerHTML=
+      '<a href="/parashot/">Parashot</a>'
+      +'<span class="crumb-sep">›</span>'
+      +'<a href="'+ctx.parasha_url+'">'+ctx.parasha+'</a>'
+      +'<span class="crumb-sep">›</span>'
+      +'<span class="crumb-current">Haftará</span>';
+  }
+
+  var container=document.getElementById('haftara-verses');
+  if(!container)return;
+
+  // Collect unique chapters per libro
+  var toFetch={};
+  ctx.ranges.forEach(function(r){
+    if(!toFetch[r.libro])toFetch[r.libro]=[];
+    for(var ch=r.ch_start;ch<=r.ch_end;ch++){
+      if(toFetch[r.libro].indexOf(ch)===-1)toFetch[r.libro].push(ch);
+    }
+  });
+
+  // Fetch all needed chapters
+  var chData={};
+  var libros=Object.keys(toFetch);
+  for(var li=0;li<libros.length;li++){
+    var libro=libros[li];
+    var chs=toFetch[libro];
+    for(var ci=0;ci<chs.length;ci++){
+      var ch=chs[ci];
+      var key=libro+'_'+ch;
+      var url='/neviim/'+libro+'/'+String(ch).padStart(3,'0')+'/index.json';
+      try{
+        var res=await fetch(url);
+        if(res.ok){var d=await res.json();chData[key]=d.verses||[];}
+      }catch(e){console.warn('haftara fetch',url,e);}
+    }
+  }
+
+  // Build verse HTML from ranges in order
+  var html='<div class="torah-verses">';
+  ctx.ranges.forEach(function(r){
+    for(var ch=r.ch_start;ch<=r.ch_end;ch++){
+      var verses=chData[r.libro+'_'+ch]||[];
+      var vStart=(ch===r.ch_start)?r.v_start:1;
+      var vEnd=(ch===r.ch_end)?r.v_end:9999;
+      verses.forEach(function(v){
+        if(v.num>=vStart&&v.num<=vEnd)html+=buildVerse(v);
+      });
+    }
+  });
+  html+='</div>';
+
+  if(html==='<div class="torah-verses"></div>'){
+    container.innerHTML='<div style="padding:2rem;opacity:0.5;text-align:center;font-family:var(--ui-font);font-size:0.6em">No se pudieron cargar los versículos.</div>';
+  }else{
+    container.innerHTML=html;
+    applyView();
+  }
+}
+
+// Run parasha de la semana highlight + aliyah/haftara page init after DOM ready
 function initParashaFeatures(){
   highlightCurrentParasha();
   if(window.ALIYA_CTX)initAliyaPage();
+  if(window.HAFTARA_CTX)initHaftaraPage();
 }
 if(document.readyState==='loading'){
   document.addEventListener('DOMContentLoaded',initParashaFeatures);

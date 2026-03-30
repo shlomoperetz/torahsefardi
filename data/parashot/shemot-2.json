@@ -88,5 +88,20 @@
       "primera_he": "עוֹדְךָ֖ מִסְתּוֹלֵ֣ל בְּעַמִּ֑י לְבִלְתִּ֖י שַׁלְּחָֽם׃",
       "primera_es": "«Todavía te enalteces contra mi pueblo para no dejarlos ir."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yejezkel 28:25 – 29:21",
+    "libro": "yehezkel",
+    "libro_nombre": "Yejezkel",
+    "libro_he": "יְחֶזְקֵאל",
+    "ranges": [
+      {
+        "libro": "yehezkel",
+        "ch_start": 28,
+        "v_start": 25,
+        "ch_end": 29,
+        "v_end": 21
+      }
+    ]
+  }
 }

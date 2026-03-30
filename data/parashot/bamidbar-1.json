@@ -88,5 +88,20 @@
       "primera_he": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé y a Aharón, diciendo:"
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Hoshea 2:1–22",
+    "libro": "hoshea",
+    "libro_nombre": "Hoshea",
+    "libro_he": "הוֹשֵׁעַ",
+    "ranges": [
+      {
+        "libro": "hoshea",
+        "ch_start": 2,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 22
+      }
+    ]
+  }
 }

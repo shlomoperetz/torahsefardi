@@ -88,5 +88,20 @@
       "primera_he": "וְלִבְנֵ֣י לֵוִ֔י הִנֵּ֥ה נָתַ֛תִּי כׇּל־מַֽעֲשֵׂ֥ר בְּיִשְׂ...",
       "primera_es": "Y a los hijos de Leví, he aquí he dado todo diezmo en Yisrael por heredad, a cam..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Shemuel I 11:14 – 12:22",
+    "libro": "shmuel1",
+    "libro_nombre": "Shemuel I",
+    "libro_he": "שְׁמוּאֵל א",
+    "ranges": [
+      {
+        "libro": "shmuel1",
+        "ch_start": 11,
+        "v_start": 14,
+        "ch_end": 12,
+        "v_end": 22
+      }
+    ]
+  }
 }

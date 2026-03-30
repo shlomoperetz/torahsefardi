@@ -88,5 +88,20 @@
       "primera_he": "וְכׇל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵ...",
       "primera_es": "Y todo el pueblo veía los truenos y los relámpagos, y el sonido del shofar, y el..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 6:1 – 7:6",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 6,
+        "v_start": 1,
+        "ch_end": 7,
+        "v_end": 6
+      }
+    ]
+  }
 }

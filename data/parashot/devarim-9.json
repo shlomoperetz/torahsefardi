@@ -22,5 +22,27 @@
       "primera_he": "וַיֵּ֖לֶךְ מֹשֶׁ֑ה וַיְדַבֵּ֛ר אֶת־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶ...",
       "primera_es": "Y fue Moshé y habló estas palabras a todo Yisrael."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Hoshea 14:2–10; Mikháh 7:18–20",
+    "libro": "hoshea",
+    "libro_nombre": "Hoshea",
+    "libro_he": "הוֹשֵׁעַ",
+    "ranges": [
+      {
+        "libro": "hoshea",
+        "ch_start": 14,
+        "v_start": 2,
+        "ch_end": 14,
+        "v_end": 10
+      },
+      {
+        "libro": "mikhah",
+        "ch_start": 7,
+        "v_start": 18,
+        "ch_end": 7,
+        "v_end": 20
+      }
+    ]
+  }
 }

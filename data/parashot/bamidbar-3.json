@@ -88,5 +88,20 @@
       "primera_he": "וַיֵּאָסֵ֥ף מֹשֶׁ֖ה אֶל־הַֽמַּחֲנֶ֑ה ה֖וּא וְזִקְנֵ֥י יִשְׂר...",
       "primera_es": "Y se recogió Moshé al campamento, él y los ancianos de Yisrael."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Zejaryá 2:14 – 4:7",
+    "libro": "zekharyah",
+    "libro_nombre": "Zejaryá",
+    "libro_he": "זְכַרְיָה",
+    "ranges": [
+      {
+        "libro": "zekharyah",
+        "ch_start": 2,
+        "v_start": 14,
+        "ch_end": 4,
+        "v_end": 7
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "בְּיוֹם֙ עַשְׁתֵּ֣י עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י אָשֵׁ֑ר ...",
       "primera_es": "En el día undécimo, el príncipe de los hijos de Ashér: Paguiel hijo de Ojrán."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Shoftim 13:2–25",
+    "libro": "shoftim",
+    "libro_nombre": "Shoftim",
+    "libro_he": "שׁוֹפְטִים",
+    "ranges": [
+      {
+        "libro": "shoftim",
+        "ch_start": 13,
+        "v_start": 2,
+        "ch_end": 13,
+        "v_end": 25
+      }
+    ]
+  }
 }

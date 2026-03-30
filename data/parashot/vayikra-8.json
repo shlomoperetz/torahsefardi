@@ -88,5 +88,20 @@
       "primera_he": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
       "primera_es": "Y habló el Eterno a Moshé, diciendo:"
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yejezkel 44:15–31",
+    "libro": "yehezkel",
+    "libro_nombre": "Yejezkel",
+    "libro_he": "יְחֶזְקֵאל",
+    "ranges": [
+      {
+        "libro": "yehezkel",
+        "ch_start": 44,
+        "v_start": 15,
+        "ch_end": 44,
+        "v_end": 31
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "וְרָאָ֨ה הַכֹּהֵ֜ן אַחֲרֵ֣י&thinsp;׀ הֻכַּבֵּ֣ס אֶת־הַנֶּ֗גַ...",
       "primera_es": "Y verá el cohén después de haber sido lavada la afección, y he aquí que no ha ca..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim II 4:42 – 5:19",
+    "libro": "melakhim2",
+    "libro_nombre": "Melakhim II",
+    "libro_he": "מְלָכִים ב",
+    "ranges": [
+      {
+        "libro": "melakhim2",
+        "ch_start": 4,
+        "v_start": 42,
+        "ch_end": 5,
+        "v_end": 19
+      }
+    ]
+  }
 }

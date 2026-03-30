@@ -88,5 +88,20 @@
       "primera_he": "וַיַּ֨עַן לָבָ֜ן וַיֹּ֣אמֶר אֶֽל־יַעֲקֹ֗ב הַבָּנ֨וֹת בְּנֹתַ...",
       "primera_es": "Y respondió Laván y dijo a Yaakov: «Las hijas son mis hijas, y los hijos son mis..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Hoshea 11:7 – 12:12",
+    "libro": "hoshea",
+    "libro_nombre": "Hoshea",
+    "libro_he": "הוֹשֵׁעַ",
+    "ranges": [
+      {
+        "libro": "hoshea",
+        "ch_start": 11,
+        "v_start": 7,
+        "ch_end": 12,
+        "v_end": 12
+      }
+    ]
+  }
 }

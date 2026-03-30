@@ -88,5 +88,20 @@
       "primera_he": "וְעַתָּה֙ אַל־תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽ...",
       "primera_es": "Y ahora, no temáis; yo os sustentaré a vosotros y a vuestros pequeños. Y los con..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 2:1–12",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 2,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 12
+      }
+    ]
+  }
 }

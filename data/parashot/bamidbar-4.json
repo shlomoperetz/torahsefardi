@@ -88,5 +88,20 @@
       "primera_he": "וְאִם־נֶ֥פֶשׁ אַחַ֖ת תֶּחֱטָ֣א בִשְׁגָגָ֑ה וְהִקְרִ֛יבָה עֵ֥...",
       "primera_es": "Y si una persona pecare por inadvertencia, ofrecerá una cabra de un año como ofr..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yehoshúa 2:1–24",
+    "libro": "yehoshua",
+    "libro_nombre": "Yehoshúa",
+    "libro_he": "יְהוֹשֻׁעַ",
+    "ranges": [
+      {
+        "libro": "yehoshua",
+        "ch_start": 2,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 24
+      }
+    ]
+  }
 }

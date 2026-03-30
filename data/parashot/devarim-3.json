@@ -88,5 +88,20 @@
       "primera_he": "כִּי֩ אִם־שָׁמֹ֨ר תִּשְׁמְר֜וּן אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֗א...",
       "primera_es": "Porque si guardar guardareis todo este mandamiento que yo os ordeno para cumplir..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 49:14 – 51:3",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 49,
+        "v_start": 14,
+        "ch_end": 51,
+        "v_end": 3
+      }
+    ]
+  }
 }

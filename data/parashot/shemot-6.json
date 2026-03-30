@@ -88,5 +88,27 @@
       "primera_he": "לֹ֥א תִהְיֶ֛ה מְשַׁכֵּלָ֥ה וַעֲקָרָ֖ה בְּאַרְצֶ֑ךָ אֶת־מִסְפ...",
       "primera_es": "No habrá mujer que pierda sus crías ni estéril en tu tierra; el número de tus dí..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 34:8–22; 33:25–26",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 34,
+        "v_start": 8,
+        "ch_end": 34,
+        "v_end": 22
+      },
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 33,
+        "v_start": 25,
+        "ch_end": 33,
+        "v_end": 26
+      }
+    ]
+  }
 }

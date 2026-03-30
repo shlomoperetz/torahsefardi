@@ -88,5 +88,20 @@
       "primera_he": "וְאֵ֛לֶּה תֹּלְדֹ֥ת יִשְׁמָעֵ֖אל בֶּן־אַבְרָהָ֑ם אֲשֶׁ֨ר יָל...",
       "primera_es": "Y estas son las generaciones de Yishmael hijo de Avraham, al que dio a luz Hagar..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 1:1–31",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 1,
+        "v_end": 31
+      }
+    ]
+  }
 }

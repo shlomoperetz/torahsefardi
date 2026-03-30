@@ -88,5 +88,27 @@
       "primera_he": "וַֽיִּקְרְב֞וּ רָאשֵׁ֣י הָֽאָב֗וֹת לְמִשְׁפַּ֤חַת בְּנֵֽי־גִ...",
       "primera_es": "Y se acercaron los jefes de los padres de la familia de los hijos de Guilad hijo..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 2:4–28; 3:4",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 2,
+        "v_start": 4,
+        "ch_end": 2,
+        "v_end": 28
+      },
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 3,
+        "v_start": 4,
+        "ch_end": 3,
+        "v_end": 4
+      }
+    ]
+  }
 }

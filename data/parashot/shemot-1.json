@@ -88,5 +88,20 @@
       "primera_he": "וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל־פַּרְעֹ...",
       "primera_es": "Y después vinieron Moshé y Aharón y dijeron a Paró: «Así ha dicho el Eterno, Elo..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 1:1 – 2:3",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 3
+      }
+    ]
+  }
 }

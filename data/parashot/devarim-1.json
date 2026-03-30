@@ -88,5 +88,20 @@
       "primera_he": "וּלְמָכִ֖יר נָתַ֥תִּי אֶת־הַגִּלְעָֽד׃",
       "primera_es": "Y a Majir di el Guilad."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 1:1–27",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 1,
+        "v_end": 27
+      }
+    ]
+  }
 }

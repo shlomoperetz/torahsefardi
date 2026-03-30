@@ -88,5 +88,20 @@
       "primera_he": "כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ...",
       "primera_es": "Todo primogénito que nazca en tu ganado vacuno y en tu ganado menor, el macho, c..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 54:11 – 55:5",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 54,
+        "v_start": 11,
+        "ch_end": 55,
+        "v_end": 5
+      }
+    ]
+  }
 }

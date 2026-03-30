@@ -22,6 +22,17 @@
     {{ end }}
   </div>
 
+  {{ if $data.haftara }}
+  <a href="/parashot/{{ $slug }}/haftara/" class="haftara-card">
+    <div class="haftara-card-badge">
+      <span class="haftara-he">הַפְטָרָה</span>
+      <span class="haftara-label">Haftará</span>
+    </div>
+    <div class="haftara-libro">{{ $data.haftara.libro_nombre }}</div>
+    <div class="haftara-ref">{{ $data.haftara.ref_es }}</div>
+  </a>
+  {{ end }}
+
   <div class="parasha-nav">
     {{ if $data.prev_slug }}
     {{ $prev := index .Site.Data.parashot $data.prev_slug }}

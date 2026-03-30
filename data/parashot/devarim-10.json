@@ -22,5 +22,20 @@
       "primera_he": "הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה&nbsp;&nbsp;&nbsp;&nbs...",
       "primera_es": "Prestad oído, cielos, y hablaré; y escuche la tierra los dichos de mi boca."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Shemuel II 22:1–51",
+    "libro": "shmuel2",
+    "libro_nombre": "Shemuel II",
+    "libro_he": "שְׁמוּאֵל ב",
+    "ranges": [
+      {
+        "libro": "shmuel2",
+        "ch_start": 22,
+        "v_start": 1,
+        "ch_end": 22,
+        "v_end": 51
+      }
+    ]
+  }
 }

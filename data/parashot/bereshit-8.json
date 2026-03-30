@@ -88,5 +88,20 @@
       "primera_he": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ לוֹטָ֥ן ...",
       "primera_es": "Estos son los hijos de Seír el jorí, habitantes de la tierra: Lotán y Shoval y T..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Ovadyá 1:1–21",
+    "libro": "ovadyah",
+    "libro_nombre": "Ovadyá",
+    "libro_he": "עֹבַדְיָה",
+    "ranges": [
+      {
+        "libro": "ovadyah",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 1,
+        "v_end": 21
+      }
+    ]
+  }
 }

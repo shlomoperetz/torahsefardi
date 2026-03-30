@@ -88,5 +88,20 @@
       "primera_he": "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיחֹ֥ן מֶֽלֶךְ־הָא...",
       "primera_es": "Y envió Yisrael mensajeros a Sijón, rey del emorí, diciendo:"
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Shoftim 11:1–33",
+    "libro": "shoftim",
+    "libro_nombre": "Shoftim",
+    "libro_he": "שׁוֹפְטִים",
+    "ranges": [
+      {
+        "libro": "shoftim",
+        "ch_start": 11,
+        "v_start": 1,
+        "ch_end": 11,
+        "v_end": 33
+      }
+    ]
+  }
 }

@@ -88,5 +88,27 @@
       "primera_he": "וַיִּקַּ֨ח מֹשֶׁ֜ה מִשֶּׁ֣מֶן הַמִּשְׁחָ֗ה וּמִן־הַדָּם֮ אֲש...",
       "primera_es": "Y tomó Moshé del aceite de la unción y de la sangre que estaba sobre el altar, y..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 7:21 – 8:3; 9:22–23",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 7,
+        "v_start": 21,
+        "ch_end": 8,
+        "v_end": 3
+      },
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 9,
+        "v_start": 22,
+        "ch_end": 9,
+        "v_end": 23
+      }
+    ]
+  }
 }

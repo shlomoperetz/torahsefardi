@@ -88,5 +88,20 @@
       "primera_he": "וְכׇ֨ל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ כֹּ...",
       "primera_es": "Y todo utensilio de barro dentro del cual caiga algo de ellos, todo lo que haya ..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Shemuel II 6:1 – 7:17",
+    "libro": "shmuel2",
+    "libro_nombre": "Shemuel II",
+    "libro_he": "שְׁמוּאֵל ב",
+    "ranges": [
+      {
+        "libro": "shmuel2",
+        "ch_start": 6,
+        "v_start": 1,
+        "ch_end": 7,
+        "v_end": 17
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תּ...",
       "primera_es": "Y harás un altar para quemar incienso; de madera de shitim lo harás."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yejezkel 43:10–27",
+    "libro": "yehezkel",
+    "libro_nombre": "Yejezkel",
+    "libro_he": "יְחֶזְקֵאל",
+    "ranges": [
+      {
+        "libro": "yehezkel",
+        "ch_start": 43,
+        "v_start": 10,
+        "ch_end": 43,
+        "v_end": 27
+      }
+    ]
+  }
 }

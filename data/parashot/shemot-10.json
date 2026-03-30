@@ -88,5 +88,20 @@
       "primera_he": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ א...",
       "primera_es": "Y hizo el altar del holocausto de madera de shitim; cinco codos su largo y cinco..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 7:40–50",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 7,
+        "v_start": 40,
+        "ch_end": 7,
+        "v_end": 50
+      }
+    ]
+  }
 }

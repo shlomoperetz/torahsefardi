@@ -88,5 +88,20 @@
       "primera_he": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כְּתׇב־לְךָ֖ אֶת־הַדְּבָרִ֣י...",
       "primera_es": "Y dijo el Eterno a Moshé: «Escribe para ti estas palabras, pues conforme a estas..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 18:1–39",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 18,
+        "v_start": 1,
+        "ch_end": 18,
+        "v_end": 39
+      }
+    ]
+  }
 }

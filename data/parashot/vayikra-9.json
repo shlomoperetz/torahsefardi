@@ -88,5 +88,20 @@
       "primera_he": "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ...",
       "primera_es": "Y si alcanzare la mano del extranjero y residente contigo, y tu hermano empobrec..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yirmiyahu 32:6–27",
+    "libro": "yirmiyahu",
+    "libro_nombre": "Yirmiyahu",
+    "libro_he": "יִרְמְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yirmiyahu",
+        "ch_start": 32,
+        "v_start": 6,
+        "ch_end": 32,
+        "v_end": 27
+      }
+    ]
+  }
 }

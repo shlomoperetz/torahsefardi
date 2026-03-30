@@ -88,5 +88,20 @@
       "primera_he": "וּבַחֲמִשָּׁה֩ עָשָׂ֨ר י֜וֹם לַחֹ֣דֶשׁ הַשְּׁבִיעִ֗י מִֽקְרָ...",
       "primera_es": "Y en el quince día del mes séptimo, convocación santa será para vosotros; toda l..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim I 18:46 – 19:21",
+    "libro": "melakhim1",
+    "libro_nombre": "Melakhim I",
+    "libro_he": "מְלָכִים א",
+    "ranges": [
+      {
+        "libro": "melakhim1",
+        "ch_start": 18,
+        "v_start": 46,
+        "ch_end": 19,
+        "v_end": 21
+      }
+    ]
+  }
 }

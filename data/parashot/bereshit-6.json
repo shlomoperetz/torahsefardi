@@ -88,5 +88,20 @@
       "primera_he": "וַיִּשְׁלַ֤ח יִצְחָק֙ אֶֽת־יַעֲקֹ֔ב וַיֵּ֖לֶךְ פַּדֶּ֣נָֽה א...",
       "primera_es": "Y envió Yitsjak a Yaakov, y fue a Padán Aram, a Laván hijo de Betuel el arameo, ..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Malaji 1:1 – 2:7",
+    "libro": "malakhi",
+    "libro_nombre": "Malají",
+    "libro_he": "מַלְאָכִי",
+    "ranges": [
+      {
+        "libro": "malakhi",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 2,
+        "v_end": 7
+      }
+    ]
+  }
 }

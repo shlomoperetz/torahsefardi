@@ -88,5 +88,20 @@
       "primera_he": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖...",
       "primera_es": "Y fue después de estas cosas, que Elohim probó a Avraham, y le dijo: «Avraham». ..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim II 4:1–37",
+    "libro": "melakhim2",
+    "libro_nombre": "Melakhim II",
+    "libro_he": "מְלָכִים ב",
+    "ranges": [
+      {
+        "libro": "melakhim2",
+        "ch_start": 4,
+        "v_start": 1,
+        "ch_end": 4,
+        "v_end": 37
+      }
+    ]
+  }
 }

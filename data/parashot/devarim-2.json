@@ -88,5 +88,20 @@
       "primera_he": "כִּ֤י יְבִֽיאֲךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ אֶל־הָאָ֕רֶץ אֲשֶׁר־אַ...",
       "primera_es": "Cuando te traiga el Eterno tu Elohim a la tierra adonde tú entras para poseerla,..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 40:1–26",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 40,
+        "v_start": 1,
+        "ch_end": 40,
+        "v_end": 26
+      }
+    ]
+  }
 }

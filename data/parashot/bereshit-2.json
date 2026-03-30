@@ -88,5 +88,20 @@
       "primera_he": "וַיְהִ֥י כׇל־הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים׃",
       "primera_es": "Y fue toda la tierra una lengua y palabras unas."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 54:1 – 55:5",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 54,
+        "v_start": 1,
+        "ch_end": 55,
+        "v_end": 5
+      }
+    ]
+  }
 }

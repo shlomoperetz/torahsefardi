@@ -88,5 +88,20 @@
       "primera_he": "וּבַיּ֣וֹם הַשְּׁמִינִ֗י תִּֽקַּֽח־לָהּ֙ שְׁתֵּ֣י תֹרִ֔ים א֥...",
       "primera_es": "Y en el día octavo tomará para sí dos tórtolas o dos pichones de paloma, y los t..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Melakhim II 7:3–20",
+    "libro": "melakhim2",
+    "libro_nombre": "Melakhim II",
+    "libro_he": "מְלָכִים ב",
+    "ranges": [
+      {
+        "libro": "melakhim2",
+        "ch_start": 7,
+        "v_start": 3,
+        "ch_end": 7,
+        "v_end": 20
+      }
+    ]
+  }
 }

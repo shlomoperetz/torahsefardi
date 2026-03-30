@@ -88,5 +88,20 @@
       "primera_he": "וַיִּקְרָ֥א מֹשֶׁ֛ה אֶל־כׇּל־יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם...",
       "primera_es": "Y llamó Moshé a todo Yisrael y les dijo: «Vosotros habéis visto todo lo que hizo..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 60:1–22",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 60,
+        "v_start": 1,
+        "ch_end": 60,
+        "v_end": 22
+      }
+    ]
+  }
 }

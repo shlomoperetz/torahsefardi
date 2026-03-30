@@ -88,5 +88,20 @@
       "primera_he": "וַהֲקִמֹתִ֨י אֶת־בְּרִיתִ֜י בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֨ין זַרְ...",
       "primera_es": "Y estableceré Mi pacto entre Mí y entre ti, y entre tu descendencia después de t..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 40:27 – 41:16",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 40,
+        "v_start": 27,
+        "ch_end": 41,
+        "v_end": 16
+      }
+    ]
+  }
 }

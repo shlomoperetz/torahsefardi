@@ -88,5 +88,20 @@
       "primera_he": "וַיַּ֨עַל מֹשֶׁ֜ה מֵעַרְבֹ֤ת מוֹאָב֙ אֶל־הַ֣ר נְב֔וֹ רֹ֚אשׁ ...",
       "primera_es": "Y subió Moshé desde las llanuras de Moav al monte Nevó, cumbre de la Pisgá, que ..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yehoshúa 1:1–18",
+    "libro": "yehoshua",
+    "libro_nombre": "Yehoshúa",
+    "libro_he": "יְהוֹשֻׁעַ",
+    "ranges": [
+      {
+        "libro": "yehoshua",
+        "ch_start": 1,
+        "v_start": 1,
+        "ch_end": 1,
+        "v_end": 18
+      }
+    ]
+  }
 }

@@ -88,5 +88,20 @@
       "primera_he": "וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת ...",
       "primera_es": "Y vivió Metushélaj ochenta y siete años y cien años, y engendró a Lémej."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yeshayahu 42:5 – 43:10",
+    "libro": "yeshayahu",
+    "libro_nombre": "Yeshayahu",
+    "libro_he": "יְשַׁעְיָהוּ",
+    "ranges": [
+      {
+        "libro": "yeshayahu",
+        "ch_start": 42,
+        "v_start": 5,
+        "ch_end": 43,
+        "v_end": 10
+      }
+    ]
+  }
 }

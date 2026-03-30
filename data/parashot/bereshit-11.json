@@ -88,5 +88,20 @@
       "primera_he": "וַיּוֹשֵׁ֣ב יוֹסֵף֮ אֶת־אָבִ֣יו וְאֶת־אֶחָיו֒ וַיִּתֵּ֨ן לָה...",
       "primera_es": "Y asentó Yosef a su padre y a sus hermanos, y les dio posesión en la tierra de M..."
     }
-  ]
+  ],
+  "haftara": {
+    "ref_es": "Yejezkel 37:15–28",
+    "libro": "yehezkel",
+    "libro_nombre": "Yejezkel",
+    "libro_he": "יְחֶזְקֵאל",
+    "ranges": [
+      {
+        "libro": "yehezkel",
+        "ch_start": 37,
+        "v_start": 15,
+        "ch_end": 37,
+        "v_end": 28
+      }
+    ]
+  }
 }
