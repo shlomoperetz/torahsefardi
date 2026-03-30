@@ -435,7 +435,7 @@ function highlightCurrentParasha(){
     var elParasha=document.getElementById('esm-parasha-link');
     var elHaftara=document.getElementById('esm-haftara-link');
     if(elHe)elHe.textContent=info.nombre_he;
-    if(elNombre)elNombre.textContent='Parashat '+info.nombre;
+    if(elNombre)elNombre.textContent=info.nombre;
     if(elParasha)elParasha.href=info.url;
     if(elHaftara)elHaftara.href=info.url+'haftara/';
   }
