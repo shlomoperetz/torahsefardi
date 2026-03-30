@@ -396,7 +396,7 @@ nav.bottombar .bbtn {
   padding: 0 var(--pad);
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
   direction: ltr;
 }
 body.is-landing .subbar { display: none; }
@@ -408,17 +408,17 @@ html.lang-he .subbar { display: none; }
   border: 1px solid var(--border);
   border-radius: 7px;
   overflow: hidden;
-  height: 22px;
+  height: 28px;
   font-family: var(--ui-font);
 }
 .vp-btn {
   border: none;
   background: transparent;
   font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.03em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
   color: var(--muted);
-  padding: 0 10px;
+  padding: 0 9px;
   cursor: pointer;
   height: 100%;
   opacity: 0.5;
