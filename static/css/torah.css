@@ -477,12 +477,6 @@ h1.landing-main-title {
   margin-top: 3px;
 }
 
-@media (max-width: 640px) {
-  .landing-head { order: 3; margin-top: 0.5em; }
-  .landing-search { order: 1; }
-  .landing-tiles { order: 2; }
-  .landing-books { order: 4; }
-}
 
 /* ===== LANDING SECTIONS (Torah / Nevi'im / Ketuvim) ===== */
 .landing-sections {
