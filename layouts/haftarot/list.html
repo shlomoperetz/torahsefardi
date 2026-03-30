@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+{{ $libros := slice
+  (dict "slug" "bereshit" "nombre" "Bereshit" "nombre_he" "בְּרֵאשִׁית" "libro_es" "Génesis")
+  (dict "slug" "shemot"   "nombre" "Shemot"   "nombre_he" "שְׁמוֹת"    "libro_es" "Éxodo")
+  (dict "slug" "vayikra"  "nombre" "Vayikrá"  "nombre_he" "וַיִּקְרָא" "libro_es" "Levítico")
+  (dict "slug" "bamidbar" "nombre" "Bamidbar"  "nombre_he" "בְּמִדְבַּר" "libro_es" "Números")
+  (dict "slug" "devarim"  "nombre" "Devarim"  "nombre_he" "דְּבָרִים"  "libro_es" "Deuteronomio")
+}}
+
+<div class="haftarot-wrap">
+  <div class="haftarot-header">
+    <h1 class="haftarot-title-he">הַפְטָרוֹת</h1>
+    <p class="haftarot-subtitle">Las 54 haftarot del ciclo anual · Tradición sefardí</p>
+  </div>
+
+  {{ range $libros }}
+  {{ $libro_slug := .slug }}
+  {{ $parashot_raw := index $.Site.Data.parashot }}
+
+  {{ $parashot := slice }}
+  {{ range $k, $v := $parashot_raw }}
+    {{ if eq $v.libro $libro_slug }}
+      {{ $parashot = $parashot | append $v }}
+    {{ end }}
+  {{ end }}
+  {{ $parashot = sort $parashot "global_num" }}
+
+  <div class="haftarot-book">
+    <div class="haftarot-book-header">
+      <span class="haftarot-book-he">{{ .nombre_he }}</span>
+      <span class="haftarot-book-es">{{ .nombre }} · {{ .libro_es }}</span>
+    </div>
+    <div class="haftarot-list">
+      {{ range $parashot }}
+      {{ if .haftara }}
+      <a href="/parashot/{{ .slug }}/haftara/" class="haftara-row">
+        <div class="haftara-row-parasha">
+          <span class="hrp-he">{{ .nombre_he }}</span>
+          <span class="hrp-es">{{ .nombre }}</span>
+        </div>
+        <div class="haftara-row-ref">
+          <span class="hrr-libro">{{ .haftara.libro_nombre }}</span>
+          <span class="hrr-range">{{ .haftara.ref_es }}</span>
+        </div>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+{{ end }}

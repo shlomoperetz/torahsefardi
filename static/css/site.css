@@ -236,7 +236,7 @@ nav.bottombar .bbtn {
   letter-spacing: 0.01em;
   color: var(--muted);
   text-decoration: none;
-  padding: 8px 20px;
+  padding: 8px 10px;
   border-radius: 10px;
   transition: color 0.15s, background 0.15s;
   opacity: 0.6;

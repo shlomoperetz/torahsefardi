@@ -856,6 +856,89 @@ h1.landing-main-title {
   font-style: italic;
 }
 
+/* ── Página índice de Haftarot ─────────────────────────────────────────── */
+.haftarot-wrap { max-width: 680px; margin: 0 auto; padding: 0 0 2rem; }
+.haftarot-header { text-align: center; padding: 1.5rem 0 1rem; }
+.haftarot-title-he {
+  font-family: var(--he-font);
+  font-size: 2em;
+  color: var(--gold);
+  margin: 0 0 6px;
+  direction: rtl;
+}
+.haftarot-subtitle {
+  font-family: var(--ui-font);
+  font-size: 0.58em;
+  opacity: 0.55;
+  margin: 0;
+}
+.haftarot-book { margin-bottom: 1.5rem; }
+.haftarot-book-header {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 6px 0 8px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 6px;
+}
+.haftarot-book-he {
+  font-family: var(--he-font);
+  font-size: 1em;
+  color: var(--gold);
+  direction: rtl;
+}
+.haftarot-book-es {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  opacity: 0.5;
+}
+.haftarot-list { display: flex; flex-direction: column; gap: 2px; }
+.haftara-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text);
+  transition: background 0.12s;
+  gap: 12px;
+}
+.haftara-row:hover { background: var(--hover-bg); }
+.haftara-row-parasha {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.hrp-he {
+  font-family: var(--he-font);
+  font-size: 0.85em;
+  direction: rtl;
+}
+.hrp-es {
+  font-family: var(--ui-font);
+  font-size: 0.58em;
+  opacity: 0.55;
+}
+.haftara-row-ref {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 1px;
+}
+.hrr-libro {
+  font-family: var(--ui-font);
+  font-size: 0.58em;
+  font-weight: 600;
+  opacity: 0.6;
+}
+.hrr-range {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  opacity: 0.45;
+}
+
 /* ── Haftará card en página de parasha ─────────────────────────────────── */
 .haftara-card {
   display: flex;
