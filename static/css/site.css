@@ -411,9 +411,41 @@ body.is-landing .tnav-view-wrap {
   display: none;
 }
 
-/* ===== MÓVIL: ocultar A+/A− (pinch-to-zoom disponible) ===== */
+/* ===== TAMAÑO DE TEXTO: botón Aa en móvil ===== */
+.tnav-fs-mobile { display: none; position: relative; }
+.font-popover {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,.12);
+  overflow: hidden;
+  z-index: 400;
+  min-width: 56px;
+}
+.font-popover.open { display: block; }
+.font-popover button {
+  display: block;
+  width: 100%;
+  padding: 8px 16px;
+  background: transparent;
+  border: none;
+  font-family: var(--ui-font);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  cursor: pointer;
+  text-align: center;
+}
+.font-popover button:hover { background: var(--accent-soft); color: var(--accent); }
+.font-popover button + button { border-top: 1px solid var(--border); }
+
 @media (max-width: 600px) {
-  .tnav-fontsize-wrap { display: none; }
+  .tnav-fs-btn { display: none; }
+  .tnav-fs-mobile { display: block; }
 }
 
 /* ===== MODO HEBREO ===== */
