@@ -8,72 +8,78 @@
     {
       "num": 1,
       "he": "וְאַתָּ֞ה בֵּֽית־לֶ֣חֶם אֶפְרָ֗תָה צָעִיר֙ לִֽהְיוֹת֙ בְּאַלְפֵ֣י יְהוּדָ֔ה מִמְּךָ֙ לִ֣י יֵצֵ֔א לִֽהְי֥וֹת מוֹשֵׁ֖ל בְּיִשְׂרָאֵ֑ל וּמוֹצָאֹתָ֥יו מִקֶּ֖דֶם מִימֵ֥י עוֹלָֽם׃",
-      "es": ""
+      "es": "Y tú, Bet Léjem Efratá, pequeña para estar entre los millares de Yehudá, de ti me saldrá quien ha de ser gobernante en Yisrael; y sus orígenes son desde antiguo, desde los días de eternidad.",
+      "nota": "Bet Léjem Efratá — Localidad en el territorio de Yehudá; Efratá es el nombre antiguo de la región asociada a esa aldea."
     },
     {
       "num": 2,
       "he": "לָכֵ֣ן יִתְּנֵ֔ם עַד־עֵ֥ת יוֹלֵדָ֖ה יָלָ֑דָה וְיֶ֣תֶר אֶחָ֔יו יְשׁוּב֖וּן עַל־בְּנֵ֥י יִשְׂרָאֵֽל׃",
-      "es": ""
+      "es": "Por tanto, los entregará hasta el tiempo en que la que ha de dar a luz dé a luz; y el resto de sus hermanos retornarán junto a los hijos de Yisrael."
     },
     {
       "num": 3,
       "he": "וְעָמַ֗ד וְרָעָה֙ בְּעֹ֣ז יְהֹוָ֔ה בִּגְא֕וֹן שֵׁ֖ם יְהֹוָ֣ה אֱלֹהָ֑יו וְיָשָׁ֕בוּ כִּֽי־עַתָּ֥ה יִגְדַּ֖ל עַד־אַפְסֵי־אָֽרֶץ׃",
-      "es": ""
+      "es": "Y se levantará y pastoreará con la fuerza del Eterno, con la majestad del nombre del Eterno su Elohim; y habitarán seguros, porque ahora será grande hasta los confines de la tierra."
     },
     {
       "num": 4,
       "he": "וְהָיָ֥ה זֶ֖ה שָׁל֑וֹם אַשּׁ֣וּר&thinsp;<b>׀</b> כִּֽי־יָב֣וֹא בְאַרְצֵ֗נוּ וְכִ֤י יִדְרֹךְ֙ בְּאַרְמְנוֹתֵ֔ינוּ וַהֲקֵמֹ֤נוּ עָלָיו֙ שִׁבְעָ֣ה רֹעִ֔ים וּשְׁמֹנָ֖ה נְסִיכֵ֥י אָדָֽם׃",
-      "es": ""
+      "es": "Y este será la paz: cuando Ashur venga a nuestra tierra y cuando pise nuestros palacios, levantaremos contra él siete pastores y ocho príncipes de hombres."
     },
     {
       "num": 5,
       "he": "וְרָע֞וּ אֶת־אֶ֤רֶץ אַשּׁוּר֙ בַּחֶ֔רֶב וְאֶת־אֶ֥רֶץ נִמְרֹ֖ד בִּפְתָחֶ֑יהָ וְהִצִּיל֙ מֵֽאַשּׁ֔וּר כִּֽי־יָב֣וֹא בְאַרְצֵ֔נוּ וְכִ֥י יִדְרֹ֖ךְ בִּגְבוּלֵֽנוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y pastorearán la tierra de Ashur con la espada, y la tierra de Nimrod en sus entradas; y nos librará de Ashur cuando venga a nuestra tierra y cuando pise nuestras fronteras."
     },
     {
       "num": 6,
       "he": "וְהָיָ֣ה&thinsp;<b>׀</b> שְׁאֵרִ֣ית יַעֲקֹ֗ב בְּקֶ֙רֶב֙ עַמִּ֣ים רַבִּ֔ים כְּטַל֙ מֵאֵ֣ת יְהֹוָ֔ה כִּרְבִיבִ֖ים עֲלֵי־עֵ֑שֶׂב אֲשֶׁ֤ר לֹֽא־יְקַוֶּה֙ לְאִ֔ישׁ וְלֹ֥א יְיַחֵ֖ל לִבְנֵ֥י אָדָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y será el remanente de Yaakov en medio de pueblos numerosos como rocío de parte del Eterno, como lluvias sobre la hierba, que no espera a hombre ni aguarda a hijos de adam.",
+      "nota": "adam — Heb. אָדָם, «ser humano»; aquí usado en sentido genérico, humanidad."
     },
     {
       "num": 7,
       "he": "וְהָיָה֩ שְׁאֵרִ֨ית יַעֲקֹ֜ב בַּגּוֹיִ֗ם בְּקֶ֙רֶב֙ עַמִּ֣ים רַבִּ֔ים כְּאַרְיֵה֙ בְּבַהֲמ֣וֹת יַ֔עַר כִּכְפִ֖יר בְּעֶדְרֵי־צֹ֑אן אֲשֶׁ֧ר אִם־עָבַ֛ר וְרָמַ֥ס וְטָרַ֖ף וְאֵ֥ין מַצִּֽיל׃",
-      "es": ""
+      "es": "Y será el remanente de Yaakov entre las naciones, en medio de pueblos numerosos, como león entre las bestias del bosque, como cachorro de león entre rebaños de ovejas, que si pasa, pisotea y desgarra, y no hay quien libre.",
+      "nota": "cachorro de león — Heb. כְּפִיר (kefir), león joven en plenitud de fuerza, distinto del león adulto (aryé)."
     },
     {
       "num": 8,
       "he": "תָּרֹ֥ם יָדְךָ֖ עַל־צָרֶ֑יךָ וְכׇל־אֹיְבֶ֖יךָ יִכָּרֵֽתוּ׃",
-      "es": ""
+      "es": "Se alzará tu mano sobre tus adversarios, y todos tus enemigos serán cortados."
     },
     {
       "num": 9,
       "he": "וְהָיָ֤ה בַיּוֹם־הַהוּא֙ נְאֻם־יְהֹוָ֔ה וְהִכְרַתִּ֥י סוּסֶ֖יךָ מִקִּרְבֶּ֑ךָ וְהַאֲבַדְתִּ֖י מַרְכְּבֹתֶֽיךָ׃",
-      "es": ""
+      "es": "Y será en aquel día —declaración del Eterno— que cortaré tus caballos de en medio de ti y destruiré tus carros."
     },
     {
       "num": 10,
       "he": "וְהִכְרַתִּ֖י עָרֵ֣י אַרְצֶ֑ךָ וְהָרַסְתִּ֖י כׇּל־מִבְצָרֶֽיךָ׃",
-      "es": ""
+      "es": "Y cortaré las ciudades de tu tierra y derribaré todas tus fortalezas."
     },
     {
       "num": 11,
       "he": "וְהִכְרַתִּ֥י כְשָׁפִ֖ים מִיָּדֶ֑ךָ וּֽמְעוֹנְנִ֖ים לֹ֥א יִֽהְיוּ־לָֽךְ׃",
-      "es": ""
+      "es": "Y cortaré las hechicerías de tu mano, y adivinos no tendrás.",
+      "nota": "adivinos — Heb. מְעוֹנְנִים (meonennim), practicantes de adivinación por observación de tiempos o nubes; su identificación exacta es debatida."
     },
     {
       "num": 12,
       "he": "וְהִכְרַתִּ֧י פְסִילֶ֛יךָ וּמַצֵּבוֹתֶ֖יךָ מִקִּרְבֶּ֑ךָ וְלֹא־תִשְׁתַּחֲוֶ֥ה ע֖וֹד לְמַעֲשֵׂ֥ה יָדֶֽיךָ׃",
-      "es": ""
+      "es": "Y cortaré tus ídolos tallados y tus estelas de en medio de ti, y no te postrarás más ante la obra de tus manos.",
+      "nota": "estelas — Heb. מַצֵּבוֹת (matsevot), piedras erigidas asociadas al culto; pueden ser lícitas o idolátricas según el contexto."
     },
     {
       "num": 13,
       "he": "וְנָתַשְׁתִּ֥י אֲשֵׁירֶ֖יךָ מִקִּרְבֶּ֑ךָ וְהִשְׁמַדְתִּ֖י עָרֶֽיךָ׃",
-      "es": ""
+      "es": "Y arrancaré tus asherás de en medio de ti, y destruiré tus ciudades.",
+      "nota": "asherás — Heb. אֲשֵׁרִים (asherim), postes o árboles sagrados dedicados a la diosa Asherá, asociados al culto idolátrico."
     },
     {
       "num": 14,
       "he": "וְעָשִׂ֜יתִי בְּאַ֧ף וּבְחֵמָ֛ה נָקָ֖ם אֶת־הַגּוֹיִ֑ם אֲשֶׁ֖ר לֹ֥א שָׁמֵֽעוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y ejecutaré con ira y con furor venganza sobre las naciones que no obedecieron."
     }
   ]
 }

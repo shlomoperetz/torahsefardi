@@ -8,62 +8,65 @@
     {
       "num": 1,
       "he": "וָאֹמַ֗ר שִׁמְעוּ־נָא֙ רָאשֵׁ֣י יַעֲקֹ֔ב וּקְצִינֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל הֲל֣וֹא לָכֶ֔ם לָדַ֖עַת אֶת־הַמִּשְׁפָּֽט׃",
-      "es": ""
+      "es": "Y dije: «Escuchad, por favor, cabezas de Yaakov y dirigentes de la casa de Yisrael: ¿Acaso no es a vosotros conocer el juicio?"
     },
     {
       "num": 2,
       "he": "שֹׂ֥נְאֵי ט֖וֹב וְאֹ֣הֲבֵי <span class=\"mam-kq\"><span class=\"mam-kq-k\">(רעה)</span> <span class=\"mam-kq-q\">[רָ֑ע]</span></span> גֹּזְלֵ֤י עוֹרָם֙ מֵֽעֲלֵיהֶ֔ם וּשְׁאֵרָ֖ם מֵעַ֥ל עַצְמוֹתָֽם׃",
-      "es": ""
+      "es": "Los que odian el bien y aman el mal, los que arrancan la piel de sobre ellos y la carne de sobre sus huesos."
     },
     {
       "num": 3,
       "he": "וַאֲשֶׁ֣ר אָכְלוּ֮ שְׁאֵ֣ר עַמִּי֒ וְעוֹרָם֙ מֵעֲלֵיהֶ֣ם הִפְשִׁ֔יטוּ וְאֶת־עַצְמֹֽתֵיהֶ֖ם פִּצֵּ֑חוּ וּפָֽרְשׂוּ֙ כַּאֲשֶׁ֣ר בַּסִּ֔יר וּכְבָשָׂ֖ר בְּת֥וֹךְ קַלָּֽחַת׃",
-      "es": ""
+      "es": "Y los que comieron la carne de mi pueblo, y la piel de sobre ellos desollaron, y sus huesos quebraron, y los despedazaron como para la olla, y como carne dentro del caldero."
     },
     {
       "num": 4,
       "he": "אָ֚ז יִזְעֲק֣וּ אֶל־יְהֹוָ֔ה וְלֹ֥א יַעֲנֶ֖ה אוֹתָ֑ם וְיַסְתֵּ֨ר פָּנָ֤יו מֵהֶם֙ בָּעֵ֣ת הַהִ֔יא כַּאֲשֶׁ֥ר הֵרֵ֖עוּ מַעַלְלֵיהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Entonces clamarán al Eterno, y no les responderá; y esconderá su rostro de ellos en aquel tiempo, conforme hicieron mal sus obras»."
     },
     {
       "num": 5,
       "he": "כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה עַל־הַנְּבִיאִ֖ים הַמַּתְעִ֣ים אֶת־עַמִּ֑י הַנֹּשְׁכִ֤ים בְּשִׁנֵּיהֶם֙ וְקָרְא֣וּ שָׁל֔וֹם וַֽאֲשֶׁר֙ לֹא־יִתֵּ֣ן עַל־פִּיהֶ֔ם וְקִדְּשׁ֥וּ עָלָ֖יו מִלְחָמָֽה׃",
-      "es": ""
+      "es": "Así dijo el Eterno acerca de los neviím que extravían a mi pueblo, los que muerden con sus dientes y proclaman paz, y al que no pone en sus bocas, consagran guerra contra él:",
+      "nota": "neviím — Plural de navi; profetas, portavoces de la palabra divina."
     },
     {
       "num": 6,
       "he": "לָכֵ֞ן לַ֤יְלָה לָכֶם֙ מֵֽחָז֔וֹן וְחָשְׁכָ֥ה לָכֶ֖ם מִקְּסֹ֑ם וּבָ֤אָה הַשֶּׁ֙מֶשׁ֙ עַל־הַנְּבִיאִ֔ים וְקָדַ֥ר עֲלֵיהֶ֖ם הַיּֽוֹם׃",
-      "es": ""
+      "es": "«Por tanto, noche será para vosotros sin visión, y oscuridad para vosotros sin adivinación; y se pondrá el sol sobre los neviím, y se oscurecerá sobre ellos el día."
     },
     {
       "num": 7,
       "he": "וּבֹ֣שׁוּ הַחֹזִ֗ים וְחָֽפְרוּ֙ הַקֹּ֣סְמִ֔ים וְעָט֥וּ עַל־שָׂפָ֖ם כֻּלָּ֑ם כִּ֛י אֵ֥ין מַעֲנֵ֖ה אֱלֹהִֽים׃",
-      "es": ""
+      "es": "Y se avergonzarán los videntes, y se sonrojarán los adivinos, y se cubrirán todos el labio, porque no hay respuesta de Elohim».",
+      "nota": "Elohim — Nombre divino que designa a Dios en su atributo de poder y juicio."
     },
     {
       "num": 8,
       "he": "וְאוּלָ֗ם אָנֹכִ֞י מָלֵ֤אתִי כֹ֙חַ֙ אֶת־ר֣וּחַ יְהֹוָ֔ה וּמִשְׁפָּ֖ט וּגְבוּרָ֑ה לְהַגִּ֤יד לְיַֽעֲקֹב֙ פִּשְׁע֔וֹ וּלְיִשְׂרָאֵ֖ל חַטָּאתֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Pero yo, en verdad, estoy lleno de fuerza con el espíritu del Eterno, y de juicio y de valentía, para declarar a Yaakov su transgresión y a Yisrael su pecado."
     },
     {
       "num": 9,
       "he": "שִׁמְעוּ־נָ֣א זֹ֗את רָאשֵׁי֙ בֵּ֣ית יַעֲקֹ֔ב וּקְצִינֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל הַֽמְתַעֲבִ֣ים מִשְׁפָּ֔ט וְאֵ֥ת כׇּל־הַיְשָׁרָ֖ה יְעַקֵּֽשׁוּ׃",
-      "es": ""
+      "es": "Escuchad, por favor, esto, cabezas de la casa de Yaakov y dirigentes de la casa de Yisrael, los que aborrecen el juicio y todo lo recto tuercen,"
     },
     {
       "num": 10,
       "he": "בֹּנֶ֥ה צִיּ֖וֹן בְּדָמִ֑ים וִירוּשָׁלַ֖͏ִם בְּעַוְלָֽה׃",
-      "es": ""
+      "es": "los que edifican a Tsiyón con sangres y a Yerushaláyim con iniquidad."
     },
     {
       "num": 11,
       "he": "רָאשֶׁ֣יהָ&thinsp;<b>׀</b> בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֙יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ וְעַל־יְהֹוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהֹוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא־תָב֥וֹא עָלֵ֖ינוּ רָעָֽה׃",
-      "es": ""
+      "es": "Sus cabezas por soborno juzgan, y sus cohanim por precio enseñan, y sus neviím por plata adivinan; y sobre el Eterno se apoyan diciendo: «¿Acaso no está el Eterno en medio de nosotros? No vendrá sobre nosotros mal».",
+      "nota": "cohanim — Plural de cohen; sacerdotes encargados del servicio del Templo y la enseñanza de la Torá."
     },
     {
       "num": 12,
       "he": "לָכֵן֙ בִּגְלַלְכֶ֔ם צִיּ֖וֹן שָׂדֶ֣ה תֵֽחָרֵ֑שׁ וִירוּשָׁלַ֙͏ִם֙ עִיִּ֣ין תִּֽהְיֶ֔ה וְהַ֥ר הַבַּ֖יִת לְבָמ֥וֹת יָֽעַר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Por tanto, por causa de vosotros, Tsiyón como campo será arada, y Yerushaláyim será montones de ruinas, y el monte de la Casa será como altos de bosque."
     }
   ]
 }

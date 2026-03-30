@@ -8,102 +8,108 @@
     {
       "num": 1,
       "he": "אַ֣לְלַי לִ֗י כִּ֤י הָיִ֙יתִי֙ כְּאׇסְפֵּי־קַ֔יִץ כְּעֹלְלֹ֖ת בָּצִ֑יר אֵין־אֶשְׁכּ֣וֹל לֶאֱכ֔וֹל בִּכּוּרָ֖ה אִוְּתָ֥ה נַפְשִֽׁי׃",
-      "es": ""
+      "es": "¡Ay de mí! Porque he venido a ser como recolecciones de verano, como rebuscos de vendimia: no hay racimo para comer; higo temprano anheló mi alma."
     },
     {
       "num": 2,
       "he": "אָבַ֤ד חָסִיד֙ מִן־הָאָ֔רֶץ וְיָשָׁ֥ר בָּאָדָ֖ם אָ֑יִן כֻּלָּם֙ לְדָמִ֣ים יֶאֱרֹ֔בוּ אִ֥ישׁ אֶת־אָחִ֖יהוּ יָצ֥וּדוּ חֵֽרֶם׃",
-      "es": ""
+      "es": "Pereció el piadoso de la tierra, y recto entre los hombres no hay; todos para sangre acechan, cada cual a su hermano cazan con red.",
+      "nota": "חֵרֶם (jérem) — red o trampa; aquí en sentido de cazar con red de destrucción."
     },
     {
       "num": 3,
       "he": "עַל־הָרַ֤ע כַּפַּ֙יִם֙ לְהֵיטִ֔יב הַשַּׂ֣ר שֹׁאֵ֔ל וְהַשֹּׁפֵ֖ט בַּשִּׁלּ֑וּם וְהַגָּד֗וֹל דֹּבֵ֨ר הַוַּ֥ת נַפְשׁ֛וֹ ה֖וּא וַֽיְעַבְּתֽוּהָ׃",
-      "es": ""
+      "es": "Sobre el mal, ambas manos para hacerlo bien: el príncipe pide, y el juez por paga, y el grande habla la codicia de su alma, él; y la entretejen."
     },
     {
       "num": 4,
       "he": "טוֹבָ֣ם כְּחֵ֔דֶק יָשָׁ֖ר מִמְּסוּכָ֑ה י֤וֹם מְצַפֶּ֙יךָ֙ פְּקֻדָּתְךָ֣ בָ֔אָה עַתָּ֥ה תִהְיֶ֖ה מְבוּכָתָֽם׃",
-      "es": ""
+      "es": "El mejor de ellos es como espino, el más recto peor que seto de espinas. El día de tus vigías, tu visitación ha llegado; ahora será la confusión de ellos.",
+      "nota": "מְצַפֶּיךָ (metsapéyij) — «tus vigías»; referencia a los profetas que anunciaban el juicio venidero."
     },
     {
       "num": 5,
       "he": "אַל־תַּאֲמִ֣ינֽוּ בְרֵ֔עַ אַֽל־תִּבְטְח֖וּ בְּאַלּ֑וּף מִשֹּׁכֶ֣בֶת חֵיקֶ֔ךָ שְׁמֹ֖ר פִּתְחֵי־פִֽיךָ׃",
-      "es": ""
+      "es": "No creáis en compañero, no confiéis en amigo íntimo; de la que yace en tu regazo guarda las puertas de tu boca."
     },
     {
       "num": 6,
       "he": "כִּי־בֵן֙ מְנַבֵּ֣ל אָ֔ב בַּ֚ת קָמָ֣ה בְאִמָּ֔הּ כַּלָּ֖ה בַּחֲמֹתָ֑הּ אֹיְבֵ֥י אִ֖ישׁ אַנְשֵׁ֥י בֵיתֽוֹ׃",
-      "es": ""
+      "es": "Porque el hijo deshonra al padre, la hija se levanta contra su madre, la nuera contra su suegra; los enemigos del hombre son los de su propia casa."
     },
     {
       "num": 7,
       "he": "וַֽאֲנִי֙ בַּיהֹוָ֣ה אֲצַפֶּ֔ה אוֹחִ֖ילָה לֵאלֹהֵ֣י יִשְׁעִ֑י יִשְׁמָעֵ֖נִי אֱלֹהָֽי׃",
-      "es": ""
+      "es": "Mas yo, en el Eterno esperaré, aguardaré al Elohim de mi salvación; me escuchará mi Elohim."
     },
     {
       "num": 8,
       "he": "אַֽל־תִּשְׂמְחִ֤י אֹיַ֙בְתִּי֙ לִ֔י כִּ֥י נָפַ֖לְתִּי קָ֑מְתִּי כִּֽי־אֵשֵׁ֣ב בַּחֹ֔שֶׁךְ יְהֹוָ֖ה א֥וֹר לִֽי׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "No te alegres de mí, enemiga mía; aunque caí, me levantaré; aunque more en tinieblas, el Eterno es luz para mí."
     },
     {
       "num": 9,
       "he": "זַ֤עַף יְהֹוָה֙ אֶשָּׂ֔א כִּ֥י חָטָ֖אתִי ל֑וֹ עַד֩ אֲשֶׁ֨ר יָרִ֤יב רִיבִי֙ וְעָשָׂ֣ה מִשְׁפָּטִ֔י יוֹצִיאֵ֣נִי לָא֔וֹר אֶרְאֶ֖ה בְּצִדְקָתֽוֹ׃",
-      "es": ""
+      "es": "La indignación del Eterno soportaré, porque contra Él pequé, hasta que defienda mi causa y ejecute mi juicio; me sacará a la luz, veré su justicia."
     },
     {
       "num": 10,
       "he": "וְתֵרֶ֤א אֹיַ֙בְתִּי֙ וּתְכַסֶּ֣הָ בוּשָׁ֔ה הָאֹמְרָ֣ה אֵלַ֔י אַיּ֖וֹ יְהֹוָ֣ה אֱלֹהָ֑יִךְ עֵינַי֙ תִּרְאֶ֣ינָּה בָּ֔הּ עַתָּ֛ה תִּהְיֶ֥ה לְמִרְמָ֖ס כְּטִ֥יט חוּצֽוֹת׃",
-      "es": ""
+      "es": "Y lo verá mi enemiga, y la cubrirá vergüenza, la que me decía: «¿Dónde está el Eterno tu Elohim?». Mis ojos la contemplarán; ahora será hollada como lodo de las calles."
     },
     {
       "num": 11,
       "he": "י֖וֹם לִבְנ֣וֹת גְּדֵרָ֑יִךְ י֥וֹם הַה֖וּא יִרְחַק־חֹֽק׃",
-      "es": ""
+      "es": "Día de edificar tus muros; aquel día se extenderá el decreto.",
+      "nota": "חֹק (joq) — «decreto» o «límite»; su interpretación exacta en este contexto es debatida: puede referirse a la ampliación de los límites o a la anulación de decretos opresores."
     },
     {
       "num": 12,
       "he": "י֥וֹם הוּא֙ וְעָדֶ֣יךָ יָב֔וֹא לְמִנִּ֥י אַשּׁ֖וּר וְעָרֵ֣י מָצ֑וֹר וּלְמִנִּ֤י מָצוֹר֙ וְעַד־נָהָ֔ר וְיָ֥ם מִיָּ֖ם וְהַ֥ר הָהָֽר׃",
-      "es": ""
+      "es": "Aquel día hasta ti vendrán, desde Ashur y las ciudades de Mitsráyim, y desde Mitsráyim hasta el río, y de mar a mar, y de monte a monte.",
+      "nota": "מָצוֹר (matsór) — aquí se interpreta como referencia a Mitsráyim (Egipto), forma abreviada del nombre."
     },
     {
       "num": 13,
       "he": "וְהָיְתָ֥ה הָאָ֛רֶץ לִשְׁמָמָ֖ה עַל־יֹשְׁבֶ֑יהָ מִפְּרִ֖י מַעַלְלֵיהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y será la tierra desolación por causa de sus moradores, por el fruto de sus obras."
     },
     {
       "num": 14,
       "he": "רְעֵ֧ה עַמְּךָ֣ בְשִׁבְטֶ֗ךָ צֹ֚אן נַחֲלָתֶ֔ךָ שֹׁכְנִ֣י לְבָדָ֔ד יַ֖עַר בְּת֣וֹךְ כַּרְמֶ֑ל יִרְע֥וּ בָשָׁ֛ן וְגִלְעָ֖ד כִּימֵ֥י עוֹלָֽם׃",
-      "es": ""
+      "es": "Pastorea a tu pueblo con tu cayado, el rebaño de tu heredad, que mora a solas en el bosque, en medio del Karmel; que pazcan en Bashán y en Guilad como en días de antaño.",
+      "nota": "גִלְעָד (Guilad) — región montañosa al este del Yardén."
     },
     {
       "num": 15,
       "he": "כִּימֵ֥י צֵאתְךָ֖ מֵאֶ֣רֶץ מִצְרָ֑יִם אַרְאֶ֖נּוּ נִפְלָאֽוֹת׃",
-      "es": ""
+      "es": "Como en los días de tu salida de la tierra de Mitsráyim, le haré ver maravillas."
     },
     {
       "num": 16,
       "he": "יִרְא֤וּ גוֹיִם֙ וְיֵבֹ֔שׁוּ מִכֹּ֖ל גְּבוּרָתָ֑ם יָשִׂ֤ימוּ יָד֙ עַל־פֶּ֔ה אׇזְנֵיהֶ֖ם תֶּחֱרַֽשְׁנָה׃",
-      "es": ""
+      "es": "Verán las naciones y se avergonzarán de todo su poderío; pondrán mano sobre la boca, sus oídos ensordecerán."
     },
     {
       "num": 17,
       "he": "יְלַחֲכ֤וּ עָפָר֙ כַּנָּחָ֔שׁ כְּזֹחֲלֵ֣י אֶ֔רֶץ יִרְגְּז֖וּ מִמִּסְגְּרֹֽתֵיהֶ֑ם אֶל־יְהֹוָ֤ה אֱלֹהֵ֙ינוּ֙ יִפְחָ֔דוּ וְיִֽרְא֖וּ מִמֶּֽךָּ׃",
-      "es": ""
+      "es": "Lamerán el polvo como la serpiente, como los que se arrastran por la tierra; temblarán desde sus fortalezas; al Eterno nuestro Elohim temerán, y tendrán pavor de Ti."
     },
     {
       "num": 18,
       "he": "מִי־אֵ֣ל כָּמ֗וֹךָ נֹשֵׂ֤א עָוֺן֙ וְעֹבֵ֣ר עַל־פֶּ֔שַׁע לִשְׁאֵרִ֖ית נַחֲלָת֑וֹ לֹֽא־הֶחֱזִ֤יק לָעַד֙ אַפּ֔וֹ כִּֽי־חָפֵ֥ץ חֶ֖סֶד הֽוּא׃",
-      "es": ""
+      "es": "¿Quién es Dios como Tú, que perdona la iniquidad y pasa por alto la transgresión del remanente de su heredad? No retiene para siempre su ira, porque se deleita en la bondad.",
+      "nota": "El nombre מִיכָה (Mikhá) alude a la pregunta retórica מִי כָמוֹךָ (mi jamója), «¿quién como Tú?», con la que se abre este versículo."
     },
     {
       "num": 19,
       "he": "יָשׁ֣וּב יְרַחֲמֵ֔נוּ יִכְבֹּ֖שׁ עֲוֺנֹתֵ֑ינוּ וְתַשְׁלִ֛יךְ בִּמְצֻל֥וֹת יָ֖ם כׇּל־חַטֹּאותָֽם׃",
-      "es": ""
+      "es": "Volverá, tendrá compasión de nosotros, pisoteará nuestras iniquidades; y arrojarás en las profundidades del mar todos sus pecados."
     },
     {
       "num": 20,
       "he": "תִּתֵּ֤ן אֱמֶת֙ לְיַֽעֲקֹ֔ב חֶ֖סֶד לְאַבְרָהָ֑ם אֲשֶׁר־נִשְׁבַּ֥עְתָּ לַאֲבֹתֵ֖ינוּ מִ֥ימֵי קֶֽדֶם׃",
-      "es": ""
+      "es": "Darás verdad a Yaakov, bondad a Avraham, como juraste a nuestros padres desde los días de antaño."
     }
   ]
 }
