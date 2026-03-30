@@ -1,7 +1,8 @@
 // TORAH.JS
 
-// ── Auto-hide header: ocultar al bajar, mostrar al subir ──
+// ── Auto-hide header: solo en modo lectura (TORAH_CTX o HAFTARA_CTX) ──
 (function(){
+  if(!window.TORAH_CTX&&!window.HAFTARA_CTX)return;
   var hdr=document.getElementById('site-header');
   if(!hdr)return;
   var lastY=0;
