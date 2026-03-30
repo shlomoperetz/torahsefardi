@@ -8,207 +8,213 @@
     {
       "num": 1,
       "he": "וְאֵ֗לֶּה הַבָּאִ֤ים אֶל־דָּוִיד֙ לְצִ֣יקְלַ֔ג ע֣וֹד עָצ֔וּר מִפְּנֵ֖י שָׁא֣וּל בֶּן־קִ֑ישׁ וְהֵ֙מָּה֙ בַּגִּבּוֹרִ֔ים עֹזְרֵ֖י הַמִּלְחָמָֽה׃",
-      "es": ""
+      "es": "Y estos son los que vinieron a David en Tsiqlag, estando aún impedido a causa de Shaúl hijo de Qish; y ellos estaban entre los guerreros, ayudantes en la guerra."
     },
     {
       "num": 2,
       "he": "נֹ֣שְׁקֵי קֶ֗שֶׁת מַיְמִינִ֤ים וּמַשְׂמִאלִים֙ בָּאֲבָנִ֔ים וּבַחִצִּ֖ים בַּקָּ֑שֶׁת מֵאֲחֵ֥י שָׁא֖וּל מִבִּנְיָמִֽן׃",
-      "es": ""
+      "es": "Armados de arco, diestros con la derecha y con la izquierda para lanzar piedras y flechas con el arco, de los hermanos de Shaúl, de Binyamín."
     },
     {
       "num": 3,
       "he": "הָרֹ֨אשׁ אֲחִיעֶ֜זֶר וְיוֹאָ֗שׁ בְּנֵי֙ הַשְּׁמָעָ֣ה הַגִּבְעָתִ֔י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויזואל)</span> <span class=\"mam-kq-q\">[וִיזִיאֵ֥ל]</span></span> וָפֶ֖לֶט בְּנֵ֣י עַזְמָ֑וֶת וּבְרָכָ֕ה וְיֵה֖וּא הָעַנְּתֹתִֽי׃",
-      "es": ""
+      "es": "El jefe era Ajíezer, y Yoash, hijos de Hashemaá el guiveatí; y Viziel y Félet, hijos de Azmávet; y Berajá, y Yehú el anatotí.",
+      "nota": "guiveatí — gentilicio hebreo que designa al habitante de Guiveá."
     },
     {
       "num": 4,
       "he": "וְיִֽשְׁמַעְיָ֧ה הַגִּבְעוֹנִ֛י גִּבּ֥וֹר בַּשְּׁלֹשִׁ֖ים וְעַל־הַשְּׁלֹשִֽׁים׃",
-      "es": ""
+      "es": "Y Yishmayá el guiveoní, guerrero entre los treinta y sobre los treinta.",
+      "nota": "guiveoní — gentilicio hebreo que designa al habitante de Guiveón."
     },
     {
       "num": 5,
       "he": "וְיִרְמְיָ֤ה וְיַחֲזִיאֵל֙ וְי֣וֹחָנָ֔ן וְיוֹזָבָ֖ד הַגְּדֵרָתִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y Yirmeyá, y Yajaziel, y Yojanán, y Yozavad el guederatí.",
+      "nota": "guederatí — gentilicio hebreo que designa al habitante de Guederá."
     },
     {
       "num": 6,
       "he": "אֶלְעוּזַ֤י וִֽירִימוֹת֙ וּבְעַלְיָ֣ה וּשְׁמַרְיָ֔הוּ וּשְׁפַטְיָ֖הוּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(החריפי)</span> <span class=\"mam-kq-q\">[הַחֲרוּפִֽי]</span></span>׃",
-      "es": ""
+      "es": "Eluzái, y Yerimot, y Bealyá, y Shemaryáhu, y Shefatyáhu el jarufí.",
+      "nota": "jarufí — gentilicio hebreo de identificación incierta; designa un origen geográfico o familiar."
     },
     {
       "num": 7,
       "he": "אֶלְקָנָ֡ה וְ֠יִשִּׁיָּ֠הוּ וַעֲזַרְאֵ֧ל וְיוֹעֶ֛זֶר וְיָשׇׁבְעָ֖ם הַקׇּרְחִֽים׃",
-      "es": ""
+      "es": "Elqaná, y Yishiyáhu, y Azarel, y Yoézer, y Yashoveam, los corjitas.",
+      "nota": "corjitas — descendientes de Córaj, clan levita."
     },
     {
       "num": 8,
       "he": "וְיוֹעֵאלָ֧ה וּזְבַדְיָ֛ה בְּנֵ֥י יְרֹחָ֖ם מִֽן־הַגְּדֽוֹר׃",
-      "es": ""
+      "es": "Y Yoelá, y Zevadyá, hijos de Yerojam, de Guedor."
     },
     {
       "num": 9,
       "he": "וּמִן־הַגָּדִ֡י נִבְדְּל֣וּ אֶל־דָּוִיד֩ לַמְצַ֨ד מִדְבָּ֜רָה גִּבֹּרֵ֣י הַחַ֗יִל אַנְשֵׁ֤י צָבָא֙ לַמִּלְחָמָ֔ה עֹרְכֵ֥י צִנָּ֖ה וָרֹ֑מַח וּפְנֵ֤י אַרְיֵה֙ פְּנֵיהֶ֔ם וְכִצְבָאיִ֥ם עַל־הֶהָרִ֖ים לְמַהֵֽר׃",
-      "es": ""
+      "es": "Y de los gaditas se separaron hacia David, a la fortaleza en el desierto, guerreros valientes, hombres de ejército para la guerra, diestros en escudo y lanza; y sus rostros eran como rostros de león, y veloces como las gacelas sobre los montes."
     },
     {
       "num": 10,
       "he": "עֵ֖זֶר הָרֹ֑אשׁ עֹֽבַדְיָה֙ הַשֵּׁנִ֔י אֱלִיאָ֖ב הַשְּׁלִשִֽׁי׃",
-      "es": ""
+      "es": "Ézer el primero, Ovadyá el segundo, Eliav el tercero."
     },
     {
       "num": 11,
       "he": "מִשְׁמַנָּה֙ הָרְבִיעִ֔י יִרְמְיָ֖ה הַחֲמִשִֽׁי׃",
-      "es": ""
+      "es": "Mishmaná el cuarto, Yirmeyá el quinto."
     },
     {
       "num": 12,
       "he": "עַתַּי֙ הַשִּׁשִּׁ֔י אֱלִיאֵ֖ל הַשְּׁבִעִֽי׃",
-      "es": ""
+      "es": "Atái el sexto, Eliel el séptimo."
     },
     {
       "num": 13,
       "he": "יֽוֹחָנָן֙ הַשְּׁמִינִ֔י אֶלְזָבָ֖ד הַתְּשִׁיעִֽי׃",
-      "es": ""
+      "es": "Yojanán el octavo, Elzavad el noveno."
     },
     {
       "num": 14,
       "he": "יִרְמְיָ֙הוּ֙ הָעֲשִׂירִ֔י מַכְבַּנַּ֖י עַשְׁתֵּ֥י עָשָֽׂר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Yirmeyáhu el décimo, Majbanái el undécimo."
     },
     {
       "num": 15,
       "he": "אֵ֥לֶּה מִבְּנֵי־גָ֖ד רָאשֵׁ֣י הַצָּבָ֑א אֶחָ֤ד לְמֵאָה֙ הַקָּטָ֔ן וְהַגָּד֖וֹל לְאָֽלֶף׃",
-      "es": ""
+      "es": "Estos de los hijos de Gad eran jefes del ejército; el menor valía por cien y el mayor por mil."
     },
     {
       "num": 16,
       "he": "אֵ֣לֶּה הֵ֗ם אֲשֶׁ֨ר עָבְר֤וּ אֶת־הַיַּרְדֵּן֙ בַּחֹ֣דֶשׁ הָרִאשׁ֔וֹן וְה֥וּא מְמַלֵּ֖א עַל־כׇּל־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[גְּדוֹתָ֑יו]</span> <span class=\"mam-kq-k\">(גדיתיו)</span></span> וַיַּבְרִ֙יחוּ֙ אֶת־כׇּל־הָ֣עֲמָקִ֔ים לַמִּזְרָ֖ח וְלַֽמַּעֲרָֽב׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Estos son los que cruzaron el Yardén en el mes primero, cuando este desbordaba por todas sus riberas; y pusieron en fuga a todos los de los valles, al oriente y al occidente.",
+      "nota": "Yardén — el río Jordán, en su forma hebraica."
     },
     {
       "num": 17,
       "he": "וַיָּבֹ֗אוּ מִן־בְּנֵ֤י בִנְיָמִן֙ וִֽיהוּדָ֔ה עַד־לַמְצָ֖ד לְדָוִֽיד׃",
-      "es": ""
+      "es": "Y vinieron de los hijos de Binyamín y de Yehudá hasta la fortaleza, a David."
     },
     {
       "num": 18,
       "he": "וַיֵּצֵ֣א דָוִיד֮ לִפְנֵיהֶם֒ וַיַּ֙עַן֙ וַיֹּ֣אמֶר לָהֶ֔ם אִם־לְשָׁל֞וֹם בָּאתֶ֤ם אֵלַי֙ לְעׇזְרֵ֔נִי יִֽהְיֶה־לִּ֧י עֲלֵיכֶ֛ם לֵבָ֖ב לְיָ֑חַד וְאִֽם־לְרַמּוֹתַ֣נִי לְצָרַ֗י בְּלֹ֤א חָמָס֙ בְּכַפַּ֔י יֵ֛רֶא אֱלֹהֵ֥י אֲבוֹתֵ֖ינוּ וְיוֹכַֽח׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y salió David ante ellos, y respondió y les dijo: «Si en paz venís a mí para ayudarme, mi corazón se unirá a vosotros; pero si para entregarme a mis adversarios, sin que haya violencia en mis manos, que vea el Elohim de nuestros padres y juzgue»."
     },
     {
       "num": 19,
       "he": "וְר֣וּחַ לָֽבְשָׁ֗ה אֶת־עֲמָשַׂי֮ רֹ֣אשׁ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(השלושים)</span> <span class=\"mam-kq-q\">[הַשָּׁלִישִׁים֒]</span></span> לְךָ֤ דָוִיד֙ וְעִמְּךָ֣ בֶן־יִשַׁ֔י שָׁל֨וֹם&thinsp;<small>׀</small>&thinsp;שָׁל֜וֹם לְךָ֗ וְשָׁלוֹם֙ לְעֹ֣זְרֶ֔ךָ כִּ֥י עֲזָֽרְךָ֖ אֱלֹהֶ֑יךָ וַיְקַבְּלֵ֣ם דָּוִ֔יד וַֽיִּתְּנֵ֖ם בְּרָאשֵׁ֥י הַגְּדֽוּד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y el espíritu revistió a Amasái, jefe de los capitanes: «¡Tuyos somos, David, y contigo, hijo de Yishái! ¡Paz, paz a ti, y paz a quien te ayuda, pues te ayuda tu Elohim!». Y los recibió David, y los puso entre los jefes de la tropa."
     },
     {
       "num": 20,
       "he": "וּמִֽמְּנַשֶּׁ֞ה נָפְל֣וּ עַל־דָּוִ֗יד בְּבֹא֨וֹ עִם־פְּלִשְׁתִּ֧ים עַל־שָׁא֛וּל לַמִּלְחָמָ֖ה וְלֹ֣א עֲזָרֻ֑ם כִּ֣י בְעֵצָ֗ה שִׁלְּחֻ֜הוּ סַרְנֵ֤י פְלִשְׁתִּים֙ לֵאמֹ֔ר בְּרָאשֵׁ֕ינוּ יִפּ֖וֹל אֶל־אֲדֹנָ֥יו שָׁאֽוּל׃",
-      "es": ""
+      "es": "Y de Menashé se pasaron a David cuando vino con los pelishtitas contra Shaúl a la guerra, pero no los ayudaron, pues por consejo lo despidieron los príncipes de los pelishtitas, diciendo: «A costa de nuestras cabezas se pasará a su señor Shaúl»."
     },
     {
       "num": 21,
       "he": "בְּלֶכְתּ֣וֹ אֶל־צִֽיקְלַ֗ג נָפְל֣וּ עָלָ֣יו&thinsp;<small>׀</small>&thinsp;מִֽמְּנַשֶּׁ֡ה עַ֠דְנַ֠ח וְיוֹזָבָ֤ד וִידִֽיעֲאֵל֙ וּמִיכָאֵ֣ל וְיוֹזָבָ֔ד וֶאֱלִיה֖וּא וְצִלְּתָ֑י רָאשֵׁ֥י הָאֲלָפִ֖ים אֲשֶׁ֥ר לִמְנַשֶּֽׁה׃",
-      "es": ""
+      "es": "Cuando iba hacia Tsiklag, se pasaron a él de Menashé: Adnaj, Yozavad, Yediaël, Mijael, Yozavad, Elihú y Tsiletái, jefes de millares de Menashé."
     },
     {
       "num": 22,
       "he": "וְהֵ֗מָּה עָזְר֤וּ עִם־דָּוִיד֙ עַֽל־הַגְּד֔וּד כִּֽי־גִבּ֥וֹרֵי חַ֖יִל כֻּלָּ֑ם וַיִּהְי֥וּ שָׂרִ֖ים בַּצָּבָֽא׃",
-      "es": ""
+      "es": "Y ellos ayudaron a David contra la banda, pues todos eran hombres valientes de fuerza, y llegaron a ser capitanes en el ejército."
     },
     {
       "num": 23,
       "he": "כִּ֚י לְעֶת־י֣וֹם בְּי֔וֹם יָבֹ֥אוּ עַל־דָּוִ֖יד לְעׇזְר֑וֹ עַד־לְמַחֲנֶ֥ה גָד֖וֹל כְּמַחֲנֵ֥ה אֱלֹהִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Porque día tras día venían a David para ayudarle, hasta formar un campamento grande, como campamento de Elohim."
     },
     {
       "num": 24,
       "he": "וְ֠אֵ֠לֶּה מִסְפְּרֵ֞י רָאשֵׁ֤י הֶחָלוּץ֙ לַצָּבָ֔א בָּ֥אוּ עַל־דָּוִ֖יד חֶבְר֑וֹנָה לְהָסֵ֞ב מַלְכ֥וּת שָׁא֛וּל אֵלָ֖יו כְּפִ֥י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y estos son los números de los jefes equipados para el ejército que vinieron a David en Jevrón, para traspasar a él el reinado de Shaúl, conforme a la palabra del Eterno."
     },
     {
       "num": 25,
       "he": "בְּנֵ֣י יְהוּדָ֔ה נֹשְׂאֵ֥י צִנָּ֖ה וָרֹ֑מַח שֵׁ֧שֶׁת אֲלָפִ֛ים וּשְׁמוֹנֶ֥ה מֵא֖וֹת חֲלוּצֵ֥י צָבָֽא׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "De los hijos de Yehudá, portadores de escudo y lanza: seis mil ochocientos, equipados para el ejército."
     },
     {
       "num": 26,
       "he": "מִן־בְּנֵ֣י שִׁמְע֗וֹן גִּבּ֤וֹרֵֽי חַ֙יִל֙ לַצָּבָ֔א שִׁבְעַ֥ת אֲלָפִ֖ים וּמֵאָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "De los hijos de Shimón, hombres valientes de fuerza para el ejército: siete mil cien."
     },
     {
       "num": 27,
       "he": "מִן־בְּנֵי֙ הַלֵּוִ֔י אַרְבַּ֥עַת אֲלָפִ֖ים וְשֵׁ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "De los hijos de Leví: cuatro mil seiscientos."
     },
     {
       "num": 28,
       "he": "וִיהוֹיָדָ֖ע הַנָּגִ֣יד לְאַהֲרֹ֑ן וְעִמּ֕וֹ שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּשְׁבַ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y Yehoyada, el príncipe de Aharón, y con él tres mil setecientos."
     },
     {
       "num": 29,
       "he": "וְצָד֥וֹק נַ֖עַר גִּבּ֣וֹר חָ֑יִל וּבֵית־אָבִ֥יו שָׂרִ֖ים עֶשְׂרִ֥ים וּשְׁנָֽיִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y Tsadok, joven valiente de fuerza, y de la casa de su padre, veintidós capitanes."
     },
     {
       "num": 30,
       "he": "וּמִן־בְּנֵ֧י בִנְיָמִ֛ן אֲחֵ֥י שָׁא֖וּל שְׁלֹ֣שֶׁת אֲלָפִ֑ים וְעַד־הֵ֙נָּה֙ מַרְבִּיתָ֔ם שֹׁמְרִ֕ים מִשְׁמֶ֖רֶת בֵּ֥ית שָׁאֽוּל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de los hijos de Binyamín, hermanos de Shaúl: tres mil; pues hasta entonces la mayoría de ellos guardaba la lealtad a la casa de Shaúl."
     },
     {
       "num": 31,
       "he": "וּמִן־בְּנֵ֣י אֶפְרַ֔יִם עֶשְׂרִ֥ים אֶ֖לֶף וּשְׁמוֹנֶ֣ה מֵא֑וֹת גִּבּ֣וֹרֵי חַ֔יִל אַנְשֵׁ֥י שֵׁמ֖וֹת לְבֵ֥ית אֲבוֹתָֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de los hijos de Efráyim: veinte mil ochocientos, hombres valientes de fuerza, varones de renombre en la casa de sus padres."
     },
     {
       "num": 32,
       "he": "וּמֵֽחֲצִי֙ מַטֵּ֣ה מְנַשֶּׁ֔ה שְׁמוֹנָ֥ה עָשָׂ֖ר אָ֑לֶף אֲשֶׁ֤ר נִקְּבוּ֙ בְּשֵׁמ֔וֹת לָב֖וֹא לְהַמְלִ֥יךְ אֶת־דָּוִֽיד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de la media tribu de Menashé: dieciocho mil, que fueron designados por sus nombres para venir a proclamar rey a David."
     },
     {
       "num": 33,
       "he": "וּמִבְּנֵ֣י יִשָּׂשכָ֗ר יוֹדְעֵ֤י בִינָה֙ לַֽעִתִּ֔ים לָדַ֖עַת מַה־יַּעֲשֶׂ֣ה יִשְׂרָאֵ֑ל רָאשֵׁיהֶ֣ם מָאתַ֔יִם וְכׇל־אֲחֵיהֶ֖ם עַל־פִּיהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de los hijos de Yisajar, entendidos en los tiempos, para saber lo que Yisrael debía hacer: doscientos jefes, y todos sus hermanos bajo su mando."
     },
     {
       "num": 34,
       "he": "מִזְּבֻל֞וּן יוֹצְאֵ֣י צָבָ֗א עֹרְכֵ֧י מִלְחָמָ֛ה בְּכׇל־כְּלֵ֥י מִלְחָמָ֖ה חֲמִשִּׁ֣ים אָ֑לֶף וְלַעֲדֹ֖ר בְּלֹא־לֵ֥ב וָלֵֽב׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "De Zevulún, los que salían al ejército, dispuestos para la guerra con toda clase de armas de guerra: cincuenta mil, y para disponerse en formación con corazón íntegro."
     },
     {
       "num": 35,
       "he": "וּמִנַּפְתָּלִ֖י שָׂרִ֣ים אָ֑לֶף וְעִמָּהֶם֙ בְּצִנָּ֣ה וַחֲנִ֔ית שְׁלֹשִׁ֥ים וְשִׁבְעָ֖ה אָֽלֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de Naftalí: mil capitanes, y con ellos treinta y siete mil con escudo y lanza."
     },
     {
       "num": 36,
       "he": "וּמִן־הַדָּנִי֙ עֹרְכֵ֣י מִלְחָמָ֔ה עֶשְׂרִֽים־וּשְׁמוֹנָ֥ה אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de los danitas, dispuestos para la guerra: veintiocho mil seiscientos."
     },
     {
       "num": 37,
       "he": "וּמֵאָשֵׁ֗ר יוֹצְאֵ֥י צָבָ֛א לַעֲרֹ֥ךְ מִלְחָמָ֖ה אַרְבָּעִ֥ים אָֽלֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y de Asher, los que salían al ejército para disponer la guerra: cuarenta mil."
     },
     {
       "num": 38,
       "he": "וּמֵעֵ֣בֶר לַ֠יַּרְדֵּ֠ן מִן־הָראוּבֵנִ֨י וְהַגָּדִ֜י וַחֲצִ֣י&thinsp;<b>׀</b> שֵׁ֣בֶט מְנַשֶּׁ֗ה בְּכֹל֙ כְּלֵי֙ צְבָ֣א מִלְחָמָ֔ה מֵאָ֥ה וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-      "es": ""
+      "es": "Y del otro lado del Yardén, de los reuvenitas, los gaditas y la media tribu de Menashé, con toda clase de armas de ejército de guerra: ciento veinte mil."
     },
     {
       "num": 39,
       "he": "כׇּל־אֵ֜לֶּה אַנְשֵׁ֣י מִלְחָמָה֮ עֹדְרֵ֣י מַעֲרָכָה֒ בְּלֵבָ֤ב שָׁלֵם֙ בָּ֣אוּ חֶבְר֔וֹנָה לְהַמְלִ֥יךְ אֶת־דָּוִ֖יד עַל־כׇּל־יִשְׂרָאֵ֑ל וְ֠גַ֠ם כׇּל־שֵׁרִ֧ית יִשְׂרָאֵ֛ל לֵ֥ב אֶחָ֖ד לְהַמְלִ֥יךְ אֶת־דָּוִֽיד׃",
-      "es": ""
+      "es": "Todos estos hombres de guerra, que se disponían en formación, con corazón íntegro vinieron a Jevrón para proclamar rey a David sobre todo Yisrael; y también todo el resto de Yisrael era de un solo corazón para proclamar rey a David."
     },
     {
       "num": 40,
       "he": "וַיִּֽהְיוּ־שָׁ֤ם עִם־דָּוִיד֙ יָמִ֣ים שְׁלוֹשָׁ֔ה אֹכְלִ֖ים וְשׁוֹתִ֑ים כִּי־הֵכִ֥ינוּ לָהֶ֖ם אֲחֵיהֶֽם׃",
-      "es": ""
+      "es": "Y estuvieron allí con David tres días, comiendo y bebiendo, pues sus hermanos les habían preparado provisiones."
     },
     {
       "num": 41,
       "he": "וְגַ֣ם הַקְּרֽוֹבִים־אֲ֠לֵיהֶ֠ם עַד־יִשָּׂשכָ֨ר וּזְבֻל֜וּן וְנַפְתָּלִ֗י מְבִיאִ֣ים לֶ֡חֶם בַּחֲמוֹרִ֣ים וּבַגְּמַלִּ֣ים וּבַפְּרָדִ֣ים&thinsp;<small>׀</small>&thinsp;וּֽבַבָּקָ֡ר מַאֲכָ֡ל קֶ֠מַח דְּבֵלִ֨ים וְצִמּוּקִ֧ים וְיַיִן־וְשֶׁ֛מֶן וּבָקָ֥ר וְצֹ֖אן לָרֹ֑ב כִּ֥י שִׂמְחָ֖ה בְּיִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
-      "es": ""
+      "es": "Y también los que estaban cerca de ellos, hasta Yisajar, Zevulún y Naftalí, traían pan en asnos, en camellos, en mulos y en bueyes: provisiones de harina, tortas de higos, pasas de uva, vino, aceite, ganado vacuno y ovejas en abundancia, pues había alegría en Yisrael."
     }
   ]
 }
