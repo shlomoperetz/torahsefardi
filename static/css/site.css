@@ -369,6 +369,18 @@ nav.bottombar .bbtn {
 }
 .search-result-title { font-size: 15px; color: var(--muted); }
 
+/* ===== VISTA עב / ES ===== */
+.tnav-view {
+  opacity: 0.35;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+.tnav-view.active {
+  opacity: 1;
+  color: var(--accent);
+}
+
 /* ===== LANDING: ocultar toggles de vista en home ===== */
 body.is-landing .tnav-view-wrap {
   display: none;
