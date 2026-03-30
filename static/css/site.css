@@ -412,6 +412,7 @@ body.is-landing .tnav-view-wrap {
 }
 
 /* ===== TAMAÑO DE TEXTO: botón Aa en móvil ===== */
+.tnav-fontsize-wrap { display: contents; }
 .tnav-fs-mobile { display: none; position: relative; }
 .font-popover {
   display: none;
