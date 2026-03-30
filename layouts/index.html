@@ -1,11 +1,18 @@
 {{ define "main" }}
 <div class="landing-wrap">
 
-  <div class="landing-head">
-    <h1 class="landing-main-title" data-i18n="brand_title">Torah Sefardí</h1>
-    <p class="landing-desc" data-i18n="landing_desc">La Torá en hebreo con traducción al español sefardí</p>
+  <!-- ── Esta semana ─────────────────────────────────────────── -->
+  <div class="esta-semana" id="esta-semana">
+    <div class="esm-eyebrow">Parashá de esta semana</div>
+    <div class="esm-he" id="esm-he">פ</div>
+    <div class="esm-nombre" id="esm-nombre">—</div>
+    <div class="esm-actions">
+      <a href="/parashot/" id="esm-parasha-link" class="esm-btn esm-btn-main">Leer parashá</a>
+      <a href="/parashot/" id="esm-haftara-link" class="esm-btn esm-btn-sec">Haftará</a>
+    </div>
   </div>
 
+  <!-- ── Buscador ───────────────────────────────────────────── -->
   <div class="landing-search" onclick="openSearch()" role="button">
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.4;flex-shrink:0">
       <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
@@ -13,24 +20,7 @@
     <span data-i18n="search_ph">Buscar libro o capítulo…</span>
   </div>
 
-  <div class="landing-tiles">
-    <a href="/torah/bereshit/001/" class="landing-tile">
-      <div class="tile-icon">בְּרֵאשִׁית א</div>
-      <div class="tile-label" data-i18n="tile1_label">Empezar desde el principio</div>
-      <div class="tile-sub" data-i18n="tile1_sub">Bereshit 1:1 — En el principio…</div>
-    </a>
-    <a href="/parashot/" id="parasha-semana-tile" class="landing-tile landing-tile-parasha">
-      <div class="tile-icon tile-icon-parasha">פ</div>
-      <div class="tile-label" data-i18n="tile_parasha_label">Parashá de la semana</div>
-      <div class="tile-sub tile-sub-parasha" data-i18n="tile_parasha_sub">Las 54 porciones semanales</div>
-    </a>
-    <a href="/torah/" class="landing-tile">
-      <div class="tile-icon">התורה</div>
-      <div class="tile-label" data-i18n="tile2_label">Los cinco libros</div>
-      <div class="tile-sub" data-i18n="tile2_sub">Bereshit · Shemot · Vayikrá · Bamidbar · Devarim</div>
-    </a>
-  </div>
-
+  <!-- ── Secciones ─────────────────────────────────────────── -->
   <div class="landing-sections">
     {{ range sort site.Sections "Params.order" }}
     {{ if in (slice "torah" "neviim" "ketuvim") .Section }}

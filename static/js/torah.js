@@ -427,17 +427,17 @@ function highlightCurrentParasha(){
       card.appendChild(badge);
     }
   });
-  // Update landing tile
-  var tile=document.getElementById('parasha-semana-tile');
-  if(tile&&window.PARASHA_INFO&&PARASHA_INFO[slug]){
+  // Update "Esta semana" landing card
+  if(window.PARASHA_INFO&&PARASHA_INFO[slug]){
     var info=PARASHA_INFO[slug];
-    tile.href=info.url;
-    var icon=tile.querySelector('.tile-icon-parasha');
-    if(icon)icon.textContent=info.nombre_he;
-    var label=tile.querySelector('.tile-label');
-    if(label){label.removeAttribute('data-i18n');label.textContent='Parashá de esta semana';}
-    var sub=tile.querySelector('.tile-sub-parasha');
-    if(sub){sub.removeAttribute('data-i18n');sub.textContent='Parashat '+info.nombre;}
+    var elHe=document.getElementById('esm-he');
+    var elNombre=document.getElementById('esm-nombre');
+    var elParasha=document.getElementById('esm-parasha-link');
+    var elHaftara=document.getElementById('esm-haftara-link');
+    if(elHe)elHe.textContent=info.nombre_he;
+    if(elNombre)elNombre.textContent='Parashat '+info.nombre;
+    if(elParasha)elParasha.href=info.url;
+    if(elHaftara)elHaftara.href=info.url+'haftara/';
   }
 }
 
