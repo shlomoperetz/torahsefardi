@@ -16,6 +16,7 @@
   --he-font: "Noto Serif Hebrew", Georgia, serif;
   --ui-font: "Assistant", system-ui, sans-serif;
   --topbar-h: 52px;
+  --subbar-h: 34px;
   --bottombar-h: 56px;
 }
 
@@ -375,31 +376,52 @@ nav.bottombar .bbtn {
 }
 .search-result-title { font-size: 13px; color: var(--muted); line-height: 1.4; }
 
-/* ===== VISTA עב / ES — pill selector ===== */
-.tnav-view-wrap {
+/* ===== SUBBAR: selector de vista עב / ES ===== */
+.subbar {
+  position: sticky;
+  top: var(--topbar-h);
+  z-index: 190;
+  height: var(--subbar-h);
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
 }
+.subbar-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 var(--pad);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  direction: ltr;
+}
+body.is-landing .subbar { display: none; }
+html.lang-he .subbar { display: none; }
+
 .view-pill {
   display: flex;
   align-items: center;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 7px;
   overflow: hidden;
-  height: 28px;
+  height: 22px;
   font-family: var(--ui-font);
 }
 .vp-btn {
   border: none;
   background: transparent;
   font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
   color: var(--muted);
-  padding: 0 9px;
+  padding: 0 10px;
   cursor: pointer;
   height: 100%;
-  opacity: 0.45;
+  opacity: 0.5;
   transition: background .12s, color .12s, opacity .12s;
   -webkit-tap-highlight-color: transparent;
 }
@@ -412,10 +434,7 @@ nav.bottombar .bbtn {
   border-left: 1px solid var(--border);
 }
 
-/* ===== LANDING: ocultar toggles de vista en home ===== */
-body.is-landing .tnav-view-wrap {
-  display: none;
-}
+/* ===== LANDING: la subbar ya se oculta arriba ===== */
 
 /* ===== TAMAÑO DE TEXTO: botón Aa en móvil ===== */
 .tnav-fontsize-wrap { display: contents; }
