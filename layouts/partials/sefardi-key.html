@@ -15,14 +15,25 @@
   align-items: center;
   justify-content: center;
   box-shadow: 0 1px 8px rgba(212,175,55,0.15);
-  animation: sefardi-fadeIn 0.9s ease 0.5s both;
-  transition: transform 0.3s ease;
+  opacity: 0;
+  transform: scale(0.8) rotate(-15deg);
+  pointer-events: none;
+}
+.sefardi-key-trigger.sk-show {
+  animation: sefardi-fadeIn 0.9s ease forwards;
+  pointer-events: auto;
 }
 @keyframes sefardi-fadeIn {
   from { opacity: 0; transform: scale(0.8) rotate(-15deg); }
   to   { opacity: 1; transform: scale(1) rotate(0deg); }
 }
-.sefardi-key-trigger:hover { transform: scale(1.1) rotate(10deg); }
+.sefardi-key-trigger.sk-settled {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+  transition: transform 0.3s ease;
+}
+.sefardi-key-trigger.sk-settled:hover { transform: scale(1.1) rotate(10deg); }
 .sefardi-key-panel {
   position: absolute;
   bottom: 50px; right: 0;
@@ -120,20 +131,32 @@ html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
   var seen    = localStorage.getItem('sefardi_key_seen');
   var open    = false;
 
-  trigger.addEventListener('animationend', function() {
-    this.style.animation = 'none';
-    this.style.opacity   = '1';
-    this.style.transform = 'scale(1) rotate(0deg)';
-  }, { once: true });
-
   function openPanel()  { open = true;  panel.classList.add('open'); }
   function closePanel() { open = false; panel.classList.remove('open'); }
 
-  if (!seen) {
-    setTimeout(function() {
-      openPanel();
-      hubLink.classList.add('pulsing');
-    }, 900);
+  function showKey() {
+    trigger.classList.add('sk-show');
+    trigger.addEventListener('animationend', function() {
+      trigger.classList.remove('sk-show');
+      trigger.classList.add('sk-settled');
+    }, { once: true });
+    if (!seen) {
+      setTimeout(function() {
+        openPanel();
+        hubLink.classList.add('pulsing');
+      }, 900);
+    }
+  }
+
+  var sentinel = document.querySelector('footer');
+  if (sentinel && 'IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(entries) {
+      if (entries[0].isIntersecting) {
+        io.disconnect();
+        showKey();
+      }
+    }, { threshold: 0.8 });
+    io.observe(sentinel);
   }
 
   trigger.addEventListener('click', function(e) {
