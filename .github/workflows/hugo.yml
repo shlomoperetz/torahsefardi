@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://torahsefardi.com/"
+        run: hugo --minify --baseURL "https://torah.sefardi.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -12,31 +12,31 @@
     <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Torah Sefardí">
     <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:image" content="https://torahsefardi.com/favicon.png">
+    <meta property="og:image" content="https://torah.sefardi.com/favicon.png">
     <meta property="og:image:width" content="500">
     <meta property="og:image:height" content="500">
     <meta property="og:locale" content="es_ES">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Torah Sefardí">
     <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-    <meta name="twitter:image" content="https://torahsefardi.com/favicon.png">
+    <meta name="twitter:image" content="https://torah.sefardi.com/favicon.png">
     <meta name="author" content="Shlomo Peretz">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "Torah Sefardí",
-      "url": "https://torahsefardi.com",
+      "url": "https://torah.sefardi.com",
       "description": "{{ site.Params.description }}",
       "inLanguage": ["es", "he"],
       "author": {
         "@type": "Person",
         "name": "Shlomo Peretz",
-        "url": "https://shlomoperetz.com"
+        "url": "https://sefardi.com"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://torahsefardi.com/torah/",
+        "target": "https://torah.sefardi.com/torah/",
         "query-input": "required name=search_term_string"
       }
     }
@@ -66,7 +66,6 @@
 
         <div class="brand">
           <a href="/" class="brand-title" data-i18n="brand_title">Torah Sefardí</a>
-          <a class="brand-byline" href="https://shlomoperetz.com" target="_blank" rel="noopener">by Shlomo Peretz</a>
         </div>
 
         <div class="topbar-crumb" id="topbar-crumb"></div>
@@ -119,6 +118,7 @@
       </div>
     </div>
     </div><!-- /.site-header -->
+    {{ partial "network-bar.html" . }}
 
     <main class="main-content">
       <div class="page">
@@ -126,16 +126,16 @@
       </div>
       <footer>
         <p>
-          <a href="https://shlomoperetz.com" target="_blank" rel="noopener" class="footer-author">Por Shlomo Peretz →</a>
+          Editorial Sefardí · <a href="https://sefardi.com">sefardi.com</a>
         </p>
         <p>
           © {{ now.Year }}
           &nbsp;·&nbsp;
-          <a href="https://birkathamazonsefardi.com">birkathamazonsefardi.com</a>
+          <a href="https://tehilim.sefardi.com">Tehilim</a>
           &nbsp;·&nbsp;
-          <a href="https://tehilimsefardi.com">tehilimsefardi.com</a>
+          <a href="https://siddur.sefardi.com">Sidur</a>
           &nbsp;·&nbsp;
-          <a href="https://siddursefardi.com">siddursefardi.com</a>
+          <a href="https://birkat.sefardi.com">Birkat</a>
         </p>
       </footer>
     </main>
