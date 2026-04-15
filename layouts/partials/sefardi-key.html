@@ -1,11 +1,11 @@
 <style>
-.key-badge {
+.sefardi-key-badge {
   position: fixed;
   bottom: 28px;
   right: 28px;
   z-index: 9999;
 }
-.key-trigger {
+.sefardi-key-trigger {
   width: 38px; height: 38px;
   border-radius: 50%;
   border: 1px solid #e8d48a;
@@ -15,21 +15,15 @@
   align-items: center;
   justify-content: center;
   box-shadow: 0 1px 8px rgba(212,175,55,0.15);
-  opacity: 0;
-  animation: sefardi-fadeIn 0.9s ease 0.5s forwards;
-  transition: transform 0.3s ease, opacity 0.7s ease;
+  animation: sefardi-fadeIn 0.9s ease 0.5s both;
+  transition: transform 0.3s ease;
 }
 @keyframes sefardi-fadeIn {
   from { opacity: 0; transform: scale(0.8) rotate(-15deg); }
   to   { opacity: 1; transform: scale(1) rotate(0deg); }
 }
-.key-trigger.gone {
-  opacity: 0 !important;
-  transform: scale(0.8) !important;
-  pointer-events: none;
-}
-.key-trigger:hover { transform: scale(1.1) rotate(10deg); }
-.key-panel {
+.sefardi-key-trigger:hover { transform: scale(1.1) rotate(10deg); }
+.sefardi-key-panel {
   position: absolute;
   bottom: 50px; right: 0;
   background: #fff;
@@ -40,15 +34,17 @@
   box-shadow: 0 6px 24px rgba(212,175,55,0.12);
   pointer-events: none;
   opacity: 0;
-  transform: translateY(8px) scale(0.97);
-  transition: opacity 0.22s ease, transform 0.22s ease;
+  transform-origin: bottom right;
+  transform: scaleY(0.6) translateY(8px);
+  transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  overflow: hidden;
 }
-.key-panel.open {
+.sefardi-key-panel.open {
   opacity: 1;
-  transform: translateY(0) scale(1);
+  transform: scaleY(1) translateY(0);
   pointer-events: all;
 }
-.panel-link {
+.sefardi-panel-link {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -60,41 +56,37 @@
   border-bottom: 1px solid #f8f4ed;
   transition: color 0.15s, background 0.15s;
 }
-.panel-link:last-child { border-bottom: none; }
-.panel-link:hover { color: #d4af37; background: #fffdf7; }
-.panel-link.current { color: #ccc; pointer-events: none; font-style: italic; }
-.panel-link.hub {
+.sefardi-panel-link:last-child { border-bottom: none; }
+.sefardi-panel-link:hover { color: #d4af37; background: #fffdf7; }
+.sefardi-panel-link.current { color: #ccc; pointer-events: none; font-style: italic; }
+.sefardi-panel-link.hub {
   color: #d4af37;
   border-bottom: 1px solid #f0e8d0;
   margin-bottom: 2px;
 }
-.panel-link.hub:hover { color: #b8962e; background: #fffdf2; }
-@media (prefers-color-scheme: dark) {
-  .key-trigger { background: #1a1a1a; border-color: #3a3020; }
-  .key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
-  .panel-link { color: #999; border-bottom-color: #222; }
-  .panel-link:hover { background: #1f1f10; color: #d4af37; }
-  .panel-link.hub { border-bottom-color: #2a2a1a; }
+.sefardi-panel-link.hub:hover { color: #b8962e; background: #fffdf2; }
+@keyframes sefardi-pulse {
+  0%, 100% { box-shadow: none; }
+  50% { box-shadow: inset 0 0 0 1px rgba(212,175,55,0.3); background: #fffdf0; }
 }
-html.dark-mode .key-trigger { background: #1a1a1a; border-color: #3a3020; }
-html.dark-mode .key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
-html.dark-mode .panel-link { color: #999; border-bottom-color: #222; }
-html.dark-mode .panel-link:hover { background: #1f1f10; color: #d4af37; }
-html.dark-mode .panel-link.hub { border-bottom-color: #2a2a1a; }
+.sefardi-panel-link.hub.pulsing { animation: sefardi-pulse 1.8s ease 3; }
+@media (prefers-color-scheme: dark) {
+  .sefardi-key-trigger { background: #1a1a1a; border-color: #3a3020; }
+  .sefardi-key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.4); }
+  .sefardi-panel-link { color: #888; border-bottom-color: #222; }
+  .sefardi-panel-link:hover { background: #1f1f10; color: #d4af37; }
+  .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
+}
+html.dark-mode .sefardi-key-trigger { background: #1a1a1a; border-color: #3a3020; }
+html.dark-mode .sefardi-key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.4); }
+html.dark-mode .sefardi-panel-link { color: #888; border-bottom-color: #222; }
+html.dark-mode .sefardi-panel-link:hover { background: #1f1f10; color: #d4af37; }
+html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
 </style>
 
-<div class="key-badge">
-  <button class="key-trigger" id="sefardi-key-trigger">
-    <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
-      stroke="#d4af37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-      <circle cx="8" cy="8" r="4"/>
-      <line x1="12" y1="8" x2="20" y2="8"/>
-      <line x1="18" y1="8" x2="18" y2="11"/>
-      <line x1="20" y1="8" x2="20" y2="12"/>
-    </svg>
-  </button>
-  <div class="key-panel" id="sefardi-key-panel">
-    <a href="https://sefardi.com" class="panel-link hub">
+<div class="sefardi-key-badge" id="sefardi-key-badge">
+  <div class="sefardi-key-panel" id="sefardi-key-panel">
+    <a href="https://sefardi.com" class="sefardi-panel-link hub" id="sefardi-hub-link">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none"
         stroke="#d4af37" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="8" cy="8" r="4"/>
@@ -104,43 +96,54 @@ html.dark-mode .panel-link.hub { border-bottom-color: #2a2a1a; }
       </svg>
       sefardi.com
     </a>
-    <a href="https://tehilim.sefardi.com" class="panel-link">Tehilim</a>
-    <a href="https://torah.sefardi.com" class="panel-link current">Torah</a>
-    <a href="https://siddur.sefardi.com" class="panel-link">Sidur</a>
-    <a href="https://birkat.sefardi.com" class="panel-link">Birkat</a>
+    <a href="https://tehilim.sefardi.com" class="sefardi-panel-link">Tehilim</a>
+    <a href="https://torah.sefardi.com" class="sefardi-panel-link current">Torah</a>
+    <a href="https://siddur.sefardi.com" class="sefardi-panel-link">Sidur</a>
+    <a href="https://birkat.sefardi.com" class="sefardi-panel-link">Birkat</a>
   </div>
+  <button class="sefardi-key-trigger" id="sefardi-key-trigger" title="Ecosistema Sefardí">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+      stroke="#d4af37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="8" cy="8" r="4"/>
+      <line x1="12" y1="8" x2="20" y2="8"/>
+      <line x1="18" y1="8" x2="18" y2="11"/>
+      <line x1="20" y1="8" x2="20" y2="12"/>
+    </svg>
+  </button>
 </div>
 
 <script>
-(function () {
+(function() {
   var trigger = document.getElementById('sefardi-key-trigger');
   var panel   = document.getElementById('sefardi-key-panel');
-  if (!trigger || !panel) return;
+  var hubLink = document.getElementById('sefardi-hub-link');
+  var seen    = localStorage.getItem('sefardi_key_seen');
+  var open    = false;
 
-  if (localStorage.getItem('sefardi_key_seen')) {
-    trigger.classList.add('gone');
+  function openPanel()  { open = true;  panel.classList.add('open'); }
+  function closePanel() { open = false; panel.classList.remove('open'); }
+
+  if (!seen) {
+    setTimeout(function() {
+      openPanel();
+      hubLink.classList.add('pulsing');
+    }, 900);
   }
 
-  var open = false;
-
-  trigger.addEventListener('click', function (e) {
+  trigger.addEventListener('click', function(e) {
     e.stopPropagation();
-    open = !open;
-    panel.classList.toggle('open', open);
+    if (open) {
+      closePanel();
+      if (!seen) { localStorage.setItem('sefardi_key_seen', 'true'); seen = 'true'; }
+    } else {
+      openPanel();
+    }
   });
 
-  window.addEventListener('scroll', function () {
-    trigger.classList.add('gone');
-    panel.classList.remove('open');
-    open = false;
-    localStorage.setItem('sefardi_key_seen', 'true');
-  }, { once: true });
-
-  document.addEventListener('click', function (e) {
-    if (!e.target.closest('#sefardi-key-trigger') &&
-        !e.target.closest('#sefardi-key-panel')) {
-      open = false;
-      panel.classList.remove('open');
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('#sefardi-key-badge') && open) {
+      closePanel();
+      if (!seen) { localStorage.setItem('sefardi_key_seen', 'true'); seen = 'true'; }
     }
   });
 })();
