@@ -1,61 +1,37 @@
 <style>
+.sefardi-key-wrap {
+  text-align: center;
+  padding: 1rem 0 1.4rem;
+}
 .sefardi-key-badge {
-  position: fixed;
-  bottom: 24px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 9999;
-  opacity: 0;
-  pointer-events: none;
-}
-.sefardi-key-badge.sk-show {
-  animation: sefardi-rise 0.65s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
-  pointer-events: auto;
-}
-@keyframes sefardi-rise {
-  from { opacity: 0; transform: translateX(-50%) translateY(60px); }
-  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
-}
-.sefardi-key-badge.sk-settled {
-  opacity: 1;
-  transform: translateX(-50%);
-  pointer-events: auto;
+  position: relative;
+  display: inline-block;
 }
 .sefardi-key-trigger {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 12px 24px;
-  border-radius: 999px;
-  border: 1px solid #e2c96a;
-  background: #fffdf7;
+  background: none;
+  border: none;
   cursor: pointer;
-  box-shadow: 0 4px 24px rgba(212,175,55,0.25), 0 1px 4px rgba(0,0,0,0.06);
-  font-size: 15px;
-  font-family: inherit;
-  color: #b8962e;
-  font-weight: 500;
-  white-space: nowrap;
-  transition: box-shadow 0.2s ease, background 0.2s ease, transform 0.2s ease;
+  padding: 10px;
+  color: #d4af37;
+  opacity: 0;
+  display: block;
+  transition: opacity 0.5s ease;
 }
-.sefardi-key-trigger:hover {
-  background: #fffcf0;
-  box-shadow: 0 8px 36px rgba(212,175,55,0.4), 0 2px 6px rgba(0,0,0,0.08);
-  transform: translateY(-2px);
+.sefardi-key-trigger.sk-on {
+  opacity: 1;
+  animation: sefardi-pendulum 2.6s ease-in-out infinite;
+  transform-origin: center top;
 }
-.sefardi-key-trigger.sk-bob {
-  animation: sefardi-bob 1.5s ease 3;
+@keyframes sefardi-pendulum {
+  0%, 100% { transform: rotate(-13deg); }
+  50%       { transform: rotate(13deg); }
 }
-@keyframes sefardi-bob {
-  0%, 100% { transform: translateY(0); }
-  35%       { transform: translateY(-8px); }
-  65%       { transform: translateY(-5px); }
-}
+.sefardi-key-trigger:hover { opacity: 0.65; }
 .sefardi-key-panel {
   position: absolute;
-  bottom: calc(100% + 10px);
+  bottom: calc(100% + 6px);
   left: 50%;
-  transform: translateX(-50%) translateY(8px);
+  transform: translateX(-50%) translateY(6px);
   background: #fff;
   border: 1px solid #f0e8d0;
   border-radius: 12px;
@@ -66,6 +42,7 @@
   opacity: 0;
   transition: opacity 0.22s ease, transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
   overflow: hidden;
+  z-index: 9999;
 }
 .sefardi-key-panel.open {
   opacity: 1;
@@ -95,53 +72,51 @@
 }
 .sefardi-panel-link.hub:hover { color: #b8962e; background: #fffdf2; }
 @media (prefers-color-scheme: dark) {
-  .sefardi-key-trigger { background: #1c1a0e; border-color: #3a3018; color: #c9a84c; box-shadow: 0 4px 24px rgba(0,0,0,0.5), 0 1px 4px rgba(0,0,0,0.3); }
-  .sefardi-key-trigger:hover { background: #221e0e; box-shadow: 0 8px 36px rgba(0,0,0,0.6); }
+  .sefardi-key-trigger { color: #c9a84c; }
   .sefardi-key-panel { background: #1a1a12; border-color: #2a2a18; box-shadow: 0 8px 36px rgba(0,0,0,0.5); }
   .sefardi-panel-link { color: #888; border-bottom-color: #252510; }
   .sefardi-panel-link:hover { background: #1f1f10; color: #d4af37; }
   .sefardi-panel-link.hub { color: #d4af37; border-bottom-color: #2a2a18; }
 }
-html.dark-mode .sefardi-key-trigger { background: #1c1a0e; border-color: #3a3018; color: #c9a84c; box-shadow: 0 4px 24px rgba(0,0,0,0.5), 0 1px 4px rgba(0,0,0,0.3); }
-html.dark-mode .sefardi-key-trigger:hover { background: #221e0e; box-shadow: 0 8px 36px rgba(0,0,0,0.6); }
+html.dark-mode .sefardi-key-trigger { color: #c9a84c; }
 html.dark-mode .sefardi-key-panel { background: #1a1a12; border-color: #2a2a18; box-shadow: 0 8px 36px rgba(0,0,0,0.5); }
 html.dark-mode .sefardi-panel-link { color: #888; border-bottom-color: #252510; }
 html.dark-mode .sefardi-panel-link:hover { background: #1f1f10; color: #d4af37; }
 html.dark-mode .sefardi-panel-link.hub { color: #d4af37; border-bottom-color: #2a2a18; }
 </style>
 
-<div class="sefardi-key-badge" id="sefardi-key-badge">
-  <div class="sefardi-key-panel" id="sefardi-key-panel">
-    <a href="https://sefardi.com" class="sefardi-panel-link hub">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none"
-        stroke="#d4af37" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<div class="sefardi-key-wrap">
+  <div class="sefardi-key-badge" id="sefardi-key-badge">
+    <div class="sefardi-key-panel" id="sefardi-key-panel">
+      <a href="https://sefardi.com" class="sefardi-panel-link hub">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none"
+          stroke="#d4af37" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="8" cy="8" r="4"/>
+          <line x1="12" y1="8" x2="20" y2="8"/>
+          <line x1="18" y1="8" x2="18" y2="11"/>
+          <line x1="20" y1="8" x2="20" y2="12"/>
+        </svg>
+        sefardi.com
+      </a>
+      <a href="https://tehilim.sefardi.com" class="sefardi-panel-link">Tehilim</a>
+      <a href="https://torah.sefardi.com" class="sefardi-panel-link current">Torah</a>
+      <a href="https://siddur.sefardi.com" class="sefardi-panel-link">Sidur</a>
+      <a href="https://birkat.sefardi.com" class="sefardi-panel-link">Birkat</a>
+    </div>
+    <button class="sefardi-key-trigger" id="sefardi-key-trigger" aria-label="Ecosistema Sefardí">
+      <svg width="36" height="36" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="8" cy="8" r="4"/>
         <line x1="12" y1="8" x2="20" y2="8"/>
         <line x1="18" y1="8" x2="18" y2="11"/>
         <line x1="20" y1="8" x2="20" y2="12"/>
       </svg>
-      sefardi.com
-    </a>
-    <a href="https://tehilim.sefardi.com" class="sefardi-panel-link">Tehilim</a>
-    <a href="https://torah.sefardi.com" class="sefardi-panel-link current">Torah</a>
-    <a href="https://siddur.sefardi.com" class="sefardi-panel-link">Sidur</a>
-    <a href="https://birkat.sefardi.com" class="sefardi-panel-link">Birkat</a>
+    </button>
   </div>
-  <button class="sefardi-key-trigger" id="sefardi-key-trigger" aria-label="Ecosistema Sefardí">
-    <svg width="21" height="21" viewBox="0 0 24 24" fill="none"
-      stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-      <circle cx="8" cy="8" r="4"/>
-      <line x1="12" y1="8" x2="20" y2="8"/>
-      <line x1="18" y1="8" x2="18" y2="11"/>
-      <line x1="20" y1="8" x2="20" y2="12"/>
-    </svg>
-    sefardi.com
-  </button>
 </div>
 
 <script>
 (function() {
-  var badge   = document.getElementById('sefardi-key-badge');
   var trigger = document.getElementById('sefardi-key-trigger');
   var panel   = document.getElementById('sefardi-key-panel');
   var open    = false;
@@ -149,27 +124,16 @@ html.dark-mode .sefardi-panel-link.hub { color: #d4af37; border-bottom-color: #2
   function openPanel()  { open = true;  panel.classList.add('open'); }
   function closePanel() { open = false; panel.classList.remove('open'); }
 
-  function showKey() {
-    badge.classList.add('sk-show');
-    badge.addEventListener('animationend', function() {
-      badge.classList.remove('sk-show');
-      badge.classList.add('sk-settled');
-      trigger.classList.add('sk-bob');
-      trigger.addEventListener('animationend', function() {
-        trigger.classList.remove('sk-bob');
-      }, { once: true });
-    }, { once: true });
-  }
-
-  var sentinel = document.querySelector('footer');
-  if (sentinel && 'IntersectionObserver' in window) {
+  if ('IntersectionObserver' in window) {
     var io = new IntersectionObserver(function(entries) {
       if (entries[0].isIntersecting) {
         io.disconnect();
-        showKey();
+        trigger.classList.add('sk-on');
       }
-    }, { threshold: 0.8 });
-    io.observe(sentinel);
+    }, { threshold: 0.5 });
+    io.observe(trigger);
+  } else {
+    trigger.classList.add('sk-on');
   }
 
   trigger.addEventListener('click', function(e) {

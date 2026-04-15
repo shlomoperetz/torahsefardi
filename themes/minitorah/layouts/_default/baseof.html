@@ -139,6 +139,8 @@
       </footer>
     </main>
 
+    {{ partial "sefardi-key.html" . }}
+
     <nav class="bottombar" aria-label="Navegación">
       <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/" data-i18n="nav_home">Inicio</a>
       <a class="bbtn {{ if in .RelPermalink "/torah/" }}active{{ end }}" href="/torah/" data-i18n="nav_torah">Torá</a>
@@ -162,6 +164,5 @@
 
     <script src="{{ "js/parasha-map.js" | relURL }}?v={{ now.Unix }}" defer></script>
     <script src="{{ "js/torah.js" | relURL }}?v={{ now.Unix }}" defer></script>
-    {{ partial "sefardi-key.html" . }}
   </body>
 </html>
