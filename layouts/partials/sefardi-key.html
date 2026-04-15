@@ -120,6 +120,12 @@ html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
   var seen    = localStorage.getItem('sefardi_key_seen');
   var open    = false;
 
+  trigger.addEventListener('animationend', function() {
+    this.style.animation = 'none';
+    this.style.opacity   = '1';
+    this.style.transform = 'scale(1) rotate(0deg)';
+  }, { once: true });
+
   function openPanel()  { open = true;  panel.classList.add('open'); }
   function closePanel() { open = false; panel.classList.remove('open'); }
 
