@@ -2,7 +2,8 @@
 .sefardi-key-badge {
   position: fixed;
   bottom: 28px;
-  right: 28px;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 9999;
 }
 .sefardi-key-trigger {
@@ -14,29 +15,40 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 1px 8px rgba(212,175,55,0.15);
+  box-shadow: 0 2px 10px rgba(212,175,55,0.2);
   opacity: 0;
-  transform: scale(0.8) rotate(-15deg);
+  transform: scale(0.7);
   pointer-events: none;
 }
 .sefardi-key-trigger.sk-show {
-  animation: sefardi-fadeIn 0.9s ease forwards;
+  animation: sefardi-appear 1.6s ease forwards;
   pointer-events: auto;
 }
-@keyframes sefardi-fadeIn {
-  from { opacity: 0; transform: scale(0.8) rotate(-15deg); }
-  to   { opacity: 1; transform: scale(1) rotate(0deg); }
+@keyframes sefardi-appear {
+  0%   { opacity: 0; transform: scale(0.6) rotate(-20deg); }
+  40%  { opacity: 1; transform: scale(1.05) rotate(2deg); }
+  52%  { transform: scale(1) rotate(-11deg); }
+  63%  { transform: scale(1) rotate(9deg); }
+  72%  { transform: scale(1) rotate(-6deg); }
+  80%  { transform: scale(1) rotate(4deg); }
+  88%  { transform: scale(1) rotate(-2deg); }
+  100% { transform: scale(1) rotate(0deg); }
 }
 .sefardi-key-trigger.sk-settled {
   opacity: 1;
   transform: none;
   pointer-events: auto;
-  transition: transform 0.3s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.sefardi-key-trigger.sk-settled:hover { transform: scale(1.1) rotate(10deg); }
+.sefardi-key-trigger.sk-settled:hover {
+  transform: scale(1.12);
+  box-shadow: 0 4px 16px rgba(212,175,55,0.4);
+}
 .sefardi-key-panel {
   position: absolute;
-  bottom: 50px; right: 0;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%) translateY(6px);
   background: #fff;
   border: 1px solid #f0e8d0;
   border-radius: 10px;
@@ -45,14 +57,12 @@
   box-shadow: 0 6px 24px rgba(212,175,55,0.12);
   pointer-events: none;
   opacity: 0;
-  transform-origin: bottom right;
-  transform: scaleY(0.6) translateY(8px);
-  transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  transition: opacity 0.25s ease, transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
   overflow: hidden;
 }
 .sefardi-key-panel.open {
   opacity: 1;
-  transform: scaleY(1) translateY(0);
+  transform: translateX(-50%) translateY(0);
   pointer-events: all;
 }
 .sefardi-panel-link {
@@ -76,11 +86,6 @@
   margin-bottom: 2px;
 }
 .sefardi-panel-link.hub:hover { color: #b8962e; background: #fffdf2; }
-@keyframes sefardi-pulse {
-  0%, 100% { box-shadow: none; }
-  50% { box-shadow: inset 0 0 0 1px rgba(212,175,55,0.3); background: #fffdf0; }
-}
-.sefardi-panel-link.hub.pulsing { animation: sefardi-pulse 1.8s ease 3; }
 @media (prefers-color-scheme: dark) {
   .sefardi-key-trigger { background: #1a1a1a; border-color: #3a3020; }
   .sefardi-key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.4); }
@@ -127,8 +132,6 @@ html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
 (function() {
   var trigger = document.getElementById('sefardi-key-trigger');
   var panel   = document.getElementById('sefardi-key-panel');
-  var hubLink = document.getElementById('sefardi-hub-link');
-  var seen    = localStorage.getItem('sefardi_key_seen');
   var open    = false;
 
   function openPanel()  { open = true;  panel.classList.add('open'); }
@@ -140,12 +143,6 @@ html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
       trigger.classList.remove('sk-show');
       trigger.classList.add('sk-settled');
     }, { once: true });
-    if (!seen) {
-      setTimeout(function() {
-        openPanel();
-        hubLink.classList.add('pulsing');
-      }, 900);
-    }
   }
 
   var sentinel = document.querySelector('footer');
@@ -161,19 +158,11 @@ html.dark-mode .sefardi-panel-link.hub { border-bottom-color: #2a2a1a; }
 
   trigger.addEventListener('click', function(e) {
     e.stopPropagation();
-    if (open) {
-      closePanel();
-      if (!seen) { localStorage.setItem('sefardi_key_seen', 'true'); seen = 'true'; }
-    } else {
-      openPanel();
-    }
+    if (open) { closePanel(); } else { openPanel(); }
   });
 
   document.addEventListener('click', function(e) {
-    if (!e.target.closest('#sefardi-key-badge') && open) {
-      closePanel();
-      if (!seen) { localStorage.setItem('sefardi_key_seen', 'true'); seen = 'true'; }
-    }
+    if (!e.target.closest('#sefardi-key-badge') && open) { closePanel(); }
   });
 })();
 </script>
