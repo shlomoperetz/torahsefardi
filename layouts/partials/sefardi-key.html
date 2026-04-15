@@ -1,0 +1,147 @@
+<style>
+.key-badge {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  z-index: 9999;
+}
+.key-trigger {
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  border: 1px solid #e8d48a;
+  background: #fffdf7;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 8px rgba(212,175,55,0.15);
+  opacity: 0;
+  animation: sefardi-fadeIn 0.9s ease 0.5s forwards;
+  transition: transform 0.3s ease, opacity 0.7s ease;
+}
+@keyframes sefardi-fadeIn {
+  from { opacity: 0; transform: scale(0.8) rotate(-15deg); }
+  to   { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+.key-trigger.gone {
+  opacity: 0 !important;
+  transform: scale(0.8) !important;
+  pointer-events: none;
+}
+.key-trigger:hover { transform: scale(1.1) rotate(10deg); }
+.key-panel {
+  position: absolute;
+  bottom: 50px; right: 0;
+  background: #fff;
+  border: 1px solid #f0e8d0;
+  border-radius: 10px;
+  padding: 8px 0;
+  min-width: 165px;
+  box-shadow: 0 6px 24px rgba(212,175,55,0.12);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(8px) scale(0.97);
+  transition: opacity 0.22s ease, transform 0.22s ease;
+}
+.key-panel.open {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: all;
+}
+.panel-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: #777;
+  text-decoration: none;
+  font-family: inherit;
+  padding: 9px 18px;
+  border-bottom: 1px solid #f8f4ed;
+  transition: color 0.15s, background 0.15s;
+}
+.panel-link:last-child { border-bottom: none; }
+.panel-link:hover { color: #d4af37; background: #fffdf7; }
+.panel-link.current { color: #ccc; pointer-events: none; font-style: italic; }
+.panel-link.hub {
+  color: #d4af37;
+  border-bottom: 1px solid #f0e8d0;
+  margin-bottom: 2px;
+}
+.panel-link.hub:hover { color: #b8962e; background: #fffdf2; }
+@media (prefers-color-scheme: dark) {
+  .key-trigger { background: #1a1a1a; border-color: #3a3020; }
+  .key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
+  .panel-link { color: #999; border-bottom-color: #222; }
+  .panel-link:hover { background: #1f1f10; color: #d4af37; }
+  .panel-link.hub { border-bottom-color: #2a2a1a; }
+}
+html.dark-mode .key-trigger { background: #1a1a1a; border-color: #3a3020; }
+html.dark-mode .key-panel { background: #1a1a1a; border-color: #2a2a1a; box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
+html.dark-mode .panel-link { color: #999; border-bottom-color: #222; }
+html.dark-mode .panel-link:hover { background: #1f1f10; color: #d4af37; }
+html.dark-mode .panel-link.hub { border-bottom-color: #2a2a1a; }
+</style>
+
+<div class="key-badge">
+  <button class="key-trigger" id="sefardi-key-trigger">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+      stroke="#d4af37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="8" cy="8" r="4"/>
+      <line x1="12" y1="8" x2="20" y2="8"/>
+      <line x1="18" y1="8" x2="18" y2="11"/>
+      <line x1="20" y1="8" x2="20" y2="12"/>
+    </svg>
+  </button>
+  <div class="key-panel" id="sefardi-key-panel">
+    <a href="https://sefardi.com" class="panel-link hub">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none"
+        stroke="#d4af37" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="8" cy="8" r="4"/>
+        <line x1="12" y1="8" x2="20" y2="8"/>
+        <line x1="18" y1="8" x2="18" y2="11"/>
+        <line x1="20" y1="8" x2="20" y2="12"/>
+      </svg>
+      sefardi.com
+    </a>
+    <a href="https://tehilim.sefardi.com" class="panel-link">Tehilim</a>
+    <a href="https://torah.sefardi.com" class="panel-link current">Torah</a>
+    <a href="https://siddur.sefardi.com" class="panel-link">Sidur</a>
+    <a href="https://birkat.sefardi.com" class="panel-link">Birkat</a>
+  </div>
+</div>
+
+<script>
+(function () {
+  var trigger = document.getElementById('sefardi-key-trigger');
+  var panel   = document.getElementById('sefardi-key-panel');
+  if (!trigger || !panel) return;
+
+  if (localStorage.getItem('sefardi_key_seen')) {
+    trigger.classList.add('gone');
+  }
+
+  var open = false;
+
+  trigger.addEventListener('click', function (e) {
+    e.stopPropagation();
+    open = !open;
+    panel.classList.toggle('open', open);
+  });
+
+  window.addEventListener('scroll', function () {
+    trigger.classList.add('gone');
+    panel.classList.remove('open');
+    open = false;
+    localStorage.setItem('sefardi_key_seen', 'true');
+  }, { once: true });
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('#sefardi-key-trigger') &&
+        !e.target.closest('#sefardi-key-panel')) {
+      open = false;
+      panel.classList.remove('open');
+    }
+  });
+})();
+</script>

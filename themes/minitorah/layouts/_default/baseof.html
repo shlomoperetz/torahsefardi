@@ -118,7 +118,6 @@
       </div>
     </div>
     </div><!-- /.site-header -->
-    {{ partial "network-bar.html" . }}
 
     <main class="main-content">
       <div class="page">
@@ -163,5 +162,6 @@
 
     <script src="{{ "js/parasha-map.js" | relURL }}?v={{ now.Unix }}" defer></script>
     <script src="{{ "js/torah.js" | relURL }}?v={{ now.Unix }}" defer></script>
+    {{ partial "sefardi-key.html" . }}
   </body>
 </html>
